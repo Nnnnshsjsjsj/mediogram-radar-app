@@ -1,0 +1,40 @@
+{
+ "updated": "2026-07-03T22:48:41Z",
+ "day": "2026-07-03",
+ "counts": {
+  "new_leads": 0,
+  "hot": 0,
+  "warm": 0,
+  "funding": 3
+ },
+ "leads": [],
+ "funding": [
+  {
+   "company": "Jupiter Endovascular",
+   "amount": "$40M+ Series B",
+   "what": "Endovascular devices for cardiovascular interventions",
+   "fit": "yes - direct competitor in cardiovascular device space where Mediogram runs trials; potential partnership, acquisition target, or trial collaboration opportunity",
+   "angle": "Well-funded endovascular competitor raising beyond target signals market confidence and potential M&A/partnership interest in Eastern European trial networks.",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRzhDSUcwVWswN05UR3dkbjVQWU1jVUdQZElfd01tTUFKdmtON2hRdTJTNGtLOEhxODdoclc0UEk2MnJscHFMZllNYUNMdjFQNDN1MjVsUWs5ck40OGdWLUVMUjZUdkpUeldZRE1IcHFuR1FVMEJPR0lZLVNrT2J6VlpnOGx5QUM1RnNid3NreXZEWERmVVBBcFFPMlE2Yk0yZGZzYzdBNHJUVjQ0YVRfRy1QdWF1Qi13MVMyODhHTUxtdjFmczdyNURnd3VraDlLX05OWkNySUhTX1FveG5VUWgtLUg?oc=5",
+   "source": "Business Wire"
+  },
+  {
+   "company": "Field Medical",
+   "amount": "$40M Series A",
+   "what": "Pulsed field ablation (PFA) technology for cardiac arrhythmia treatment",
+   "fit": "yes - PFA is a next-gen ablation modality for AF/arrhythmia trials; Mediogram runs CV device trials in Eastern Europe where PFA adoption is growing",
+   "angle": "Emerging ablation technology that could represent new trial opportunities or competitive landscape shift in cardiac electrophysiology studies",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0yWjdsUktMYzRLQzc2ZVJYNlU2elR5ZE5reTNnQksxb2QzMV9hNlE2Q3lVOXFZT1QtTGg0TEdKbzNKQ29oYkFNcTFwU2stbDVtMG9CcDZqeE51RWR0RElTV3BmUm4tX2tVOFZ0Y1JB?oc=5",
+   "source": "MassDevice"
+  },
+  {
+   "company": "Atraverse Medical",
+   "amount": "$29.4M (Series unknown)",
+   "what": "HOTWIRE™ platform for left-heart access innovation in cardiology procedures",
+   "fit": "maybe - relevant to cardiovascular space but unclear if applicable to trial operations in Eastern Europe; depends on whether they're seeking CRO partnerships or clinical trial sites",
+   "angle": "Cardiac access technology vendor expanding - potential partnership for advanced cardiac procedure trials or integration into trial protocols, but no direct CRO/site services overlap evident",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSE5CYlNORWl2OThhMlNjTkNMRFdTWGliY05MNU5adF9IRUlPem0xLUN0RElYWWpNcDRRMzRKZnRiU0ZiTkZVaEhzQ2JWN2RXMDd2ZlJ4WWNuVlF3MDFBZ3RRVUVhWGZuRjd6aHJ1TU5kSDBZUjVvelpTdm8tX3NqZzNDNDIwZWVpelU4?oc=5",
+   "source": "MedTech World"
+  }
+ ]
+}
