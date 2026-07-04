@@ -1,0 +1,465 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0C1626">
+<title>Mediogram · Lead Radar</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@600;700;800&family=Instrument+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+/* ============ TOKENS ============ */
+:root{
+  --paper:#F6F7F5;
+  --card:#FFFFFF;
+  --ink:#0C1626;
+  --ink-soft:#2A3A4E;
+  --pulse:#C2263B;
+  --pulse-soft:#FBEDEF;
+  --amber:#9A6A00;
+  --amber-soft:#FFF6E3;
+  --slate:#5C6B7A;
+  --slate-soft:#EEF1F4;
+  --open:#177245;
+  --open-soft:#E7F3EC;
+  --line:#E3E7EA;
+  --radius:14px;
+  --display:'Archivo',system-ui,sans-serif;
+  --body:'Instrument Sans',system-ui,sans-serif;
+  --mono:'IBM Plex Mono',ui-monospace,monospace;
+}
+
+/* ============ RESET / SCROLL SAFETY ============ */
+*{box-sizing:border-box;margin:0;padding:0}
+/* IMPORTANT: no height locks, no overflow:hidden on html/body.
+   The document itself scrolls — this is what un-freezes mobile. */
+html{scroll-behavior:smooth}
+body{
+  font-family:var(--body);
+  background:var(--paper);
+  color:var(--ink);
+  -webkit-font-smoothing:antialiased;
+  text-rendering:optimizeLegibility;
+  min-height:100dvh;
+}
+button{font:inherit;cursor:pointer;background:none;border:none;touch-action:manipulation}
+a{color:inherit}
+:focus-visible{outline:2px solid var(--pulse);outline-offset:2px;border-radius:6px}
+
+/* ============ HEADER ============ */
+header{
+  background:var(--ink);
+  color:#fff;
+  padding:calc(env(safe-area-inset-top,0px) + 20px) 20px 0;
+}
+.hd-top{
+  max-width:1100px;margin:0 auto;
+  display:flex;align-items:baseline;justify-content:space-between;gap:12px;
+}
+.wordmark{
+  font-family:var(--display);font-weight:800;font-size:clamp(20px,4.5vw,26px);
+  letter-spacing:.04em;text-transform:uppercase;
+}
+.wordmark em{font-style:normal;color:#FF5E70}
+.brand-sub{
+  display:block;font-family:var(--mono);font-weight:400;font-size:11px;
+  letter-spacing:.14em;color:#8FA0B5;text-transform:uppercase;margin-top:2px;
+}
+.updated{
+  font-family:var(--mono);font-size:11px;color:#8FA0B5;text-align:right;line-height:1.5;
+  white-space:nowrap;
+}
+.updated strong{display:block;color:#fff;font-weight:500}
+
+/* signature: ECG trace */
+.ecg-wrap{max-width:1100px;margin:14px auto 0}
+.ecg{width:100%;height:56px;display:block}
+.ecg path{
+  fill:none;stroke:var(--pulse);stroke-width:2;
+  stroke-linecap:round;stroke-linejoin:round;
+  filter:drop-shadow(0 0 6px rgba(255,94,112,.45));
+}
+@media (prefers-reduced-motion:no-preference){
+  .ecg path{stroke-dasharray:2400;stroke-dashoffset:2400;animation:draw 2.4s ease-out forwards}
+  @keyframes draw{to{stroke-dashoffset:0}}
+}
+
+/* stat strip */
+.stats{
+  max-width:1100px;margin:0 auto;
+  display:grid;grid-template-columns:repeat(4,1fr);
+  border-top:1px solid rgba(255,255,255,.12);
+}
+.stat{padding:16px 4px 20px;text-align:center}
+.stat + .stat{border-left:1px solid rgba(255,255,255,.12)}
+.stat b{font-family:var(--mono);font-weight:600;font-size:clamp(22px,6vw,32px);display:block;line-height:1}
+.stat span{font-family:var(--mono);font-size:10px;letter-spacing:.16em;color:#8FA0B5;text-transform:uppercase;margin-top:6px;display:block}
+.stat.hot b{color:#FF5E70}
+.stat.warm b{color:#F2B84B}
+
+/* ============ FILTER BAR ============ */
+.filters{
+  position:sticky;top:0;z-index:20;
+  background:color-mix(in srgb,var(--paper) 88%,transparent);
+  backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);
+  border-bottom:1px solid var(--line);
+}
+.filters-row{
+  max-width:1100px;margin:0 auto;
+  display:flex;gap:8px;padding:12px 20px;
+  overflow-x:auto;                       /* the ONLY horizontal scroller */
+  -webkit-overflow-scrolling:touch;
+  scrollbar-width:none;
+}
+.filters-row::-webkit-scrollbar{display:none}
+.chip{
+  flex:0 0 auto;
+  font-family:var(--mono);font-size:12px;font-weight:500;letter-spacing:.08em;
+  padding:8px 16px;border-radius:999px;
+  border:1px solid var(--line);background:var(--card);color:var(--slate);
+  transition:background .18s ease,color .18s ease,border-color .18s ease,transform .12s ease;
+}
+.chip:active{transform:scale(.96)}
+.chip[aria-pressed="true"]{background:var(--ink);color:#fff;border-color:var(--ink)}
+.chip .dot{display:inline-block;width:7px;height:7px;border-radius:50%;margin-right:7px;vertical-align:1px}
+.chip[data-f="HOT"] .dot{background:var(--pulse)}
+.chip[data-f="WARM"] .dot{background:var(--amber)}
+.chip[data-f="WATCH"] .dot{background:var(--slate)}
+.chip[data-f="FUNDING"] .dot{background:var(--open)}
+.count-pill{font-size:10px;opacity:.65;margin-left:6px}
+
+/* ============ FEED ============ */
+main{max-width:1100px;margin:0 auto;padding:20px 20px calc(env(safe-area-inset-bottom,0px) + 48px)}
+.section-note{
+  font-family:var(--mono);font-size:11px;letter-spacing:.14em;text-transform:uppercase;
+  color:var(--slate);margin:4px 2px 16px;
+}
+.card{
+  position:relative;
+  background:var(--card);
+  border:1px solid var(--line);
+  border-radius:var(--radius);
+  padding:18px 18px 16px 22px;
+  margin-bottom:14px;
+  overflow:hidden;
+  animation:rise .35s ease both;
+}
+@media (prefers-reduced-motion:reduce){.card{animation:none}}
+@keyframes rise{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+.card::before{ /* tier pulse bar */
+  content:"";position:absolute;left:0;top:0;bottom:0;width:5px;background:var(--slate);
+}
+.card.hot::before{background:var(--pulse)}
+.card.warm::before{background:var(--amber)}
+
+.card-head{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+.score{font-family:var(--mono);font-weight:600;font-size:24px;line-height:1}
+.tier{
+  font-family:var(--mono);font-size:10px;font-weight:600;letter-spacing:.14em;
+  padding:4px 9px;border-radius:6px;
+}
+.hot .tier{background:var(--pulse-soft);color:var(--pulse)}
+.warm .tier{background:var(--amber-soft);color:var(--amber)}
+.watch .tier{background:var(--slate-soft);color:var(--slate)}
+.posted{margin-left:auto;font-family:var(--mono);font-size:11px;color:var(--slate)}
+
+.sponsor{
+  font-family:var(--display);font-weight:700;font-size:clamp(17px,4vw,20px);
+  letter-spacing:.01em;margin-top:10px;
+}
+.trial-title{font-size:13.5px;color:var(--ink-soft);margin-top:3px;line-height:1.45}
+.summary{font-size:14px;line-height:1.55;color:var(--ink-soft);margin-top:10px}
+
+.tags{display:flex;flex-wrap:wrap;gap:6px;margin-top:12px}
+.tag{
+  font-family:var(--mono);font-size:11px;
+  padding:4px 10px;border-radius:6px;
+  background:var(--slate-soft);color:var(--slate);
+}
+.tag.open{background:var(--open-soft);color:var(--open)}
+
+/* outreach — native <details>, no JS needed to expand */
+details.plan{margin-top:12px;border-top:1px dashed var(--line);padding-top:10px}
+details.plan summary{
+  list-style:none;display:flex;align-items:center;gap:8px;
+  font-family:var(--mono);font-size:12px;font-weight:500;color:var(--ink);
+  cursor:pointer;user-select:none;padding:4px 0;
+}
+details.plan summary::-webkit-details-marker{display:none}
+details.plan summary::before{
+  content:"▸";color:var(--pulse);transition:transform .2s ease;
+}
+details.plan[open] summary::before{transform:rotate(90deg)}
+.plan-grid{display:grid;gap:8px;margin-top:10px;font-size:13.5px;line-height:1.5}
+.plan-grid dt{font-family:var(--mono);font-size:10px;letter-spacing:.12em;text-transform:uppercase;color:var(--slate)}
+.plan-grid dd{color:var(--ink-soft)}
+.opener-box{
+  background:var(--paper);border:1px solid var(--line);border-radius:10px;
+  padding:12px;font-size:13.5px;line-height:1.55;color:var(--ink-soft);
+}
+.actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px}
+.btn{
+  font-family:var(--mono);font-size:12px;font-weight:500;
+  padding:9px 14px;border-radius:9px;border:1px solid var(--line);
+  background:var(--card);color:var(--ink);
+  display:inline-flex;align-items:center;gap:6px;
+  transition:transform .12s ease,background .15s ease;text-decoration:none;
+}
+.btn:active{transform:scale(.96)}
+.btn.primary{background:var(--ink);color:#fff;border-color:var(--ink)}
+.btn.copied{background:var(--open-soft);color:var(--open);border-color:var(--open)}
+
+/* funding cards */
+.fund .amount{font-family:var(--mono);font-weight:600;color:var(--open)}
+
+/* ============ EMPTY STATE ============ */
+.empty{
+  text-align:center;padding:56px 24px;
+  border:1px dashed var(--line);border-radius:var(--radius);background:var(--card);
+}
+.empty svg{width:180px;height:44px;margin-bottom:16px}
+.empty svg path{fill:none;stroke:var(--slate);stroke-width:2;stroke-linecap:round;opacity:.6}
+.empty h3{font-family:var(--display);font-weight:700;font-size:16px}
+.empty p{font-size:13.5px;color:var(--slate);margin-top:6px;line-height:1.5}
+
+/* skeleton loading */
+.skel{height:120px;border-radius:var(--radius);margin-bottom:14px;
+  background:linear-gradient(90deg,var(--slate-soft) 25%,#fff 50%,var(--slate-soft) 75%);
+  background-size:200% 100%;animation:shimmer 1.2s linear infinite}
+@media (prefers-reduced-motion:reduce){.skel{animation:none;background:var(--slate-soft)}}
+@keyframes shimmer{to{background-position:-200% 0}}
+
+@media (min-width:760px){
+  .stats{grid-template-columns:repeat(4,1fr)}
+  main{padding-top:28px}
+}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="hd-top">
+    <div>
+      <div class="wordmark">Lead <em>Radar</em></div>
+      <span class="brand-sub">Mediogram · CV Trials Intelligence</span>
+    </div>
+    <div class="updated"><strong id="upd-time">—</strong>last sweep</div>
+  </div>
+  <div class="ecg-wrap"><svg class="ecg" id="ecg" viewBox="0 0 1100 56" preserveAspectRatio="none" aria-hidden="true"><path id="ecg-path" d=""/></svg></div>
+  <div class="stats">
+    <div class="stat hot"><b id="s-hot">–</b><span>Hot</span></div>
+    <div class="stat warm"><b id="s-warm">–</b><span>Warm</span></div>
+    <div class="stat"><b id="s-new">–</b><span>New today</span></div>
+    <div class="stat"><b id="s-fund">–</b><span>Funding</span></div>
+  </div>
+</header>
+
+<nav class="filters" aria-label="Lead filters">
+  <div class="filters-row" id="filters">
+    <button class="chip" data-f="HOT" aria-pressed="true"><span class="dot"></span>HOT<span class="count-pill" id="c-hot"></span></button>
+    <button class="chip" data-f="WARM" aria-pressed="false"><span class="dot"></span>WARM<span class="count-pill" id="c-warm"></span></button>
+    <button class="chip" data-f="WATCH" aria-pressed="false"><span class="dot"></span>WATCH<span class="count-pill" id="c-watch"></span></button>
+    <button class="chip" data-f="FUNDING" aria-pressed="false"><span class="dot"></span>FUNDING<span class="count-pill" id="c-fund"></span></button>
+    <button class="chip" data-f="ALL" aria-pressed="false">ALL</button>
+  </div>
+</nav>
+
+<main>
+  <p class="section-note" id="note">Showing priority leads</p>
+  <div id="feed"><div class="skel"></div><div class="skel"></div><div class="skel"></div></div>
+</main>
+
+<script>
+(function(){
+"use strict";
+const FEED_URL  = "out/latest.json";
+const STATS_URL = "out/stats.json";
+const $ = id => document.getElementById(id);
+let DATA = null, FILTER = "HOT";
+
+/* ---------- utils ---------- */
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c =>
+  ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+
+function relTime(iso){
+  if(!iso) return "—";
+  const d = new Date(iso), diff = (Date.now() - d) / 6e4;
+  if(isNaN(diff)) return "—";
+  if(diff < 60)   return Math.max(1, Math.round(diff)) + " min ago";
+  if(diff < 1440) return Math.round(diff/60) + " h ago";
+  return Math.round(diff/1440) + " d ago";
+}
+
+/* ---------- signature ECG trace from stats history ---------- */
+function drawECG(history){
+  const W=1100, H=56, mid=H*0.62;
+  const vals = (history && history.length ? history : [{new_leads:1}])
+               .map(h => h.new_leads || 0);
+  const max = Math.max(...vals, 1);
+  const beats = Math.max(vals.length, 6);
+  const seg = W / beats;
+  let d = `M0 ${mid}`;
+  vals.forEach((v,i)=>{
+    const x = i*seg, amp = 6 + (v/max)*34;
+    d += ` L${(x+seg*0.30).toFixed(1)} ${mid}`
+       + ` L${(x+seg*0.42).toFixed(1)} ${(mid+6).toFixed(1)}`
+       + ` L${(x+seg*0.52).toFixed(1)} ${(mid-amp).toFixed(1)}`
+       + ` L${(x+seg*0.62).toFixed(1)} ${(mid+9).toFixed(1)}`
+       + ` L${(x+seg*0.74).toFixed(1)} ${mid}`;
+  });
+  d += ` L${W} ${mid}`;
+  $("ecg-path").setAttribute("d", d);
+}
+
+/* ---------- rendering ---------- */
+function leadCard(d){
+  const cls  = (d.tier||"WATCH").toLowerCase();
+  const tags = [];
+  if((d.status||"").includes("NOT_YET")) tags.push('<span class="tag open">Sites still open</span>');
+  else if(d.status) tags.push(`<span class="tag">${esc(d.status.replaceAll("_"," ").toLowerCase())}</span>`);
+  tags.push(`<span class="tag">${esc(d.phase||"NA")}</span>`);
+  (d.countries&&d.countries.length ? d.countries.slice(0,3) : ["no sites listed"])
+    .forEach(c=>tags.push(`<span class="tag">${esc(c)}</span>`));
+
+  const rows = [];
+  if(d.channel) rows.push(`<div><dt>Channel</dt><dd>${esc(d.channel)}</dd></div>`);
+  if(d.who)     rows.push(`<div><dt>Who</dt><dd>${esc(d.who)}</dd></div>`);
+  if(d.angle)   rows.push(`<div><dt>Angle</dt><dd>${esc(d.angle)}</dd></div>`);
+  if(d.contact_name||d.email) rows.push(`<div><dt>Contact</dt><dd>${esc(d.contact_name||"")} ${d.email?"· "+esc(d.email):""} ${d.phone?"· "+esc(d.phone):""}</dd></div>`);
+  if(d.pi)      rows.push(`<div><dt>PI</dt><dd>${esc(d.pi)}</dd></div>`);
+
+  const plan = (rows.length || d.opener) ? `
+    <details class="plan">
+      <summary>Outreach plan</summary>
+      <dl class="plan-grid">${rows.join("")}</dl>
+      ${d.opener?`<div style="margin-top:10px"><dt style="font-family:var(--mono);font-size:10px;letter-spacing:.12em;text-transform:uppercase;color:var(--slate)">Opener</dt>
+        <div class="opener-box" style="margin-top:6px">${esc(d.opener)}</div></div>`:""}
+      <div class="actions">
+        ${d.email?`<a class="btn primary" href="mailto:${esc(d.email)}">✉ Email contact</a>`:""}
+        ${d.opener?`<button class="btn copy-btn" data-copy="${esc(d.opener)}">⧉ Copy opener</button>`:""}
+        <a class="btn" href="${esc(d.url)}" target="_blank" rel="noopener">Open trial ↗</a>
+      </div>
+    </details>` : `
+    <div class="actions">
+      <a class="btn" href="${esc(d.url)}" target="_blank" rel="noopener">Open trial ↗</a>
+    </div>`;
+
+  return `<article class="card ${cls}">
+    <div class="card-head">
+      <span class="score">${esc(d.score)}</span>
+      <span class="tier">${esc(d.tier)}</span>
+      <span class="posted">${esc(d.posted||"")}</span>
+    </div>
+    <h2 class="sponsor">${esc(d.sponsor||"Unknown sponsor")}</h2>
+    <p class="trial-title">${esc(d.title||"")}</p>
+    ${d.summary?`<p class="summary">${esc(d.summary)}</p>`:""}
+    <div class="tags">${tags.join("")}</div>
+    ${plan}
+  </article>`;
+}
+
+function fundCard(d){
+  return `<article class="card fund watch">
+    <div class="card-head">
+      <span class="tier" style="background:var(--open-soft);color:var(--open)">FUNDING</span>
+      ${d.amount?`<span class="amount">${esc(d.amount)}</span>`:""}
+      <span class="posted">${esc(d.source||"")}</span>
+    </div>
+    <h2 class="sponsor">${esc(d.company||"")}</h2>
+    ${d.what?`<p class="trial-title">${esc(d.what)}</p>`:""}
+    ${d.fit?`<p class="summary"><b>Fit:</b> ${esc(d.fit)}</p>`:""}
+    ${d.angle?`<p class="summary">${esc(d.angle)}</p>`:""}
+    <div class="actions"><a class="btn" href="${esc(d.link)}" target="_blank" rel="noopener">Read news ↗</a></div>
+  </article>`;
+}
+
+function emptyState(label){
+  const msg = {
+    HOT:["No hot leads right now","The radar sweeps daily. High-score sponsors will surface here first."],
+    WARM:["No warm leads yet","Leads scoring 65–84 land in this tier after the next sweep."],
+    WATCH:["Watch list is clear","Lower-priority leads will collect here as the radar scans."],
+    FUNDING:["No funding signals today","Fresh raises in cardiovascular devices appear here — future sponsors, early."],
+    ALL:["No leads yet","Run the radar workflow to populate the feed."]
+  }[label] || ["Nothing here yet",""];
+  return `<div class="empty">
+    <svg viewBox="0 0 180 44" aria-hidden="true"><path d="M0 26 H60 L70 26 74 12 80 34 86 26 H180"/></svg>
+    <h3>${msg[0]}</h3><p>${msg[1]}</p>
+  </div>`;
+}
+
+function render(){
+  const feed = $("feed"), note = $("note");
+  if(!DATA){ feed.innerHTML = emptyState("ALL"); return; }
+  let html = "", n = 0;
+
+  if(FILTER === "FUNDING"){
+    const items = DATA.funding || [];
+    html = items.map(fundCard).join("");
+    n = items.length;
+    note.textContent = n ? `${n} funding signals — future leads` : "";
+  }else{
+    let items = DATA.leads || [];
+    if(FILTER !== "ALL") items = items.filter(d => d.tier === FILTER);
+    html = items.map(leadCard).join("");
+    n = items.length;
+    note.textContent = n ? `${n} ${FILTER === "ALL" ? "" : FILTER.toLowerCase() + " "}leads, ranked by score` : "";
+  }
+  feed.innerHTML = html || emptyState(FILTER);
+
+  feed.querySelectorAll(".copy-btn").forEach(b=>{
+    b.addEventListener("click", async ()=>{
+      try{
+        await navigator.clipboard.writeText(b.dataset.copy);
+        b.classList.add("copied"); b.textContent = "✓ Copied";
+        setTimeout(()=>{ b.classList.remove("copied"); b.textContent = "⧉ Copy opener"; }, 1600);
+      }catch(e){}
+    });
+  });
+  window.scrollTo({top:0, behavior:"auto"});
+}
+
+/* ---------- filters ---------- */
+$("filters").addEventListener("click", e=>{
+  const chip = e.target.closest(".chip");
+  if(!chip) return;
+  FILTER = chip.dataset.f;
+  document.querySelectorAll(".chip").forEach(c =>
+    c.setAttribute("aria-pressed", String(c === chip)));
+  render();
+});
+
+/* ---------- boot ---------- */
+async function boot(){
+  try{
+    const r = await fetch(FEED_URL, {cache:"no-store"});
+    if(!r.ok) throw new Error(r.status);
+    DATA = await r.json();
+  }catch(e){ DATA = null; }
+
+  const c = (DATA && DATA.counts) || {};
+  const leads = (DATA && DATA.leads) || [];
+  const tally = t => leads.filter(d=>d.tier===t).length;
+  $("s-hot").textContent  = c.hot ?? tally("HOT");
+  $("s-warm").textContent = c.warm ?? tally("WARM");
+  $("s-new").textContent  = c.new_leads ?? leads.length;
+  $("s-fund").textContent = c.funding ?? ((DATA&&DATA.funding)||[]).length;
+  $("c-hot").textContent   = tally("HOT")   || "";
+  $("c-warm").textContent  = tally("WARM")  || "";
+  $("c-watch").textContent = tally("WATCH") || "";
+  $("c-fund").textContent  = ((DATA&&DATA.funding)||[]).length || "";
+  $("upd-time").textContent = relTime(DATA && DATA.updated);
+
+  try{
+    const r2 = await fetch(STATS_URL, {cache:"no-store"});
+    const st = r2.ok ? await r2.json() : null;
+    drawECG(st && st.history);
+  }catch(e){ drawECG(null); }
+
+  render();
+}
+boot();
+})();
+</script>
+</body>
+</html>
