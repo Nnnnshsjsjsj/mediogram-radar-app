@@ -1,11 +1,11 @@
 {
- "updated": "2026-07-05T08:49:14Z",
- "day": "2026-07-05",
+ "updated": "2026-07-06T10:05:38Z",
+ "day": "2026-07-06",
  "counts": {
   "new_leads": 0,
   "hot": 155,
   "warm": 243,
-  "funding": 7
+  "funding": 0
  },
  "leads": [
   {
@@ -8625,69 +8625,5 @@
    "url": "https://clinicaltrials.gov/study/NCT05015660"
   }
  ],
- "funding": [
-  {
-   "company": "XyloCor Therapeutics",
-   "amount": "$67.5M Series B",
-   "what": "Gene therapy for cardiovascular disease",
-   "fit": "yes—direct cardiovascular focus aligns with Mediogram's trial portfolio; gene therapy is advanced-therapy space Mediogram operates in",
-   "angle": "Well-funded gene therapy competitor in cardio space; potential partnership, trial collaboration, or market intelligence opportunity",
-   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQVE81THZqWm9Xd2tpdm5lVmRlUDg2LXVaWExpUG5DdzFILWtNWUU4MDFZWGcyZExyQWc0bXZZLWlCblR6OVFXZ25iT2N1WDhLVnV2eE9QQUFlaElHc1VxXzVBclJJWGctNmgzbUlJNWgyUG51eDBDMWZxOFhscjJkRl8waGN4bTZCUEwza001a0J4Qzd1Qm9SZ2N5NUhodWk3YjgxZU45MGNaeDRpWXVwMlM1Mmt5YUFsVTUza2ZQNXdKZFFpWlgyTU9UaU0tekZJUnVWcEkxTm55THdnOURueWJKeUdwUTNDeWcxWDBkdFVudktmeC1MSENvQjJIdUVDNWo0YnhnSFdXdkR5NklJ?oc=5",
-   "source": "BioSpace"
-  },
-  {
-   "company": "YolTech",
-   "amount": "$45M Series B or unknown",
-   "what": "CRISPR gene editing therapeutics",
-   "fit": "maybe - advanced therapy modality relevant to Mediogram's portfolio, but Chinese-based company with different geographic focus (not Eastern Europe)",
-   "angle": "CRISPR player advancing to Phase 3 signals market maturation in gene therapy, potential partnership/competitive intelligence value",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOb1JtRDFOcUx2dHFNajQ1R0Z4d2x0WnYwSUMzR1NYVUhZMzBHMGQtTGpVRmhfVnNDV2pYNE1fT1FoMXdXR1FkRjI1M21zMDFhWEhoX2luQjVsUERGaERBeWtkVGNwRDJlWEZmSjVrRHJCVk1OeVZZc3VKYnJ6bG5kR043b0o1SWFVSUlCakUtLWRQQ0FkTEdtcUh6WGlTQWNRSGNr?oc=5",
-   "source": "Endpoints News"
-  },
-  {
-   "company": "Kriya Therapeutics",
-   "amount": "$313M (Series not specified)",
-   "what": "Gene therapy for inherited retinal diseases and other genetic conditions",
-   "fit": "no - Kriya focuses on ophthalmology/retinal gene therapy; Mediogram specializes in cardiovascular and advanced-therapy trials in Eastern Europe with different therapeutic focus",
-   "angle": "Strong gene therapy fundraising validates advanced-therapy market but outside Mediogram's cardiovascular and regional expertise.",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQR21jNVowc1JQNUZXLTdZemtnb1hVSW9PWUphOWd4ajViRHR6clUzYzJkSVJZWVh6d1FZQ3hNQnNJRUdHREd6OW42VTAzMU4wblVDcU40eF9pelM4MlBlZExvazQ1UjhWOC1UVHItTmFNaEtHMUtXQ0swQ3hxZ0dXWA?oc=5",
-   "source": "BioSpace"
-  },
-  {
-   "company": "Braveheart Bio",
-   "amount": "$185M (stage unknown)",
-   "what": "Late-stage heart drug development",
-   "fit": "yes - cardiovascular focus aligns with Mediogram's core competency in CV device/advanced-therapy trials",
-   "angle": "Potential trial partnership or subcontracting opportunity for late-stage cardiac drug studies in Eastern Europe markets",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNlYzVzZ1b2Y5ZW1ReWk3bnBIODhPUGZoalZDNElxLTRkcDVFdEp3b0NvVExqTW15Z24xTkVOUWNaaWloTGRHTmFmMjBEOXZVc3lYelNxd1ZjaWRFaWMycFpaSElqbzR3cThIMUFfYTZ5aVFHVF9yeUN2a1FsY0ZvZmludy04cnlGTzdDb282MkJEeWlaZkRIZVRfV196NjJORGxsZnJJWkZuZFRzOVBn?oc=5",
-   "source": "The Business Journals"
-  },
-  {
-   "company": "Nuevocor",
-   "amount": "$45M Series B",
-   "what": "Mechanobiology-centered therapy for cardiomyopathy",
-   "fit": "maybe - cardiac focus aligns with our portfolio, but mechanobiology platform may differ from our trial model; worth monitoring for partnership/acquisition potential",
-   "angle": "Novel mechanobiology approach to cardiomyopathy could represent differentiated asset for Eastern European advanced-therapy trial expansion",
-   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQeHJiZVN2YmJmLUxmQ3ZZRVdJaUZzZFJwTGZQR2tVTG81MVEzdWJSNHotQ2xPRHFNMlFRQmNsRHFVdTZHdEs2UVBIMm02eEs3SzRSU0tXYlBMX1hZM1RON015SG1yaUlCdGNFTjBtVHFLcnVFajFFZ2tPcHV3cWctSk5abV9WanZ0eEVlZWFwVDAwQzRxYVZkUDZqdG5oeWdTV0RQbVJuRUdkbHMwalB2SXZtNVV2NVRVNTQzeHB0T1BRbGZpS1NYaEtrRHVNTXFrOUYtb091bjI4OURWRmotOG9ta0VIQjVMa1I5c1lfa0pJVk50eFJDSU53LXlmTjFkYV92NEZwQ2s1b25yMXNFMW9Ta2ltd3c?oc=5",
-   "source": "PR Newswire"
-  },
-  {
-   "company": "unknown",
-   "amount": "$190M",
-   "what": "Gene therapy or cardiovascular treatment based on historical gene discovery",
-   "fit": "maybe - cardiovascular focus aligns with Mediogram's expertise, but gene therapy differs from device/advanced-therapy trial model; depends on whether they run trials",
-   "angle": "Social media-discovered gene therapy company targeting heart disease could represent emerging competitor or partnership opportunity in cardiovascular space",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE10Z1RmZkMzVUw5S3V2NjZISThvQVRPN1ZoYUx5Y2xQVUtPNE5nNnNpQXZYeWFHZmloLW5vUnB0Z3dobFB3UGUxOG1obTNaa3dRLUdVZzI1Y1IzTF9DZnc2SjBaWWFRdkktcmh6SXJFUWV3QQ?oc=5",
-   "source": "STAT"
-  },
-  {
-   "company": "Celosia Therapeutics",
-   "amount": "$16.75M",
-   "what": "ALS gene therapy",
-   "fit": "no - focused on neurology/ALS, outside cardiovascular and advanced-therapy trial scope in Eastern Europe",
-   "angle": "Gene therapy funding trend, but therapeutic area mismatch with Mediogram's cardiovascular focus.",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYkxBQkRaU2dwd2x0ZlpXRlhXT2E3Qjhnam5nVzhEZDVoZTFCNDFtakY1VWN2T01iMU4yUW9oeU4zbmtTb0h3UEhWdWsyZkpESnkyUk9RZTFHSjh0VGVwNEFPdmFqRnNOdi1pUkVWcm1mNTBMeDlQSHc4c1dzU05IMGxyTnhnQ1VNYTY5NWJtclNfbzkxazZ5NDYwaWtwYVJrQTRab3BSTU9pTHhYc2V1OGJDYmFaaUpNWDBldg?oc=5",
-   "source": "Business News Australia"
-  }
- ]
+ "funding": []
 }
