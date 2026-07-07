@@ -1,11 +1,11 @@
 {
- "updated": "2026-07-06T10:05:38Z",
- "day": "2026-07-06",
+ "updated": "2026-07-07T09:31:54Z",
+ "day": "2026-07-07",
  "counts": {
-  "new_leads": 0,
-  "hot": 155,
-  "warm": 243,
-  "funding": 0
+  "new_leads": 7,
+  "hot": 157,
+  "warm": 242,
+  "funding": 2
  },
  "leads": [
   {
@@ -1180,6 +1180,61 @@
    "url": "https://clinicaltrials.gov/study/NCT07391722"
   },
   {
+   "nct": "NCT07685106",
+   "score": 90,
+   "tier": "HOT",
+   "sponsor": "CardioStory INC",
+   "title": "Evaluation of the Effectiveness of the Cardiostory Device in Distinguishing Heart Failure From Other Causes in Patients Presenting With Dyspnea.",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "countries": [
+    "Tunisia"
+   ],
+   "conditions": [
+    "Heart Failure",
+    "Dyspnea"
+   ],
+   "posted": "2026-07-06",
+   "summary": "",
+   "email": "",
+   "phone": "",
+   "contact_name": "",
+   "pi": "",
+   "channel": "",
+   "who": "",
+   "angle": "",
+   "opener": "",
+   "url": "https://clinicaltrials.gov/study/NCT07685106"
+  },
+  {
+   "nct": "NCT06360380",
+   "score": 90,
+   "tier": "HOT",
+   "sponsor": "AquaPass Medical Ltd.",
+   "title": "Reducing Fluid Overload in Heart Failure Patients Using a Non-invasive, Renal Independent System",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "countries": [
+    "Israel",
+    "United States"
+   ],
+   "conditions": [
+    "Chronic Heart Failure",
+    "CKD Stage 3"
+   ],
+   "posted": "2024-04-11",
+   "summary": "",
+   "email": "scott.feitell@rochesterregional.org",
+   "phone": "(585) 442 5320",
+   "contact_name": "Scott C Feitell, DO",
+   "pi": "Scott C Feitell, DO (Rochester Regional Health)",
+   "channel": "",
+   "who": "",
+   "angle": "",
+   "opener": "",
+   "url": "https://clinicaltrials.gov/study/NCT06360380"
+  },
+  {
    "nct": "NCT07232030",
    "score": 90,
    "tier": "HOT",
@@ -1206,6 +1261,33 @@
    "angle": "",
    "opener": "",
    "url": "https://clinicaltrials.gov/study/NCT07232030"
+  },
+  {
+   "nct": "NCT06222099",
+   "score": 90,
+   "tier": "HOT",
+   "sponsor": "Heartfelt Technologies",
+   "title": "The HEARTFELT Study",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "countries": [
+    "United States"
+   ],
+   "conditions": [
+    "Heart Failure",
+    "Chronic Heart Failure"
+   ],
+   "posted": "2024-01-24",
+   "summary": "",
+   "email": "usa.trial@hftech.org",
+   "phone": "+441223 967250",
+   "contact_name": "WH Wilson Tang, MD",
+   "pi": "WH Wilson Tang, MD (Cleveland Clinic, USA)",
+   "channel": "",
+   "who": "",
+   "angle": "",
+   "opener": "",
+   "url": "https://clinicaltrials.gov/study/NCT06222099"
   },
   {
    "nct": "NCT05934487",
@@ -1236,33 +1318,6 @@
    "angle": "",
    "opener": "",
    "url": "https://clinicaltrials.gov/study/NCT05934487"
-  },
-  {
-   "nct": "NCT06222099",
-   "score": 90,
-   "tier": "HOT",
-   "sponsor": "Heartfelt Technologies",
-   "title": "The HEARTFELT Study",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "countries": [
-    "United States"
-   ],
-   "conditions": [
-    "Heart Failure",
-    "Chronic Heart Failure"
-   ],
-   "posted": "2024-01-24",
-   "summary": "",
-   "email": "usa.trial@hftech.org",
-   "phone": "+441223 967250",
-   "contact_name": "WH Wilson Tang, MD",
-   "pi": "WH Wilson Tang, MD (Cleveland Clinic, USA)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
-   "url": "https://clinicaltrials.gov/study/NCT06222099"
   },
   {
    "nct": "NCT05064709",
@@ -1459,60 +1514,6 @@
    "url": "https://clinicaltrials.gov/study/NCT06699056"
   },
   {
-   "nct": "NCT07598760",
-   "score": 90,
-   "tier": "HOT",
-   "sponsor": "BackBeat Medical Inc",
-   "title": "Clinical Feasibility of Cardiac Neuromodulation Therapy for Heart Failure With Preserved Ejection Fraction",
-   "status": "NOT_YET_RECRUITING",
-   "phase": "NA",
-   "countries": [
-    "Georgia"
-   ],
-   "conditions": [
-    "Hypertension (HTN)",
-    "Heart Failure With Preserved Ejection Fraction (HFpEF",
-    "Hypertension, Systolic"
-   ],
-   "posted": "2026-05-20",
-   "summary": "",
-   "email": "zbelsky@orchestrabiomed.com",
-   "phone": "201-691-4240",
-   "contact_name": "Ziv Belsky",
-   "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
-   "url": "https://clinicaltrials.gov/study/NCT07598760"
-  },
-  {
-   "nct": "NCT07067658",
-   "score": 90,
-   "tier": "HOT",
-   "sponsor": "Heartfelt Technologies",
-   "title": "Monitoring Oedema in Heart Failure to Improve Function and Reduce Hospitalisation Risk",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "countries": [
-    "United Kingdom"
-   ],
-   "conditions": [
-    "Heart Failure"
-   ],
-   "posted": "2025-07-16",
-   "summary": "",
-   "email": "me-hf.trial@hftech.org",
-   "phone": "01223967250",
-   "contact_name": "Oriane Chausiaux",
-   "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
-   "url": "https://clinicaltrials.gov/study/NCT07067658"
-  },
-  {
    "nct": "NCT06920030",
    "score": 90,
    "tier": "HOT",
@@ -1540,6 +1541,34 @@
    "angle": "",
    "opener": "",
    "url": "https://clinicaltrials.gov/study/NCT06920030"
+  },
+  {
+   "nct": "NCT07598760",
+   "score": 90,
+   "tier": "HOT",
+   "sponsor": "BackBeat Medical Inc",
+   "title": "Clinical Feasibility of Cardiac Neuromodulation Therapy for Heart Failure With Preserved Ejection Fraction",
+   "status": "NOT_YET_RECRUITING",
+   "phase": "NA",
+   "countries": [
+    "Georgia"
+   ],
+   "conditions": [
+    "Hypertension (HTN)",
+    "Heart Failure With Preserved Ejection Fraction (HFpEF",
+    "Hypertension, Systolic"
+   ],
+   "posted": "2026-05-20",
+   "summary": "",
+   "email": "zbelsky@orchestrabiomed.com",
+   "phone": "201-691-4240",
+   "contact_name": "Ziv Belsky",
+   "pi": "",
+   "channel": "",
+   "who": "",
+   "angle": "",
+   "opener": "",
+   "url": "https://clinicaltrials.gov/study/NCT07598760"
   },
   {
    "nct": "NCT07247032",
@@ -1869,6 +1898,34 @@
    "url": "https://clinicaltrials.gov/study/NCT07271238"
   },
   {
+   "nct": "NCT06164808",
+   "score": 90,
+   "tier": "HOT",
+   "sponsor": "HelpWear Inc.",
+   "title": "Cardiac Arrhythmia Telemetry; Conventional vs HeartWatch",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "countries": [
+    "Canada"
+   ],
+   "conditions": [
+    "Cardiac Arrhythmia",
+    "Diagnostic/Monitoring Devices Related to Adverse Incidents",
+    "Atrial Fibrillation (AF)"
+   ],
+   "posted": "2023-12-11",
+   "summary": "",
+   "email": "kcowan@ucalgary.ca",
+   "phone": "4035600225",
+   "contact_name": "Karen Cowan",
+   "pi": "Russell Quinn, MD (University of Calgary)",
+   "channel": "",
+   "who": "",
+   "angle": "",
+   "opener": "",
+   "url": "https://clinicaltrials.gov/study/NCT06164808"
+  },
+  {
    "nct": "NCT05723926",
    "score": 90,
    "tier": "HOT",
@@ -1896,34 +1953,6 @@
    "angle": "",
    "opener": "",
    "url": "https://clinicaltrials.gov/study/NCT05723926"
-  },
-  {
-   "nct": "NCT06164808",
-   "score": 90,
-   "tier": "HOT",
-   "sponsor": "HelpWear Inc.",
-   "title": "Cardiac Arrhythmia Telemetry; Conventional vs HeartWatch",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "countries": [
-    "Canada"
-   ],
-   "conditions": [
-    "Cardiac Arrhythmia",
-    "Diagnostic/Monitoring Devices Related to Adverse Incidents",
-    "Atrial Fibrillation (AF)"
-   ],
-   "posted": "2023-12-11",
-   "summary": "",
-   "email": "kcowan@ucalgary.ca",
-   "phone": "4035600225",
-   "contact_name": "Karen Cowan",
-   "pi": "Russell Quinn, MD (University of Calgary)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
-   "url": "https://clinicaltrials.gov/study/NCT06164808"
   },
   {
    "nct": "NCT07278869",
@@ -2527,32 +2556,6 @@
    "url": "https://clinicaltrials.gov/study/NCT05956652"
   },
   {
-   "nct": "NCT06342635",
-   "score": 90,
-   "tier": "HOT",
-   "sponsor": "Sahajanand Medical Technologies Limited",
-   "title": "Hydra Single-centre Experience - Copenhagen, Denmark",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "countries": [
-    "Denmark"
-   ],
-   "conditions": [
-    "Aortic Valve Stenosis"
-   ],
-   "posted": "2024-04-02",
-   "summary": "",
-   "email": "ole.debacker@gmail.com",
-   "phone": "+4527605009",
-   "contact_name": "Dr. Ole De Backer",
-   "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
-   "url": "https://clinicaltrials.gov/study/NCT06342635"
-  },
-  {
    "nct": "NCT06507579",
    "score": 90,
    "tier": "HOT",
@@ -2577,6 +2580,32 @@
    "angle": "",
    "opener": "",
    "url": "https://clinicaltrials.gov/study/NCT06507579"
+  },
+  {
+   "nct": "NCT06342635",
+   "score": 90,
+   "tier": "HOT",
+   "sponsor": "Sahajanand Medical Technologies Limited",
+   "title": "Hydra Single-centre Experience - Copenhagen, Denmark",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "countries": [
+    "Denmark"
+   ],
+   "conditions": [
+    "Aortic Valve Stenosis"
+   ],
+   "posted": "2024-04-02",
+   "summary": "",
+   "email": "ole.debacker@gmail.com",
+   "phone": "+4527605009",
+   "contact_name": "Dr. Ole De Backer",
+   "pi": "",
+   "channel": "",
+   "who": "",
+   "angle": "",
+   "opener": "",
+   "url": "https://clinicaltrials.gov/study/NCT06342635"
   },
   {
    "nct": "NCT06816485",
@@ -3066,6 +3095,32 @@
    "url": "https://clinicaltrials.gov/study/NCT04905017"
   },
   {
+   "nct": "NCT02397668",
+   "score": 90,
+   "tier": "HOT",
+   "sponsor": "Corvivo Cardiovascular, Inc.",
+   "title": "CorMatrix Cor TRICUSPID ECM Valve Replacement Study",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "countries": [
+    "United States"
+   ],
+   "conditions": [
+    "Tricuspid Valve Disease"
+   ],
+   "posted": "2015-03-25",
+   "summary": "",
+   "email": "rmatheny@cormatrix.com",
+   "phone": "404-276-7777",
+   "contact_name": "Robert G Matheny, MD",
+   "pi": "Robert G Matheny, MD (Corvivo Cardiovascular, Inc.)",
+   "channel": "",
+   "who": "",
+   "angle": "",
+   "opener": "",
+   "url": "https://clinicaltrials.gov/study/NCT02397668"
+  },
+  {
    "nct": "NCT05742906",
    "score": 90,
    "tier": "HOT",
@@ -3091,32 +3146,6 @@
    "angle": "",
    "opener": "",
    "url": "https://clinicaltrials.gov/study/NCT05742906"
-  },
-  {
-   "nct": "NCT02397668",
-   "score": 90,
-   "tier": "HOT",
-   "sponsor": "Corvivo Cardiovascular, Inc.",
-   "title": "CorMatrix Cor TRICUSPID ECM Valve Replacement Study",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "countries": [
-    "United States"
-   ],
-   "conditions": [
-    "Tricuspid Valve Disease"
-   ],
-   "posted": "2015-03-25",
-   "summary": "",
-   "email": "rmatheny@cormatrix.com",
-   "phone": "404-276-7777",
-   "contact_name": "Robert G Matheny, MD",
-   "pi": "Robert G Matheny, MD (Corvivo Cardiovascular, Inc.)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
-   "url": "https://clinicaltrials.gov/study/NCT02397668"
   },
   {
    "nct": "NCT07140562",
@@ -3171,33 +3200,6 @@
    "angle": "",
    "opener": "",
    "url": "https://clinicaltrials.gov/study/NCT06183684"
-  },
-  {
-   "nct": "NCT06137807",
-   "score": 90,
-   "tier": "HOT",
-   "sponsor": "P+F Products + Features USA Inc.",
-   "title": "TRIcvalve biCAVal Valve System for Severe Tricuspid Regurgitation (TRICAV-I)",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "countries": [
-    "United States"
-   ],
-   "conditions": [
-    "Tricuspid Regurgitation",
-    "Tricuspid Valve Disease"
-   ],
-   "posted": "2023-11-18",
-   "summary": "",
-   "email": "m.tocchi@meditrial.net",
-   "phone": "9176841700",
-   "contact_name": "Monica Tocchi, MD, PhD",
-   "pi": "Katharina Kiss, MD (Products & Features GmbH)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
-   "url": "https://clinicaltrials.gov/study/NCT06137807"
   },
   {
    "nct": "NCT07137338",
@@ -4086,32 +4088,6 @@
    "url": "https://clinicaltrials.gov/study/NCT07102511"
   },
   {
-   "nct": "NCT07069738",
-   "score": 75,
-   "tier": "WARM",
-   "sponsor": "Boston Scientific Corporation",
-   "title": "Safety and Effectiveness of Left Bundle Branch Area Pacing Versus Conventional Cardiac Resynchronization Therapy in Heart Failure",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "countries": [
-    "United States"
-   ],
-   "conditions": [
-    "Heart Failure - NYHA II - IV"
-   ],
-   "posted": "2025-07-17",
-   "summary": "",
-   "email": "jacqueline.beaulieu@bsci.com",
-   "phone": "1-800-227-3422",
-   "contact_name": "Jacqueline Beaulieu",
-   "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
-   "url": "https://clinicaltrials.gov/study/NCT07069738"
-  },
-  {
    "nct": "NCT07681479",
    "score": 75,
    "tier": "WARM",
@@ -4136,6 +4112,32 @@
    "angle": "",
    "opener": "",
    "url": "https://clinicaltrials.gov/study/NCT07681479"
+  },
+  {
+   "nct": "NCT07069738",
+   "score": 75,
+   "tier": "WARM",
+   "sponsor": "Boston Scientific Corporation",
+   "title": "Safety and Effectiveness of Left Bundle Branch Area Pacing Versus Conventional Cardiac Resynchronization Therapy in Heart Failure",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "countries": [
+    "United States"
+   ],
+   "conditions": [
+    "Heart Failure - NYHA II - IV"
+   ],
+   "posted": "2025-07-17",
+   "summary": "",
+   "email": "jacqueline.beaulieu@bsci.com",
+   "phone": "1-800-227-3422",
+   "contact_name": "Jacqueline Beaulieu",
+   "pi": "",
+   "channel": "",
+   "who": "",
+   "angle": "",
+   "opener": "",
+   "url": "https://clinicaltrials.gov/study/NCT07069738"
   },
   {
    "nct": "NCT07646210",
@@ -4396,6 +4398,32 @@
    "url": "https://clinicaltrials.gov/study/NCT07047508"
   },
   {
+   "nct": "NCT07227532",
+   "score": 75,
+   "tier": "WARM",
+   "sponsor": "Biosense Webster, Inc.",
+   "title": "A Study Assessing Long-Term Safety and Effectiveness in Treatment Management of Atrial Fibrillation With VARIPULSE Catheter System",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "countries": [
+    "United States"
+   ],
+   "conditions": [
+    "Atrial Fibrillation"
+   ],
+   "posted": "2025-11-12",
+   "summary": "",
+   "email": "EPurcel1@its.jnj.com",
+   "phone": "+1 949 230 3701",
+   "contact_name": "Emily Purcell",
+   "pi": "Biosense Webster, Inc. Clinical Trial (Biosense Webster, Inc.)",
+   "channel": "",
+   "who": "",
+   "angle": "",
+   "opener": "",
+   "url": "https://clinicaltrials.gov/study/NCT07227532"
+  },
+  {
    "nct": "NCT07421076",
    "score": 75,
    "tier": "WARM",
@@ -4450,32 +4478,6 @@
    "url": "https://clinicaltrials.gov/study/NCT06735534"
   },
   {
-   "nct": "NCT06762717",
-   "score": 75,
-   "tier": "WARM",
-   "sponsor": "Boston Scientific Corporation",
-   "title": "FARAPULSE™ Pulsed Field Ablation System",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "countries": [
-    "China"
-   ],
-   "conditions": [
-    "Paroxysmal AF"
-   ],
-   "posted": "2025-01-08",
-   "summary": "",
-   "email": "Hui.Lin@bsci.com",
-   "phone": "15810430945",
-   "contact_name": "Hui Lin",
-   "pi": "Min Tang, Dr (Chinese Academy of Medical Sciences, Fuwai Hospital)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
-   "url": "https://clinicaltrials.gov/study/NCT06762717"
-  },
-  {
    "nct": "NCT07349121",
    "score": 75,
    "tier": "WARM",
@@ -4504,6 +4506,32 @@
    "angle": "",
    "opener": "",
    "url": "https://clinicaltrials.gov/study/NCT07349121"
+  },
+  {
+   "nct": "NCT06762717",
+   "score": 75,
+   "tier": "WARM",
+   "sponsor": "Boston Scientific Corporation",
+   "title": "FARAPULSE™ Pulsed Field Ablation System",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "countries": [
+    "China"
+   ],
+   "conditions": [
+    "Paroxysmal AF"
+   ],
+   "posted": "2025-01-08",
+   "summary": "",
+   "email": "Hui.Lin@bsci.com",
+   "phone": "15810430945",
+   "contact_name": "Hui Lin",
+   "pi": "Min Tang, Dr (Chinese Academy of Medical Sciences, Fuwai Hospital)",
+   "channel": "",
+   "who": "",
+   "angle": "",
+   "opener": "",
+   "url": "https://clinicaltrials.gov/study/NCT06762717"
   },
   {
    "nct": "NCT07575269",
@@ -4583,32 +4611,6 @@
    "angle": "",
    "opener": "",
    "url": "https://clinicaltrials.gov/study/NCT07308847"
-  },
-  {
-   "nct": "NCT07227532",
-   "score": 75,
-   "tier": "WARM",
-   "sponsor": "Biosense Webster, Inc.",
-   "title": "A Study Assessing Long-Term Safety and Effectiveness in Treatment Management of Atrial Fibrillation With VARIPULSE Catheter System",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "countries": [
-    "United States"
-   ],
-   "conditions": [
-    "Atrial Fibrillation"
-   ],
-   "posted": "2025-11-12",
-   "summary": "",
-   "email": "EPurcel1@its.jnj.com",
-   "phone": "+1 949 230 3701",
-   "contact_name": "Emily Purcell",
-   "pi": "Biosense Webster, Inc. Clinical Trial (Biosense Webster, Inc.)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
-   "url": "https://clinicaltrials.gov/study/NCT07227532"
   },
   {
    "nct": "NCT07523750",
@@ -5089,6 +5091,35 @@
    "url": "https://clinicaltrials.gov/study/NCT05172973"
   },
   {
+   "nct": "NCT04097145",
+   "score": 75,
+   "tier": "WARM",
+   "sponsor": "Edwards Lifesciences",
+   "title": "Edwards PASCAL Transcatheter Valve Repair System Pivotal Clinical Trial",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "countries": [
+    "Canada",
+    "United States"
+   ],
+   "conditions": [
+    "Tricuspid Regurgitation",
+    "Tricuspid Valve Insufficiency",
+    "Tricuspid Valve Disease"
+   ],
+   "posted": "2019-09-20",
+   "summary": "",
+   "email": "TMTT_Clinical@edwards.com",
+   "phone": "(949) 250-2500",
+   "contact_name": "Edwards TMTT Clinical Affairs",
+   "pi": "Martin B. Leon, MD (Columbia University)",
+   "channel": "",
+   "who": "",
+   "angle": "",
+   "opener": "",
+   "url": "https://clinicaltrials.gov/study/NCT04097145"
+  },
+  {
    "nct": "NCT07586995",
    "score": 75,
    "tier": "WARM",
@@ -5143,35 +5174,6 @@
    "angle": "",
    "opener": "",
    "url": "https://clinicaltrials.gov/study/NCT03242642"
-  },
-  {
-   "nct": "NCT04097145",
-   "score": 75,
-   "tier": "WARM",
-   "sponsor": "Edwards Lifesciences",
-   "title": "Edwards PASCAL Transcatheter Valve Repair System Pivotal Clinical Trial",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "countries": [
-    "Canada",
-    "United States"
-   ],
-   "conditions": [
-    "Tricuspid Regurgitation",
-    "Tricuspid Valve Insufficiency",
-    "Tricuspid Valve Disease"
-   ],
-   "posted": "2019-09-20",
-   "summary": "",
-   "email": "TMTT_Clinical@edwards.com",
-   "phone": "(949) 250-2500",
-   "contact_name": "Edwards TMTT Clinical Affairs",
-   "pi": "Martin B. Leon, MD (Columbia University)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
-   "url": "https://clinicaltrials.gov/study/NCT04097145"
   },
   {
    "nct": "NCT07578129",
@@ -5526,6 +5528,62 @@
    "url": "https://clinicaltrials.gov/study/NCT05039866"
   },
   {
+   "nct": "NCT07613918",
+   "score": 70,
+   "tier": "WARM",
+   "sponsor": "University of Wisconsin, Madison",
+   "title": "Brain Blood Flow and Cerebral Autoregulation Monitoring in Critically Ill Children",
+   "status": "NOT_YET_RECRUITING",
+   "phase": "NA",
+   "countries": [
+    "United States"
+   ],
+   "conditions": [
+    "Critical Illness",
+    "Pediatric Critical Illness",
+    "Respiratory Failure"
+   ],
+   "posted": "2026-05-29",
+   "summary": "",
+   "email": "meg.baker@wisc.edu",
+   "phone": "meg.baker@wisc.edu",
+   "contact_name": "Meg Baker",
+   "pi": "Neil Munjal, MD (UW School of Medicine and Public Health)",
+   "channel": "",
+   "who": "",
+   "angle": "",
+   "opener": "",
+   "url": "https://clinicaltrials.gov/study/NCT07613918"
+  },
+  {
+   "nct": "NCT07684547",
+   "score": 70,
+   "tier": "WARM",
+   "sponsor": "University of Pecs",
+   "title": "REstoration of SYNChronous Cardiac Function Due to Physiologic cArdiac Pacing Modalities With Clinical Endpoints",
+   "status": "NOT_YET_RECRUITING",
+   "phase": "NA",
+   "countries": [
+    "Hungary"
+   ],
+   "conditions": [
+    "Heart Failure - NYHA II - IV",
+    "Left Bundle Branch Area Pacing",
+    "Left Bundle Branch Block"
+   ],
+   "posted": "2026-07-06",
+   "summary": "",
+   "email": "ezerpeti@gmail.com",
+   "phone": "+36305468840",
+   "contact_name": "Peter Ezer MD PhD, assistant professor",
+   "pi": "Peter Ezer (University of Pecs)",
+   "channel": "",
+   "who": "",
+   "angle": "",
+   "opener": "",
+   "url": "https://clinicaltrials.gov/study/NCT07684547"
+  },
+  {
    "nct": "NCT07096726",
    "score": 70,
    "tier": "WARM",
@@ -5603,34 +5661,6 @@
    "angle": "",
    "opener": "",
    "url": "https://clinicaltrials.gov/study/NCT07640022"
-  },
-  {
-   "nct": "NCT07613918",
-   "score": 70,
-   "tier": "WARM",
-   "sponsor": "University of Wisconsin, Madison",
-   "title": "Brain Blood Flow and Cerebral Autoregulation Monitoring in Critically Ill Children",
-   "status": "NOT_YET_RECRUITING",
-   "phase": "NA",
-   "countries": [
-    "United States"
-   ],
-   "conditions": [
-    "Critical Illness",
-    "Pediatric Critical Illness",
-    "Respiratory Failure"
-   ],
-   "posted": "2026-05-29",
-   "summary": "",
-   "email": "meg.baker@wisc.edu",
-   "phone": "meg.baker@wisc.edu",
-   "contact_name": "Meg Baker",
-   "pi": "Neil Munjal, MD (UW School of Medicine and Public Health)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
-   "url": "https://clinicaltrials.gov/study/NCT07613918"
   },
   {
    "nct": "NCT07624565",
@@ -5800,36 +5830,6 @@
    "url": "https://clinicaltrials.gov/study/NCT07601828"
   },
   {
-   "nct": "NCT06414265",
-   "score": 70,
-   "tier": "WARM",
-   "sponsor": "InnovHeart",
-   "title": "Reduction of Mitral Regurgitation With the SATURN Trans-Septal Transcatheter Mitral Valve Replacement (TMVR) System in Patients With Severe Symptomatic Mitral Regurgitation",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "countries": [
-    "Georgia",
-    "Italy",
-    "Lithuania",
-    "Poland",
-    "United Kingdom"
-   ],
-   "conditions": [
-    "Heart Failure"
-   ],
-   "posted": "2024-05-16",
-   "summary": "",
-   "email": "a.roach@innovheart.com",
-   "phone": "+49 69 24003626",
-   "contact_name": "VP, Clinical Affairs InnovHeart",
-   "pi": "Paolo Denti, MD (San Raffaele Hospital)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
-   "url": "https://clinicaltrials.gov/study/NCT06414265"
-  },
-  {
    "nct": "NCT07545512",
    "score": 70,
    "tier": "WARM",
@@ -5961,6 +5961,38 @@
    "url": "https://clinicaltrials.gov/study/NCT06900803"
   },
   {
+   "nct": "NCT05147792",
+   "score": 70,
+   "tier": "WARM",
+   "sponsor": "Conformal Medical, Inc",
+   "title": "The CONFORM Pivotal Trial",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "countries": [
+    "Czechia",
+    "France",
+    "Georgia",
+    "Germany",
+    "United States",
+    "Uzbekistan"
+   ],
+   "conditions": [
+    "Atrial Fibrillation",
+    "Stroke"
+   ],
+   "posted": "2021-12-07",
+   "summary": "",
+   "email": "sgallagher@conformalmedical.com",
+   "phone": "952-270-8356",
+   "contact_name": "Sarah Gallagher",
+   "pi": "William Gray, M.D. (Lankenau Heart Institute)",
+   "channel": "",
+   "who": "",
+   "angle": "",
+   "opener": "",
+   "url": "https://clinicaltrials.gov/study/NCT05147792"
+  },
+  {
    "nct": "NCT07675395",
    "score": 70,
    "tier": "WARM",
@@ -6013,38 +6045,6 @@
    "angle": "",
    "opener": "",
    "url": "https://clinicaltrials.gov/study/NCT06953778"
-  },
-  {
-   "nct": "NCT05147792",
-   "score": 70,
-   "tier": "WARM",
-   "sponsor": "Conformal Medical, Inc",
-   "title": "The CONFORM Pivotal Trial",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "countries": [
-    "Czechia",
-    "France",
-    "Georgia",
-    "Germany",
-    "United States",
-    "Uzbekistan"
-   ],
-   "conditions": [
-    "Atrial Fibrillation",
-    "Stroke"
-   ],
-   "posted": "2021-12-07",
-   "summary": "",
-   "email": "sgallagher@conformalmedical.com",
-   "phone": "952-270-8356",
-   "contact_name": "Sarah Gallagher",
-   "pi": "William Gray, M.D. (Lankenau Heart Institute)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
-   "url": "https://clinicaltrials.gov/study/NCT05147792"
   },
   {
    "nct": "NCT07671677",
@@ -6101,6 +6101,32 @@
    "url": "https://clinicaltrials.gov/study/NCT07647939"
   },
   {
+   "nct": "NCT07633431",
+   "score": 70,
+   "tier": "WARM",
+   "sponsor": "Xi'an Jiaotong University",
+   "title": "The Effect of Low-Level Tragus Stimulation on Inflammation and Early Recurrence After Pulsed Field Ablation: A Randomized Controlled Study",
+   "status": "NOT_YET_RECRUITING",
+   "phase": "NA",
+   "countries": [
+    "China"
+   ],
+   "conditions": [
+    "Atrial Fibrillation"
+   ],
+   "posted": "2026-06-08",
+   "summary": "",
+   "email": "Wht506@126.com",
+   "phone": "+86-13891944803",
+   "contact_name": "Hongtao Wang",
+   "pi": "Hongtao Wang (Second Affiliated Hospital of Xi'an Jiaotong University)",
+   "channel": "",
+   "who": "",
+   "angle": "",
+   "opener": "",
+   "url": "https://clinicaltrials.gov/study/NCT07633431"
+  },
+  {
    "nct": "NCT07633509",
    "score": 70,
    "tier": "WARM",
@@ -6126,32 +6152,6 @@
    "angle": "",
    "opener": "",
    "url": "https://clinicaltrials.gov/study/NCT07633509"
-  },
-  {
-   "nct": "NCT07633431",
-   "score": 70,
-   "tier": "WARM",
-   "sponsor": "Xi'an Jiaotong University",
-   "title": "The Effect of Low-Level Tragus Stimulation on Inflammation and Early Recurrence After Pulsed Field Ablation: A Randomized Controlled Study",
-   "status": "NOT_YET_RECRUITING",
-   "phase": "NA",
-   "countries": [
-    "China"
-   ],
-   "conditions": [
-    "Atrial Fibrillation"
-   ],
-   "posted": "2026-06-08",
-   "summary": "",
-   "email": "Wht506@126.com",
-   "phone": "+86-13891944803",
-   "contact_name": "Hongtao Wang",
-   "pi": "Hongtao Wang (Second Affiliated Hospital of Xi'an Jiaotong University)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
-   "url": "https://clinicaltrials.gov/study/NCT07633431"
   },
   {
    "nct": "NCT06784466",
@@ -6187,30 +6187,6 @@
    "url": "https://clinicaltrials.gov/study/NCT06784466"
   },
   {
-   "nct": "NCT07627672",
-   "score": 70,
-   "tier": "WARM",
-   "sponsor": "Beijing Anzhen Hospital",
-   "title": "Effectiveness of Patch-Electrocardiogram Recorders in Screening for Atrial Fibrillation in Elderly People in the Chinese Community",
-   "status": "NOT_YET_RECRUITING",
-   "phase": "NA",
-   "countries": [],
-   "conditions": [
-    "Atrial Fibrillation"
-   ],
-   "posted": "2026-06-04",
-   "summary": "",
-   "email": "song_zuo@126.com",
-   "phone": "+8618801427775",
-   "contact_name": "Song Zuo, MD",
-   "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
-   "url": "https://clinicaltrials.gov/study/NCT07627672"
-  },
-  {
    "nct": "NCT07627685",
    "score": 70,
    "tier": "WARM",
@@ -6235,6 +6211,30 @@
    "angle": "",
    "opener": "",
    "url": "https://clinicaltrials.gov/study/NCT07627685"
+  },
+  {
+   "nct": "NCT07627672",
+   "score": 70,
+   "tier": "WARM",
+   "sponsor": "Beijing Anzhen Hospital",
+   "title": "Effectiveness of Patch-Electrocardiogram Recorders in Screening for Atrial Fibrillation in Elderly People in the Chinese Community",
+   "status": "NOT_YET_RECRUITING",
+   "phase": "NA",
+   "countries": [],
+   "conditions": [
+    "Atrial Fibrillation"
+   ],
+   "posted": "2026-06-04",
+   "summary": "",
+   "email": "song_zuo@126.com",
+   "phone": "+8618801427775",
+   "contact_name": "Song Zuo, MD",
+   "pi": "",
+   "channel": "",
+   "who": "",
+   "angle": "",
+   "opener": "",
+   "url": "https://clinicaltrials.gov/study/NCT07627672"
   },
   {
    "nct": "NCT07610018",
@@ -6338,34 +6338,6 @@
    "angle": "",
    "opener": "",
    "url": "https://clinicaltrials.gov/study/NCT06019845"
-  },
-  {
-   "nct": "NCT07540065",
-   "score": 70,
-   "tier": "WARM",
-   "sponsor": "National Taiwan University Hospital",
-   "title": "AI-Assisted Workflow for Occult Atrial Fibrillation Detection After Ischemic Stroke: A Prospective Randomized Trial",
-   "status": "NOT_YET_RECRUITING",
-   "phase": "NA",
-   "countries": [
-    "Taiwan"
-   ],
-   "conditions": [
-    "Atrial Fibrillation",
-    "Stroke",
-    "Artificial Intelligence"
-   ],
-   "posted": "2026-04-20",
-   "summary": "",
-   "email": "sweetchieh@gmail.com",
-   "phone": "0972652038",
-   "contact_name": "Chih-Chieh Yu, MD.PhD",
-   "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
-   "url": "https://clinicaltrials.gov/study/NCT07540065"
   },
   {
    "nct": "NCT07452016",
@@ -6472,6 +6444,33 @@
    "angle": "",
    "opener": "",
    "url": "https://clinicaltrials.gov/study/NCT07026695"
+  },
+  {
+   "nct": "NCT06931821",
+   "score": 70,
+   "tier": "WARM",
+   "sponsor": "University of Arizona",
+   "title": "Functional ElectroAnatomiC Isochronal Late Activation Mapping for Empiric VT Ablation Trial",
+   "status": "NOT_YET_RECRUITING",
+   "phase": "NA",
+   "countries": [
+    "United States"
+   ],
+   "conditions": [
+    "Sustained Monomorphic VT (MMVT)",
+    "Recurrent Ventricular Tachycardia"
+   ],
+   "posted": "2025-04-17",
+   "summary": "",
+   "email": "priyankasharma1@arizona.edu",
+   "phone": "602-521-3090",
+   "contact_name": "Priyanka Sharma",
+   "pi": "Roderick Tung, MD (University of Arizona)",
+   "channel": "",
+   "who": "",
+   "angle": "",
+   "opener": "",
+   "url": "https://clinicaltrials.gov/study/NCT06931821"
   },
   {
    "nct": "NCT07628777",
@@ -6662,34 +6661,6 @@
    "url": "https://clinicaltrials.gov/study/NCT07335510"
   },
   {
-   "nct": "NCT07556185",
-   "score": 60,
-   "tier": "WATCH",
-   "sponsor": "The Hospital for Sick Children",
-   "title": "MedlyPeds Feasibility Study",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "countries": [
-    "Canada"
-   ],
-   "conditions": [
-    "Pediatric Heart Failure",
-    "Congenital Heart Disease (CHD)",
-    "Acquired Heart Disease"
-   ],
-   "posted": "2026-04-29",
-   "summary": "",
-   "email": "diana.balmer-minnes@sickkids.ca",
-   "phone": "416-813-7654",
-   "contact_name": "Diana Balmer-Minnes",
-   "pi": "Aamir Jeewa (The Hospital for Sick Children)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
-   "url": "https://clinicaltrials.gov/study/NCT07556185"
-  },
-  {
    "nct": "NCT07345533",
    "score": 60,
    "tier": "WATCH",
@@ -6716,6 +6687,34 @@
    "angle": "",
    "opener": "",
    "url": "https://clinicaltrials.gov/study/NCT07345533"
+  },
+  {
+   "nct": "NCT07556185",
+   "score": 60,
+   "tier": "WATCH",
+   "sponsor": "The Hospital for Sick Children",
+   "title": "MedlyPeds Feasibility Study",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "countries": [
+    "Canada"
+   ],
+   "conditions": [
+    "Pediatric Heart Failure",
+    "Congenital Heart Disease (CHD)",
+    "Acquired Heart Disease"
+   ],
+   "posted": "2026-04-29",
+   "summary": "",
+   "email": "diana.balmer-minnes@sickkids.ca",
+   "phone": "416-813-7654",
+   "contact_name": "Diana Balmer-Minnes",
+   "pi": "Aamir Jeewa (The Hospital for Sick Children)",
+   "channel": "",
+   "who": "",
+   "angle": "",
+   "opener": "",
+   "url": "https://clinicaltrials.gov/study/NCT07556185"
   },
   {
    "nct": "NCT07449377",
@@ -7311,32 +7310,58 @@
    "url": "https://clinicaltrials.gov/study/NCT06078436"
   },
   {
-   "nct": "NCT06315192",
+   "nct": "NCT07684053",
    "score": 60,
    "tier": "WATCH",
-   "sponsor": "Region Skane",
-   "title": "Stroke Alarm Efficacy Trial",
+   "sponsor": "Medical University Innsbruck",
+   "title": "Digital Screening for Atrial Fibrillation to Prevent Stroke",
    "status": "RECRUITING",
    "phase": "NA",
    "countries": [
-    "Sweden"
+    "Austria"
    ],
    "conditions": [
-    "Stroke Acute",
-    "Atrial Fibrillation",
-    "TIA"
+    "Atrial Fibrillation (Prevention of Stroke)",
+    "Stroke"
    ],
-   "posted": "2024-03-18",
+   "posted": "2026-07-06",
    "summary": "",
-   "email": "magnus.esbjornsson@skane.se",
-   "phone": "800-555-5555",
-   "contact_name": "Magnus Esbjörnsson, MD",
-   "pi": "Ulrika Anderson, Ms. (Lund University)",
+   "email": "sebastian-johannes.reinstadler@i-med.ac.at",
+   "phone": "+4351250425621",
+   "contact_name": "Sebastian J Reinstadler, MD, PhD",
+   "pi": "Axel Bauer (Medical University Innsbruck)",
    "channel": "",
    "who": "",
    "angle": "",
    "opener": "",
-   "url": "https://clinicaltrials.gov/study/NCT06315192"
+   "url": "https://clinicaltrials.gov/study/NCT07684053"
+  },
+  {
+   "nct": "NCT04880265",
+   "score": 60,
+   "tier": "WATCH",
+   "sponsor": "Brigham and Women's Hospital",
+   "title": "Assessing the Burden of Perioperative Atrial Fibrillation in Patients Undergoing Cardiac Surgery",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "countries": [
+    "United States"
+   ],
+   "conditions": [
+    "Atrial Fibrillation",
+    "Cardiac Surgery"
+   ],
+   "posted": "2021-05-10",
+   "summary": "",
+   "email": "jwollborn@bwh.harvard.edu",
+   "phone": "6175258156",
+   "contact_name": "Jakob Wollborn, MD MPH",
+   "pi": "Jakob Wollborn, MD (Brigham and Women's Hospital)",
+   "channel": "",
+   "who": "",
+   "angle": "",
+   "opener": "",
+   "url": "https://clinicaltrials.gov/study/NCT04880265"
   },
   {
    "nct": "NCT07021313",
@@ -7365,31 +7390,32 @@
    "url": "https://clinicaltrials.gov/study/NCT07021313"
   },
   {
-   "nct": "NCT04880265",
+   "nct": "NCT06315192",
    "score": 60,
    "tier": "WATCH",
-   "sponsor": "Brigham and Women's Hospital",
-   "title": "Assessing the Burden of Perioperative Atrial Fibrillation in Patients Undergoing Cardiac Surgery",
+   "sponsor": "Region Skane",
+   "title": "Stroke Alarm Efficacy Trial",
    "status": "RECRUITING",
    "phase": "NA",
    "countries": [
-    "United States"
+    "Sweden"
    ],
    "conditions": [
+    "Stroke Acute",
     "Atrial Fibrillation",
-    "Cardiac Surgery"
+    "TIA"
    ],
-   "posted": "2021-05-10",
+   "posted": "2024-03-18",
    "summary": "",
-   "email": "jwollborn@bwh.harvard.edu",
-   "phone": "6175258156",
-   "contact_name": "Jakob Wollborn, MD MPH",
-   "pi": "Jakob Wollborn, MD (Brigham and Women's Hospital)",
+   "email": "magnus.esbjornsson@skane.se",
+   "phone": "800-555-5555",
+   "contact_name": "Magnus Esbjörnsson, MD",
+   "pi": "Ulrika Anderson, Ms. (Lund University)",
    "channel": "",
    "who": "",
    "angle": "",
    "opener": "",
-   "url": "https://clinicaltrials.gov/study/NCT04880265"
+   "url": "https://clinicaltrials.gov/study/NCT06315192"
   },
   {
    "nct": "NCT06165510",
@@ -7554,32 +7580,6 @@
    "url": "https://clinicaltrials.gov/study/NCT07638995"
   },
   {
-   "nct": "NCT06099730",
-   "score": 60,
-   "tier": "WATCH",
-   "sponsor": "Massachusetts General Hospital",
-   "title": "Safety and Effectiveness of Pulmonary Vein isOLation And posterioR Wall Ablation wIth pulSed Field Energy in Patients With Paroxysmal and Persistent AF",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "countries": [
-    "United States"
-   ],
-   "conditions": [
-    "Atrial Fibrillation"
-   ],
-   "posted": "2023-10-25",
-   "summary": "",
-   "email": "",
-   "phone": "",
-   "contact_name": "",
-   "pi": "Moussa C Mansour (Massachusetts General Hospital)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
-   "url": "https://clinicaltrials.gov/study/NCT06099730"
-  },
-  {
    "nct": "NCT07441382",
    "score": 60,
    "tier": "WATCH",
@@ -7606,6 +7606,32 @@
    "angle": "",
    "opener": "",
    "url": "https://clinicaltrials.gov/study/NCT07441382"
+  },
+  {
+   "nct": "NCT06099730",
+   "score": 60,
+   "tier": "WATCH",
+   "sponsor": "Massachusetts General Hospital",
+   "title": "Safety and Effectiveness of Pulmonary Vein isOLation And posterioR Wall Ablation wIth pulSed Field Energy in Patients With Paroxysmal and Persistent AF",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "countries": [
+    "United States"
+   ],
+   "conditions": [
+    "Atrial Fibrillation"
+   ],
+   "posted": "2023-10-25",
+   "summary": "",
+   "email": "",
+   "phone": "",
+   "contact_name": "",
+   "pi": "Moussa C Mansour (Massachusetts General Hospital)",
+   "channel": "",
+   "who": "",
+   "angle": "",
+   "opener": "",
+   "url": "https://clinicaltrials.gov/study/NCT06099730"
   },
   {
    "nct": "NCT07511166",
@@ -7656,32 +7682,6 @@
    "url": "https://clinicaltrials.gov/study/NCT07626411"
   },
   {
-   "nct": "NCT07563257",
-   "score": 60,
-   "tier": "WATCH",
-   "sponsor": "Maxime Zabern",
-   "title": "Comparative Evaluation of Optrell and Octaray Mapping Catheters for Conduction Block Confirmation and Voltage Assessment During Atrial Ablation",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "countries": [
-    "Israel"
-   ],
-   "conditions": [
-    "Atrial Fibrillation (AF)"
-   ],
-   "posted": "2026-05-01",
-   "summary": "",
-   "email": "maximz@shamir.gov.il",
-   "phone": "+972-54-5644963",
-   "contact_name": "Maxime Zabern, MD",
-   "pi": "Maxime Zabern, MD (Assaf-Harofeh Medical Center)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
-   "url": "https://clinicaltrials.gov/study/NCT07563257"
-  },
-  {
    "nct": "NCT07580547",
    "score": 60,
    "tier": "WATCH",
@@ -7706,6 +7706,32 @@
    "angle": "",
    "opener": "",
    "url": "https://clinicaltrials.gov/study/NCT07580547"
+  },
+  {
+   "nct": "NCT07563257",
+   "score": 60,
+   "tier": "WATCH",
+   "sponsor": "Maxime Zabern",
+   "title": "Comparative Evaluation of Optrell and Octaray Mapping Catheters for Conduction Block Confirmation and Voltage Assessment During Atrial Ablation",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "countries": [
+    "Israel"
+   ],
+   "conditions": [
+    "Atrial Fibrillation (AF)"
+   ],
+   "posted": "2026-05-01",
+   "summary": "",
+   "email": "maximz@shamir.gov.il",
+   "phone": "+972-54-5644963",
+   "contact_name": "Maxime Zabern, MD",
+   "pi": "Maxime Zabern, MD (Assaf-Harofeh Medical Center)",
+   "channel": "",
+   "who": "",
+   "angle": "",
+   "opener": "",
+   "url": "https://clinicaltrials.gov/study/NCT07563257"
   },
   {
    "nct": "NCT07620262",
@@ -7948,33 +7974,6 @@
    "angle": "",
    "opener": "",
    "url": "https://clinicaltrials.gov/study/NCT06589700"
-  },
-  {
-   "nct": "NCT07535268",
-   "score": 60,
-   "tier": "WATCH",
-   "sponsor": "Vivek Reddy",
-   "title": "REPRESENT-PF Registry",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "countries": [
-    "United States"
-   ],
-   "conditions": [
-    "Persistent Atrial Fibrillation",
-    "Paroxysmal Atrial Fibrillation"
-   ],
-   "posted": "2026-04-17",
-   "summary": "",
-   "email": "devin.chamberlain@mountsinai.org",
-   "phone": "(646) 984-1049",
-   "contact_name": "Devin Chamberlain",
-   "pi": "Vivek Reddy, MD (Icahn School of Medicine at Mount Sinai)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
-   "url": "https://clinicaltrials.gov/study/NCT07535268"
   },
   {
    "nct": "NCT06940752",
@@ -8625,5 +8624,24 @@
    "url": "https://clinicaltrials.gov/study/NCT05015660"
   }
  ],
- "funding": []
+ "funding": [
+  {
+   "company": "Can ECG predict heart attacks? HEARTio raises $4.25M to prove it. Here's how! — TFN - Tech Funding News",
+   "amount": "",
+   "what": "",
+   "fit": "",
+   "angle": "",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONHZXUm5KRXM2U0k1X1lWQzNGZVZ2eTRrRjZ6TzJkcFRLZy1jamt6MEw2MXlqYlZOVGVGbVh4RlhBSktaLVdWNmxhRWFscklsZmFvekhBZkJpY0ExbG1WSTNlNnVoUTVvT0xyTUpiajByam51RGNxM1NHb1BWZ1dwU2pzUEV6bkF3S0lMOGlubzZnZV9JcnZUak9RTDNPZXJzV0d5NE5VQndsUmFqNEhoNmtza1pPdw?oc=5",
+   "source": "Tech Funding News"
+  },
+  {
+   "company": "“Second-generation” PFA catheter developer Field Medical closes seed round - Cardiac Rhythm News",
+   "amount": "",
+   "what": "",
+   "fit": "",
+   "angle": "",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBybkhEWkN2MmJNUUNGcjFtWVduMEduTHJIVE1YYUNjQkZVOXlmWHQ1RnRzLXNSbWJBLUxFbXBzcWhmOGxYdVhybzQ1UTFhLVItZ3BpSHFKbVFUNEVKdGMtV21tQ2FHZzRSajI1eFJKcUM?oc=5",
+   "source": "Cardiac Rhythm News"
+  }
+ ]
 }
