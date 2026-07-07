@@ -1,2 +1,0 @@
-# mediogram-radar-app 
- 
