@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500;600&display=swap');
+@import 'tailwindcss';
+
+@theme inline {
+  --color-void: #070C16;
+  --color-panel: #101B30;
+  --color-hairline: #1E2C46;
+  --color-teal: #00C2C7;
+  --color-hot: #FF4D5E;
+  --color-warm: #F5A742;
+  --color-ink: #EAF1FB;
+  --color-muted: #8FA3C0;
+
+  --font-display: 'Space Grotesk', sans-serif;
+  --font-body: 'Inter', sans-serif;
+  --font-mono: 'IBM Plex Mono', monospace;
+}
+
+* {
+  scrollbar-width: none;
+}
+*::-webkit-scrollbar {
+  display: none;
+}
+
+body {
+  background-color: #070C16;
+  font-family: 'Inter', sans-serif;
+  color: #EAF1FB;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+@keyframes sweep {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+@keyframes breathe {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.5; }
+}
+
+@keyframes blip-in {
+  from { opacity: 0; transform: scale(0); }
+  to { opacity: 1; transform: scale(1); }
+}
+
+@keyframes fade-slide-up {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes chart-draw {
+  from { stroke-dashoffset: 1000; }
+  to { stroke-dashoffset: 0; }
+}
+
+.sweep-line {
+  animation: sweep 6s linear infinite;
+  transform-origin: center;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .sweep-line {
+    animation: none;
+    transform: rotate(0deg);
+  }
+  .hot-breathe {
+    animation: none !important;
+  }
+}
+
+.hot-breathe {
+  animation: breathe 3s ease-in-out infinite;
+}
