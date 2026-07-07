@@ -1,4 +1,4 @@
-import { useRef, useState } from 'react'
+import { useEffect, useRef, useState } from 'react'
 import RadarSweep from '../components/RadarSweep'
 import LeadCard from '../components/LeadCard'
 import { useFeed } from '../data/store'
@@ -13,6 +13,8 @@ const CHIP_LABELS: Record<string, string> = {
   hf: 'Heart Failure', mcs: 'MCS', devices: 'Devices',
 }
 
+const SWEEP_PREF_KEY = 'radar:sweepExpanded'
+
 function fmtSync(iso: string) {
   const d = new Date(iso)
   if (Number.isNaN(d.getTime())) return '—'
@@ -23,7 +25,19 @@ export default function RadarScreen() {
   const { feed, refresh, refreshing } = useFeed()
   const [filter, setFilter] = useState<Filter>('All')
   const [highlighted, setHighlighted] = useState<string | null>(null)
+  const [sweepExpanded, setSweepExpanded] = useState(() => {
+    try {
+      const saved = localStorage.getItem(SWEEP_PREF_KEY)
+      return saved === null ? true : saved === '1'
+    } catch {
+      return true
+    }
+  })
   const cardRefs = useRef<Record<string, HTMLDivElement | null>>({})
+
+  useEffect(() => {
+    try { localStorage.setItem(SWEEP_PREF_KEY, sweepExpanded ? '1' : '0') } catch { /* ignore */ }
+  }, [sweepExpanded])
 
   const leads = feed?.leads ?? []
   const counts = feed?.counts ?? { new_leads: 0, hot: 0, warm: 0, funding: 0 }
@@ -47,7 +61,6 @@ export default function RadarScreen() {
 
   return (
     <div className="flex flex-col h-full overflow-hidden">
-      {/* Header */}
       <div className="flex items-center justify-between px-4 pt-12 pb-3 flex-shrink-0">
         <div>
           <h1 className="text-[#EAF1FB] text-2xl font-bold" style={{ fontFamily: 'Space Grotesk, sans-serif' }}>
@@ -70,19 +83,32 @@ export default function RadarScreen() {
         </button>
       </div>
 
-      {/* Counts */}
-      <div className="flex gap-4 px-4 pb-3 font-mono text-[13px] flex-shrink-0" style={{ fontFamily: 'IBM Plex Mono, monospace' }}>
-        <span className="text-[#EAF1FB]">{counts.new_leads} NEW</span>
-        <span className="text-[#FF4D5E] hot-breathe">{counts.hot} HOT</span>
-        <span className="text-[#F5A742]">{counts.warm} WARM</span>
+      <div className="flex items-center justify-between px-4 pb-3 flex-shrink-0">
+        <div className="flex gap-4 font-mono text-[13px]" style={{ fontFamily: 'IBM Plex Mono, monospace' }}>
+          <span className="text-[#EAF1FB]">{counts.new_leads} NEW</span>
+          <span className="text-[#FF4D5E] hot-breathe">{counts.hot} HOT</span>
+          <span className="text-[#F5A742]">{counts.warm} WARM</span>
+        </div>
+        <button
+          onClick={() => setSweepExpanded((v) => !v)}
+          className="flex items-center gap-1 font-mono text-[11px] text-[#8FA3C0] hover:text-[#00C2C7] transition-colors"
+          style={{ fontFamily: 'IBM Plex Mono, monospace' }}
+          aria-expanded={sweepExpanded}
+        >
+          {sweepExpanded ? 'Hide sweep' : 'Show sweep'}
+          <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5"
+               className={`transition-transform ${sweepExpanded ? '' : 'rotate-180'}`}>
+            <polyline points="18 15 12 9 6 15" />
+          </svg>
+        </button>
       </div>
 
-      {/* Radar sweep */}
-      <div className="px-4 pb-3 flex-shrink-0">
-        <RadarSweep leads={leads} onBlipTap={handleBlipTap} />
-      </div>
+      {sweepExpanded && (
+        <div className="px-4 pb-3 flex-shrink-0 animate-[fade-slide-up_0.25s_ease-out]">
+          <RadarSweep leads={leads} onBlipTap={handleBlipTap} />
+        </div>
+      )}
 
-      {/* Filter chips */}
       <div className="flex gap-2 px-4 pb-3 overflow-x-auto flex-shrink-0">
         {CHIPS.map((chip) => (
           <button
@@ -99,7 +125,6 @@ export default function RadarScreen() {
         ))}
       </div>
 
-      {/* Lead feed */}
       <div className="flex-1 overflow-y-auto px-4 pb-4">
         {noLeadsToday ? (
           <div className="text-center pt-10">
