@@ -5,11 +5,25 @@ const TIER_DOT_CLASS: Record<Lead['tier'], string> = {
   HOT: 'bg-[#FF4D5E]',
   WARM: 'bg-[#F5A742]',
   NORMAL: 'bg-[#00C2C7]',
+  IN_REGION: 'bg-[#8FA3C0]',
 }
 const TIER_TEXT_CLASS: Record<Lead['tier'], string> = {
   HOT: 'text-[#FF4D5E]',
   WARM: 'text-[#F5A742]',
   NORMAL: 'text-[#00C2C7]',
+  IN_REGION: 'text-[#8FA3C0]',
+}
+const TIER_LABEL: Record<Lead['tier'], string> = {
+  HOT: 'HOT',
+  WARM: 'WARM',
+  NORMAL: 'NORMAL',
+  IN_REGION: 'IN REGION',
+}
+const MODALITY_LABEL: Record<string, string> = {
+  device: 'Device',
+  drug: 'Drug',
+  'advanced therapy': 'Adv. therapy',
+  other: 'Other',
 }
 
 interface Props {
@@ -50,8 +64,16 @@ export default function LeadCard({ lead, highlighted, initiallyExpanded = false 
             <span
               className={`font-mono text-[10px] font-semibold tracking-widest ${TIER_TEXT_CLASS[lead.tier]}`}
             >
-              {lead.tier}
+              {TIER_LABEL[lead.tier]}
             </span>
+            {lead.modality && (
+              <span
+                className="font-mono text-[10px] px-1.5 py-0.5 rounded border border-[#1E2C46] text-[#8FA3C0]"
+                style={{ fontFamily: 'IBM Plex Mono, monospace' }}
+              >
+                {MODALITY_LABEL[lead.modality] ?? lead.modality}
+              </span>
+            )}
           </div>
           <span className="font-mono text-[#00C2C7] text-sm font-semibold">{lead.score}</span>
         </div>
@@ -75,18 +97,30 @@ export default function LeadCard({ lead, highlighted, initiallyExpanded = false 
           {lead.phase} · {lead.status} · {lead.posted}
         </p>
 
-        {/* Countries */}
+        {/* Countries — sites already in our region are highlighted */}
         <div className="flex flex-wrap gap-1 mt-2">
-          {lead.countries.map((c) => (
-            <span
-              key={c}
-              className="font-mono text-[10px] px-1.5 py-0.5 rounded border border-[#1E2C46] text-[#8FA3C0]"
-              style={{ fontFamily: 'IBM Plex Mono, monospace' }}
-            >
-              {c}
-            </span>
-          ))}
+          {lead.countries.map((c) => {
+            const here = lead.region_sites?.includes(c)
+            return (
+              <span
+                key={c}
+                className={`font-mono text-[10px] px-1.5 py-0.5 rounded border ${
+                  here
+                    ? 'border-[#8FA3C0] text-[#EAF1FB]'
+                    : 'border-[#1E2C46] text-[#8FA3C0]'
+                }`}
+                style={{ fontFamily: 'IBM Plex Mono, monospace' }}
+              >
+                {c}
+              </span>
+            )
+          })}
         </div>
+
+        {/* Why this one is awareness-only */}
+        {lead.note && (
+          <p className="text-[#8FA3C0] text-[11px] leading-snug mt-2 italic">{lead.note}</p>
+        )}
       </button>
 
       {/* Expanded content */}
@@ -154,12 +188,15 @@ export default function LeadCard({ lead, highlighted, initiallyExpanded = false 
           )}
 
           {/* Fit angle */}
+          {lead.angle && (
           <div className="rounded-lg bg-[#070C16] p-3 border border-[#1E2C46]">
             <p className="text-[#8FA3C0] text-[11px] mb-1 uppercase tracking-widest font-mono" style={{ fontFamily: 'IBM Plex Mono, monospace' }}>Fit angle</p>
             <p className="text-[#EAF1FB]">{lead.angle}</p>
           </div>
+          )}
 
           {/* Opener */}
+          {lead.opener && (
           <div className="rounded-lg bg-[#070C16] p-3 border border-[#1E2C46]">
             <div className="flex items-center justify-between mb-1">
               <p className="text-[#8FA3C0] text-[11px] uppercase tracking-widest font-mono" style={{ fontFamily: 'IBM Plex Mono, monospace' }}>Outreach opener</p>
@@ -181,6 +218,7 @@ export default function LeadCard({ lead, highlighted, initiallyExpanded = false 
             </div>
             <p className="text-[#EAF1FB] leading-relaxed italic">{lead.opener}</p>
           </div>
+          )}
 
           <a
             href={lead.url}

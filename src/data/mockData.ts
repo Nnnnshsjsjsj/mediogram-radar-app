@@ -1,7 +1,7 @@
 export interface Lead {
   nct: string
   score: number
-  tier: 'HOT' | 'WARM' | 'NORMAL'
+  tier: 'HOT' | 'WARM' | 'NORMAL' | 'IN_REGION'
   sponsor: string
   title: string
   status: string
@@ -20,6 +20,13 @@ export interface Lead {
   opener: string
   url: string
   category: 'arrhythmia' | 'structural' | 'hf' | 'mcs' | 'devices'
+  // Emitted by the bot (v6+). `category` above is therapeutic area; `modality`
+  // is what the intervention actually is. Optional so the sample data below
+  // still typechecks.
+  modality?: 'device' | 'drug' | 'advanced therapy' | 'other'
+  // Set on IN_REGION leads only: why this one is awareness-only.
+  note?: string
+  region_sites?: string[]
 }
 
 export interface FundingItem {

@@ -13,6 +13,9 @@ const TIER_COLOR: Record<Lead['tier'], string> = {
   HOT: '#FF4D5E',
   WARM: '#F5A742',
   NORMAL: '#00C2C7',
+  // Awareness-only leads are filtered out before reaching the sweep, but keep
+  // a colour here so the map stays total if that ever changes.
+  IN_REGION: '#8FA3C0',
 }
 
 interface Props {

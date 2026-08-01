@@ -2,15 +2,17 @@ import { useEffect, useRef, useState } from 'react'
 import RadarSweep from '../components/RadarSweep'
 import LeadCard from '../components/LeadCard'
 import { useFeed } from '../data/store'
+import { IN_REGION_FALLBACK } from '../data/feed'
 import type { Lead } from '../data/feed'
 
-type Filter = 'All' | 'Hot' | 'Warm' | Lead['category']
+type Filter = 'All' | 'Hot' | 'Warm' | 'InRegion' | Lead['category']
 
-const CHIPS: Filter[] = ['All', 'Hot', 'Warm', 'arrhythmia', 'structural', 'hf', 'mcs', 'devices']
+const CHIPS: Filter[] = ['All', 'Hot', 'Warm', 'arrhythmia', 'structural', 'hf', 'mcs', 'devices', 'InRegion']
 const CHIP_LABELS: Record<string, string> = {
   All: 'All', Hot: 'Hot', Warm: 'Warm',
   arrhythmia: 'Arrhythmia/EP', structural: 'Structural Heart',
   hf: 'Heart Failure', mcs: 'MCS', devices: 'Devices',
+  InRegion: 'In region',
 }
 
 const SWEEP_PREF_KEY = 'radar:sweepExpanded'
@@ -42,14 +44,22 @@ export default function RadarScreen() {
   const leads = feed?.leads ?? []
   const counts = feed?.counts ?? { new_leads: 0, hot: 0, warm: 0, funding: 0 }
 
-  const filtered = leads
+  // IN_REGION leads are awareness-only. They appear ONLY under their own chip,
+  // never in All / Hot / Warm / therapeutic-area views, so the outreach queue
+  // stays a list of trials we can actually win.
+  const outreach = leads.filter((l) => l.tier !== 'IN_REGION')
+  const inRegion = leads.filter((l) => l.tier === 'IN_REGION')
+
+  const filtered = (filter === 'InRegion' ? inRegion : outreach)
     .filter((l) => {
-      if (filter === 'All') return true
+      if (filter === 'All' || filter === 'InRegion') return true
       if (filter === 'Hot') return l.tier === 'HOT'
       if (filter === 'Warm') return l.tier === 'WARM'
       return l.category === filter
     })
     .sort((a, b) => b.score - a.score)
+
+  const disclaimer = feed?.disclaimers?.['IN REGION'] ?? IN_REGION_FALLBACK
 
   const handleBlipTap = (nct: string) => {
     setHighlighted(nct)
@@ -88,6 +98,9 @@ export default function RadarScreen() {
           <span className="text-[#EAF1FB]">{counts.new_leads} NEW</span>
           <span className="text-[#FF4D5E] hot-breathe">{counts.hot} HOT</span>
           <span className="text-[#F5A742]">{counts.warm} WARM</span>
+          {inRegion.length > 0 && (
+            <span className="text-[#8FA3C0]">{inRegion.length} IN REGION</span>
+          )}
         </div>
         <button
           onClick={() => setSweepExpanded((v) => !v)}
@@ -105,7 +118,7 @@ export default function RadarScreen() {
 
       {sweepExpanded && (
         <div className="px-4 pb-3 flex-shrink-0 animate-[fade-slide-up_0.25s_ease-out]">
-          <RadarSweep leads={leads} onBlipTap={handleBlipTap} />
+          <RadarSweep leads={outreach} onBlipTap={handleBlipTap} />
         </div>
       )}
 
@@ -116,7 +129,9 @@ export default function RadarScreen() {
             onClick={() => setFilter(chip)}
             className={`flex-shrink-0 px-3 py-1.5 rounded-full border text-[12px] transition-all ${
               filter === chip
-                ? 'border-[#00C2C7] bg-[#00C2C7]/15 text-[#00C2C7]'
+                ? chip === 'InRegion'
+                  ? 'border-[#8FA3C0] bg-[#8FA3C0]/15 text-[#EAF1FB]'
+                  : 'border-[#00C2C7] bg-[#00C2C7]/15 text-[#00C2C7]'
                 : 'border-[#1E2C46] bg-[#101B30] text-[#8FA3C0]'
             }`}
           >
@@ -126,19 +141,28 @@ export default function RadarScreen() {
       </div>
 
       <div className="flex-1 overflow-y-auto px-4 pb-4">
-        {noLeadsToday ? (
-          <div className="text-center pt-10">
-            <p className="text-[#EAF1FB] text-[15px] mb-1" style={{ fontFamily: 'Space Grotesk, sans-serif' }}>
-              Quiet day
-            </p>
-            <p className="text-[#8FA3C0] font-mono text-[12px]" style={{ fontFamily: 'IBM Plex Mono, monospace' }}>
-              0 new leads — the radar is still running
-            </p>
+        {filter === 'InRegion' && (
+          <div className="rounded-lg border border-[#1E2C46] bg-[#101B30] p-3 mb-3 flex gap-2">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#8FA3C0" strokeWidth="2"
+                 className="flex-shrink-0 mt-0.5">
+              <circle cx="12" cy="12" r="10" /><line x1="12" y1="16" x2="12" y2="12" />
+              <line x1="12" y1="8" x2="12.01" y2="8" />
+            </svg>
+            <div>
+              <p className="text-[#EAF1FB] text-[12px] leading-relaxed mb-1">{disclaimer.ru}</p>
+              <p className="text-[#8FA3C0] text-[11px] leading-relaxed">{disclaimer.en}</p>
+            </div>
           </div>
-        ) : filtered.length === 0 ? (
+        )}
+        {noLeadsToday && filter !== 'InRegion' && (
+          <p className="text-[#8FA3C0] font-mono text-[12px] mb-3" style={{ fontFamily: 'IBM Plex Mono, monospace' }}>
+            0 new today — showing all active leads
+          </p>
+        )}
+        {filtered.length === 0 ? (
           <div className="text-center pt-12">
             <p className="text-[#8FA3C0] font-mono text-[13px]" style={{ fontFamily: 'IBM Plex Mono, monospace' }}>
-              No leads match this filter
+              {filter === 'InRegion' ? 'Nothing running in our region right now' : 'No leads match this filter'}
             </p>
           </div>
         ) : (

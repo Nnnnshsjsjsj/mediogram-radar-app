@@ -19,14 +19,35 @@ import type { Lead, FundingItem, HistoryEntry } from './mockData'
 
 export type { Lead, FundingItem, HistoryEntry }
 
+export interface Disclaimer {
+  en: string
+  ru: string
+}
+
 export interface Feed {
   updated: string
   leads: Lead[]
   funding: FundingItem[]
-  counts: { new_leads: number; hot: number; warm: number; funding: number }
+  counts: {
+    new_leads: number
+    hot: number
+    warm: number
+    funding: number
+    in_region?: number
+  }
+  // Bot-supplied explanatory text, keyed by tier label ("IN REGION"). Kept in
+  // the feed rather than hardcoded here so the wording can be edited without a
+  // redeploy of the app.
+  disclaimers: Record<string, Disclaimer>
   history: HistoryEntry[]
   stale: boolean
   isMock: boolean
+}
+
+// Fallback if an older feed (pre-v6) has no disclaimers block.
+export const IN_REGION_FALLBACK: Disclaimer = {
+  en: 'These trials already run a site in our region — shown for awareness, not as outreach targets.',
+  ru: 'В этих исследованиях уже есть центр в нашем регионе — показаны для информации, а не как цель для аутрича.',
 }
 
 // Base-path aware URLs. import.meta.env.BASE_URL is "/" locally and
@@ -82,12 +103,19 @@ export function deriveCategory(lead: Partial<Lead>): Category {
   return 'devices' // fallback bucket
 }
 
-// The bot may emit tier as "HOT"/"WARM"/"" (or missing). Normalize.
+// The bot may emit tier as "HOT"/"WARM"/"WATCH"/"IN REGION"/"" (or missing).
 function normalizeTier(t: unknown): Lead['tier'] {
   const s = String(t ?? '').toUpperCase()
   if (s === 'HOT') return 'HOT'
   if (s === 'WARM') return 'WARM'
+  if (s === 'IN REGION' || s === 'IN_REGION') return 'IN_REGION'
   return 'NORMAL'
+}
+
+const MODALITIES = ['device', 'drug', 'advanced therapy', 'other'] as const
+function normalizeModality(m: unknown): Lead['modality'] {
+  const s = String(m ?? '').toLowerCase()
+  return (MODALITIES as readonly string[]).includes(s) ? (s as Lead['modality']) : undefined
 }
 
 function normalizeLead(raw: Record<string, unknown>): Lead {
@@ -114,6 +142,9 @@ function normalizeLead(raw: Record<string, unknown>): Lead {
     angle: String(raw.angle ?? ''),
     opener: String(raw.opener ?? ''),
     url: String(raw.url ?? (raw.nct ? `https://clinicaltrials.gov/study/${raw.nct}` : '#')),
+    modality: normalizeModality(raw.modality),
+    note: String(raw.note ?? ''),
+    region_sites: Array.isArray(raw.region_sites) ? (raw.region_sites as string[]) : [],
   }
   return { ...(base as Lead), category: deriveCategory(base) }
 }
@@ -141,6 +172,7 @@ const mockFeed: Feed = {
   leads: mockLeads,
   funding: mockFunding,
   counts: mockCounts,
+  disclaimers: {},
   history: mockHistory,
   stale: false,
   isMock: true,
@@ -167,11 +199,14 @@ export async function fetchFeed(signal?: AbortSignal): Promise<Feed> {
       new_leads: leads.length,
       hot: leads.filter((l: Lead) => l.tier === 'HOT').length,
       warm: leads.filter((l: Lead) => l.tier === 'WARM').length,
+      in_region: leads.filter((l: Lead) => l.tier === 'IN_REGION').length,
       funding: funding.length,
     }
+    const disclaimers: Record<string, Disclaimer> =
+      latest.disclaimers && typeof latest.disclaimers === 'object' ? latest.disclaimers : {}
     const updated = String(latest.updated ?? new Date().toISOString())
 
-    return { updated, leads, funding, counts, history, stale: isStale(updated), isMock: false }
+    return { updated, leads, funding, counts, disclaimers, history, stale: isStale(updated), isMock: false }
   } catch (err) {
     if ((err as Error)?.name === 'AbortError') throw err
     // No feed reachable (local dev, first deploy, or fetch blocked) — use sample.
