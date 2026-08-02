@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-01T10:52:52Z",
- "day": "2026-08-01",
+ "updated": "2026-08-02T08:15:24Z",
+ "day": "2026-08-02",
  "tiers": [
   "HOT",
   "WARM",
@@ -14,11 +14,11 @@
   }
  },
  "counts": {
-  "new_leads": 44,
+  "new_leads": 0,
   "hot": 182,
   "warm": 277,
   "in_region": 30,
-  "funding": 10,
+  "funding": 0,
   "device": 569,
   "drug": 147
  },
@@ -1260,15 +1260,15 @@
     "Severe Tricuspid Valve Regurgitation"
    ],
    "posted": "2024-11-21",
-   "summary": "",
+   "summary": "Micro Interventional Devices is a developer of transcatheter cardiac repair devices founded in 2010 and based in Newtown Square, Pennsylvania, initially focused on addressing unmet needs in tricuspid and mitral valve repair.",
    "email": "aswenson@microinterventional.com",
    "phone": "215-600-1270",
    "contact_name": "Angie Swenson",
    "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "Direct outreach to clinical operations contact with CEO visibility via Katherine Whitman (Director of Marketing, who coordinates physician programs and clinical initiatives)",
+   "who": "Michael Whitman, Founder & CEO (decision-maker); Katherine Whitman, Director of Marketing (operational lead for STTAR-US coordination, as listed in company contact for the trial)",
+   "angle": "Your STTAR-US IDE has just received FDA approval for the pivotal clinical trial—Mediogram can accelerate site activation and enrollment with proven Eastern European cardiac expertise and regulatory/imaging infrastructure for transcatheter valve studies.",
+   "opener": "Hi Katherine and Michael, Congratulations on FDA IDE approval for STTAR-US. We're Mediogram—a clinical-execution partner running device and advanced-therapy trials in Eastern Europe (RNPC Cardiology, Minsk; FIH/early-feasibility sites; we own local regulatory, ethics, imaging QC, logistics). We've built infrastructure for high-enrolling tricuspid/mitral sites and can accelerate your US trial timeline. Would you be open to a 15-minute call to explore partnership opportunities? Best, Mediogram BD",
    "url": "https://clinicaltrials.gov/study/NCT06700239"
   },
   {
@@ -1289,15 +1289,15 @@
     "Symptomatic Severe Tricuspid Regurgitation"
    ],
    "posted": "2023-10-23",
-   "summary": "",
+   "summary": "TriFlo Cardiovascular develops transcatheter systems for the treatment of tricuspid valve regurgitation, a device company backed by Altano Capital and Ceros with $15.4M raised.",
    "email": "m.tocchi@meditrial.eu",
    "phone": "+39 06 45429780",
    "contact_name": "Monica Tocchi, MD",
    "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "Direct outreach to Chief Business Officer via executive intro or LinkedIn connection; CC trial contact Monica Tocchi.",
+   "who": "Frank Ahmann, Chief Business Officer at TriFlo Cardiovascular Inc.",
+   "angle": "Expand this pivotal tricuspid regurgitation trial into Eastern Europe where your RNPC Cardiology platform and local regulatory expertise can accelerate enrollment and ensure robust clinical operations.",
+   "opener": "Hi Frank—Mediogram runs high-enrolling cardiovascular device trials across Eastern Europe with imaging QC, regulatory, and ethics integration (RNPC Cardiology in Minsk as flagship). Your tricuspid regurgitation trial could benefit from our FIH pedigree and local market access in a region with strong structural-heart cases. Would be great to explore trial expansion. Best, Mediogram BD",
    "url": "https://clinicaltrials.gov/study/NCT06093828"
   },
   {
@@ -1321,15 +1321,15 @@
     "Mitral Valve Disease"
    ],
    "posted": "2023-05-23",
-   "summary": "",
+   "summary": "P+F Products + Features is an Austrian-German transcatheter structural heart device company seeking €70M in funding (targeting IPO/partnership within 5 years); they are in early-stage trial recruitment for their MUNICH mitral valve replacement system across Latin America.",
    "email": "m.tocchi@meditrial.net",
    "phone": "9176841700",
    "contact_name": "Monica E Tocchi, MPH, PhD",
    "pi": "Katharina Kiss, MD (CEO, Products & Features)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "Direct outreach via Monica E Tocchi (Study Contact) to explore regional trial expansion; CC: Katharina Kiss (CEO, your point of contact on record)",
+   "who": "Monica E Tocchi, MPH, PhD (Study Contact/CTA lead); copy Katharina Kiss, MD, CEO/Principal Investigator",
+   "angle": "Mediogram's RNPC cardiology infrastructure and high-volume Eastern European enrollment can accelerate MUSE trial recruitment and add meaningful geographic diversification beyond current Latin America footprint—critical for device approval readiness.",
+   "opener": "Hi Monica and Katharina, We've noted P+F's MUNICH TMVR trial (MUSE, NCT05871983) is positioned for Central/Eastern European expansion as a natural next phase. Mediogram operates a high-enrolling cardiovascular device network across Minsk and Eastern Europe with integrated regulatory and imaging QC capabilities. We'd welcome a conversation about whether Eastern European mitral regurgitation patients represent a recruitment opportunity for your upcoming sites. Best, [Mediogram BD Lead]",
    "url": "https://clinicaltrials.gov/study/NCT05871983"
   },
   {
@@ -1348,15 +1348,15 @@
     "Tricuspid Regurgitation"
    ],
    "posted": "2021-12-29",
-   "summary": "",
+   "summary": "Shanghai Huihe Medical Technology develops cardiovascular interventional medical devices and has developed a tricuspid valve interventional repair system (K-Clip), fitting your structural heart device expertise.",
    "email": "",
    "phone": "",
    "contact_name": "",
    "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "LinkedIn to Regulatory/Clinical lead + founder direct via corporate site",
+   "who": "Ms. Lin Lin, Founder & CEO, former cardiologist at Ruijin Hospital (no published Clinical Operations or BD lead identified)",
+   "angle": "Well-funded ($28M Series B+ co-led by Shanghai International Group, IDG Capital, Sherpa Venture Capital) sponsor expanding confirmatory K-Clip tricuspid trial globally—Eastern Europe represents untapped high-enrolling opportunity.",
+   "opener": "Huihe's K-Clip program is entering confirmatory phase with significant backing, yet has zero sites listed in Eastern Europe—a region where Mediogram delivers high-enrolling cardiovascular device trials with local regulatory expertise, QC imaging, and logistics. We've successfully operated RNPC Cardiology (Minsk) and early-feasibility sites across the region. Would Ms. Lin Lin's team welcome a conversation about accelerating enrollment outside China? — Mediogram BD",
    "url": "https://clinicaltrials.gov/study/NCT05173233"
   },
   {
@@ -1375,15 +1375,15 @@
     "Atrial Septal Defect"
    ],
    "posted": "2026-04-14",
-   "summary": "",
+   "summary": "Lifetech Scientific is a Hong Kong-listed (1302.HK) Chinese developer of minimally invasive cardiovascular devices with broad emerging-market reach and proven track record in structural heart interventions including atrial septal defect closure systems.",
    "email": "liuxiaoying@lifetechmed.com",
    "phone": "+8618500890555",
    "contact_name": "Lifetech Technology (Shenzhen) Co., Ltd.",
    "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "LinkedIn outreach to Steven Pimento, then direct email via provided contact (liuxiaoying@lifetechmed.com) referencing clinical operations interest",
+   "who": "Steven P. Pimento, Global Head, Clinical Affairs Operations & Product Development",
+   "angle": "Mediogram's Eastern European site network and imaging QC capabilities can accelerate Absnow II early feasibility and regulatory strategy in underserved regional markets with high procedural volumes.",
+   "opener": "Steven—Mediogram runs high-enrolling cardiovascular device trials across Eastern Europe with owned regulatory, ethics, and imaging infrastructure (RNPC in Minsk as anchor). We believe your Absnow II ASD program would benefit from our regional sites and local expertise to support early feasibility work and market expansion. Would you be open to a brief call to explore fit? Regards, Mediogram BD",
    "url": "https://clinicaltrials.gov/study/NCT07529028"
   },
   {
@@ -1404,15 +1404,15 @@
     "Advanced Heart Failure"
    ],
    "posted": "2025-11-18",
-   "summary": "",
+   "summary": "Shenzhen Core Medical Technology develops implantable and interventional artificial heart products, currently scaling a novel magnetic-levitation biventricular assist device platform with $29M in total funding and preparing for Shanghai Stock Exchange IPO in November 2025—a high-growth, well-capitalized sponsor entering European markets.",
    "email": "shixiaoli@coretechmed.com",
    "phone": "+86 13418601356",
    "contact_name": "Lily Shi",
    "pi": "Jan D Schmitto (Hannover Medical School)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "Direct outreach via Lily Shi (study contact); CC legal representative Yu Shunzhou for institutional weight",
+   "who": "Lily Shi, Study Contact (shixiaoli@coretechmed.com / +86 13418601356); escalate to Yu Shunzhou (Legal Representative)",
+   "angle": "The DuoCor 2 DOMINATE Study is a prospective multi-center evaluation for advanced biventricular heart failure, with estimated start April 2026 and Germany as the planned country—a perfect early-stage partnership to establish Eastern European infrastructure before enrollment acceleration.",
+   "opener": "Dear Lily, We've been following Core Medical's impressive development of the DuoCor platform and your DuoCor 2 DOMINATE study launching in Germany. Mediogram specializes in rapid site activation and enrollment in Eastern Europe (RNPC Cardiology network, regulatory/ethics expertise, QC imaging), and we see strong opportunity to add high-enrolling biventricular heart failure centers in your EU expansion. Would you be open to a brief discussion about site partnership options for DuoCor 2? Best regards, [Your Name], BD, Mediogram",
    "url": "https://clinicaltrials.gov/study/NCT07233876"
   },
   {
@@ -1433,15 +1433,15 @@
     "High-risk PCI"
    ],
    "posted": "2025-01-01",
-   "summary": "",
+   "summary": "Suzhou Hearthill is developing Ventiflow LP, a transcatheter left ventricular assist device for high-risk PCI procedures—a niche, capital-intensive cardiovascular device segment where experienced clinical trial partners add significant value.",
    "email": "azzyj12@163.com",
    "phone": "086-13901330652",
    "contact_name": "Yujie Zhou, MD",
    "pi": "Yujie Zhou, MD (Beijing Anzhen Hospital)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "Direct email to Yujie Zhou, MD (study contact: azzyj12@163.com), CCing the trial lead at Beijing Anzhen Hospital; request brief call to explore collaboration.",
+   "who": "Yujie Zhou, MD (Study Contact / Principal Investigator, Beijing Anzhen Hospital)",
+   "angle": "Mediogram can accelerate Eastern European site activation and enrollment for their 250-patient, multicenter randomized Ventiflow LP vs. VA-ECMO trial, leveraging high-enrolling cardiac centers in our RNPC network.",
+   "opener": "Dr. Zhou, Mediogram partners with cardiovascular device sponsors to activate high-enrolling sites and manage regional trials across Eastern Europe (Minsk, Belarus hub). We've identified your Ventiflow LP trial as a strong fit for our network—particularly for early-feasibility device studies in high-risk interventional cardiology. Would you have 20 minutes this month to discuss how we might support enrollment acceleration? Best regards, [Name], BD, Mediogram",
    "url": "https://clinicaltrials.gov/study/NCT06754839"
   },
   {
@@ -1461,15 +1461,15 @@
     "Heart Failure With Preserved Ejection Fraction"
    ],
    "posted": "2025-08-14",
-   "summary": "",
+   "summary": "35Pharma is a Montreal-based clinical-stage biopharmaceutical company (founded 2021) focused on TGF-beta superfamily biologics for pulmonary hypertension, obesity, and heart failure—a perfect fit for your cardiology trial expertise in Eastern Europe.",
    "email": "clinicaltrials@35pharma.com",
    "phone": "438-439-9168",
    "contact_name": "Roxanne Julien, M.Sc",
    "pi": "Monique Champagne, M.Sc (35Pharma Inc)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "Direct email to VP Clinical Operations: Monique Champagne (c[***]@35pharma.com) or clinical trials contact Roxanne Julien (clinicaltrials@35pharma.com)",
+   "who": "Monique Champagne, Vice President Clinical Operations",
+   "angle": "HS235 targets cardiometabolic disease and obesity in HFpEF patients—Mediogram's Eastern European cardiovascular drug/advanced-therapy trial infrastructure and regulatory/ethics expertise directly accelerate their Phase 1 enrollment and site expansion.",
+   "opener": "Monique—We're Mediogram, a clinical-execution partner running cardio and advanced-therapy trials across Eastern Europe (Minsk-based, high-enrolling sites, local regulatory/ethics/imaging QC in-house). We've followed 35Pharma's HS235 HFpEF program and believe our obese-patient population density and established site network in the region could materially reduce your timeline and cost to Phase 1 readout. Would you be open to a 20-minute call to explore fit? – Mediogram BD",
    "url": "https://clinicaltrials.gov/study/NCT07123779"
   },
   {
@@ -1491,15 +1491,15 @@
     "Heart Failure At NYHA Stage III or IV"
    ],
    "posted": "2025-03-10",
-   "summary": "",
+   "summary": "HELP Therapeutics (Nanjing) is a Series C-funded iPSC cardiac cell therapy company with FDA-cleared IND (Oct 2024) for HiCM-188; strong fit for Mediogram given Phase 1/2 expansion and existing China-based trial infrastructure.",
    "email": "wangjx@helpsci.com.cn",
    "phone": "+86-18565616060",
    "contact_name": "Jiaxian Wang, MD, PhD",
    "pi": "Yongfeng Shao, MD, PhD (Jiangsu Provincial People's Hospital (First Affiliated Hospital of Nanjing Medical University))",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "Direct email to Jiaxian Wang (wangjx@helpsci.com.cn, the founder/CEO and listed study contact), with follow-up via Dr. Yongfeng Shao (PI at Jiangsu Provincial People's Hospital) as clinical validator.",
+   "who": "Dr. Jiaxian Wang, Founder & CEO (clinical/regulatory authority for trial decisions); or escalate inquiry via principal investigator Dr. Yongfeng Shao for site credibility",
+   "angle": "Mediogram can accelerate their China Phase 1/2 enrollment by adding high-volume cardiology sites in Eastern Europe with proven LVAD/CABG surgical infrastructure and regulatory/ethics pre-positioning—mirroring their Jiangsu model at scale.",
+   "opener": "Dr. Wang, We've observed your IPSC-CMs + CABG/LVAD trial opening in China and believe Mediogram's Eastern European cardiac surgery network (RNPC Cardiology Minsk + high-enrolling partners) can materially de-risk Phase 1/2 enrollment timelines. Our owned regulatory, ethics, imaging QC, and logistics reduce site prep friction. We'd welcome a call to explore how a second cohort or expanded geography strengthens your clinical readout. Best, [Your Name], BD, Mediogram",
    "url": "https://clinicaltrials.gov/study/NCT06866600"
   },
   {
@@ -1518,15 +1518,15 @@
     "Primary Hypercholesterolemia"
    ],
    "posted": "2026-02-06",
-   "summary": "",
+   "summary": "Hangzhou Dinovate is an early-stage Chinese biotech developing DNV001, a novel LDL-C–lowering injection for statin-resistant hypercholesterolemia with a Phase II trial launching imminently.",
    "email": "liangn@dinovatebio.com",
    "phone": "+86 13761493269",
    "contact_name": "Nian Liang",
    "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "Direct email to trial contact Nian Liang, CC'd to business development via company website inquiry form; confirm via LinkedIn if leadership directory accessible.",
+   "who": "Nian Liang (Study Contact) or Clinical Development/Business Development lead (to be identified via follow-up)",
+   "angle": "We can accelerate DNV001's Phase II enrollment across Eastern Europe through our RNPC Cardiology Minsk hub and high-enrolling regional cardiovascular sites—a geographic/operational gap for China-only sponsors seeking global trial data.",
+   "opener": "Dear Nian Liang and team, Mediogram runs Phase II cardiovascular device and advanced-therapy trials across Eastern Europe with proven enrollment speed at 10+ sites. We see DNV001's Phase II is pre-launch; we'd welcome a brief call to discuss how our Minsk cardiology center and regional lipid-specialist network could support international enrollment for this high-value LDL-lowering program. Best, [Your name], Business Development, Mediogram",
    "url": "https://clinicaltrials.gov/study/NCT07391722"
   },
   {
@@ -1547,15 +1547,15 @@
     "Ischemic Heart Disease"
    ],
    "posted": "2026-01-16",
-   "summary": "",
+   "summary": "Heartseed Inc is a Japanese biotechnology company focused on developing and commercializing regenerative medicine treatments for severe heart failure, and they are actively recruiting for EMERALD—the world's first catheter-delivered iPSC cardiomyocyte trial.",
    "email": "contact@heartseed.jp",
    "phone": "+8163801068",
    "contact_name": "Heartseed Inc.",
    "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "Akira Masuda, Head of Strategic Finance and IR Dept. (ir@heartseed.jp) or direct outreach to Kikuo Yasui, COO",
+   "who": "Kikuo Yasui, Chief Operating Officer (joined Heartseed in 2019) with robust experiences in Business Development, Market Access and Commercial Operations; backup: Akira Masuda, Head of Strategic Finance and IR Dept.",
+   "angle": "EMERALD marks the world's first clinical trial to administer iPS cell-derived cardiomyocyte spheroids using a catheter, and Mediogram's high-enrolling Eastern European cardiac sites with regulatory expertise can accelerate global Phase 1/2 expansion beyond Japan.",
+   "opener": "Dear Kikuo,\n\nWe're Mediogram, a clinical-execution partner running advanced-therapy and cardiovascular device trials across Eastern Europe with dedicated cardiology capability, imaging QC, and regulatory/ethics infrastructure. Your first EMERALD patient dosed successfully in March 2026—we'd like to discuss how our established high-enrolling sites in RNPC Cardiology (Minsk) and regional networks can help you scale recruitment and meet global Phase 1/2 endpoints efficiently.\n\nLooking to set up a brief call.\n\n—Mediogram BD",
    "url": "https://clinicaltrials.gov/study/NCT07347197"
   },
   {
@@ -1578,15 +1578,15 @@
     "NYHA Class II Heart Failure"
    ],
    "posted": "2026-05-08",
-   "summary": "",
+   "summary": "FIRE1 is a Dublin-based medtech company developing implantable IVC sensors for remote heart failure management, backed by Novo Holdings, Polaris Partners, and Medtronic with $120M in recent funding.",
    "email": "NORM-HF@fire1foundry.com",
    "phone": "+1 617-802-5911",
    "contact_name": "Troy Penz",
    "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "Direct outreach to Troy Penz (study contact) + clinical-operations lead search",
+   "who": "Annette Kent, Clinical Director (or Head of Clinical Operations once identified)",
+   "angle": "Your NORM-HF pivotal trial recruiting in US can leverage Mediogram's Eastern European cardiovascular expertise and regulatory/QC infrastructure to accelerate enrollment and reduce site operational burden.",
+   "opener": "Hi Annette/Troy—Mediogram runs high-enrolling cardio device and advanced-therapy trials across Eastern Europe with local regulatory expertise and imaging QC. Your NORM-HF pivotal would benefit from our RNPC Cardiology site network and operational infrastructure to strengthen enrollment velocity. Happy to explore collaboration. Best, [Your Name] | Mediogram BD",
    "url": "https://clinicaltrials.gov/study/NCT07574593"
   },
   {
@@ -1609,15 +1609,15 @@
     "Heart Failure NYHA Class III"
    ],
    "posted": "2025-11-18",
-   "summary": "",
+   "summary": "CVRx is a commercial-stage medical device company that develops, manufactures, and commercializes neuromodulation solutions for patients with cardiovascular diseases, specifically their flagship Barostim device for heart failure—a direct market fit for late-stage trial expansion and real-world evidence generation.",
    "email": "",
    "phone": "",
    "contact_name": "",
    "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "LinkedIn outreach to Chief Revenue Officer (Robert John) or Chief Operating Officer (Brent Binkowski), or direct BD contact via CVRx clinical operations email; copy CEO Kevin Hykes.",
+   "who": "Robert John, Chief Revenue Officer (since June 2024); Brent Binkowski, Chief Operating Officer (since August 2025); or clinical operations/BD lead if available via website contact form.",
+   "angle": "CVRx is currently sponsoring the BENEFIT-HF clinical trial (Barostim-enabled neurohormonal intervention for heart failure), launched March 2026 with completion expected January 2033—Mediogram can add high-enrolling RNPC Cardiology sites in Eastern Europe to accelerate enrollment and strengthen global data.",
+   "opener": "Hi Robert/Brent—We are Mediogram, a clinical-execution partner with dedicated cardiovascular trial sites (RNPC Cardiology, Minsk) that specialize in heart failure and arrhythmology. We see CVRx is enrolling the BENEFIT-HF trial and would like to discuss how we can expand your enrollment footprint into Eastern Europe through our established, regulated infrastructure. Would you be open to a brief call with our BD team this month? Best, Mediogram",
    "url": "https://clinicaltrials.gov/study/NCT07232030"
   },
   {
@@ -1636,15 +1636,15 @@
     "Heart Failure With Reduced Ejection Fraction (HFrEF)"
    ],
    "posted": "2026-05-13",
-   "summary": "",
+   "summary": "AnaCardio AB is a Swedish clinical-stage biotech developing AC01, a first-in-class oral ghrelin receptor agonist for heart failure with reduced ejection fraction, backed by $19M Series A extension from Novo Holdings and tier-1 VCs.",
    "email": "studyinfo@anacardio.com",
    "phone": "+46 760 542 609",
    "contact_name": "Robert Edfors, MD, PhD",
    "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "Direct outreach to Chief Development Officer (Elin Rosendahl) via LinkedIn and studyinfo@anacardio.com",
+   "who": "Elin Rosendahl, Chief Development Officer / Head of Clinical Operations",
+   "angle": "AC01 Phase 2 AC01 HFrEF trial launching August 2026 with global site expansion urgently needed—Mediogram's Eastern Europe cardiovascular infrastructure and high-enrolling partners (RNPC Cardiology, Minsk) directly address their enrollment bottleneck.",
+   "opener": "Elin, we track early-stage cardiovascular trials across Eastern Europe and noticed AC01 Phase 2 is launching site recruitment soon. Mediogram operates high-enrolling sites in the region with deep cardiology expertise and established regulatory/ethics pathways. Let's discuss how we can accelerate your enrollment timeline. —Mediogram BD",
    "url": "https://clinicaltrials.gov/study/NCT07584967"
   },
   {
@@ -1666,15 +1666,15 @@
     "Chronic Heart Failure"
    ],
    "posted": "2024-01-24",
-   "summary": "",
+   "summary": "Heartfelt Technologies is a Cambridge-based AI-powered heart failure remote monitoring company that has raised $4.48M and recently received FDA Breakthrough Device Designation for their passive, non-contact optical monitoring system.",
    "email": "usa.trial@hftech.org",
    "phone": "+441223 967250",
    "contact_name": "WH Wilson Tang, MD",
    "pi": "WH Wilson Tang, MD (Cleveland Clinic, USA)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "Direct outreach to WH Wilson Tang, MD at Cleveland Clinic (study contact listed) + LinkedIn to CEO Shamus Husheer",
+   "who": "Shamus Husheer, CEO (primary) + Study Operations lead via WH Wilson Tang",
+   "angle": "Mediogram can accelerate their US HEARTFELT Study expansion with high-enrolling Eastern European cardiovascular sites, advanced-therapy feasibility expertise, and local regulatory/QC infrastructure to support multi-center recruitment.",
+   "opener": "Dr. Tang, we're Mediogram—a clinical-execution partner running high-enrollment CV device and therapy trials across Eastern Europe with dedicated cardiology sites, FIH expertise, and integrated regulatory/imaging QC. We saw Heartfelt's recent FDA Breakthrough designation and HEARTFELT Study momentum, and believe our Eastern European sites and operational depth could materially accelerate enrollment in your chronic heart failure program. Would you be open to a brief conversation about partnership opportunities?",
    "url": "https://clinicaltrials.gov/study/NCT06222099"
   },
   {
@@ -11000,96 +11000,5 @@
    "url": "https://clinicaltrials.gov/study/NCT05682378"
   }
  ],
- "funding": [
-  {
-   "company": "Abiomed (co-leading) / Heart Failure device Startup (unnamed)",
-   "amount": "$15M round",
-   "what": "Heart failure device",
-   "fit": "maybe - Abiomed is a major player in advanced circulatory support; could complement Mediogram's CV device trials depending on device type and therapeutic focus",
-   "angle": "Potential partnership or trial collaboration opportunity if the startup's device aligns with Mediogram's Eastern European trial network and unmet heart failure needs",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBEeU5sVGE5eDJILUVZTVM3bkRkMDlONklId3lFVnhUXzBZTld6TTdTTFdZT2E4cmNzc0VVZmxuSDNkbDljdmhNTjNIRnN3c3BNT3JGZXlSZTVEdC1Uc0pucTcxcEk0MTNpM1RxREJzN1lTQ3l6WDJz?oc=5",
-   "source": "calcalistech.com"
-  },
-  {
-   "company": "Cardiac Success Ltd.",
-   "amount": "$5.2M Series A",
-   "what": "Cardiac/cardiovascular medical device (specific indication unclear from headline)",
-   "fit": "maybe - Israeli medtech with cardiac focus aligns with Mediogram's cardiovascular device trials, but would need to verify if they operate in Eastern Europe or seek EMEA trials",
-   "angle": "Israeli cardiac device startup raising Series A could be prospect for clinical trial partnerships in Mediogram's Eastern European network.",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSUJoQ2t5eTNhMW9PRVRXMXk1N3dMbUhZcUhCbzZjUUU1YXJXU3hPOWN0aU1PaWhHUXRDR1E0WDY0U2VnQTFVYnZwOGs3bTl1U0VLV0FzblZMTmRvMmxUaHZENkpfZURvMWFWa0hGS2ozeGtxUkdrdDBKU09Mdk04Z3BqdDlrQXBSLUVKampQZmVUbFJmMVNSQzVkMFNpa3Q3WHVBdHFNTXYzaE9Na09xdlpBQm8zOXQ0Ykd2VW9OcmdwNnNZYkFpWFln?oc=5",
-   "source": "prweb.com"
-  },
-  {
-   "company": "Anteris",
-   "amount": "$320M aggregate capital raises",
-   "what": "Transcatheter aortic valve replacement (TAVR) devices",
-   "fit": "yes - direct competitor in structural heart/TAVR space where Mediogram runs trials",
-   "angle": "Major strategic validation of TAVR market from Medtronic signals continued demand for Eastern European trial sites and patient populations.",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcDZFS1RmUG5oVzRaRVhBanNqVXNUb2xVeU5Gc0ltbUZucXowTGl6U1o4aFF4WVVaR3o0QmFxY1ZFdTNITUlkZ3RMQjVRVkVTTG1UWS1PT2x5R3V1aW80VnhiaF9YSTUxV3BNd0JMSWRzT1pwNUxpSWJsMk1FVUJPNG4tNDh1TGd3elhpZmtLNG1sV2NNU0N6Z1Nn?oc=5",
-   "source": "Yahoo Finance"
-  },
-  {
-   "company": "Polares Medical",
-   "amount": "$50M (Series unknown)",
-   "what": "Mitral valve therapy/treatment technology",
-   "fit": "yes - cardiovascular device aligns with Mediogram's core focus on cardiovascular device trials in Eastern Europe",
-   "angle": "Potential trial partnership opportunity for mitral valve therapy in Mediogram's geographic footprint as Polares scales post-funding",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVmRjNUFQMlNBaGdxbDBQSHZRWk16Vmd4dHVLTHM5SWhFdU40VUhaUmxWcmVpQmR3MGFqdVFzWUFRRFhzMmNHeTRDbW13dzRNcXd4cnphRkFPTW95R0ltb2hITS1nZTBiZkZ2d2otMEpQTG1qSjZ0NXFQNFdzRjJxZnl1VmlxbDg3SmQ5bFlDRE9GNjZQWVdRM1lsVzBadkFYTExwdVY3TkpMSWM?oc=5",
-   "source": "ggba.swiss"
-  },
-  {
-   "company": "Edwards Lifesciences",
-   "amount": "unknown",
-   "what": "Transcatheter aortic valve replacement (TAVR) and transcatheter mitral valve therapy (TMTT) devices",
-   "fit": "yes - Edwards is a major player in structural heart interventions; Mediogram runs cardiovascular device trials in Eastern Europe where Edwards likely has expansion/clinical development needs",
-   "angle": "Edwards' strong TAVR and TMTT growth signals robust demand for minimally invasive cardiac procedures that could drive trial recruitment opportunities in emerging markets.",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jU1AwMHl4U09RVmxYT3RVLXVrc3BPVzYwOGFYbS1QTXY3am9yMHRDVFpXd2hrdE1LbUt4bktobGJSTnhmZkNFMUhLVTY0RjBDR1M3ckkwTUJCVGs?oc=5",
-   "source": "finance.biggo.com"
-  },
-  {
-   "company": "Evom AI",
-   "amount": "unknown",
-   "what": "Cardiac AI products with regulatory approvals",
-   "fit": "yes - cardiac AI aligns with Mediogram's cardiovascular device trials and Eastern Europe presence; regulatory-approved cardiac solutions could be trial candidates or partnership opportunities",
-   "angle": "Regulatory-cleared cardiac AI platform seeking growth capital - potential integration target or trial collaboration for cardiovascular applications",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WdFNfVzk3SGx4Y3h2eFhWYTdpVURIcnA4TVFjSTR2WDJwYkJmcjl1LXB6bnZzeXgxeEYxRWlaeGxoeUZRTjltMWhrX2JtcVNTWXBR?oc=5",
-   "source": "Wowtale"
-  },
-  {
-   "company": "Field Medical, Inc.",
-   "amount": "unknown",
-   "what": "Next-generation cardiac ablation technology",
-   "fit": "yes - cardiac ablation is a core cardiovascular procedure; Mediogram runs CV device trials in Eastern Europe and could evaluate this technology in their trial network",
-   "angle": "Oversubscribed seed round signals strong investor confidence in cardiac ablation innovation, potential trial partnership opportunity for Mediogram's CV device portfolio",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPaVVrdVcxNGhNeklBdjhJTFRnM21SRS1BSGF2eVVQV1g3LXpPbDZKRHZuYVNMOVJEOTZMVGgyck1JSG50aHFPQU9zNlFBUFBhZ2N2cTNURV9oTkdsdDkycGo4SDVjWkliWEZKaF81VTJCWWNmaG9DMkhnVk9XdEQ5cU9UczNSWnhCR2FnbXRUQnFHV3h6eGQtVHZaZk5mRGVmbTJ5bElGa3R2UWRLS3ZXdE9SMEtHem50Tkx6dWJkY0pOUmxyUlR0X3ptLW9PSTBHcWcwdk1ZYkxndUZ6eFNVNkl0c0ZJZklHTnhDZWowQkhNRE1TeHV3?oc=5",
-   "source": "PR Newswire"
-  },
-  {
-   "company": "Acorai",
-   "amount": "$4M",
-   "what": "Heart failure treatment/diagnostic solutions",
-   "fit": "yes - direct cardiovascular focus aligns with Mediogram's heart failure trial expertise in Eastern Europe",
-   "angle": "Well-funded cardiac startup could be potential trial partner or acquisition target for advanced heart failure therapies",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUlZQTGRlZUpCNjdQWnFaUjNpSWwwSGl3Zm1ZaFhRUEZ5RFBjZGdMM3ZNZWR1MVI2RjZtdXB5V3hjOEdoVVFQcENMWTFYTDhCNlZ5cEhsX1VnUU5jdGgyYUJjcXg2aG5aZ2VJZGs3OW91a1JIV2I5Q01hWm9zWWVVV1lUa2U3bFdKUm5sNGpJRU1RRzdESEUwdzk0dWxXUW91Q0U4UzlxOS10NnRUQkRRTUV2Ni1fNzEzZVFSbEYyQWRPMVZVNzFtR05B?oc=5",
-   "source": "PR Newswire"
-  },
-  {
-   "company": "Cardiogram",
-   "amount": "$2M",
-   "what": "AI-powered wearable technology platform that predicts heart health issues and cardiovascular events",
-   "fit": "maybe - complementary remote monitoring tech for trial patient populations, but different geography focus (US-based) and not a CRO/trial operator",
-   "angle": "Wearable-derived cardiac data could enhance patient safety monitoring and compliance tracking in Mediogram's cardiovascular trials, though direct partnership or acquisition more likely than direct competition",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdmpKbXBpaEd3b3NEYS1QZjZLa1RJaGZlUmpUazhVa2NBZ3BpNjVVTWxVRjBQaUw4ODF3T3pzRnNEN2V6YXpFM1VNUXpMeG0tYVBZRUlxU21JOGRQNkdkdndpNnlYT2JwU1UtQ0VOR0pKMEVsc05Wcko4SURydENCY2NSOWJXaFE5anBETDl6Y2owTW1UdDNWNnNWRnI0T1BTSmZzWWd3TjdGOExu?oc=5",
-   "source": "TechCrunch"
-  },
-  {
-   "company": "Unknown - not specified in headline",
-   "amount": "$30M - round type unknown",
-   "what": "Duchenne muscular dystrophy cardiomyopathy treatment",
-   "fit": "no - DMD is a genetic/neuromuscular disorder, outside Mediogram's cardiovascular device and drug trial focus in Eastern Europe",
-   "angle": "Plano biotech firm's DMD cardio funding signals growing investment in cardiac complications of genetic diseases, but geographically and therapeutically misaligned with Mediogram's portfolio",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRFVzOEtEOFRnX2o4eVozUVF1ZVA4T0VHWUNFWXV0Q3dzMUlsMWQ1aXVqc0V1LXQwWWlDckE1a3pfNksyR0c5UVJCOW9ObU1TZW9xUXZTUTdaTXNOUkl3a2xLUFBEbUxNV2ZteFBUeW9tM245aE4yX0M3SVNqR3RJeTJjWnVtWTAwdVVvQVpMUW9hM0pHMENIRG5ZNXpHWno2T1RjOHlxcEZZTHhJanFYVTZPUnBnbzVKaUh5ekZJRWdTZnNQSHRlVGNwSmVxUQ?oc=5",
-   "source": "D Magazine"
-  }
- ]
+ "funding": []
 }
