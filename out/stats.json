@@ -59,6 +59,12 @@
    "new_leads": 2,
    "hot": 183,
    "funding": 3
+  },
+  {
+   "day": "2026-08-06",
+   "new_leads": 3,
+   "hot": 181,
+   "funding": 0
   }
  ]
 }
