@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-16T06:29:04Z",
- "day": "2026-08-16",
+ "updated": "2026-08-17T06:41:13Z",
+ "day": "2026-08-17",
  "tiers": [
   "HOT",
   "WARM",
@@ -18,7 +18,7 @@
   "hot": 176,
   "warm": 284,
   "in_region": 27,
-  "funding": 2,
+  "funding": 0,
   "device": 575,
   "drug": 142
  },
@@ -10825,24 +10825,5 @@
    "url": "https://clinicaltrials.gov/study/NCT06597019"
   }
  ],
- "funding": [
-  {
-   "company": "Heart devices pace medtech’s summer funding flows - MedTech Dive",
-   "amount": "",
-   "what": "",
-   "fit": "",
-   "angle": "",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbFh0dTQzVENlODZ5cmJaR3pWc3dpRkJfSE1NZEVvWWVkcmZnMFZVQ1FycFdQNXFtUGtvVGdpYjR3NDJjZUJWWjBuS2JJM1Iwa0wyM2pRbEd5RkIwblR2SjgzeWwtREtlU1ZqdzFjYjI1ZS0wWFozU1VlNkZwNVNWNXdrZnlhLXB6bHA1UUR6Q3E2Zw?oc=5",
-   "source": "MedTech Dive"
-  },
-  {
-   "company": "Tomoverse Imaging raises $3.65m to advance cardiac platform - Yahoo Finance",
-   "amount": "",
-   "what": "",
-   "fit": "",
-   "angle": "",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTmRGdDdIMS1HMEZnN0M3aEhtdGVZbWpfRnpuTi00V2hMbzJsaDY4UTV2dEQ1NS1MOTFGMEhSQXZ6Xy0tb2tfdUpDdXFMaGpSR1JhRm11YmFlWGtEQzJTLXBmTlVCTjJsSldUR01SUm9ZaTNBUFZYVEZNeGpvc0VRN093?oc=5",
-   "source": "Yahoo Finance"
-  }
- ]
+ "funding": []
 }
