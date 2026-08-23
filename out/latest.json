@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-22T06:31:52Z",
- "day": "2026-08-22",
+ "updated": "2026-08-23T06:32:10Z",
+ "day": "2026-08-23",
  "tiers": [
   "HOT",
   "WARM",
@@ -14,11 +14,11 @@
   }
  },
  "counts": {
-  "new_leads": 4,
+  "new_leads": 0,
   "hot": 175,
   "warm": 280,
   "in_region": 27,
-  "funding": 1,
+  "funding": 2,
   "device": 577,
   "drug": 139
  },
@@ -5305,15 +5305,15 @@
     "Hypercholesterolemia"
    ],
    "posted": "2026-02-11",
-   "summary": "",
+   "summary": "Beijing Suncadia (Hengrui subsidiary) is a China-based biopharmaceutical company advancing a novel ANGPTL3-targeting monoclonal antibody (SHR-1918) in lipid disorders with Phase 2/3 programs actively recruiting in their home market.",
    "email": "miaomiao.shi@hengrui.com",
    "phone": "+86-0518-82342973",
    "contact_name": "Miaomiao Shi",
    "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "Direct email to Miaomiao Shi (miaomiao.shi@hengrui.com) with cc to Hengrui's clinical operations leadership; LinkedIn outreach to identify current Clinical Development lead at Beijing Suncadia.",
+   "who": "VP/Head of Clinical Operations (likely at Hengrui given subsidiary structure); alternatively, Miaomiao Shi as study contact and trial coordinator.",
+   "angle": "Offer high-enrollment cardiovascular sites and localregulatory/ethics/imaging QC in Eastern Europe to accelerate multi-regional Phase 2/3 expansion of SHR-1918 beyond China-only footprint.",
+   "opener": "Hi [Name], we recognize Beijing Suncadia's SHR-1918 PCSK9/statin-refractory trial is now recruiting. Mediogram operates dedicated cardiovascular centers and early-phase infrastructure across Eastern Europe (Belarus, plus regulatory/ethics approval and central imaging QC in-house) with proven enrollment velocity in cardio-metabolic programs. We'd welcome a conversation about expanding your Phase 2/3 sites regionally. — Mediogram BD",
    "url": "https://clinicaltrials.gov/study/NCT07404553"
   },
   {
@@ -5334,15 +5334,15 @@
     "Homozygous Familial Hypercholesterolemia (HoFH)"
    ],
    "posted": "2026-03-24",
-   "summary": "",
+   "summary": "Eddingpharm is backed by investors including Genor Biopharma, HongShan, H&Q Asia Pacific, Taikang Life Insurance, and Caduceus Asia Partners, with their latest funding round being a reverse merger; they are a specialty pharmaceutical company founded in 2001 focused on cardiovascular diseases including innovative siRNA therapeutics.",
    "email": "Sophie.Song@eddingpharm.com",
    "phone": "86-13817957624",
    "contact_name": "Wei Song",
    "pi": "Kefei Dou, MD (Chinese Academy of Medical Sciences, Fuwai Hospital)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "Direct outreach via Wei Song (study contact) or Ruifang Liang (VP Clinical Development)",
+   "who": "Ruifang Liang, Vice President of Clinical Development or Li Zhi, Associate Director of Business Development",
+   "angle": "This multicenter Phase II dose-finding trial in HoFH patients aims to evaluate EDP167's efficacy and safety, with primary endpoint being LDL-C reduction after 24 weeks—an ideal fit for Mediogram's Eastern European RNPC cardiology network and early-feasibility expertise.",
+   "opener": "Wei / Ruifang—Mediogram runs high-enrolling cardiovascular drug and advanced-therapy trials across Eastern Europe with local regulatory, ethics, imaging QC and logistics. Your EDP167 HoFH trial's 24-week primary endpoint and siRNA complexity align perfectly with our RNPC Cardiology, Minsk hub and FIH capabilities. Can we explore adding Eastern European sites to accelerate enrollment? —Mediogram BD",
    "url": "https://clinicaltrials.gov/study/NCT07489209"
   },
   {
@@ -5363,15 +5363,15 @@
     "Friedreich's Ataxia (FA)"
    ],
    "posted": "2025-09-18",
-   "summary": "",
+   "summary": "Solid Biosciences is a precision genetic medicine company developing gene therapy candidates for rare neuromuscular and cardiac diseases including Friedreich's ataxia, with $240M in recent private placement funding from top-tier investors including Perceptive Advisors, Bain Capital Life Sciences, and RA Capital Management—they actively recruit for early-phase rare disease trials.",
    "email": "clinicaltrials@solidbio.com",
    "phone": "+1617-337-4680",
    "contact_name": "Solid Biosciences Clinical Trials",
    "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "Reach Noaman Akhtar, VP Head of Clinical Operations, via clinicaltrials@solidbio.com or explore intro through RA Capital (board-level investor) who may have relationship context.",
+   "who": "Noaman Akhtar, Vice President, Head of Clinical Operations",
+   "angle": "Mediogram's Eastern European cardiology + arrhythmia expertise aligns with Solid's CPVT pipeline expansion and SGT-212 (Friedreich's ataxia) site diversification needs beyond US-only enrollment.",
+   "opener": "Noaman, we noticed Solid's accelerating rare genetic disease pipeline—particularly SGT-212 for FA and CPVT programs. Mediogram runs high-enrolling early-phase CV and rare disease trials in Eastern Europe with established RNPC cardiology partnerships and direct regulatory/ethics access. Given your recent $240M raise and pipeline momentum, let's explore how we can de-risk enrollment and accelerate timelines. – Mediogram BD",
    "url": "https://clinicaltrials.gov/study/NCT07180355"
   },
   {
@@ -5392,15 +5392,15 @@
     "Nonvalvular Atrial Fibrillation"
    ],
    "posted": "2026-03-09",
-   "summary": "",
+   "summary": "Bosnalijek is Bosnia's largest pharmaceutical manufacturer with strong regional presence and experience in cardiovascular medicine manufacturing—a natural fit to collaborate on a clinical trial for apixaban, an anticoagulant they already understand commercially.",
    "email": "HalimaK@Bosnalijek.ba",
    "phone": "+387 62 478 535",
    "contact_name": "Halima Karakaš",
    "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "Direct email to existing contact + escalation to Nedim Uzunovic (CEO)",
+   "who": "Halima Karakaš (existing contact) + escalation path to CEO Nedim Uzunovic",
+   "angle": "Leverage their cardiovascular portfolio strength and established quality systems to expand into high-value clinical research execution in atrial fibrillation—a therapeutic area central to their product strategy.",
+   "opener": "Hi Halima, We've seen Bosnalijek's commitment to cardiovascular innovation through your product range, and we believe your manufacturing excellence in this space makes you ideally positioned to run apixaban adherence and safety trials. Mediogram brings CRO infrastructure, regulatory expertise, and Balkans trial site networks that complement your capabilities—we'd like to discuss how we can partner to bring this study to successful execution while building your clinical research footprint. Best regards, Mediogram",
    "url": "https://clinicaltrials.gov/study/NCT07458191"
   },
   {
@@ -5419,15 +5419,15 @@
     "Atrial Fibrillation (AF)"
    ],
    "posted": "2026-07-31",
-   "summary": "",
+   "summary": "Novartis regained abelacimab by buying Anthos Therapeutics in February 2025 for $925 million upfront, a large pharmaceutical company focused on cardiovascular and advanced-therapy innovation with significant clinical-trial infrastructure.",
    "email": "novartis.email@novartis.com",
    "phone": "1-888-669-6682",
    "contact_name": "Anthos Therapeutics a Novartis Company",
    "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "Regional Clinical Operations Lead at Novartis, via pharma partnering/BD contact",
+   "who": "Novartis Partnering Leadership Team (Global Head Corporate & Business Development or Head Alliance Management) or Director of Clinical Operations/Cardiovascular",
+   "angle": "Abelacimab is in a Phase 3 trial for atrial fibrillation and Novartis plans to file for approval in 2028—LILAC-TIMI 76 needs high-enrolling cardiovascular sites with proven arrhythmology expertise and regulatory competency in Eastern Europe.",
+   "opener": "We are Mediogram, a clinical-execution partner specializing in cardiovascular device and advanced-therapy trials across Eastern Europe. Your Phase 3 abelacimab study (LILAC-TIMI 76) aligns perfectly with our proven capabilities in high-complexity anticoagulation/antiarrhythmic trials—we operate RNPC Cardiology Minsk as a high-enrolling, fully certified site with local regulatory and imaging QC support. We'd welcome a brief conversation about how to accelerate enrollment in your target population unsuitable for standard anticoagulants. — Mediogram BD",
    "url": "https://clinicaltrials.gov/study/NCT07739888"
   },
   {
@@ -5448,15 +5448,15 @@
     "Heart Failure - NYHA II - IV"
    ],
    "posted": "2025-07-17",
-   "summary": "",
+   "summary": "Boston Scientific is a $20.1B global medical device company that develops and commercializes cardiac pacing and resynchronization technologies, with active clinical trial programs comparing left bundle branch area pacing to conventional approaches.",
    "email": "jacqueline.beaulieu@bsci.com",
    "phone": "1-800-227-3422",
    "contact_name": "Jacqueline Beaulieu",
    "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "Direct outreach to clinical trial operations via provided Jacqueline Beaulieu contact, or escalate to Eastern Europe regional leadership at Boston Scientific EMEA (Xavier Bertrand, President EMEA).",
+   "who": "Charlie Attlan, Senior Vice President, Strategy and Business Development (oversees clinical trial strategy, BD, M&A); or Joseph M. Fitzgerald, Executive Vice President and Group President, Cardiovascular (device division lead).",
+   "angle": "Mediogram offers RNPC Cardiology in Minsk as a high-enrolling, FIH-capable cardiovascular site with local regulatory and imaging QC expertise to accelerate recruitment and execution for Boston Scientific's LBBAP vs. CRT-D trial.",
+   "opener": "Dear Jacqueline / Charlie / Joseph, Mediogram operates RNPC Cardiology (Minsk, Eastern Europe's leading cardiac research center) with demonstrated enrollment velocity and expertise in complex device trials including CRT and arrhythmology studies. Given Boston Scientific's active LBBAP vs. conventional CRT-D trial, we'd welcome the opportunity to discuss bringing Mediogram as a high-performing site to support your trial timeline and patient recruitment. Would you have 20 minutes to explore this? Best, Mediogram Business Development",
    "url": "https://clinicaltrials.gov/study/NCT07069738"
   },
   {
@@ -5477,15 +5477,15 @@
     "Amyloid Cardiomyopathy"
    ],
    "posted": "2025-08-11",
-   "summary": "",
+   "summary": "Eidos Therapeutics (now part of BridgeBio, a publicly traded genetic-medicine biotech) develops small-molecule TTR stabilizers and has acoramidis (Attruby™) already FDA-approved for ATTR-CM with strong early commercial traction.",
    "email": "medinfo@eidostx.com",
    "phone": "1-415-887-1471",
    "contact_name": "Medical Information",
    "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "Mark McGovern, Vice President Clinical Operations (direct outreach via LinkedIn or medinfo@eidostx.com with copied Mark McGovern)",
+   "who": "Mark McGovern, VP Clinical Operations, or Ananth Sridhar, Chief Operating Officer (Eidos/BridgeBio)",
+   "angle": "Mediogram can expand ACT-EARLY OLE enrollment across Eastern Europe (Minsk, FIH sites, high-volume imaging QC infrastructure) as acoramidis commercializes globally, capturing long-term safety data in underserved regions.",
+   "opener": "Mark, Mediogram is a clinical-execution CRO with established cardiovascular infrastructure in Eastern Europe (RNPC Cardiology Minsk) and expertise in rare-disease cardiology trials. As ACT-EARLY OLE enrolls post-launch in new geographies, we can rapidly activate high-quality ATTR-CM sites in the region with local regulatory expertise and specialized imaging QC. Worth a 15-min exploratory call? —Mediogram BD",
    "url": "https://clinicaltrials.gov/study/NCT07116473"
   },
   {
@@ -5504,15 +5504,15 @@
     "Cardiomyopathy, Hypertrophic Obstructive"
    ],
    "posted": "2026-08-10",
-   "summary": "",
+   "summary": "Braveheart Bio is a clinical-stage biotechnology company developing a cardiac myosin inhibitor (BHB-1893) for hypertrophic cardiomyopathy, recently IPO'd raising $382.5M and preparing to initiate a global Phase 3 trial in obstructive HCM.",
    "email": "info@braveheart.bio",
    "phone": "(415) 707-6312",
    "contact_name": "Study Director",
    "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "Brittany de Temple, SVP Development Operations (Braveheart is actively building global sites and operations; direct outreach ideal given trial acceleration)",
+   "who": "Brittany de Temple, Senior Vice President of Development Operations—20+ years progressive clinical ops leadership; cc Michele Anderson, Chief Development Officer",
+   "angle": "Phase 3 oHCM trial in multiple geographies needed to complement existing China Phase 3; Mediogram's Eastern European cardio CRO + imaging QC expertise directly fit global site build-out requirements.",
+   "opener": "Brittany – We've followed BHB-1893's compelling Phase 2 oHCM gradient data and your Phase 3 launch timeline. Mediogram runs high-enrolling cardiovascular trials across Eastern Europe (RNPC Cardiology in Minsk, antiarrhythmic/antithrombotic focus). We'd like to explore whether our regulated CRO footprint and QC imaging infrastructure can accelerate your global enrollment strategy for the symptomatic oHCM trial. Could we brief your ops team in September? – Mediogram BD",
    "url": "https://clinicaltrials.gov/study/NCT07755904"
   },
   {
@@ -10874,13 +10874,22 @@
  ],
  "funding": [
   {
-   "company": "Ahead Health",
-   "amount": "$6M",
-   "what": "AI platform for early detection of cancer and heart disease",
-   "fit": "yes—early disease detection aligns with cardiovascular trial recruitment and patient stratification needs in Eastern Europe",
-   "angle": "AI-driven early diagnosis could identify trial-eligible patients earlier and improve enrollment efficiency for cardiovascular studies.",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaWZfRVhpUEdxM1N2QUJsajBxbGxRa3FnQk5yU0NDNjNLeHJWMWl0V3NldTh5dlBVSk1MVlRvVERTbVVkSTZ2T1IwVGh1Z1VoQjNKRzFlUFRTMmlvQUdxUlQ0VUh3bTJ6MGdYTHAyam54OHcwTHFNTXE0eHpSd0FDNnBUTlVXOUVtN2xYcnRsUHA3Zw?oc=5",
-   "source": "Tech Funding News"
+   "company": "V-Wave nets $70M in Series C financing for its heart shunt device - Fierce Biotech",
+   "amount": "",
+   "what": "",
+   "fit": "",
+   "angle": "",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX1pYdVZTZ1ZYaFBhYkpBbG9zcG5tVFRnS1otREhhZ0dlcFVYbmpaSy14Rm8xVzIxMmF6V1FsU20wc0FzTHA5Y1ZFb1R3dE5YU21mTXNvMk43LUtZOEJfaDNmU1llUEllQzJPZE1JTWJ4QV9xSURmRTIxeVlQbHFxOTdHbFAzb3JMNXRWalZ1MV9tdGhublVZc3Y3Rm1meHgt?oc=5",
+   "source": "Fierce Biotech"
+  },
+  {
+   "company": "Vectorius Medical Technologies raises $10m for V-Lap wireless implantable heart monitor - MassDevice",
+   "amount": "",
+   "what": "",
+   "fit": "",
+   "angle": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcFJDOGxySElCZU5xdURrenF3Nlk1azVWSl80NlR5eDhOY1g3U29aekFBa3lCQzFPQWs2UXdWMXNSZTdPN1k2SlI3UlJhM2ZuOWE3Slk3Z3ItTkZTN21vaGNOZkdaSWxpdUdXWkE0MGlXeHRoa0FRTnN6dlBfQ3VoX0V3Z29xY0xCUTJtT292YzJkN1Y3R2h1RFJOSnczSlRvRWhhRmFUWnFXU2hTZWxDOXpJNmI?oc=5",
+   "source": "MassDevice"
   }
  ]
 }
