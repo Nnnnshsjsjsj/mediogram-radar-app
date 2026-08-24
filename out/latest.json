@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-23T06:32:10Z",
- "day": "2026-08-23",
+ "updated": "2026-08-24T06:43:50Z",
+ "day": "2026-08-24",
  "tiers": [
   "HOT",
   "WARM",
@@ -18,7 +18,7 @@
   "hot": 175,
   "warm": 280,
   "in_region": 27,
-  "funding": 2,
+  "funding": 3,
   "device": 577,
   "drug": 139
  },
@@ -10874,22 +10874,31 @@
  ],
  "funding": [
   {
-   "company": "V-Wave nets $70M in Series C financing for its heart shunt device - Fierce Biotech",
+   "company": "FIRE1 raises $50M to develop remote heart monitoring device - Fierce Biotech",
    "amount": "",
    "what": "",
    "fit": "",
    "angle": "",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX1pYdVZTZ1ZYaFBhYkpBbG9zcG5tVFRnS1otREhhZ0dlcFVYbmpaSy14Rm8xVzIxMmF6V1FsU20wc0FzTHA5Y1ZFb1R3dE5YU21mTXNvMk43LUtZOEJfaDNmU1llUEllQzJPZE1JTWJ4QV9xSURmRTIxeVlQbHFxOTdHbFAzb3JMNXRWalZ1MV9tdGhublVZc3Y3Rm1meHgt?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPS212dXRxbHlxamh5QUQ0M3NvcXRXclNNSGhFOTlxZ3Q4V1A5THNySkUwaGFlV2VON2h0ZG40bGgxckk0bk9RNXJFbFFDWXNiSmlFVm84XzRpc0c2c3JrRDVPNmZCM09zQnp3NkdwRkRpQmotY05obEplRllUM0RYRlJYLS03R3NlYTk2WFloWkdBbXQ2d2pmSGR3TW4?oc=5",
    "source": "Fierce Biotech"
   },
   {
-   "company": "Vectorius Medical Technologies raises $10m for V-Lap wireless implantable heart monitor - MassDevice",
+   "company": "A busy week for cardiology investments: 3 tech companies report big financing rounds - Cardiovascular Business",
    "amount": "",
    "what": "",
    "fit": "",
    "angle": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcFJDOGxySElCZU5xdURrenF3Nlk1azVWSl80NlR5eDhOY1g3U29aekFBa3lCQzFPQWs2UXdWMXNSZTdPN1k2SlI3UlJhM2ZuOWE3Slk3Z3ItTkZTN21vaGNOZkdaSWxpdUdXWkE0MGlXeHRoa0FRTnN6dlBfQ3VoX0V3Z29xY0xCUTJtT292YzJkN1Y3R2h1RFJOSnczSlRvRWhhRmFUWnFXU2hTZWxDOXpJNmI?oc=5",
-   "source": "MassDevice"
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVXczYmtDdmJTLWxlRm5LcXY0eU5XWUxxVDJSRjM1UENiRFVmbFZJcVlRRUxVdzAxNDA3U3ZWbmQxNnRhWFJaWFlwMWhxYW5TSTFLdngwSkV1N1ljZDRnb1QxVlhaWUpPeWF0MHhKS3FjeWxvTnNERW9LMkQ2ZG9MZV9sbEttbk1LeC1BaklFUkN1ekcweVk4MGlpSDhHU1lXTzVSdEZTblIwWVlmMERqT2JPUmdxdkY5cXFqc2hPWlY4Y1pENWwwb19wQ2xOTXc?oc=5",
+   "source": "Cardiovascular Business"
+  },
+  {
+   "company": "The Funded: A provider of a blood pressure monitor and heart health app scored $70M in new funding - The Business Journals",
+   "amount": "",
+   "what": "",
+   "fit": "",
+   "angle": "",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeWQ5MTF4bndyRXRmUVBmTzRwQkhrVmxGd0pJMmloVHRVSGJhWktWQWxheDVXYkNYNFZudjNZR0xPMFJycXVKYnJUYzhhR1ZVY245cDY0LWEyRHdTT1NVdDh1NDVyRkF1dGN3NHdrdGZWdURBZ1dYenotWVRvTFJHX1F0eTVWN0VJZmJiUThjU0hKT3p2cXZ5cDlR?oc=5",
+   "source": "The Business Journals"
   }
  ]
 }
