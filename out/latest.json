@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-29T12:10:23Z",
- "day": "2026-08-29",
+ "updated": "2026-08-30T11:05:49Z",
+ "day": "2026-08-30",
  "tiers": [
   "HOT",
   "WARM",
@@ -18,7 +18,7 @@
   "hot": 176,
   "warm": 281,
   "in_region": 28,
-  "funding": 1,
+  "funding": 2,
   "device": 579,
   "drug": 144
  },
@@ -10882,13 +10882,22 @@
  ],
  "funding": [
   {
-   "company": "SonoThera",
-   "amount": "$125M (series/round unknown)",
-   "what": "Non-viral gene therapy platform using ultrasound-based delivery",
-   "fit": "maybe - gene therapy is advanced therapy but ultrasound delivery may not align with Mediogram's cardiovascular trial focus; worth monitoring for potential cardiovascular applications",
-   "angle": "Non-viral gene delivery could represent next-generation therapeutic modality for future cardiovascular/advanced-therapy trial opportunities in Eastern European markets",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLThEcHBPWXFTNnZLMVU3alhjQnpWR3l2QmRiRUpKNGhCc1J6eVVHVVFzNEkyNEMxS2hpWXNpSzhrUXcxR2RtZDdFQlZGcGZuWjVJc1BBUWZEbG44cHZ1UDZ3bXNzbnRFOW92aV90Y09sXzVnaFdpM1k5Y0gzRzVacmhaNkcyTnlR?oc=5",
-   "source": "Endpoints News"
+   "company": "CoreMedic",
+   "amount": "unknown",
+   "what": "Transcatheter mitral valve replacement/repair technology",
+   "fit": "yes - direct cardiovascular device play matching Mediogram's core trial portfolio in Eastern Europe",
+   "angle": "Mitral valve procedures represent high-value interventional cardiology trials with strong demand in emerging markets.",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObjNDa1ZqVUp6YzFxb0pUbVBTRW1ieFhJdjhveS1fbjBsd25qZmZydjhxd0d5UWxaMVlHRTUwSHg3R0F6U0hUY0FfLXkxNHJyRTJGTk81eWVpdGhmcXJETmVTY3lkTncySS1FbnlkSDhQcTlQTXFlWjFSQUJJemxSRFJLbw?oc=5",
+   "source": "MassDevice"
+  },
+  {
+   "company": "Cardiac Insight",
+   "amount": "$2.5M",
+   "what": "Technology to identify heart problems in young athletes",
+   "fit": "maybe - they focus on detection/screening in young athletes; Mediogram runs CV trials in Eastern Europe so potential collaboration on trials, but different market segment and geography",
+   "angle": "Cardiac Insight's screening tech could generate patient populations for Mediogram's cardiovascular trials, particularly if expanded to Eastern European sports medicine settings.",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdkozWXVMOW1sOHZFMk9TUlZTY3JZX2JRVlltb05vOEJaajgyTDcwSW00RkF6ZXlsWDVmVzVqTkhldi1uSW1mMEU2Tk5YNDQ0cTJPUDRIODFCRzVqN3dYYzdQQTBVbzRqYnBPWjJ5eUg4cFpFRWZpMjlCRkFLRVdac1FIRFAtMGFtZkdJ?oc=5",
+   "source": "GeekWire"
   }
  ]
 }

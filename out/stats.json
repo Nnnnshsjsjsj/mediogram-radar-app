@@ -1,12 +1,6 @@
 {
  "history": [
   {
-   "day": "2026-07-07",
-   "new_leads": 7,
-   "hot": 157,
-   "funding": 2
-  },
-  {
    "day": "2026-08-01",
    "new_leads": 44,
    "hot": 182,
@@ -179,6 +173,12 @@
    "new_leads": 0,
    "hot": 176,
    "funding": 1
+  },
+  {
+   "day": "2026-08-30",
+   "new_leads": 0,
+   "hot": 176,
+   "funding": 2
   }
  ]
 }
