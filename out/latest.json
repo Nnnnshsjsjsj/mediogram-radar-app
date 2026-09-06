@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-05T09:52:11Z",
- "day": "2026-09-05",
+ "updated": "2026-09-06T10:07:00Z",
+ "day": "2026-09-06",
  "tiers": [
   "HOT",
   "WARM",
@@ -14,11 +14,11 @@
   }
  },
  "counts": {
-  "new_leads": 3,
+  "new_leads": 0,
   "hot": 178,
   "warm": 279,
   "in_region": 28,
-  "funding": 1,
+  "funding": 2,
   "device": 579,
   "drug": 142
  },
@@ -10860,13 +10860,22 @@
  ],
  "funding": [
   {
-   "company": "FineHeart",
-   "amount": "€35M Series C (first closing) + €48M in grants",
-   "what": "Implantable mechanical circulatory support device for heart failure patients",
-   "fit": "yes - cardiovascular device developer; potential trial partnership or acquisition target for advanced cardiac therapies in Eastern Europe",
-   "angle": "Well-funded French medtech with heart failure solution could expand trial footprint into Mediogram's Eastern European network",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVWtTRmJnSzZrbDcta3NkVm5Dd25QOEZ0WU15NVQ1RUhhNWk4QXI5b051RmFxdVJQMkFBNTNsYVd6XzN5OWNqdFhzT0RLMDdLcHNycTRsVHRfWGYtc2lYWXp6OVpLNHlfTW16UXBmRTVSNnpNRmlOT0ppYVdRTnpjTkx6dF9DQVR1bFRpYTYxT2luekIyYjFBWFJEell2ckxMbTZtR2JaWnFFZ2NK?oc=5",
-   "source": "FinSMEs"
+   "company": "5 Interesting Startup Deals You May Have Missed In December: A Hospital-Grade Wireless Heart Monitor, AI-Designed Proteins For Manufacturing, And More | artificial intelligence Venture - CryptoRank",
+   "amount": "",
+   "what": "",
+   "fit": "",
+   "angle": "",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRGF0dXlBeGtfR2h6MUJrSW1JS283aUZQdzdqN0xrbjlHM1lLVHY0VGVYWVlXTF94SW1RQ1JCNG9KNmRELXBXcjdUMGJEOWdoX3dQcU41QmxVSFQ0aTYwaXFJSmIwWWE4NTJmbFZTNUFIYXZJRElteFoyX1g3X0NfRURRdXlyTDZMcEt1LUZSMWFmeXZVcFVQUURfMWpydF9nY1BEcQ?oc=5",
+   "source": "CryptoRank"
+  },
+  {
+   "company": "Life Biosciences Raises $80M to Fund First Trial of Anti-Aging Gene Therapy - Inside Precision Medicine",
+   "amount": "",
+   "what": "",
+   "fit": "",
+   "angle": "",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQnc1MlNueUJlV1g2UDNjX1k4eWVFaUt1T0RUNFc0dXJWMXBudE96LTBnN0ltNlN0RkJGSVdUcmtfTTlla2d6OXN0WUowRS1IalpfVnRnUThLWFJuclJIQmNYT2dLbWJoNFNXRldESUJHNHpLUnZZenhrdDhSYXFxWGx0OER4R0hycnBFS2QtelBrZVh2WldYLW9XM3pVd1VxR3FRWVRua0puUWVPdlA2TUMxOS1lM0F6TWJpSThLYkk1YS16dFBwS1U2Yms2Rk9NVjJLRnQzMTNzYWNQdGc?oc=5",
+   "source": "Inside Precision Medicine"
   }
  ]
 }
