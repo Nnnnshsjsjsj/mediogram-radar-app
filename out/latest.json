@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-06T10:07:00Z",
- "day": "2026-09-06",
+ "updated": "2026-09-07T11:22:40Z",
+ "day": "2026-09-07",
  "tiers": [
   "HOT",
   "WARM",
@@ -18,7 +18,7 @@
   "hot": 178,
   "warm": 279,
   "in_region": 28,
-  "funding": 2,
+  "funding": 1,
   "device": 579,
   "drug": 142
  },
@@ -10860,22 +10860,13 @@
  ],
  "funding": [
   {
-   "company": "5 Interesting Startup Deals You May Have Missed In December: A Hospital-Grade Wireless Heart Monitor, AI-Designed Proteins For Manufacturing, And More | artificial intelligence Venture - CryptoRank",
-   "amount": "",
-   "what": "",
-   "fit": "",
-   "angle": "",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRGF0dXlBeGtfR2h6MUJrSW1JS283aUZQdzdqN0xrbjlHM1lLVHY0VGVYWVlXTF94SW1RQ1JCNG9KNmRELXBXcjdUMGJEOWdoX3dQcU41QmxVSFQ0aTYwaXFJSmIwWWE4NTJmbFZTNUFIYXZJRElteFoyX1g3X0NfRURRdXlyTDZMcEt1LUZSMWFmeXZVcFVQUURfMWpydF9nY1BEcQ?oc=5",
-   "source": "CryptoRank"
-  },
-  {
-   "company": "Life Biosciences Raises $80M to Fund First Trial of Anti-Aging Gene Therapy - Inside Precision Medicine",
-   "amount": "",
-   "what": "",
-   "fit": "",
-   "angle": "",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQnc1MlNueUJlV1g2UDNjX1k4eWVFaUt1T0RUNFc0dXJWMXBudE96LTBnN0ltNlN0RkJGSVdUcmtfTTlla2d6OXN0WUowRS1IalpfVnRnUThLWFJuclJIQmNYT2dLbWJoNFNXRldESUJHNHpLUnZZenhrdDhSYXFxWGx0OER4R0hycnBFS2QtelBrZVh2WldYLW9XM3pVd1VxR3FRWVRua0puUWVPdlA2TUMxOS1lM0F6TWJpSThLYkk1YS16dFBwS1U2Yms2Rk9NVjJLRnQzMTNzYWNQdGc?oc=5",
-   "source": "Inside Precision Medicine"
+   "company": "Anteris",
+   "amount": "$320M aggregate capital raise (Medtronic strategic investment component unspecified)",
+   "what": "TAVR (transcatheter aortic valve replacement) devices",
+   "fit": "maybe - Anteris makes cardiovascular devices which aligns with Mediogram's TAVR trial capabilities, but Medtronic is a direct competitor to Mediogram's client base",
+   "angle": "Strategic validation of TAVR market attracting mega-cap investment; potential trial recruitment or partnership opportunity if Anteris needs Eastern European trial sites.",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTnJBOFFXY0lVaUhDa3psMDhiRnN2ajM0dXkzVFMyTUQxR1BXVzFFekhkaHBmVkU4S1lGTnNseVM3MU9NTThuM3JQbXUwRmlrekNKZy1MQjBpbmgxRkgxZ2Nlam5CSUFNOXlselZqQ215RHl6UlVTRVB5SjU2cElCYWhHQlBwM3d2clZqQ3VzckZIZDJWWGFaVW5QVWFZUkxWTXR3UHBOZ1NzVmtoek5ueUprSXBEVzFSVVFwbExpSzhOUzN1MkQySmVsTTlfbnliaF8zcmVibGZtek1CcndrSw?oc=5",
+   "source": "Investing News Network"
   }
  ]
 }
