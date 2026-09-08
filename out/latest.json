@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-07T11:22:40Z",
- "day": "2026-09-07",
+ "updated": "2026-09-08T10:29:02Z",
+ "day": "2026-09-08",
  "tiers": [
   "HOT",
   "WARM",
@@ -18,7 +18,7 @@
   "hot": 178,
   "warm": 279,
   "in_region": 28,
-  "funding": 1,
+  "funding": 0,
   "device": 579,
   "drug": 142
  },
@@ -10858,15 +10858,5 @@
    "url": "https://clinicaltrials.gov/study/NCT06597019"
   }
  ],
- "funding": [
-  {
-   "company": "Anteris",
-   "amount": "$320M aggregate capital raise (Medtronic strategic investment component unspecified)",
-   "what": "TAVR (transcatheter aortic valve replacement) devices",
-   "fit": "maybe - Anteris makes cardiovascular devices which aligns with Mediogram's TAVR trial capabilities, but Medtronic is a direct competitor to Mediogram's client base",
-   "angle": "Strategic validation of TAVR market attracting mega-cap investment; potential trial recruitment or partnership opportunity if Anteris needs Eastern European trial sites.",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTnJBOFFXY0lVaUhDa3psMDhiRnN2ajM0dXkzVFMyTUQxR1BXVzFFekhkaHBmVkU4S1lGTnNseVM3MU9NTThuM3JQbXUwRmlrekNKZy1MQjBpbmgxRkgxZ2Nlam5CSUFNOXlselZqQ215RHl6UlVTRVB5SjU2cElCYWhHQlBwM3d2clZqQ3VzckZIZDJWWGFaVW5QVWFZUkxWTXR3UHBOZ1NzVmtoek5ueUprSXBEVzFSVVFwbExpSzhOUzN1MkQySmVsTTlfbnliaF8zcmVibGZtek1CcndrSw?oc=5",
-   "source": "Investing News Network"
-  }
- ]
+ "funding": []
 }
