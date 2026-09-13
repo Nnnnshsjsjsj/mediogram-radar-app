@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-12T09:58:11Z",
- "day": "2026-09-12",
+ "updated": "2026-09-13T10:58:57Z",
+ "day": "2026-09-13",
  "tiers": [
   "HOT",
   "WARM",
@@ -14,11 +14,11 @@
   }
  },
  "counts": {
-  "new_leads": 5,
+  "new_leads": 0,
   "hot": 190,
   "warm": 273,
   "in_region": 31,
-  "funding": 0,
+  "funding": 3,
   "device": 588,
   "drug": 144
  },
@@ -7187,15 +7187,15 @@
     "Atrial Fibrillation Ablation"
    ],
    "posted": "2026-06-15",
-   "summary": "",
+   "summary": "CHU Dijon Bourgogne is a large public French university hospital (1,758 beds, 8,000+ staff) with active research programs and clinical trial infrastructure—ideal for advancing AF ablation and atrial cardiomyopathy studies.",
    "email": "charles.guenancia@chu-dijon.fr",
    "phone": "03.80.29.56.23",
    "contact_name": "Charles GUENANCIA",
    "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "Email to Direction de la Recherche et de l'Innovation (DRI) or Principal Investigator Charles Guenancia directly",
+   "who": "Dr. Charles Guenancia (Principal Investigator/Study Contact); Direction de la Recherche et de l'Innovation (DRI) leadership",
+   "angle": "Mediogram's Eastern Europe trial execution network and regulatory/imaging QC expertise can accelerate patient enrollment and data quality for your BDNF-atrial cardiomyopathy biomarker study, particularly in high-enrollment corridors.",
+   "opener": "Dear Dr. Guenancia—We are impressed by your BDNF-atrial cardiomyopathy research at CHU Dijon. Mediogram specializes in running high-enrollment cardiovascular device and advanced therapy trials across Eastern Europe with dedicated regulatory, imaging QC, and patient logistics. We'd welcome a brief discussion on whether our network and clinical execution capabilities could support enrollment acceleration or multi-center expansion for your persistent AF ablation study. Best regards, Mediogram BD",
    "url": "https://clinicaltrials.gov/study/NCT07648329"
   },
   {
@@ -11037,5 +11037,33 @@
    "url": "https://clinicaltrials.gov/study/NCT06597019"
   }
  ],
- "funding": []
+ "funding": [
+  {
+   "company": "CoRISMA MCS Systems",
+   "amount": "$27M (round type unknown)",
+   "what": "Heart failure treatment technology (mechanical circulatory support systems)",
+   "fit": "yes - cardiovascular device developer aligned with Mediogram's core trial focus in advanced heart failure therapies",
+   "angle": "Potential late-stage clinical trial partner for MCS device validation in Eastern European markets as funding accelerates commercialization.",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNb3pKXzZMcmFpOFE5M2FfTHgzTGdmaUt4akVuTEQwS1pwZFJ0WVJCeE5pdDBiNXVBU2tFWmpBLTdPRkdzRklBdk9FeWViN1JWMlY5Tlk5YVV0Tm95SHpXbWlvcks3bnlMaU1jVWZMWVk1cm9xSWdYQU1YLWJkY1NlM0Q2ZUM4UjdaYzFYSDFwRVR2eThFc0ptbmE3WTMtRFVNWUJrSks4ZlE0RGRONmVlVmVUOTA1T2V1MlhPc00xVlczVTRydWZjam4tT1V2SVlsdm8ySWlQZ1FrbVZK?oc=5",
+   "source": "PRWeb"
+  },
+  {
+   "company": "unknown",
+   "amount": "unknown",
+   "what": "wrist-mounted blood pressure monitor",
+   "fit": "maybe - complements cardiovascular trial recruitment/monitoring but not core trial execution capability",
+   "angle": "Remote BP monitoring could enable better patient screening and safety surveillance for CVD trials across Mediogram's Eastern European network.",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWmVkN3hZc2pETENncDFuQzBZcFhZTjg4SHRWN1VkVURlMERVYlVoZ2xEYlpWTFJFQ0c4VU4wQ2MyN19FRl8teDBvaWJTTkk1NGRWX2Q5eVJSOWxrNGVBMlhmck13d0ZYZmVyU0pJcFNVeGFINzQyNHNxaHRSVHhUMV9Hb0JjVnotVkV4UmFxQ01vWHF2dkQxYnJJRldNQms?oc=5",
+   "source": "Cardiac Rhythm News"
+  },
+  {
+   "company": "unknown",
+   "amount": "$100M+ via SPAC",
+   "what": "Gene therapy (cardiovascular focus implied by Temple spinout)",
+   "fit": "maybe - gene therapy is advanced-therapy adjacent to Mediogram's portfolio, but SPAC/capital raise is separate from trial operations",
+   "angle": "Philadelphia gene therapy SPAC could represent future partnership/trial opportunity if cardiovascular-focused, but headline lacks specifics on indication and tech",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd29RRFBFOS11MHY0LXg4MTJ4Tm5UOFVVVGhXX0ZqMDh3ZnVSRkxON0ViNERJb2t2ejhoTnVpVW1RZy1yTzhER3RxcFpWbEJJdV9JWG1zeU9QaHVoQ3ZfdXBGbkFLNGk4dzVGVTB5M1h3TkVsNjNRbExkWUN4WHB0bU1xSTVlZ0JuN1Y3M0FwcmZSdkFQLTBjM2dGZVhncjFwWGt4MDN5Q0p4ZWFqWDZj?oc=5",
+   "source": "The Business Journals"
+  }
+ ]
 }
