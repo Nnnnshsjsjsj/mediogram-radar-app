@@ -42,7 +42,7 @@ export default function RadarScreen() {
   }, [sweepExpanded])
 
   const leads = feed?.leads ?? []
-  const counts = feed?.counts ?? { new_leads: 0, hot: 0, warm: 0, funding: 0 }
+  const counts = feed?.counts ?? { new_leads: 0, hot: 0, warm: 0 }
 
   // IN_REGION leads are awareness-only. They appear ONLY under their own chip,
   // never in All / Hot / Warm / therapeutic-area views, so the outreach queue

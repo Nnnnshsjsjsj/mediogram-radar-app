@@ -32,6 +32,12 @@ interface Props {
   initiallyExpanded?: boolean
 }
 
+const SOURCE_LABEL: Record<NonNullable<Lead['source']>, string> = {
+  ctgov: 'CT.GOV',
+  ctis: 'EU CTIS',
+  fda: 'FDA',
+}
+
 export default function LeadCard({ lead, highlighted, initiallyExpanded = false }: Props) {
   const [expanded, setExpanded] = useState(initiallyExpanded)
   const [copied, setCopied] = useState(false)
@@ -72,6 +78,16 @@ export default function LeadCard({ lead, highlighted, initiallyExpanded = false 
                 style={{ fontFamily: 'IBM Plex Mono, monospace' }}
               >
                 {MODALITY_LABEL[lead.modality] ?? lead.modality}
+              </span>
+            )}
+            {/* Which register this came from. Only shown for the non-default
+                sources, so the common CT.gov case stays visually quiet. */}
+            {lead.source && lead.source !== 'ctgov' && (
+              <span
+                className="font-mono text-[10px] px-1.5 py-0.5 rounded border border-[#00C2C7]/40 text-[#00C2C7]"
+                style={{ fontFamily: 'IBM Plex Mono, monospace' }}
+              >
+                {SOURCE_LABEL[lead.source]}
               </span>
             )}
           </div>

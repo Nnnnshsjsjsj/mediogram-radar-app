@@ -10,14 +10,13 @@
 
 import {
   mockLeads,
-  mockFunding,
   mockHistory,
   mockCounts,
   lastSync as mockSync,
 } from './mockData'
-import type { Lead, FundingItem, HistoryEntry } from './mockData'
+import type { Lead, HistoryEntry } from './mockData'
 
-export type { Lead, FundingItem, HistoryEntry }
+export type { Lead, HistoryEntry }
 
 export interface Disclaimer {
   en: string
@@ -27,13 +26,15 @@ export interface Disclaimer {
 export interface Feed {
   updated: string
   leads: Lead[]
-  funding: FundingItem[]
   counts: {
     new_leads: number
     hot: number
     warm: number
-    funding: number
     in_region?: number
+    // Per-source totals (bot v7+). Optional so an older feed still typechecks.
+    ctgov?: number
+    ctis?: number
+    fda?: number
   }
   // Bot-supplied explanatory text, keyed by tier label ("IN REGION"). Kept in
   // the feed rather than hardcoded here so the wording can be edited without a
@@ -112,6 +113,12 @@ function normalizeTier(t: unknown): Lead['tier'] {
   return 'NORMAL'
 }
 
+const SOURCES = ['ctgov', 'ctis', 'fda'] as const
+function normalizeSource(s: unknown): Lead['source'] {
+  const v = String(s ?? '').toLowerCase()
+  return (SOURCES as readonly string[]).includes(v) ? (v as Lead['source']) : 'ctgov'
+}
+
 const MODALITIES = ['device', 'drug', 'advanced therapy', 'other'] as const
 function normalizeModality(m: unknown): Lead['modality'] {
   const s = String(m ?? '').toLowerCase()
@@ -122,7 +129,10 @@ function normalizeLead(raw: Record<string, unknown>): Lead {
   const conditions = Array.isArray(raw.conditions) ? (raw.conditions as string[]) : []
   const countries = Array.isArray(raw.countries) ? (raw.countries as string[]) : []
   const base: Partial<Lead> = {
+    // For ctgov leads this is an NCT id; for ctis it is an EU CT number and
+    // for fda an FDA-K…/FDA-P… number. Always render it via `url`.
     nct: String(raw.nct ?? ''),
+    source: normalizeSource(raw.source),
     score: Number(raw.score ?? 0),
     tier: normalizeTier(raw.tier),
     sponsor: String(raw.sponsor ?? 'Unknown sponsor'),
@@ -149,18 +159,6 @@ function normalizeLead(raw: Record<string, unknown>): Lead {
   return { ...(base as Lead), category: deriveCategory(base) }
 }
 
-function normalizeFunding(raw: Record<string, unknown>): FundingItem {
-  return {
-    company: String(raw.company ?? raw.title ?? 'Unknown'),
-    amount: String(raw.amount ?? ''),
-    what: String(raw.what ?? ''),
-    fit: String(raw.fit ?? ''),
-    angle: String(raw.angle ?? ''),
-    link: String(raw.link ?? '#'),
-    source: String(raw.source ?? ''),
-  }
-}
-
 function isStale(updated: string): boolean {
   const t = new Date(updated).getTime()
   if (Number.isNaN(t)) return true
@@ -170,7 +168,6 @@ function isStale(updated: string): boolean {
 const mockFeed: Feed = {
   updated: mockSync,
   leads: mockLeads,
-  funding: mockFunding,
   counts: mockCounts,
   disclaimers: {},
   history: mockHistory,
@@ -192,7 +189,6 @@ export async function fetchFeed(signal?: AbortSignal): Promise<Feed> {
     const leads = (Array.isArray(latest.leads) ? latest.leads : [])
       .map(normalizeLead)
       .sort((a: Lead, b: Lead) => b.score - a.score)
-    const funding = (Array.isArray(latest.funding) ? latest.funding : []).map(normalizeFunding)
     const history: HistoryEntry[] = Array.isArray(stats.history) ? stats.history : []
 
     const counts = latest.counts ?? {
@@ -200,13 +196,12 @@ export async function fetchFeed(signal?: AbortSignal): Promise<Feed> {
       hot: leads.filter((l: Lead) => l.tier === 'HOT').length,
       warm: leads.filter((l: Lead) => l.tier === 'WARM').length,
       in_region: leads.filter((l: Lead) => l.tier === 'IN_REGION').length,
-      funding: funding.length,
     }
     const disclaimers: Record<string, Disclaimer> =
       latest.disclaimers && typeof latest.disclaimers === 'object' ? latest.disclaimers : {}
     const updated = String(latest.updated ?? new Date().toISOString())
 
-    return { updated, leads, funding, counts, disclaimers, history, stale: isStale(updated), isMock: false }
+    return { updated, leads, counts, disclaimers, history, stale: isStale(updated), isMock: false }
   } catch (err) {
     if ((err as Error)?.name === 'AbortError') throw err
     // No feed reachable (local dev, first deploy, or fetch blocked) — use sample.

@@ -10,7 +10,7 @@ export default function DigestScreen() {
   const { feed, refresh, refreshing } = useFeed()
 
   const stale = feed?.stale ?? false
-  const counts = feed?.counts ?? { new_leads: 0, hot: 0, warm: 0, funding: 0 }
+  const counts = feed?.counts ?? { new_leads: 0, hot: 0, warm: 0 }
   const hotLeads = (feed?.leads ?? []).filter((l) => l.tier === 'HOT')
 
   return (
@@ -65,7 +65,12 @@ export default function DigestScreen() {
           </p>
           <p className="text-[#EAF1FB] text-[14px] leading-relaxed mb-3">
             {counts.new_leads} new cardiovascular device {counts.new_leads === 1 ? 'lead' : 'leads'}
-            {' · '}{counts.hot} HOT · {counts.warm} WARM · {counts.funding} funding {counts.funding === 1 ? 'signal' : 'signals'}.
+            {' · '}{counts.hot} HOT · {counts.warm} WARM · from{' '}
+            {[
+              counts.ctgov ? `${counts.ctgov} CT.gov` : null,
+              counts.ctis ? `${counts.ctis} EU CTIS` : null,
+              counts.fda ? `${counts.fda} FDA` : null,
+            ].filter(Boolean).join(' · ') || 'CT.gov'}.
           </p>
 
           {hotLeads.length > 0 && (

@@ -21,7 +21,7 @@ export default function TrendsScreen() {
   const hotDots = history.filter((d) => d.hot > 0)
   const thisWeek = history.slice(-7).reduce((s, d) => s + d.new_leads, 0)
   const hotWeek = history.slice(-7).reduce((s, d) => s + d.hot, 0)
-  const fundingMonth = history.reduce((s, d) => s + d.funding, 0)
+  const activeNow = history.length ? (history[history.length - 1].active ?? 0) : 0
 
   const hasData = history.length > 0
 
@@ -72,7 +72,7 @@ export default function TrendsScreen() {
               {[
                 { label: 'LEADS\nTHIS WEEK', value: String(thisWeek) },
                 { label: 'HOT\nTHIS WEEK', value: String(hotWeek), accent: true },
-                { label: 'FUNDING\nTHIS MONTH', value: String(fundingMonth) },
+                { label: 'ACTIVE\nLEADS', value: String(activeNow) },
               ].map(({ label, value, accent }) => (
                 <div key={label} className="rounded-xl border border-[#1E2C46] bg-[#101B30] p-3 text-center">
                   <p className={`font-mono text-2xl font-semibold mb-1 ${accent ? 'text-[#FF4D5E]' : 'text-[#00C2C7]'}`} style={{ fontFamily: 'IBM Plex Mono, monospace' }}>

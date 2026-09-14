@@ -24,26 +24,20 @@ export interface Lead {
   // is what the intervention actually is. Optional so the sample data below
   // still typechecks.
   modality?: 'device' | 'drug' | 'advanced therapy' | 'other'
+  // Which register the lead came from (bot v7+). 'fda' rows are device
+  // clearances, not trials — they have no phase and no site countries.
+  source?: 'ctgov' | 'ctis' | 'fda'
   // Set on IN_REGION leads only: why this one is awareness-only.
   note?: string
   region_sites?: string[]
-}
-
-export interface FundingItem {
-  company: string
-  amount: string
-  what: string
-  fit: string
-  angle: string
-  link: string
-  source: string
 }
 
 export interface HistoryEntry {
   day: string
   new_leads: number
   hot: number
-  funding: number
+  // Total active leads on that run-day (bot v7+). Optional for older stats.json.
+  active?: number
 }
 
 export const mockLeads: Lead[] = [
@@ -164,36 +158,6 @@ export const mockLeads: Lead[] = [
   },
 ]
 
-export const mockFunding: FundingItem[] = [
-  {
-    company: 'Shockwave Medical (acquired by J&J)',
-    amount: '$230M',
-    what: 'Series F for intravascular lithotripsy expansion into structural heart applications',
-    fit: 'IVL is used in complex TAVI and PCI cases — EE centres with structural programmes are prime adoption sites',
-    angle: 'Offer device trial support for IVL-facilitated TAVI studies being designed for 2026',
-    link: 'https://example.com',
-    source: 'MedCity News',
-  },
-  {
-    company: 'Cardionomic',
-    amount: '$45M',
-    what: 'Series C for neuromodulation therapy in decompensated heart failure',
-    fit: 'Active HFREF trial programme, early-stage device interest, CE Europe regulatory pathway',
-    angle: 'Cardionomic is expanding EE sites — HF centres with neuromodulation interest',
-    link: 'https://example.com',
-    source: 'MassDevice',
-  },
-  {
-    company: 'Anteris Technologies',
-    amount: '$28M',
-    what: 'Growth capital for DurAVR single-piece TAVI system Phase III launch',
-    fit: 'TAVI-active centres with echo core lab infrastructure sought for EE expansion',
-    angle: 'DurAVR EE sites are being contracted now — window before the Phase III locks enrollment',
-    link: 'https://example.com',
-    source: 'Fierce Biotech',
-  },
-]
-
 export const mockHistory: HistoryEntry[] = Array.from({ length: 30 }, (_, i) => {
   const d = new Date('2025-06-07')
   d.setDate(d.getDate() - (29 - i))
@@ -203,7 +167,7 @@ export const mockHistory: HistoryEntry[] = Array.from({ length: 30 }, (_, i) => 
     day: d.toISOString().slice(0, 10),
     new_leads: nl,
     hot: nl > 0 ? Math.floor(Math.random() * 3) : 0,
-    funding: nl > 0 ? Math.floor(Math.random() * 2) : 0,
+    active: 120 + Math.floor(Math.random() * 40),
   }
 })
 
@@ -211,7 +175,9 @@ export const mockCounts = {
   new_leads: 12,
   hot: 3,
   warm: 4,
-  funding: 3,
+  ctgov: 9,
+  ctis: 2,
+  fda: 1,
 }
 
 export const lastSync = '2025-07-07T06:14:00Z'

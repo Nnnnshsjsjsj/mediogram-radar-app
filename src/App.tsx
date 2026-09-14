@@ -1,11 +1,10 @@
 import { useState } from 'react'
 import RadarScreen from './screens/RadarScreen'
-import FundingScreen from './screens/FundingScreen'
 import TrendsScreen from './screens/TrendsScreen'
 import DigestScreen from './screens/DigestScreen'
 import { FeedProvider, useFeed } from './data/store'
 
-type Tab = 'radar' | 'funding' | 'trends' | 'digest'
+type Tab = 'radar' | 'trends' | 'digest'
 
 const TABS: { id: Tab; label: string; icon: React.ReactNode }[] = [
   {
@@ -17,16 +16,6 @@ const TABS: { id: Tab; label: string; icon: React.ReactNode }[] = [
         <circle cx="12" cy="12" r="6" />
         <circle cx="12" cy="12" r="2" />
         <line x1="12" y1="2" x2="12" y2="6" />
-      </svg>
-    ),
-  },
-  {
-    id: 'funding',
-    label: 'Funding',
-    icon: (
-      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8">
-        <polyline points="22 7 13.5 15.5 8.5 10.5 2 17" />
-        <polyline points="16 7 22 7 22 13" />
       </svg>
     ),
   },
@@ -62,7 +51,6 @@ function Shell() {
 
   const screens: Record<Tab, React.ReactNode> = {
     radar: <RadarScreen />,
-    funding: <FundingScreen />,
     trends: <TrendsScreen />,
     digest: <DigestScreen />,
   }
