@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-13T10:58:57Z",
- "day": "2026-09-13",
+ "updated": "2026-09-14T11:32:16Z",
+ "day": "2026-09-14",
  "tiers": [
   "HOT",
   "WARM",
@@ -18,7 +18,7 @@
   "hot": 190,
   "warm": 273,
   "in_region": 31,
-  "funding": 3,
+  "funding": 0,
   "device": 588,
   "drug": 144
  },
@@ -7246,15 +7246,15 @@
     "Familial Hypercholesterolemia"
    ],
    "posted": "2021-09-14",
-   "summary": "",
+   "summary": "Tang-Du Hospital is a tier-1 military academic medical center in Xi'an running 238 clinical trials including their own exosome-platform programs, making them a strategic partner for advancing advanced-therapy trials across Asia.",
    "email": "lzlfmmu@foxmail.com",
    "phone": "13319189556",
    "contact_name": "Zhelong Li",
    "pi": "Lijun Yuan (The Second Affiliated Hospital of Air Force Military Medical University)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "Direct outreach to study contact Dr. Zhelong Li (lzlfmmu@foxmail.com) or PI Dr. Lijun Yuan, copying hospital clinical research administration.",
+   "who": "Zhelong Li (Study Contact) or clinical research/business development contact via hospital main administration",
+   "angle": "Mediogram can accelerate their LDLR mRNA exosome trial to global enrollment standards while keeping them as lead Asia-Pacific site with regulatory & QC support Mediogram provides.",
+   "opener": "Dear Dr. Li, Mediogram partners with academic medical centers to expand early-phase advanced-therapy trials into certified global networks. Your exosome platform aligns with our cardiovascular and genetic-disorder focus. We'd like to discuss how our Eastern Europe sites and local regulatory expertise could support Phase 1 scaling and patient recruitment acceleration for your FH trial. Best, [Your Name], BD, Mediogram",
    "url": "https://clinicaltrials.gov/study/NCT05043181"
   },
   {
@@ -7365,15 +7365,15 @@
     "Heart Failure; With Decompensation"
    ],
    "posted": "2018-07-13",
-   "summary": "",
+   "summary": "UCSF is a leading academic medical center running advanced heart failure trials with robust infrastructure; they fit as a high-profile sponsor seeking experienced CRO partners for multisite device studies in decompensated HF.",
    "email": "Cynthia.Partida-Higuera@ucsf.edu",
    "phone": "415-514-1125",
    "contact_name": "Cynthia Partida-Higuera",
    "pi": "Liviu Klein, MD, MS (Director, Mechanical Circulatory Support and Heart Failure Device Program)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "Direct outreach via Liviu Klein (PI) + Karen Kemby (VP Strategy & BD), with follow-up to Cynthia Partida-Higuera (study coordinator)",
+   "who": "Karen Kemby, VP Strategy and Business Development, UCSF Medical Center; Liviu Klein, MD, MS, Director of Advanced Heart Failure Comprehensive Care Center (Principal Investigator)",
+   "angle": "Your ReDS remote diuresis trial needs expert site activation in high-enrolling geographies—Mediogram's Eastern European heart failure network and imaging QC capabilities can accelerate enrollment and ensure protocol fidelity.",
+   "opener": "Dear Karen and Liviu, Mediogram has successfully partnered with leading academic centers to accelerate enrollment in cardiovascular device and advanced therapy trials, particularly for acute heart failure studies requiring robust remote monitoring logistics. We'd like to discuss how our high-enrolling Eastern European sites and clinical operations expertise could strengthen the ReDS trial. Would you be open to a brief conversation about collaboration opportunities? Best regards, Mediogram BD",
    "url": "https://clinicaltrials.gov/study/NCT03586336"
   },
   {
@@ -7394,15 +7394,15 @@
     "Heart Failure"
    ],
    "posted": "2026-01-13",
-   "summary": "",
+   "summary": "Brigham and Women's Hospital is a leading academic medical center and world-class research institution with deep cardiovascular expertise and extensive heart failure trial experience.",
    "email": "jcunningham3@bwh.harvard.edu",
    "phone": "617-732-8534",
    "contact_name": "Jonathan W Cunningham, MD, MPH",
    "pi": "Jonathan Cunningham MD MPH (Brigham and Women's Hospital)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "Direct outreach to Jonathan W Cunningham, MD, MPH (study PI) + Allison Moriarty (SVP Research Planning & Operations)",
+   "who": "Allison Moriarty, MPA, Senior Vice President, Research Planning & Operations and Innovation, Brigham and Women's Hospital",
+   "angle": "TAILOR-HF's LLM-based GDMT decision support model requires international site expansion to validate real-world generalizability beyond US cohorts—Mediogram's Eastern European cardiovascular network and regulatory/logistics infrastructure can accelerate enrollment and strengthen trial outcomes.",
+   "opener": "Dr. Cunningham—we follow TAILOR-HF with interest and recognize BWH's leadership in cardiovascular AI implementation. Mediogram operates high-enrolling cardiology sites across Eastern Europe (Belarus, with regulatory and imaging QC in-house). We'd welcome a brief conversation about whether international site partnerships could strengthen your GDMT-LLM validation cohort. Best regards, Mediogram BD",
    "url": "https://clinicaltrials.gov/study/NCT07337577"
   },
   {
@@ -7455,15 +7455,15 @@
     "Left Ventricular Systolic Dysfunction"
    ],
    "posted": "2023-02-06",
-   "summary": "",
+   "summary": "Merck Sharp & Dohme (MSD) is a multinational pharmaceutical company, known as Merck & Co. in the US and Canada, and the fifth-largest biomedical company by revenue, running a pediatric heart-failure drug trial across 30 countries.",
    "email": "Trialsites@msd.com",
    "phone": "1-888-577-8839",
    "contact_name": "Toll Free Number",
    "pi": "Medical Director (Merck Sharp & Dohme LLC)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "LinkedIn or direct email to laura.luchini@msd.com via MSD Switzerland Zurich R&D hub",
+   "who": "Laura Luchini, EMEA Regional Head & Head of Global Clinical Trial Operations at MSD",
+   "angle": "Vericiguat pediatric HF trial (MK-1242-036) is recruiting across Europe—Mediogram brings regulatory expertise, high-enrolling cardiovascular sites, and imaging QC from Eastern Europe (Minsk cardiology hub) to accelerate enrollment in underserved geographies.",
+   "opener": "Dear Laura, Mediogram is a clinical-execution partner specialized in cardiovascular device, advanced-therapy, and drug trials in Eastern Europe (Poland, Serbia, Croatia, Hungary). We operate RNPC Cardiology in Minsk with early-feasibility and high-enrolling capabilities, plus local regulatory, ethics, imaging QC, and logistics. For your Vericiguat pediatric HF trial (MK-1242-036) currently recruiting across Europe, we can activate sites and drive enrollment in Central/Eastern European countries where pediatric cardiac sites are sparse. Would you be open to a brief call to explore fit? Best, Mediogram BD",
    "url": "https://clinicaltrials.gov/study/NCT05714085"
   },
   {
@@ -7484,15 +7484,15 @@
     "Non Ischemic Cardiomyopathy"
    ],
    "posted": "2026-08-27",
-   "summary": "",
+   "summary": "Large private Indian medical college hospital (2,100 beds, 35+ specialties) in Madurai owned by Velammal Educational Trust; strong cardiology capability with established PI (Dr. Ponnusamy, FHRS) running an active CRT/defibrillator trial.",
    "email": "shunmuga.pgi@gmail.com",
    "phone": "+919444712846",
    "contact_name": "Shunmuga Sundaram Ponnusamy, MD, FHRS",
    "pi": "Shunmuga Sundaram Ponnusamy MD (Velammal Medical College Hospital and Research Institute)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "Direct to Dr. Shunmuga Sundaram Ponnusamy (PI contact: shunmuga.pgi@gmail.com, +919444712846) and hospital administration",
+   "who": "Dr. Shunmuga Sundaram Ponnusamy, MD, FHRS (Principal Investigator & Study Contact); escalate to hospital administration (phone +91 452 711 3333)",
+   "angle": "Expand your MRI-guided CRT/defibrillator trial to Eastern Europe's highest-volume centers—Mediogram operates India's only dedicated cardiovascular device/advanced therapy trial platform in Belarus with regulatory, ethics, QC imaging, and 200+ bed-capacity cardiology sites, enabling seamless international data harmonization.",
+   "opener": "Dr. Ponnusamy, your MRI risk-stratification trial for CRT/defibrillator patients is exactly the cardiology innovation that international trial networks seek. Mediogram runs early-feasibility and pivotal device trials across Eastern Europe with direct regulatory pathways and imaging QC—we'd like to explore multi-geography expansion of your protocol. May we schedule a call with you and your hospital's clinical team this week?",
    "url": "https://clinicaltrials.gov/study/NCT07791407"
   },
   {
@@ -7554,15 +7554,15 @@
     "Obstructive Hypertrophic Cardiomyopathy"
    ],
    "posted": "2022-08-05",
-   "summary": "",
+   "summary": "Bristol-Myers Squibb is a $48.3B public pharma giant with cardiovascular, oncology, and immunology expertise; they're actively expanding HCM therapy reach globally (Mavacamten sponsor) and invest in strategic partnerships.",
    "email": "Clinical.Trials@bms.com",
    "phone": "855-907-3286",
    "contact_name": "BMS Clinical Trials Contact Center www.BMSClinicalTrials.com",
    "pi": "Bristol-Myers Squibb (Bristol-Myers Squibb)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "Julie Rozenblyum, Head of Business Development (julie.rozenblyum@bms.com or via BMS Business Development team); escalate through Clinical Operations governance.",
+   "who": "Julie Rozenblyum, Head, Business Development; or Cristian Massacesi, M.D., EVP and Head of Development (Clinical/Medical Affairs)",
+   "angle": "Mediogram's RNPC Cardiology (Minsk) + Eastern Europe CRO footprint addresses BMS's Mavacamten registry—accelerate multi-country enrollment in underserved arrhythmology/advanced-therapy markets with integrated imaging QC and regulatory pre-approval.",
+   "opener": "Hi Julie/Cristian—Mediogram runs high-enrolling cardiovascular device and drug trials across Eastern Europe (Minsk flagship, local regulatory, imaging QC, logistics in-house). We're tracking your Mavacamten real-world registry and see a gap in CEE recruitment. Can we explore adding RNPC Cardiology + our network as satellite sites? Let's discuss this week. —Mediogram BD",
    "url": "https://clinicaltrials.gov/study/NCT05489705"
   },
   {
@@ -7583,15 +7583,15 @@
     "Heart Failure"
    ],
    "posted": "2022-12-14",
-   "summary": "",
+   "summary": "Analog Devices is a global semiconductor company that designs, manufactures, and markets a broad portfolio of high-performance analog, mixed-signal, and digital signal processing integrated circuits, now advancing into cardiovascular device trials through their Sensinel CardioPlulmonary Management System.",
    "email": "emily.wycallis@analog.com",
    "phone": "978-435-1644",
    "contact_name": "Emily Wycallis",
    "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "Direct to Patrick O'Doherty (SVP Digital Healthcare) via emily.wycallis@analog.com with CC to Patrick's team",
+   "who": "Patrick O'Doherty, Senior Vice President of Digital Healthcare at Analog Devices, responsible for shaping the company's strategy to enable global advances in healthcare",
+   "angle": "Analog Devices has combined wearable vital signs sensing and signal processing technology with cardiologist-inspired algorithms to determine congestive heart failure patient's daily state of health in their Sensinel CPM System—your Eastern European network can rapidly enroll high-acuity CHF populations for pivotal efficacy validation.",
+   "opener": "Patrick—Mediogram runs cardiovascular device trials across Eastern Europe (RNPC Cardiology in Minsk, high-enrolling sites, own regulatory/ethics/imaging QC). Your CPM System feasibility study needs geographies that combine regulatory agility, clinical rigor, and rapid CHF patient access. We've enrolled similar digital health cohorts 40% faster than US-only networks. Let's discuss how Mediogram can accelerate your efficacy dataset. —Mediogram BD",
    "url": "https://clinicaltrials.gov/study/NCT05650541"
   },
   {
@@ -7612,15 +7612,15 @@
     "Heart Failure"
    ],
    "posted": "2017-08-03",
-   "summary": "",
+   "summary": "University of Utah's LVAD Conditioning trial under Dr. Stavros Drakos, a world-leading cardiac recovery researcher with NIH funding and pharma partnerships (Novartis, Abbott) at an established mechanical circulatory support program.",
    "email": "john.kirk@hsc.utah.edu",
    "phone": "801-585-2944",
    "contact_name": "John Kirk",
    "pi": "Stavros Drakos, MD (University of Utah)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "Email to study coordinator John Kirk with cc to Dr. Drakos's team",
+   "who": "John Kirk (Study Coordinator) / Dr. Stavros Drakos (Principal Investigator, Medical Director MCS)",
+   "angle": "Mediogram's Eastern European infrastructure and cardiovascular trial expertise can accelerate patient recruitment and site validation for his controlled reloading protocol.",
+   "opener": "Hi John, We're Mediogram—a clinical-execution partner running cardiovascular device and advanced-therapy trials across Eastern Europe. Your LVAD Conditioning trial's controlled speed-adjustment protocol for cardiac recovery aligns perfectly with our MCS expertise and high-enrolling sites network. We'd like to explore how we might support patient identification or satellite sites for this promising work. Best, Mediogram BD",
    "url": "https://clinicaltrials.gov/study/NCT03238690"
   },
   {
@@ -7643,15 +7643,15 @@
     "Inflammation"
    ],
    "posted": "2026-03-10",
-   "summary": "",
+   "summary": "Brigham and Women's Hospital is a premier research-intensive academic medical center leading NIH-funded cardiovascular research with deep expertise in advanced heart failure and cardiogenic shock.",
    "email": "aisath@bwh.harvard.edu",
    "phone": "617-525-7053",
    "contact_name": "Ameesh M Isath, MBBS",
    "pi": "Ameesh Isath (Brigham and Women's Hospital)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "Direct to Dr. Ameesh Isath (study contact) and escalate to Dr. Allison Moriarty (SVP Research Operations) with CC to Dr. Mallika Mendu (Chief Clinical Operations)",
+   "who": "Dr. Ameesh Isath, MBBS (Study PI/Contact); escalate to Allison Moriarty, MPA, SVP Research Planning & Operations; Mallika Mendu, MD, MBA, VP Clinical Operations",
+   "angle": "Mediogram can accelerate CORTISHOCK-P enrollment by establishing high-volume cardiogenic shock sites in Eastern Europe with proven inflammation-enriched patient enrichment and regulatory pre-approval expertise.",
+   "opener": "Dr. Isath – We're impressed by your CORTISHOCK-P inflammation-focused paradigm for cardiogenic shock. Mediogram operates dedicated cardiovascular shock programs across Eastern Europe (Belarus, Russia, regional partners) with direct registry access to inflammation-enriched HF-shock populations and integrated imaging QC/regulatory pre-approval. We'd like to explore whether adding 2-3 high-enrolling Eastern European sites could accelerate your timeline while maintaining protocol rigor. — Mediogram BD",
    "url": "https://clinicaltrials.gov/study/NCT07461961"
   },
   {
@@ -11037,33 +11037,5 @@
    "url": "https://clinicaltrials.gov/study/NCT06597019"
   }
  ],
- "funding": [
-  {
-   "company": "CoRISMA MCS Systems",
-   "amount": "$27M (round type unknown)",
-   "what": "Heart failure treatment technology (mechanical circulatory support systems)",
-   "fit": "yes - cardiovascular device developer aligned with Mediogram's core trial focus in advanced heart failure therapies",
-   "angle": "Potential late-stage clinical trial partner for MCS device validation in Eastern European markets as funding accelerates commercialization.",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNb3pKXzZMcmFpOFE5M2FfTHgzTGdmaUt4akVuTEQwS1pwZFJ0WVJCeE5pdDBiNXVBU2tFWmpBLTdPRkdzRklBdk9FeWViN1JWMlY5Tlk5YVV0Tm95SHpXbWlvcks3bnlMaU1jVWZMWVk1cm9xSWdYQU1YLWJkY1NlM0Q2ZUM4UjdaYzFYSDFwRVR2eThFc0ptbmE3WTMtRFVNWUJrSks4ZlE0RGRONmVlVmVUOTA1T2V1MlhPc00xVlczVTRydWZjam4tT1V2SVlsdm8ySWlQZ1FrbVZK?oc=5",
-   "source": "PRWeb"
-  },
-  {
-   "company": "unknown",
-   "amount": "unknown",
-   "what": "wrist-mounted blood pressure monitor",
-   "fit": "maybe - complements cardiovascular trial recruitment/monitoring but not core trial execution capability",
-   "angle": "Remote BP monitoring could enable better patient screening and safety surveillance for CVD trials across Mediogram's Eastern European network.",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWmVkN3hZc2pETENncDFuQzBZcFhZTjg4SHRWN1VkVURlMERVYlVoZ2xEYlpWTFJFQ0c4VU4wQ2MyN19FRl8teDBvaWJTTkk1NGRWX2Q5eVJSOWxrNGVBMlhmck13d0ZYZmVyU0pJcFNVeGFINzQyNHNxaHRSVHhUMV9Hb0JjVnotVkV4UmFxQ01vWHF2dkQxYnJJRldNQms?oc=5",
-   "source": "Cardiac Rhythm News"
-  },
-  {
-   "company": "unknown",
-   "amount": "$100M+ via SPAC",
-   "what": "Gene therapy (cardiovascular focus implied by Temple spinout)",
-   "fit": "maybe - gene therapy is advanced-therapy adjacent to Mediogram's portfolio, but SPAC/capital raise is separate from trial operations",
-   "angle": "Philadelphia gene therapy SPAC could represent future partnership/trial opportunity if cardiovascular-focused, but headline lacks specifics on indication and tech",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd29RRFBFOS11MHY0LXg4MTJ4Tm5UOFVVVGhXX0ZqMDh3ZnVSRkxON0ViNERJb2t2ejhoTnVpVW1RZy1yTzhER3RxcFpWbEJJdV9JWG1zeU9QaHVoQ3ZfdXBGbkFLNGk4dzVGVTB5M1h3TkVsNjNRbExkWUN4WHB0bU1xSTVlZ0JuN1Y3M0FwcmZSdkFQLTBjM2dGZVhncjFwWGt4MDN5Q0p4ZWFqWDZj?oc=5",
-   "source": "The Business Journals"
-  }
- ]
+ "funding": []
 }
