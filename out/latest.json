@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-18T10:25:52Z",
- "day": "2026-09-18",
+ "updated": "2026-09-19T10:09:51Z",
+ "day": "2026-09-19",
  "tiers": [
   "HOT",
   "WARM",
@@ -24,13 +24,13 @@
  },
  "counts": {
   "new_leads": 4,
-  "hot": 220,
-  "warm": 317,
+  "hot": 218,
+  "warm": 320,
   "in_region": 61,
-  "device": 589,
-  "drug": 283,
-  "ctgov": 792,
-  "ctis": 139,
+  "device": 587,
+  "drug": 284,
+  "ctgov": 791,
+  "ctis": 140,
   "fda": 4
  },
  "leads": [
@@ -272,6 +272,34 @@
    "url": "https://clinicaltrials.gov/study/NCT07686328"
   },
   {
+   "nct": "NCT06895187",
+   "source": "ctgov",
+   "score": 100,
+   "tier": "HOT",
+   "modality": "device",
+   "note": "",
+   "region_sites": [],
+   "sponsor": "LUMA Vision Ltd.",
+   "title": "Catheter Ablation Using a Novel Navigation and Imaging System",
+   "status": "NOT_YET_RECRUITING",
+   "phase": "NA",
+   "countries": [],
+   "conditions": [
+    "Paroxysmal Atrial Fibrillation"
+   ],
+   "posted": "2025-03-26",
+   "summary": "LUMA Vision is a Dublin/Munich-based medtech startup that recently secured €22M in Series A funding to commercialize VERAFEYE, a 4D cardiac imaging and navigation platform designed specifically for catheter ablation—exactly aligned with paroxysmal AFib trials.",
+   "email": "elke.sommerijns@lumavision.com",
+   "phone": "+32479767156",
+   "contact_name": "Elke Sommerijns",
+   "pi": "",
+   "channel": "Direct email to Elke Sommerijns (study contact already on file) or LinkedIn outreach to CEO Fionn Lahart for clinical operations partnership discussion",
+   "who": "Elke Sommerijns (Study Contact, Clinical Operations lead) or Fionn Lahart (Co-Founder & CEO)",
+   "angle": "Your ENVIsIoN-P003 trial is positioned pre-recruitment in Eastern Europe (high-enrolling regulatory landscape with proven VERAFEYE data from Prague/Split sites)—Mediogram can accelerate patient recruitment and provide imaging QC/logistics infrastructure for this novel navigation system.",
+   "opener": "Hi Elke / Fionn – We've been tracking LUMA Vision's VERAFEYE expansion into paroxysmal AFib ablation (ENVIsIoN-P003, expected Oct 2026). Mediogram runs high-enrolling cardiology trials in Eastern Europe (Minsk, Prague-adjacent sites) with dedicated imaging QC and regulatory/ethics expertise. We'd like to discuss how we could support trial readiness and patient recruitment in your target geographies. Best, [Your Name], BD Lead, Mediogram",
+   "url": "https://clinicaltrials.gov/study/NCT06895187"
+  },
+  {
    "nct": "NCT06293430",
    "source": "ctgov",
    "score": 100,
@@ -333,62 +361,6 @@
    "url": "https://clinicaltrials.gov/study/NCT07820631"
   },
   {
-   "nct": "NCT06895187",
-   "source": "ctgov",
-   "score": 100,
-   "tier": "HOT",
-   "modality": "device",
-   "note": "",
-   "region_sites": [],
-   "sponsor": "LUMA Vision Ltd.",
-   "title": "Catheter Ablation Using a Novel Navigation and Imaging System",
-   "status": "NOT_YET_RECRUITING",
-   "phase": "NA",
-   "countries": [],
-   "conditions": [
-    "Paroxysmal Atrial Fibrillation"
-   ],
-   "posted": "2025-03-26",
-   "summary": "LUMA Vision is a Dublin/Munich-based medtech startup that recently secured €22M in Series A funding to commercialize VERAFEYE, a 4D cardiac imaging and navigation platform designed specifically for catheter ablation—exactly aligned with paroxysmal AFib trials.",
-   "email": "elke.sommerijns@lumavision.com",
-   "phone": "+32479767156",
-   "contact_name": "Elke Sommerijns",
-   "pi": "",
-   "channel": "Direct email to Elke Sommerijns (study contact already on file) or LinkedIn outreach to CEO Fionn Lahart for clinical operations partnership discussion",
-   "who": "Elke Sommerijns (Study Contact, Clinical Operations lead) or Fionn Lahart (Co-Founder & CEO)",
-   "angle": "Your ENVIsIoN-P003 trial is positioned pre-recruitment in Eastern Europe (high-enrolling regulatory landscape with proven VERAFEYE data from Prague/Split sites)—Mediogram can accelerate patient recruitment and provide imaging QC/logistics infrastructure for this novel navigation system.",
-   "opener": "Hi Elke / Fionn – We've been tracking LUMA Vision's VERAFEYE expansion into paroxysmal AFib ablation (ENVIsIoN-P003, expected Oct 2026). Mediogram runs high-enrolling cardiology trials in Eastern Europe (Minsk, Prague-adjacent sites) with dedicated imaging QC and regulatory/ethics expertise. We'd like to discuss how we could support trial readiness and patient recruitment in your target geographies. Best, [Your Name], BD Lead, Mediogram",
-   "url": "https://clinicaltrials.gov/study/NCT06895187"
-  },
-  {
-   "nct": "NCT07811934",
-   "source": "ctgov",
-   "score": 100,
-   "tier": "HOT",
-   "modality": "device",
-   "note": "",
-   "region_sites": [],
-   "sponsor": "Shanghai Shineyo Medical Co., Ltd.",
-   "title": "Single-Use Spherical Pulsed Ablation Catheter for Paroxysmal Atrial Fibrillation",
-   "status": "NOT_YET_RECRUITING",
-   "phase": "NA",
-   "countries": [],
-   "conditions": [
-    "Atrial Fibrillation (AF)"
-   ],
-   "posted": "2026-09-10",
-   "summary": "Shanghai Shineyo Medical is a venture-backed EP device company developing pulsed field ablation systems for atrial fibrillation, with active clinical experience in China and Series A funding from EFung Capital and Baiyun Financial Holdings.",
-   "email": "panshuang@shineyomedical.com",
-   "phone": "86-18621903981",
-   "contact_name": "Shuang Pan",
-   "pi": "",
-   "channel": "Direct email to Shuang Pan (study contact, panshuang@shineyomedical.com) + LinkedIn outreach to identify Clinical Operations or Business Development lead",
-   "who": "Shuang Pan (Study Contact) or via organizational discovery to their Clinical Operations/BD lead",
-   "angle": "Mediogram offers proven Eastern European enrollment velocity and regulatory expertise to accelerate their spherical PFA paroxysmal AF trial into markets beyond China.",
-   "opener": "Hi Shuang Pan, we're Mediogram—a clinical-execution partner running CV device and advanced-therapy trials across Eastern Europe with high-enrolling sites and integrated regulatory/imaging/QC capabilities. Your spherical PFA trial for paroxysmal AF is compelling; we'd like to discuss how our Minsk cardiology center and regional network could expand your enrollment timeline and regulatory pathway. Best to explore this with your Clinical Operations lead. Would a brief call this week work?",
-   "url": "https://clinicaltrials.gov/study/NCT07811934"
-  },
-  {
    "nct": "NCT07807423",
    "source": "ctgov",
    "score": 100,
@@ -417,6 +389,34 @@
    "angle": "Volta is actively investing in clinical trials to support product development and regulatory approvals—your Eastern European sites offer untapped enrollment capacity for their persistent AF algorithm validation.",
    "opener": "Paola, we've followed Volta's clinical trial strategy and see an opportunity to accelerate enrollment for your biatrial mapping study. Mediogram runs high-enrolling CV trial sites across Eastern Europe with direct regulatory and ethics approval pathways. We'd like to explore whether our clinical-execution partnership could support protocol expansion beyond France. Can we schedule a brief call with you and Clément? — Mediogram BD",
    "url": "https://clinicaltrials.gov/study/NCT07807423"
+  },
+  {
+   "nct": "NCT07811934",
+   "source": "ctgov",
+   "score": 100,
+   "tier": "HOT",
+   "modality": "device",
+   "note": "",
+   "region_sites": [],
+   "sponsor": "Shanghai Shineyo Medical Co., Ltd.",
+   "title": "Single-Use Spherical Pulsed Ablation Catheter for Paroxysmal Atrial Fibrillation",
+   "status": "NOT_YET_RECRUITING",
+   "phase": "NA",
+   "countries": [],
+   "conditions": [
+    "Atrial Fibrillation (AF)"
+   ],
+   "posted": "2026-09-10",
+   "summary": "Shanghai Shineyo Medical is a venture-backed EP device company developing pulsed field ablation systems for atrial fibrillation, with active clinical experience in China and Series A funding from EFung Capital and Baiyun Financial Holdings.",
+   "email": "panshuang@shineyomedical.com",
+   "phone": "86-18621903981",
+   "contact_name": "Shuang Pan",
+   "pi": "",
+   "channel": "Direct email to Shuang Pan (study contact, panshuang@shineyomedical.com) + LinkedIn outreach to identify Clinical Operations or Business Development lead",
+   "who": "Shuang Pan (Study Contact) or via organizational discovery to their Clinical Operations/BD lead",
+   "angle": "Mediogram offers proven Eastern European enrollment velocity and regulatory expertise to accelerate their spherical PFA paroxysmal AF trial into markets beyond China.",
+   "opener": "Hi Shuang Pan, we're Mediogram—a clinical-execution partner running CV device and advanced-therapy trials across Eastern Europe with high-enrolling sites and integrated regulatory/imaging/QC capabilities. Your spherical PFA trial for paroxysmal AF is compelling; we'd like to discuss how our Minsk cardiology center and regional network could expand your enrollment timeline and regulatory pathway. Best to explore this with your Clinical Operations lead. Would a brief call this week work?",
+   "url": "https://clinicaltrials.gov/study/NCT07811934"
   },
   {
    "nct": "NCT07788040",
@@ -2116,38 +2116,6 @@
    "url": "https://clinicaltrials.gov/study/NCT07232030"
   },
   {
-   "nct": "NCT07814118",
-   "source": "ctgov",
-   "score": 90,
-   "tier": "HOT",
-   "modality": "device",
-   "note": "",
-   "region_sites": [],
-   "sponsor": "Truway Health, Inc.",
-   "title": "Multimodal Physiologic State Intelligence Study",
-   "status": "ENROLLING_BY_INVITATION",
-   "phase": "NA",
-   "countries": [
-    "United States"
-   ],
-   "conditions": [
-    "Heart Failure",
-    "Cardiomyopathies",
-    "Pulmonary Hypertension"
-   ],
-   "posted": "2026-09-10",
-   "summary": "Truway Health appears to be a medical supply distributor (not a device developer), making the OMNIPHYS trial sponsorship unusual and requiring direct clarification before engagement.",
-   "email": "",
-   "phone": "",
-   "contact_name": "",
-   "pi": "Gavin C Solomon, M.D. (Truway Health, Inc.)",
-   "channel": "Direct email to founder—public BD contacts unavailable",
-   "who": "Gavin Solomon, President & CEO (gavin@truwayhealth.com, 516-768-5264)",
-   "angle": "Clarify if OMNIPHYS is a new venture/division—if genuine device trial, discuss trial execution partnerships in Eastern Europe with proven CRO infrastructure.",
-   "opener": "Hi Gavin, We saw Truway Health as sponsor of the Multimodal Physiologic State Intelligence Study (OMNIPHYS ultrasound). Mediogram runs cardiovascular device and advanced-therapy trials across Eastern Europe—including imaging QC and high-enrolling sites in cardiology. Can we discuss whether you're looking for a clinical execution partner for this program? Best, [Your Name], BD, Mediogram",
-   "url": "https://clinicaltrials.gov/study/NCT07814118"
-  },
-  {
    "nct": "NCT07098858",
    "source": "ctgov",
    "score": 90,
@@ -2178,36 +2146,36 @@
    "url": "https://clinicaltrials.gov/study/NCT07098858"
   },
   {
-   "nct": "NCT07809516",
+   "nct": "NCT07814118",
    "source": "ctgov",
    "score": 90,
    "tier": "HOT",
    "modality": "device",
    "note": "",
    "region_sites": [],
-   "sponsor": "Hillcrest",
-   "title": "Pedal Pump Clinical Trial on Edema V2",
-   "status": "RECRUITING",
+   "sponsor": "Truway Health, Inc.",
+   "title": "Multimodal Physiologic State Intelligence Study",
+   "status": "ENROLLING_BY_INVITATION",
    "phase": "NA",
    "countries": [
     "United States"
    ],
    "conditions": [
-    "Lower Extremity Edema",
-    "Lower Extremity Edema Chronic",
-    "CHF - Congestive Heart Failure"
+    "Heart Failure",
+    "Cardiomyopathies",
+    "Pulmonary Hypertension"
    ],
-   "posted": "2026-09-09",
-   "summary": "",
-   "email": "davidwilliammcvay@gmail.com",
-   "phone": "918-376-0107",
-   "contact_name": "David McVay, DO",
-   "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
-   "url": "https://clinicaltrials.gov/study/NCT07809516"
+   "posted": "2026-09-10",
+   "summary": "Truway Health appears to be a medical supply distributor (not a device developer), making the OMNIPHYS trial sponsorship unusual and requiring direct clarification before engagement.",
+   "email": "",
+   "phone": "",
+   "contact_name": "",
+   "pi": "Gavin C Solomon, M.D. (Truway Health, Inc.)",
+   "channel": "Direct email to founder—public BD contacts unavailable",
+   "who": "Gavin Solomon, President & CEO (gavin@truwayhealth.com, 516-768-5264)",
+   "angle": "Clarify if OMNIPHYS is a new venture/division—if genuine device trial, discuss trial execution partnerships in Eastern Europe with proven CRO infrastructure.",
+   "opener": "Hi Gavin, We saw Truway Health as sponsor of the Multimodal Physiologic State Intelligence Study (OMNIPHYS ultrasound). Mediogram runs cardiovascular device and advanced-therapy trials across Eastern Europe—including imaging QC and high-enrolling sites in cardiology. Can we discuss whether you're looking for a clinical execution partner for this program? Best, [Your Name], BD, Mediogram",
+   "url": "https://clinicaltrials.gov/study/NCT07814118"
   },
   {
    "nct": "NCT07810335",
@@ -2275,6 +2243,38 @@
    "url": "https://clinicaltrials.gov/study/NCT06310031"
   },
   {
+   "nct": "NCT07809516",
+   "source": "ctgov",
+   "score": 90,
+   "tier": "HOT",
+   "modality": "device",
+   "note": "",
+   "region_sites": [],
+   "sponsor": "Hillcrest",
+   "title": "Pedal Pump Clinical Trial on Edema V2",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "countries": [
+    "United States"
+   ],
+   "conditions": [
+    "Lower Extremity Edema",
+    "Lower Extremity Edema Chronic",
+    "CHF - Congestive Heart Failure"
+   ],
+   "posted": "2026-09-09",
+   "summary": "",
+   "email": "davidwilliammcvay@gmail.com",
+   "phone": "918-376-0107",
+   "contact_name": "David McVay, DO",
+   "pi": "",
+   "channel": "",
+   "who": "",
+   "angle": "",
+   "opener": "",
+   "url": "https://clinicaltrials.gov/study/NCT07809516"
+  },
+  {
    "nct": "NCT05604430",
    "source": "ctgov",
    "score": 90,
@@ -2339,38 +2339,6 @@
    "url": "https://clinicaltrials.gov/study/NCT05610787"
   },
   {
-   "nct": "NCT07574593",
-   "source": "ctgov",
-   "score": 90,
-   "tier": "HOT",
-   "modality": "device",
-   "note": "",
-   "region_sites": [],
-   "sponsor": "Foundry Innovation & Research 1, Limited (FIRE1)",
-   "title": "NORM-HF Pivotal Study",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "countries": [
-    "United States"
-   ],
-   "conditions": [
-    "Heart Failure",
-    "NYHA Class III Heart Failure",
-    "NYHA Class II Heart Failure"
-   ],
-   "posted": "2026-05-08",
-   "summary": "FIRE1 is a Dublin-based medtech company developing implantable IVC sensors for remote heart failure management, backed by Novo Holdings, Polaris Partners, and Medtronic with $120M in recent funding.",
-   "email": "NORM-HF@fire1foundry.com",
-   "phone": "+1 617-802-5911",
-   "contact_name": "Troy Penz",
-   "pi": "",
-   "channel": "Direct outreach to Troy Penz (study contact) + clinical-operations lead search",
-   "who": "Annette Kent, Clinical Director (or Head of Clinical Operations once identified)",
-   "angle": "Your NORM-HF pivotal trial recruiting in US can leverage Mediogram's Eastern European cardiovascular expertise and regulatory/QC infrastructure to accelerate enrollment and reduce site operational burden.",
-   "opener": "Hi Annette/Troy—Mediogram runs high-enrolling cardio device and advanced-therapy trials across Eastern Europe with local regulatory expertise and imaging QC. Your NORM-HF pivotal would benefit from our RNPC Cardiology site network and operational infrastructure to strengthen enrollment velocity. Happy to explore collaboration. Best, [Your Name] | Mediogram BD",
-   "url": "https://clinicaltrials.gov/study/NCT07574593"
-  },
-  {
    "nct": "NCT05677100",
    "source": "ctgov",
    "score": 90,
@@ -2402,6 +2370,38 @@
    "angle": "The DRAIN-HF trial is evaluating Aortix against diuretics alone in acute decompensated heart failure patients with cardiorenal syndrome—Mediogram's Eastern European cardiovascular sites with high-enrollment capacity and regulatory/imaging expertise directly de-risk trial expansion into Hungary and beyond.",
    "opener": "Hi Rubi, Mediogram is a clinical-execution partner specializing in cardiovascular device and advanced therapy trials across Eastern Europe (RNPC Cardiology in Minsk plus high-enrolling Hungarian sites). We noticed DRAIN-HF is recruiting in Hungary and we'd like to explore whether our regional sites and clinical infrastructure could accelerate enrollment in cardiorenal syndrome patients—many of whom present with diuretic resistance. Could we schedule a brief call to discuss whether this is of interest? Best, [Your Name], BD Lead, Mediogram",
    "url": "https://clinicaltrials.gov/study/NCT05677100"
+  },
+  {
+   "nct": "NCT07574593",
+   "source": "ctgov",
+   "score": 90,
+   "tier": "HOT",
+   "modality": "device",
+   "note": "",
+   "region_sites": [],
+   "sponsor": "Foundry Innovation & Research 1, Limited (FIRE1)",
+   "title": "NORM-HF Pivotal Study",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "countries": [
+    "United States"
+   ],
+   "conditions": [
+    "Heart Failure",
+    "NYHA Class III Heart Failure",
+    "NYHA Class II Heart Failure"
+   ],
+   "posted": "2026-05-08",
+   "summary": "FIRE1 is a Dublin-based medtech company developing implantable IVC sensors for remote heart failure management, backed by Novo Holdings, Polaris Partners, and Medtronic with $120M in recent funding.",
+   "email": "NORM-HF@fire1foundry.com",
+   "phone": "+1 617-802-5911",
+   "contact_name": "Troy Penz",
+   "pi": "",
+   "channel": "Direct outreach to Troy Penz (study contact) + clinical-operations lead search",
+   "who": "Annette Kent, Clinical Director (or Head of Clinical Operations once identified)",
+   "angle": "Your NORM-HF pivotal trial recruiting in US can leverage Mediogram's Eastern European cardiovascular expertise and regulatory/QC infrastructure to accelerate enrollment and reduce site operational burden.",
+   "opener": "Hi Annette/Troy—Mediogram runs high-enrolling cardio device and advanced-therapy trials across Eastern Europe with local regulatory expertise and imaging QC. Your NORM-HF pivotal would benefit from our RNPC Cardiology site network and operational infrastructure to strengthen enrollment velocity. Happy to explore collaboration. Best, [Your Name] | Mediogram BD",
+   "url": "https://clinicaltrials.gov/study/NCT07574593"
   },
   {
    "nct": "NCT07775976",
@@ -2594,68 +2594,6 @@
    "url": "https://clinicaltrials.gov/study/NCT06920030"
   },
   {
-   "nct": "NCT05064709",
-   "source": "ctgov",
-   "score": 90,
-   "tier": "HOT",
-   "modality": "device",
-   "note": "",
-   "region_sites": [],
-   "sponsor": "Impulse Dynamics",
-   "title": "Assessment of CCM in HF With Higher Ejection Fraction",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "countries": [
-    "United States"
-   ],
-   "conditions": [
-    "Heart Failure",
-    "Heart Failure With Preserved Ejection Fraction",
-    "Heart Failure With Mid Range Ejection Fraction"
-   ],
-   "posted": "2021-10-01",
-   "summary": "Impulse Dynamics (now Guidant-owned as of Dec 2025) is a heart-failure device innovator running the AIM HIGHer trial for CCM therapy in preserved EF patients—freshly acquired and likely integrating commercial/clinical operations.",
-   "email": "aimhigher@impulsedynamics.com",
-   "phone": "(856) 642-9933",
-   "contact_name": "Gary Cranke",
-   "pi": "Javed Butler, MD, MPH, MBA (Baylor Scott and White Research Institute, Dallas, Texas)",
-   "channel": "Direct to Joe Murar (Senior Director, Clinical & Data Operations) via LinkedIn + formal email referral through their study contact Gary Cranke (aimhigher@impulsedynamics.com)",
-   "who": "Joe Murar, Senior Director of Clinical & Data Operations (or equivalent in post-acquisition structure); escalate to Gary Cranke as trial coordinator bridge",
-   "angle": "Mediogram can accelerate enrollment in Eastern Europe (RNPC Cardiology, Minsk, high-enrolling sites, regulatory/ethics/QC) while Guidant integrates Impulse—reducing trial risk in a key underpenetrated region.",
-   "opener": "Hi Joe & Gary—Mediogram runs high-enrolling CV device/advanced-therapy trials in Eastern Europe (RNPC Cardiology, Minsk, regulatory in-house, QC/imaging oversight). The AIM HIGHer trial is perfectly suited to our model: preserved EF HF has limited trial penetration in our region. We'd like to discuss how we can de-risk enrollment in a 2-3 site bolt-on. Are you open to a brief call this month? Best, [Your Name], BD Lead, Mediogram",
-   "url": "https://clinicaltrials.gov/study/NCT05064709"
-  },
-  {
-   "nct": "NCT07738107",
-   "source": "ctgov",
-   "score": 90,
-   "tier": "HOT",
-   "modality": "drug",
-   "note": "",
-   "region_sites": [],
-   "sponsor": "Atrium Therapeutics",
-   "title": "ATR 1072 in Participants With PRKAG2 Syndrome",
-   "status": "NOT_YET_RECRUITING",
-   "phase": "PHASE1/PHASE2",
-   "countries": [],
-   "conditions": [
-    "Cardiac Glycogenosis",
-    "Cardiomyopathy",
-    "Hypertrophic"
-   ],
-   "posted": "2026-07-31",
-   "summary": "Atrium Therapeutics is a newly public spinout from Novartis (via Avidity) focused on RNA therapeutics for rare genetic cardiomyopathies, with $270M in cash and major pharma partnerships.",
-   "email": "clinicaltrials@atrium-tx.com",
-   "phone": "283-227-6543",
-   "contact_name": "Patient Recruitment Coordinator",
-   "pi": "",
-   "channel": "Direct outreach to clinicaltrials@atrium-tx.com (provided contact) + LinkedIn to Rocio Martin Hoyos (Chief Strategy Officer) or Shane Feys (Associate Director, Clinical Operations)",
-   "who": "Rocio Martin Hoyos, Chief Strategy Officer (commercial/partnerships focus) or Shane Feys, Associate Director Clinical Operations",
-   "angle": "ATR 1072 is in IND-enabling studies with expected filing in H2 2026—Mediogram can accelerate enrollment in Eastern Europe where your RNPC cardiology hub and regulatory expertise unlock otherwise difficult-to-reach PRKAG2 patients.",
-   "opener": "We noticed ATR 1072 is progressing toward IND submission in H2 2026 for PRKAG2 syndrome. Mediogram operates a dedicated cardiology CRO in Minsk with expertise in rare arrhythmology and metabolic cardiomyopathy, local regulatory relationships, and FIH-ready infrastructure. We'd like to discuss how we can support enrollment strategy and site activation for your Phase 1/2 in Eastern Europe. – Mediogram BD",
-   "url": "https://clinicaltrials.gov/study/NCT07738107"
-  },
-  {
    "nct": "NCT07675668",
    "source": "ctgov",
    "score": 90,
@@ -2716,6 +2654,38 @@
    "angle": "Mediogram's proven Eastern European cardiovascular and arrhythmology site network + regulatory/ethics expertise can accelerate enrollment in their EF severity assessment trial by adding high-volume sites with embedded imaging QC and trial logistics.",
    "opener": "Hi Nick—We noticed Peerbridge's EF-ACT trial is recruiting and currently limited to US sites. Mediogram operates dedicated cardiovascular trial sites across Eastern Europe (RNPC Cardiology in Minsk + others) with FIH/early-feasibility expertise, local regulatory approval, and high arrhythmology patient flow. Would a brief call make sense to explore expanding geographic enrollment? — Mediogram BD",
    "url": "https://clinicaltrials.gov/study/NCT06699056"
+  },
+  {
+   "nct": "NCT05064709",
+   "source": "ctgov",
+   "score": 90,
+   "tier": "HOT",
+   "modality": "device",
+   "note": "",
+   "region_sites": [],
+   "sponsor": "Impulse Dynamics",
+   "title": "Assessment of CCM in HF With Higher Ejection Fraction",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "countries": [
+    "United States"
+   ],
+   "conditions": [
+    "Heart Failure",
+    "Heart Failure With Preserved Ejection Fraction",
+    "Heart Failure With Mid Range Ejection Fraction"
+   ],
+   "posted": "2021-10-01",
+   "summary": "Impulse Dynamics (now Guidant-owned as of Dec 2025) is a heart-failure device innovator running the AIM HIGHer trial for CCM therapy in preserved EF patients—freshly acquired and likely integrating commercial/clinical operations.",
+   "email": "aimhigher@impulsedynamics.com",
+   "phone": "(856) 642-9933",
+   "contact_name": "Gary Cranke",
+   "pi": "Javed Butler, MD, MPH, MBA (Baylor Scott and White Research Institute, Dallas, Texas)",
+   "channel": "Direct to Joe Murar (Senior Director, Clinical & Data Operations) via LinkedIn + formal email referral through their study contact Gary Cranke (aimhigher@impulsedynamics.com)",
+   "who": "Joe Murar, Senior Director of Clinical & Data Operations (or equivalent in post-acquisition structure); escalate to Gary Cranke as trial coordinator bridge",
+   "angle": "Mediogram can accelerate enrollment in Eastern Europe (RNPC Cardiology, Minsk, high-enrolling sites, regulatory/ethics/QC) while Guidant integrates Impulse—reducing trial risk in a key underpenetrated region.",
+   "opener": "Hi Joe & Gary—Mediogram runs high-enrolling CV device/advanced-therapy trials in Eastern Europe (RNPC Cardiology, Minsk, regulatory in-house, QC/imaging oversight). The AIM HIGHer trial is perfectly suited to our model: preserved EF HF has limited trial penetration in our region. We'd like to discuss how we can de-risk enrollment in a 2-3 site bolt-on. Are you open to a brief call this month? Best, [Your Name], BD Lead, Mediogram",
+   "url": "https://clinicaltrials.gov/study/NCT05064709"
   },
   {
    "nct": "NCT07598760",
@@ -3123,70 +3093,6 @@
    "angle": "CoreMap's Czech and US trial sites present an opportunity for Mediogram to strengthen enrollment and site operations in Eastern Europe, leveraging Mediogram's high-enrolling arrhythmology capabilities in RNPC Cardiology and regulatory expertise.",
    "opener": "Hi Steven/Christina — Mediogram runs high-enrolling cardiovascular device and antiarrhythmic trials in Eastern Europe (RNPC Cardiology, Minsk). We're following CoreMap's persistent AFib mapping trial and see a strong fit for accelerating your Czech site and adding robust enrollment through our regional network. Would you be open to a brief call to explore how we might support your study execution? — Mediogram BD",
    "url": "https://clinicaltrials.gov/study/NCT06529978"
-  },
-  {
-   "nct": "NCT05111015",
-   "source": "ctgov",
-   "score": 90,
-   "tier": "HOT",
-   "modality": "device",
-   "note": "",
-   "region_sites": [],
-   "sponsor": "AtriCure, Inc.",
-   "title": "Tracking Results of Ablations to Combat AF Registry Generation 2",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "countries": [
-    "Austria",
-    "Canada",
-    "United States"
-   ],
-   "conditions": [
-    "Atrial Fibrillation"
-   ],
-   "posted": "2021-11-08",
-   "summary": "AtriCure is a publicly traded ($1.53B market cap) cardiac device company headquartered near Cincinnati, Ohio that develops surgical ablation, hybrid AF therapy, and LAA management solutions for atrial fibrillation—a strategic fit for high-volume cardiac device trial execution.",
-   "email": "jgoodarz@atricure.com",
-   "phone": "609-331-6621",
-   "contact_name": "Jarrod Goodarz, BA",
-   "pi": "",
-   "channel": "Direct outreach to Sr. Director of Clinical Operations, Ankita Bhalla (abhalla@atricure.com), who oversees global clinical trial strategy and CRO/investigator relationships.",
-   "who": "Ankita Bhalla, Sr. Director of Clinical Operations (10+ years in clinical operations at Abbott, St. Jude, Medtronic; manages trial metrics, site relationships, vendor contracts)",
-   "angle": "TRAC-AF Gen 2 is expanding beyond US/Canada—Eastern Europe (Minsk, high-enrolling sites) offers untapped surgical ablation and hybrid procedure volume where Mediogram's local regulatory, ethics, imaging QC, and logistics infrastructure de-risks execution.",
-   "opener": "Ankita—we've been following AtriCure's TRAC-AF Gen 2 registry expansion and recognize surgical ablation adoption barriers in Europe differ from the US market. Mediogram (RNPC Cardiology, Minsk) brings local regulatory/ethics relationships, imaging QC, and FIH/early-feasibility expertise that can accelerate enrollment in Eastern European sites. Would a 15-minute call make sense to explore potential partnership?",
-   "url": "https://clinicaltrials.gov/study/NCT05111015"
-  },
-  {
-   "nct": "NCT06989775",
-   "source": "ctgov",
-   "score": 90,
-   "tier": "HOT",
-   "modality": "device",
-   "note": "",
-   "region_sites": [],
-   "sponsor": "AtriCure, Inc.",
-   "title": "BoxX-NoAF Clinical Trial",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "countries": [
-    "Canada",
-    "United States"
-   ],
-   "conditions": [
-    "Post Operative Atrial Fibrillation",
-    "Atrial Fibrillation, Postoperative"
-   ],
-   "posted": "2025-05-25",
-   "summary": "AtriCure is a medical device company focused on atrial fibrillation and pain management, with FDA-approved surgical ablation and LAA exclusion systems perfectly aligned with your RNPC Cardiology arrhythmology expertise.",
-   "email": "BoxXNoAF@atricure.com",
-   "phone": "1 (513) 755-4100",
-   "contact_name": "BoxX-NoAF Trial Inbox",
-   "pi": "",
-   "channel": "Clinical Operations leadership via study contact, escalating to Business Development for site expansion—BoxXNoAF@atricure.com or direct to Sr. Director of Clinical Operations.",
-   "who": "Ankita Bhalla, Sr. Director of Clinical Operations at AtriCure, or Justin Noznesky, Chief Marketing and Strategy Officer since 2021.",
-   "angle": "BoxX-NoAF is actively recruiting in North America (Canada/US); Mediogram operates high-enrolling Eastern European sites with regulatory/ethics/imaging QC/logistics infrastructure and proven AFib/device trial execution—a direct fit for protocol acceleration.",
-   "opener": "Hi Ankita/Justin—Mediogram (RNPC Cardiology, Minsk) runs cardiovascular device and advanced-therapy trials in Eastern Europe with established regulatory relationships, imaging QC, and high-enrolling capacity. We noticed BoxX-NoAF is currently recruiting and would welcome a conversation about whether Eastern European sites could strengthen enrollment velocity. Would a brief call work in the coming weeks?",
-   "url": "https://clinicaltrials.gov/study/NCT06989775"
   },
   {
    "nct": "NCT07324031",
@@ -3689,6 +3595,102 @@
    "angle": "Pulse Biosciences is conducting a multi-center, first-in-human feasibility study for atrial fibrillation, currently recruiting in Czechia with opportunity to expand to Mediogram's high-enrolling Eastern European cardiology centers (RNPC Minsk, regional sites).",
    "opener": "Hi Liane – Mediogram (RNPC Cardiology, Minsk; cardiovascular device trials specialist) has identified your NS-PFA catheter ablation trial as a strategic fit for Eastern European expansion. We operate high-enrolling arrhythmology sites, own local regulatory/ethics pathways, and have proven experience accelerating device trial enrollment in this region. Would appreciate 15 min to discuss site opportunities and trial acceleration. Best – [Name], BD Lead, Mediogram",
    "url": "https://clinicaltrials.gov/study/NCT07018596"
+  },
+  {
+   "nct": "NCT06696170",
+   "source": "ctgov",
+   "score": 90,
+   "tier": "HOT",
+   "modality": "device",
+   "note": "",
+   "region_sites": [],
+   "sponsor": "Pulse Biosciences, Inc.",
+   "title": "CellFX® Nanosecond Pulsed Field Ablation (PFA) 360 Catheter Ablation System for Treatment of Atrial Fibrillation",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "countries": [
+    "Belgium",
+    "Czechia",
+    "Italy"
+   ],
+   "conditions": [
+    "Atrial Fibrillation Paroxysmal",
+    "Cardiac Ablation",
+    "Cardiac Arrhythmia"
+   ],
+   "posted": "2024-11-20",
+   "summary": "Pulse Biosciences is a developer of Nano-Pulse Electro-Signaling platform technology and a public company with a $65M post-IPO funding round (May 2023) led by MDB Capital Holdings and Sea Purity Investments, now prioritizing cardiac ablation for atrial fibrillation.",
+   "email": "bknape@pulsebiosciences.com",
+   "phone": "510-906-4649",
+   "contact_name": "William A. Knape",
+   "pi": "Rich A. Nuccitelli, PhD (Pulse Biosciences, Inc.)",
+   "channel": "Direct outreach to COO (Clinical/Regulatory/Commercial overseer) via clinical operations email or LinkedIn, cc: study contact William Knape.",
+   "who": "Liane Teplitsky, Chief Operating Officer (joined April 2026); oversees Clinical, Regulatory, Quality, and Commercial functions.",
+   "angle": "Pulse's European FIH data shows 100% procedural success at 6 months; their US NANOPULSE-AF pivotal IDE commenced April 2026 with enrollment ending early Q4 2026—Mediogram can accelerate enrollment in Eastern Europe with high-volume, regulatory-ready cardiology sites.",
+   "opener": "Liane—Congratulations on the momentum of nPulse cardiac: 100% success in Europe and FDA approval for your US pivotal. We are running cardiovascular device/drug trials across Eastern Europe (Minsk cardiology center, FIH capability, local regulatory/ethics/QC). Your trial now recruiting in Belgium, Czechia, Italy—we can add high-enrolling Belarusian and regional arrhythmology sites to accelerate Q4 2026 enrollment targets. Let's discuss fit. —Mediogram BD",
+   "url": "https://clinicaltrials.gov/study/NCT06696170"
+  },
+  {
+   "nct": "NCT06598319",
+   "source": "ctgov",
+   "score": 90,
+   "tier": "HOT",
+   "modality": "device",
+   "note": "",
+   "region_sites": [],
+   "sponsor": "Aventix Medical Inc.",
+   "title": "Evaluation of Pulsed Field Ablation of the Posterior Nasal Nerve for Chronic Rhinitis",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "countries": [
+    "United States"
+   ],
+   "conditions": [
+    "Chronic Rhinitis"
+   ],
+   "posted": "2024-09-19",
+   "summary": "Aventix Medical is an early-stage FDA-cleared ENT medical device startup (11–50 employees, $1–5M revenue) with pulsed field ablation technology that extends beyond cardiac into ENT applications.",
+   "email": "clinical@aventixmed.com",
+   "phone": "(510) 912-2589",
+   "contact_name": "ClinicalAdmin",
+   "pi": "Raymond Weiss, MD (Bay Area ENT)",
+   "channel": "Direct outreach to John R Saunders (CEO) via aventixmed.com or clinical@aventixmed.com; reference principal investigator Raymond Weiss, MD (Bay Area ENT) as mutual connection point.",
+   "who": "John R Saunders, Chief Executive Officer (primary); Clinical Admin contact (clinical@aventixmed.com, 510-912-2589) as secondary entry for ops discussions.",
+   "angle": "Your NOVOCLEAR chronic rhinitis trial is recruiting in US only—Mediogram can expand enrollment into high-performing Eastern European ENT/rhino sites with established regulatory pathways and imaging QC.",
+   "opener": "John, we're following Aventix's NOVOCLEAR trial for chronic rhinitis (NCT06598319). We run high-enrolling cardiovascular device and advanced-therapy trials across Eastern Europe and specialize in ENT/rhino expansion for US-based device sponsors. We'd welcome a conversation about accelerating patient enrollment or exploring site partnerships for this pivotal phase. Best, [Your Name], BD, Mediogram",
+   "url": "https://clinicaltrials.gov/study/NCT06598319"
+  },
+  {
+   "nct": "NCT07287176",
+   "source": "ctgov",
+   "score": 90,
+   "tier": "HOT",
+   "modality": "device",
+   "note": "",
+   "region_sites": [],
+   "sponsor": "Pulse Biosciences, Inc.",
+   "title": "Prospective Evaluation of the Pulse Biosciences nPulse™ Vybrance™ Percutaneous Electrode System",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "countries": [
+    "United States"
+   ],
+   "conditions": [
+    "Thyroid Nodule",
+    "Thyroid Goiter",
+    "Ablation"
+   ],
+   "posted": "2025-12-17",
+   "summary": "Pulse Biosciences is a novel bioelectric medicine company with a public ticker (NASDAQ:PLSE) developing percutaneous ablation devices for thyroid and cardiac indications; they fit Mediogram's model given their active U.S. trial and need to expand globally.",
+   "email": "ioana.gruchevska@pulsebiosciences.com",
+   "phone": "(314) 484-7033",
+   "contact_name": "Ioana Gruchevska",
+   "pi": "Ralph Tufano, MD (Sarasota Memorial Hospital)",
+   "channel": "Ioana Gruchevska (study contact) or direct outreach to Liane Teplitsky (Chief Operating Officer)",
+   "who": "Liane Teplitsky, Chief Operating Officer (joined April 2026), who oversees Clinical, Regulatory, Quality, and Commercial functions",
+   "angle": "Your nPulse Vybrance Percutaneous Electrode thyroid ablation trial is recruiting in the U.S. but lacks Eastern European sites; Mediogram operates RNPC Cardiology in Minsk with established regulatory/ethics pathways and high-enrollment infrastructure to accelerate enrollment and generate real-world clinical evidence.",
+   "opener": "Hi Liane/Ioana—We noticed your nPulse Vybrance trial is actively recruiting and saw the opportunity to expand geographic reach into Eastern Europe, where patient volume and regulatory efficiency could meaningfully de-risk your pivotal program. Mediogram runs high-enrolling cardiovascular device trials through our Minsk center with established local regulatory/ethics approvals and imaging QC. Would you be open to a 15-minute call to discuss adding sites in our network?",
+   "url": "https://clinicaltrials.gov/study/NCT07287176"
   },
   {
    "nct": "NCT07123779",
@@ -4393,34 +4395,36 @@
    "url": "https://clinicaltrials.gov/study/NCT07601087"
   },
   {
-   "nct": "NCT07750873",
+   "nct": "NCT07738107",
    "source": "ctgov",
    "score": 80,
    "tier": "WARM",
    "modality": "drug",
    "note": "",
    "region_sites": [],
-   "sponsor": "Cardurion Pharmaceuticals, Inc.",
-   "title": "A Trial of CRD-4730 in HFrEF",
+   "sponsor": "Atrium Therapeutics",
+   "title": "ATR 1072 in Participants With PRKAG2 Syndrome",
    "status": "RECRUITING",
-   "phase": "PHASE2",
+   "phase": "PHASE1/PHASE2",
    "countries": [
     "United States"
    ],
    "conditions": [
-    "Heart Failure With Reduced Ejection Fraction (HFrEF)"
+    "Cardiac Glycogenosis",
+    "Cardiomyopathy",
+    "Hypertrophic"
    ],
-   "posted": "2026-08-06",
-   "summary": "Cardurion is a clinical-stage biotech company developing cardiovascular therapeutics backed by major VC including Bain Capital and Ascenta Capital, with a recent $260M Series B focused on HFrEF and other cardio indications.",
-   "email": "ClinicalTrialsGov@cardurion.com",
-   "phone": "617-863-8088",
-   "contact_name": "Cardurion Pharmaceuticals",
+   "posted": "2026-07-31",
+   "summary": "Atrium Therapeutics is a newly public spinout from Novartis (via Avidity) focused on RNA therapeutics for rare genetic cardiomyopathies, with $270M in cash and major pharma partnerships.",
+   "email": "clinicaltrials@atrium-tx.com",
+   "phone": "283-227-6543",
+   "contact_name": "Patient Recruitment Coordinator",
    "pi": "",
-   "channel": "Direct outreach to Chief Business Officer or Senior Director, Clinical Operations via email/phone",
-   "who": "Charlotte Newman, Chief Business Officer (joined January 2025) or Jennifer Mead, Sr. Director, Clinical Operations",
-   "angle": "CRD-4730 is Cardurion's CaMKII inhibitor in their pipeline for HFrEF—Mediogram can accelerate their Phase 2 enrollment in Eastern Europe with proven RNPC Cardiology sites and local execution excellence.",
-   "opener": "Hi [Name], Mediogram runs Phase 2 cardiovascular trials across Eastern Europe with best-in-class enrollment at RNPC Cardiology in Minsk and other high-volume sites. We've closely followed Cardurion's CRD-4730 program and see a strong geographic gap for HFrEF recruitment. We'd like to discuss how our platform could accelerate enrollment and reduce operational complexity for your Phase 2. Would you have 20 minutes next week? — Mediogram BD",
-   "url": "https://clinicaltrials.gov/study/NCT07750873"
+   "channel": "Direct outreach to clinicaltrials@atrium-tx.com (provided contact) + LinkedIn to Rocio Martin Hoyos (Chief Strategy Officer) or Shane Feys (Associate Director, Clinical Operations)",
+   "who": "Rocio Martin Hoyos, Chief Strategy Officer (commercial/partnerships focus) or Shane Feys, Associate Director Clinical Operations",
+   "angle": "ATR 1072 is in IND-enabling studies with expected filing in H2 2026—Mediogram can accelerate enrollment in Eastern Europe where your RNPC cardiology hub and regulatory expertise unlock otherwise difficult-to-reach PRKAG2 patients.",
+   "opener": "We noticed ATR 1072 is progressing toward IND submission in H2 2026 for PRKAG2 syndrome. Mediogram operates a dedicated cardiology CRO in Minsk with expertise in rare arrhythmology and metabolic cardiomyopathy, local regulatory relationships, and FIH-ready infrastructure. We'd like to discuss how we can support enrollment strategy and site activation for your Phase 1/2 in Eastern Europe. – Mediogram BD",
+   "url": "https://clinicaltrials.gov/study/NCT07738107"
   },
   {
    "nct": "NCT07791160",
@@ -4663,6 +4667,36 @@
    "angle": "Coramitug Phase 1 ATTR-CM trial enrolling in Netherlands; Mediogram's Eastern European cardiovascular + early-phase expertise (FIH, high-enrollment sites, local regulatory/ethics/imaging QC) can accelerate enrollment in untapped geographies and de-risk trial execution.",
    "opener": "Hi Anna, We're impressed by Novo Nordisk's Coramitug ATTR-CM Phase 1 study and your integrated approach to clinical development. Mediogram specializes in cardiovascular-device and advanced-therapy trials in Eastern Europe (RNPC Cardiology Minsk, FIH-capable sites, native regulatory/ethics expertise). We'd like to discuss how we might support trial expansion into high-enrolling regions while maintaining your rigorous safety/imaging QC standards. Are you open to a brief conversation? — Mediogram BD",
    "url": "https://clinicaltrials.gov/study/NCT07448623"
+  },
+  {
+   "nct": "NCT07750873",
+   "source": "ctgov",
+   "score": 80,
+   "tier": "WARM",
+   "modality": "drug",
+   "note": "",
+   "region_sites": [],
+   "sponsor": "Cardurion Pharmaceuticals, Inc.",
+   "title": "A Trial of CRD-4730 in HFrEF",
+   "status": "RECRUITING",
+   "phase": "PHASE2",
+   "countries": [
+    "United States"
+   ],
+   "conditions": [
+    "Heart Failure With Reduced Ejection Fraction (HFrEF)"
+   ],
+   "posted": "2026-08-06",
+   "summary": "Cardurion is a clinical-stage biotech company developing cardiovascular therapeutics backed by major VC including Bain Capital and Ascenta Capital, with a recent $260M Series B focused on HFrEF and other cardio indications.",
+   "email": "ClinicalTrialsGov@cardurion.com",
+   "phone": "617-863-8088",
+   "contact_name": "Cardurion Pharmaceuticals",
+   "pi": "",
+   "channel": "Direct outreach to Chief Business Officer or Senior Director, Clinical Operations via email/phone",
+   "who": "Charlotte Newman, Chief Business Officer (joined January 2025) or Jennifer Mead, Sr. Director, Clinical Operations",
+   "angle": "CRD-4730 is Cardurion's CaMKII inhibitor in their pipeline for HFrEF—Mediogram can accelerate their Phase 2 enrollment in Eastern Europe with proven RNPC Cardiology sites and local execution excellence.",
+   "opener": "Hi [Name], Mediogram runs Phase 2 cardiovascular trials across Eastern Europe with best-in-class enrollment at RNPC Cardiology in Minsk and other high-volume sites. We've closely followed Cardurion's CRD-4730 program and see a strong geographic gap for HFrEF recruitment. We'd like to discuss how our platform could accelerate enrollment and reduce operational complexity for your Phase 2. Would you have 20 minutes next week? — Mediogram BD",
+   "url": "https://clinicaltrials.gov/study/NCT07750873"
   },
   {
    "nct": "NCT06148935",
@@ -5851,6 +5885,36 @@
    "url": "https://clinicaltrials.gov/study/NCT07069738"
   },
   {
+   "nct": "NCT07585968",
+   "source": "ctgov",
+   "score": 75,
+   "tier": "WARM",
+   "modality": "device",
+   "note": "",
+   "region_sites": [],
+   "sponsor": "Medtronic Cardiac Ablation Solutions",
+   "title": "Safety and Effectiveness of the Sphere-9™ Catheter and Affera™ Ablation System for the Treatment of Ventricular Tachycardia (Sphere VT)",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "countries": [
+    "United States"
+   ],
+   "conditions": [
+    "Ventricular Tachycardia"
+   ],
+   "posted": "2026-05-14",
+   "summary": "Medtronic Cardiac Ablation Solutions is the cardiovascular device division of Medtronic (a publicly-traded global medtech leader), backing their breakthrough Sphere-9/Affera VT ablation system with recent CE Mark approval and FDA Breakthrough Device Designation.",
+   "email": "josh.b.treadway@medtronic.com",
+   "phone": "817-412-0608",
+   "contact_name": "Josh Treadway",
+   "pi": "Vivek Reddy, MD (Icahn School of Medicine at Mount Sinai)",
+   "channel": "Direct outreach to Rebecca Seidel (President, Cardiac Ablation Solutions) or Tim Laske (VP Research & Business Development, CAS) via clinical trial operations contact Josh Treadway.",
+   "who": "Rebecca Seidel, President of Cardiac Ablation Solutions; or Tim Laske, VP of Research & Business Development for Cardiac Ablation Solutions",
+   "angle": "Mediogram can expand Sphere VT enrollment in Eastern Europe with FIH expertise, high-volume sites, and integrated regulatory/imaging QC—directly supporting the pivotal trial's global footprint and Medtronic's accelerating ablation portfolio growth.",
+   "opener": "Josh—We noticed Sphere VT pivotal enrollment is underway following strong EFS results. Mediogram has RNPC Cardiology (Minsk) and FIH-specialized sites in Eastern Europe with high VT/device volumes and local regulatory/ethics infrastructure. We'd welcome a brief call with Rebecca or Tim to discuss how we can accelerate enrollment and support the trial's global expansion. Best—Mediogram BD",
+   "url": "https://clinicaltrials.gov/study/NCT07585968"
+  },
+  {
    "nct": "NCT07755904",
    "source": "ctgov",
    "score": 75,
@@ -5907,36 +5971,6 @@
    "angle": "Mediogram's regional trial infrastructure and regulatory/imaging expertise in Eastern Europe can accelerate early-feasibility and international enrollment for the Sphere-9 VT EFS, particularly in under-penetrated markets where Medtronic lacks established site networks.",
    "opener": "Hi Rebecca/Chris, Mediogram is a clinical-execution partner running early-stage cardiac device trials (FIH/EFS) with owned infrastructure and local regulatory expertise across Eastern Europe. We've observed Sphere-9 VT EFS is recruiting in the US—we can add high-enrolling VT sites in our region and manage trial logistics end-to-end. Would appreciate 15 min to discuss how we complement Medtronic's enrollment strategy. — Mediogram BD",
    "url": "https://clinicaltrials.gov/study/NCT06703489"
-  },
-  {
-   "nct": "NCT07585968",
-   "source": "ctgov",
-   "score": 75,
-   "tier": "WARM",
-   "modality": "device",
-   "note": "",
-   "region_sites": [],
-   "sponsor": "Medtronic Cardiac Ablation Solutions",
-   "title": "Safety and Effectiveness of the Sphere-9™ Catheter and Affera™ Ablation System for the Treatment of Ventricular Tachycardia (Sphere VT)",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "countries": [
-    "United States"
-   ],
-   "conditions": [
-    "Ventricular Tachycardia"
-   ],
-   "posted": "2026-05-14",
-   "summary": "Medtronic Cardiac Ablation Solutions is the cardiovascular device division of Medtronic (a publicly-traded global medtech leader), backing their breakthrough Sphere-9/Affera VT ablation system with recent CE Mark approval and FDA Breakthrough Device Designation.",
-   "email": "josh.b.treadway@medtronic.com",
-   "phone": "817-412-0608",
-   "contact_name": "Josh Treadway",
-   "pi": "Vivek Reddy, MD (Icahn School of Medicine at Mount Sinai)",
-   "channel": "Direct outreach to Rebecca Seidel (President, Cardiac Ablation Solutions) or Tim Laske (VP Research & Business Development, CAS) via clinical trial operations contact Josh Treadway.",
-   "who": "Rebecca Seidel, President of Cardiac Ablation Solutions; or Tim Laske, VP of Research & Business Development for Cardiac Ablation Solutions",
-   "angle": "Mediogram can expand Sphere VT enrollment in Eastern Europe with FIH expertise, high-volume sites, and integrated regulatory/imaging QC—directly supporting the pivotal trial's global footprint and Medtronic's accelerating ablation portfolio growth.",
-   "opener": "Josh—We noticed Sphere VT pivotal enrollment is underway following strong EFS results. Mediogram has RNPC Cardiology (Minsk) and FIH-specialized sites in Eastern Europe with high VT/device volumes and local regulatory/ethics infrastructure. We'd welcome a brief call with Rebecca or Tim to discuss how we can accelerate enrollment and support the trial's global expansion. Best—Mediogram BD",
-   "url": "https://clinicaltrials.gov/study/NCT07585968"
   },
   {
    "nct": "NCT07785141",
@@ -6151,6 +6185,39 @@
    "url": "https://clinicaltrials.gov/study/NCT07227532"
   },
   {
+   "nct": "NCT07575269",
+   "source": "ctgov",
+   "score": 75,
+   "tier": "WARM",
+   "modality": "device",
+   "note": "",
+   "region_sites": [],
+   "sponsor": "Boston Scientific Corporation",
+   "title": "Evaluation of the FARAFLEX Mapping and Pulsed Field Ablation System in Subjects With Atrial Fibrillation",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "countries": [
+    "Belgium",
+    "Ireland",
+    "United States"
+   ],
+   "conditions": [
+    "Paroxysmal Atrial Fibrillation (PAF)",
+    "Persistent Atrial Fibrillation"
+   ],
+   "posted": "2026-05-08",
+   "summary": "Boston Scientific is a $20.1B global medtech leader with strong cardiovascular focus, active trial portfolio, and deep interest in Eastern European expansion (recent €75M R&D investment in Ireland for cardiovascular innovation).",
+   "email": "Madalyn.MacKinnon@bsci.com",
+   "phone": "860-992-2724",
+   "contact_name": "Madalyn MacKinnon",
+   "pi": "Andrea Natale, MD (Texas Cardiac Arrhythmia Research Foundation)",
+   "channel": "Direct email to Charlie Attlan (SVP Strategy & BD) with cc to Joseph Fitzgerald (EVP/President Cardiology); mention trial contact Madalyn MacKinnon as warm handoff opportunity.",
+   "who": "Charlie Attlan, Senior Vice President, Strategy and Business Development (oversees M&A, licensing, joint ventures, partnerships); or Joseph M. Fitzgerald, Executive Vice President and Group President, Cardiovascular.",
+   "angle": "Mediogram's proven early-phase execution capability in arrhythmology and Eastern European regulatory access can accelerate FARAFLEX enrollment in EU sites while adding high-enroll capacity—bridging the current US/Ireland-only footprint.",
+   "opener": "Hi Charlie/Joseph—We've followed Boston Scientific's pulsed field ablation expansion closely. Our RNPC Cardiology site (Minsk) and partner network across Eastern Europe could meaningfully reduce FARAFLEX enrollment timelines in underserved regions with robust regulatory/ethics oversight. Could we discuss adding 2–3 high-enroll sites to your current trial strategy? —Mediogram BD",
+   "url": "https://clinicaltrials.gov/study/NCT07575269"
+  },
+  {
    "nct": "NCT06735534",
    "source": "ctgov",
    "score": 75,
@@ -6211,39 +6278,6 @@
    "angle": "Your VARIPULSE PFA trial is recruiting in US/Australia but lacks Eastern Europe presence where we run high-enrolling cardiovascular sites with FIH expertise and local regulatory infrastructure.",
    "opener": "Brenda, we're impressed by VARIPULSE's clinical momentum and your geographic expansion strategy. Mediogram operates high-enrolling arrhythmia sites across Eastern Europe (RNPC Cardiology, Minsk) with full regulatory/ethics/QC support—we'd like to discuss how we could accelerate VARIPULSE enrollment in underpenetrated markets. Best to connect? — Mediogram BD",
    "url": "https://clinicaltrials.gov/study/NCT07527299"
-  },
-  {
-   "nct": "NCT07575269",
-   "source": "ctgov",
-   "score": 75,
-   "tier": "WARM",
-   "modality": "device",
-   "note": "",
-   "region_sites": [],
-   "sponsor": "Boston Scientific Corporation",
-   "title": "Evaluation of the FARAFLEX Mapping and Pulsed Field Ablation System in Subjects With Atrial Fibrillation",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "countries": [
-    "Belgium",
-    "Ireland",
-    "United States"
-   ],
-   "conditions": [
-    "Paroxysmal Atrial Fibrillation (PAF)",
-    "Persistent Atrial Fibrillation"
-   ],
-   "posted": "2026-05-08",
-   "summary": "Boston Scientific is a $20.1B global medtech leader with strong cardiovascular focus, active trial portfolio, and deep interest in Eastern European expansion (recent €75M R&D investment in Ireland for cardiovascular innovation).",
-   "email": "Madalyn.MacKinnon@bsci.com",
-   "phone": "860-992-2724",
-   "contact_name": "Madalyn MacKinnon",
-   "pi": "Andrea Natale, MD (Texas Cardiac Arrhythmia Research Foundation)",
-   "channel": "Direct email to Charlie Attlan (SVP Strategy & BD) with cc to Joseph Fitzgerald (EVP/President Cardiology); mention trial contact Madalyn MacKinnon as warm handoff opportunity.",
-   "who": "Charlie Attlan, Senior Vice President, Strategy and Business Development (oversees M&A, licensing, joint ventures, partnerships); or Joseph M. Fitzgerald, Executive Vice President and Group President, Cardiovascular.",
-   "angle": "Mediogram's proven early-phase execution capability in arrhythmology and Eastern European regulatory access can accelerate FARAFLEX enrollment in EU sites while adding high-enroll capacity—bridging the current US/Ireland-only footprint.",
-   "opener": "Hi Charlie/Joseph—We've followed Boston Scientific's pulsed field ablation expansion closely. Our RNPC Cardiology site (Minsk) and partner network across Eastern Europe could meaningfully reduce FARAFLEX enrollment timelines in underserved regions with robust regulatory/ethics oversight. Could we discuss adding 2–3 high-enroll sites to your current trial strategy? —Mediogram BD",
-   "url": "https://clinicaltrials.gov/study/NCT07575269"
   },
   {
    "nct": "NCT06762717",
@@ -7388,44 +7422,6 @@
    "url": "https://euclinicaltrials.eu/ctis-public/view/2023-509066-38-00"
   },
   {
-   "nct": "2025-523807-31-00",
-   "source": "ctis",
-   "score": 75,
-   "tier": "WARM",
-   "modality": "drug",
-   "note": "",
-   "region_sites": [
-    "Poland"
-   ],
-   "sponsor": "Bayer AG",
-   "title": "[22961] A placebo-controlled, parallel-group, double blind, randomized, multi-cohort Phase 2 study to investigate efficacy, safety, tolerability, pharmacodynamics and pharmacokinetics of BAY 3670549 in adult participants with atrial fibrillation.",
-   "status": "CTIS status 3",
-   "phase": "PHASE2",
-   "countries": [
-    "Belgium",
-    "Bulgaria",
-    "Germany",
-    "Hungary",
-    "Italy",
-    "Netherlands",
-    "Poland"
-   ],
-   "conditions": [
-    "Atrial fibrillation"
-   ],
-   "posted": "2026-08-06",
-   "summary": "Bayer is running a Phase 2 atrial fibrillation drug trial across EU sites and needs high-enrolling Eastern European centers with proven arrhythmia expertise and regulatory infrastructure.",
-   "email": "",
-   "phone": "",
-   "contact_name": "",
-   "pi": "",
-   "channel": "LinkedIn outreach to Bayer Cardiology Development lead, followed by email to trial operations contact listed in CTIS",
-   "who": "Clinical Development Manager or Trial Operations Lead, Bayer Cardiovascular/Arrhythmology",
-   "angle": "Mediogram operates the region's only dedicated arrhythmia-focused CRO with FIH-ready sites, established Bayer relationships in Eastern Europe, and can accelerate enrollment in underrepresented geographies—especially relevant given current CTIS status 3 and Belgium/Poland adjacency.",
-   "opener": "We've seen BAY 3670549 planned for Belgium, Poland, and Hungary—geographies where patient access and site quality often limit enrollment velocity. Mediogram runs RNPC Cardiology (Minsk, >400 AF cases annually) plus a network of high-enrolling arrhythmia sites across Eastern Europe with established regulatory pathways and Bayer trial experience. If enrollment strategy includes Eastern Europe for Phase 2 expansion, we'd welcome a brief call to explore fit. Best, [Name], BD, Mediogram",
-   "url": "https://euclinicaltrials.eu/ctis-public/view/2025-523807-31-00"
-  },
-  {
    "nct": "NCT07648329",
    "source": "ctgov",
    "score": 63,
@@ -7764,36 +7760,6 @@
    "url": "https://clinicaltrials.gov/study/NCT05714085"
   },
   {
-   "nct": "NCT07791407",
-   "source": "ctgov",
-   "score": 60,
-   "tier": "WATCH",
-   "modality": "device",
-   "note": "",
-   "region_sites": [],
-   "sponsor": "Velammal Medical College Hospital and Research Institute",
-   "title": "Magnetic Resonance Imaging Based Risk Stratification for Defibrillator Implantation in Heart Failure Patients Requiring Cardiac Resynchronisation Therapy",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "countries": [
-    "India"
-   ],
-   "conditions": [
-    "Non Ischemic Cardiomyopathy"
-   ],
-   "posted": "2026-08-27",
-   "summary": "Large private Indian medical college hospital (2,100 beds, 35+ specialties) in Madurai owned by Velammal Educational Trust; strong cardiology capability with established PI (Dr. Ponnusamy, FHRS) running an active CRT/defibrillator trial.",
-   "email": "shunmuga.pgi@gmail.com",
-   "phone": "+919444712846",
-   "contact_name": "Shunmuga Sundaram Ponnusamy, MD, FHRS",
-   "pi": "Shunmuga Sundaram Ponnusamy MD (Velammal Medical College Hospital and Research Institute)",
-   "channel": "Direct to Dr. Shunmuga Sundaram Ponnusamy (PI contact: shunmuga.pgi@gmail.com, +919444712846) and hospital administration",
-   "who": "Dr. Shunmuga Sundaram Ponnusamy, MD, FHRS (Principal Investigator & Study Contact); escalate to hospital administration (phone +91 452 711 3333)",
-   "angle": "Expand your MRI-guided CRT/defibrillator trial to Eastern Europe's highest-volume centers—Mediogram operates India's only dedicated cardiovascular device/advanced therapy trial platform in Belarus with regulatory, ethics, QC imaging, and 200+ bed-capacity cardiology sites, enabling seamless international data harmonization.",
-   "opener": "Dr. Ponnusamy, your MRI risk-stratification trial for CRT/defibrillator patients is exactly the cardiology innovation that international trial networks seek. Mediogram runs early-feasibility and pivotal device trials across Eastern Europe with direct regulatory pathways and imaging QC—we'd like to explore multi-geography expansion of your protocol. May we schedule a call with you and your hospital's clinical team this week?",
-   "url": "https://clinicaltrials.gov/study/NCT07791407"
-  },
-  {
    "nct": "NCT07613918",
    "source": "ctgov",
    "score": 60,
@@ -7824,6 +7790,36 @@
    "angle": "",
    "opener": "",
    "url": "https://clinicaltrials.gov/study/NCT07613918"
+  },
+  {
+   "nct": "NCT07791407",
+   "source": "ctgov",
+   "score": 60,
+   "tier": "WATCH",
+   "modality": "device",
+   "note": "",
+   "region_sites": [],
+   "sponsor": "Velammal Medical College Hospital and Research Institute",
+   "title": "Magnetic Resonance Imaging Based Risk Stratification for Defibrillator Implantation in Heart Failure Patients Requiring Cardiac Resynchronisation Therapy",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "countries": [
+    "India"
+   ],
+   "conditions": [
+    "Non Ischemic Cardiomyopathy"
+   ],
+   "posted": "2026-08-27",
+   "summary": "Large private Indian medical college hospital (2,100 beds, 35+ specialties) in Madurai owned by Velammal Educational Trust; strong cardiology capability with established PI (Dr. Ponnusamy, FHRS) running an active CRT/defibrillator trial.",
+   "email": "shunmuga.pgi@gmail.com",
+   "phone": "+919444712846",
+   "contact_name": "Shunmuga Sundaram Ponnusamy, MD, FHRS",
+   "pi": "Shunmuga Sundaram Ponnusamy MD (Velammal Medical College Hospital and Research Institute)",
+   "channel": "Direct to Dr. Shunmuga Sundaram Ponnusamy (PI contact: shunmuga.pgi@gmail.com, +919444712846) and hospital administration",
+   "who": "Dr. Shunmuga Sundaram Ponnusamy, MD, FHRS (Principal Investigator & Study Contact); escalate to hospital administration (phone +91 452 711 3333)",
+   "angle": "Expand your MRI-guided CRT/defibrillator trial to Eastern Europe's highest-volume centers—Mediogram operates India's only dedicated cardiovascular device/advanced therapy trial platform in Belarus with regulatory, ethics, QC imaging, and 200+ bed-capacity cardiology sites, enabling seamless international data harmonization.",
+   "opener": "Dr. Ponnusamy, your MRI risk-stratification trial for CRT/defibrillator patients is exactly the cardiology innovation that international trial networks seek. Mediogram runs early-feasibility and pivotal device trials across Eastern Europe with direct regulatory pathways and imaging QC—we'd like to explore multi-geography expansion of your protocol. May we schedule a call with you and your hospital's clinical team this week?",
+   "url": "https://clinicaltrials.gov/study/NCT07791407"
   },
   {
    "nct": "NCT05489705",
@@ -8080,36 +8076,6 @@
    "angle": "",
    "opener": "",
    "url": "https://clinicaltrials.gov/study/NCT07086131"
-  },
-  {
-   "nct": "NCT07506499",
-   "source": "ctgov",
-   "score": 60,
-   "tier": "WATCH",
-   "modality": "device",
-   "note": "",
-   "region_sites": [],
-   "sponsor": "Beni-Suef University",
-   "title": "Cardiac Rehabilitation in Decompensated Heart Failure",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "countries": [
-    "Egypt"
-   ],
-   "conditions": [
-    "Decompensated Heart Failure"
-   ],
-   "posted": "2026-04-01",
-   "summary": "",
-   "email": "salmaabdelfattah@pt.bsu.edu.eg",
-   "phone": "+20 1022792745",
-   "contact_name": "Salma mostafa Elsalhy, BSc",
-   "pi": "SHERIN HASSAN MEHANI, Professor of Physical Therapy (Faculty Of Physical Therapy Beni-Suef University)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
-   "url": "https://clinicaltrials.gov/study/NCT07506499"
   },
   {
    "nct": "NCT01143454",
@@ -8899,6 +8865,68 @@
    "url": "https://clinicaltrials.gov/study/NCT06078436"
   },
   {
+   "nct": "NCT07827287",
+   "source": "ctgov",
+   "score": 60,
+   "tier": "WATCH",
+   "modality": "device",
+   "note": "",
+   "region_sites": [],
+   "sponsor": "Ewha Womans University Mokdong Hospital",
+   "title": "Utility of the Perclose ProGlide™ Suture-Mediated Closure Device After Cardiologic Procedures Via the Femoral Vein Approach (Eight-Clover)",
+   "status": "ENROLLING_BY_INVITATION",
+   "phase": "NA",
+   "countries": [
+    "South Korea"
+   ],
+   "conditions": [
+    "Atrial Fibrillation",
+    "Atrial Septal Defect",
+    "Vascular Closure Device"
+   ],
+   "posted": "2026-09-18",
+   "summary": "",
+   "email": "",
+   "phone": "",
+   "contact_name": "",
+   "pi": "",
+   "channel": "",
+   "who": "",
+   "angle": "",
+   "opener": "",
+   "url": "https://clinicaltrials.gov/study/NCT07827287"
+  },
+  {
+   "nct": "NCT03444337",
+   "source": "ctgov",
+   "score": 60,
+   "tier": "WATCH",
+   "modality": "device",
+   "note": "",
+   "region_sites": [],
+   "sponsor": "Ohio State University",
+   "title": "High-resolution MRI of Atrial Fibrillation Patients Prior to Focal Impulse and Rotor Modulation (FIRM) Ablation",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "countries": [
+    "United States"
+   ],
+   "conditions": [
+    "Atrial Fibrillation"
+   ],
+   "posted": "2018-02-23",
+   "summary": "",
+   "email": "Adrianne.Miller@osumc.edu",
+   "phone": "614-685-4394",
+   "contact_name": "Adrianne Miller, RN",
+   "pi": "Deanna Golden-Kreutz, RN, Phd (Ohio State University)",
+   "channel": "",
+   "who": "",
+   "angle": "",
+   "opener": "",
+   "url": "https://clinicaltrials.gov/study/NCT03444337"
+  },
+  {
    "nct": "NCT07625215",
    "source": "ctgov",
    "score": 60,
@@ -8936,36 +8964,6 @@
    "angle": "Mediogram's proven high-enrollment cardiovascular arrhythmia sites and integrated regulatory/imaging/FIH capabilities in Eastern Europe (Bulgaria, Hungary, Poland) directly address the trial's Phase 2 multi-cohort design across 8-country footprint.",
    "opener": "We're reaching out because Mediogram operates high-enrolling cardiovascular sites across your BAY 3670549 trial countries—specifically Bulgaria, Hungary, and Poland—with proven antiarrhythmic/cardioversion experience and in-house regulatory, imaging QC, and FIH infrastructure. Given the trial's Phase 2 scale-up needs and reliance on multi-cohort patient identification, we'd welcome a brief discussion on how RNPC Cardiology (Minsk) and our regional network can accelerate enrollment timelines. – Mediogram BD",
    "url": "https://clinicaltrials.gov/study/NCT07625215"
-  },
-  {
-   "nct": "NCT03444337",
-   "source": "ctgov",
-   "score": 60,
-   "tier": "WATCH",
-   "modality": "device",
-   "note": "",
-   "region_sites": [],
-   "sponsor": "Ohio State University",
-   "title": "High-resolution MRI of Atrial Fibrillation Patients Prior to Focal Impulse and Rotor Modulation (FIRM) Ablation",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "countries": [
-    "United States"
-   ],
-   "conditions": [
-    "Atrial Fibrillation"
-   ],
-   "posted": "2018-02-23",
-   "summary": "",
-   "email": "Adrianne.Miller@osumc.edu",
-   "phone": "614-685-4394",
-   "contact_name": "Adrianne Miller, RN",
-   "pi": "Deanna Golden-Kreutz, RN, Phd (Ohio State University)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
-   "url": "https://clinicaltrials.gov/study/NCT03444337"
   },
   {
    "nct": "NCT07122947",
@@ -9056,36 +9054,6 @@
    "url": "https://clinicaltrials.gov/study/NCT07511166"
   },
   {
-   "nct": "NCT06335082",
-   "source": "ctgov",
-   "score": 60,
-   "tier": "WATCH",
-   "modality": "device",
-   "note": "",
-   "region_sites": [],
-   "sponsor": "Heart Rhythm Clinical and Research Solutions, LLC",
-   "title": "A Registry Based Collaborative to Measure Efficiency, Effectiveness, and Safety of Farapulse PFA Technology for AF",
-   "status": "ENROLLING_BY_INVITATION",
-   "phase": "NA",
-   "countries": [
-    "United States"
-   ],
-   "conditions": [
-    "Atrial Fibrillation"
-   ],
-   "posted": "2024-03-28",
-   "summary": "",
-   "email": "",
-   "phone": "",
-   "contact_name": "",
-   "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
-   "url": "https://clinicaltrials.gov/study/NCT06335082"
-  },
-  {
    "nct": "NCT07671677",
    "source": "ctgov",
    "score": 60,
@@ -9114,6 +9082,36 @@
    "angle": "",
    "opener": "",
    "url": "https://clinicaltrials.gov/study/NCT07671677"
+  },
+  {
+   "nct": "NCT06335082",
+   "source": "ctgov",
+   "score": 60,
+   "tier": "WATCH",
+   "modality": "device",
+   "note": "",
+   "region_sites": [],
+   "sponsor": "Heart Rhythm Clinical and Research Solutions, LLC",
+   "title": "A Registry Based Collaborative to Measure Efficiency, Effectiveness, and Safety of Farapulse PFA Technology for AF",
+   "status": "ENROLLING_BY_INVITATION",
+   "phase": "NA",
+   "countries": [
+    "United States"
+   ],
+   "conditions": [
+    "Atrial Fibrillation"
+   ],
+   "posted": "2024-03-28",
+   "summary": "",
+   "email": "",
+   "phone": "",
+   "contact_name": "",
+   "pi": "",
+   "channel": "",
+   "who": "",
+   "angle": "",
+   "opener": "",
+   "url": "https://clinicaltrials.gov/study/NCT06335082"
   },
   {
    "nct": "NCT06618417",
@@ -9272,36 +9270,6 @@
    "url": "https://clinicaltrials.gov/study/NCT07747948"
   },
   {
-   "nct": "NCT06099730",
-   "source": "ctgov",
-   "score": 60,
-   "tier": "WATCH",
-   "modality": "device",
-   "note": "",
-   "region_sites": [],
-   "sponsor": "Massachusetts General Hospital",
-   "title": "Safety and Effectiveness of Pulmonary Vein isOLation And posterioR Wall Ablation wIth pulSed Field Energy in Patients With Paroxysmal and Persistent AF",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "countries": [
-    "United States"
-   ],
-   "conditions": [
-    "Atrial Fibrillation"
-   ],
-   "posted": "2023-10-25",
-   "summary": "",
-   "email": "",
-   "phone": "",
-   "contact_name": "",
-   "pi": "Moussa C Mansour (Massachusetts General Hospital)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
-   "url": "https://clinicaltrials.gov/study/NCT06099730"
-  },
-  {
    "nct": "NCT07633509",
    "source": "ctgov",
    "score": 60,
@@ -9331,6 +9299,36 @@
    "angle": "",
    "opener": "",
    "url": "https://clinicaltrials.gov/study/NCT07633509"
+  },
+  {
+   "nct": "NCT06099730",
+   "source": "ctgov",
+   "score": 60,
+   "tier": "WATCH",
+   "modality": "device",
+   "note": "",
+   "region_sites": [],
+   "sponsor": "Massachusetts General Hospital",
+   "title": "Safety and Effectiveness of Pulmonary Vein isOLation And posterioR Wall Ablation wIth pulSed Field Energy in Patients With Paroxysmal and Persistent AF",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "countries": [
+    "United States"
+   ],
+   "conditions": [
+    "Atrial Fibrillation"
+   ],
+   "posted": "2023-10-25",
+   "summary": "",
+   "email": "",
+   "phone": "",
+   "contact_name": "",
+   "pi": "Moussa C Mansour (Massachusetts General Hospital)",
+   "channel": "",
+   "who": "",
+   "angle": "",
+   "opener": "",
+   "url": "https://clinicaltrials.gov/study/NCT06099730"
   },
   {
    "nct": "NCT04685317",
@@ -9394,36 +9392,6 @@
    "url": "https://clinicaltrials.gov/study/NCT07620262"
   },
   {
-   "nct": "NCT07580547",
-   "source": "ctgov",
-   "score": 60,
-   "tier": "WATCH",
-   "modality": "device",
-   "note": "",
-   "region_sites": [],
-   "sponsor": "Anat Milman",
-   "title": "Sex-Based Disparities in the Electrophysiological Substrate for Atrial Fibrillation and Its Impact on Clinical Outcomes",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "countries": [
-    "Israel"
-   ],
-   "conditions": [
-    "Atrial Fibrillation (AF)"
-   ],
-   "posted": "2026-05-12",
-   "summary": "",
-   "email": "anatmi@shamir.gov.il",
-   "phone": "+972-54-3166651",
-   "contact_name": "Anat Milman, MD",
-   "pi": "Anat Milman (Assaf-Harofeh Medical Center)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
-   "url": "https://clinicaltrials.gov/study/NCT07580547"
-  },
-  {
    "nct": "NCT07405359",
    "source": "ctgov",
    "score": 60,
@@ -9452,6 +9420,36 @@
    "angle": "",
    "opener": "",
    "url": "https://clinicaltrials.gov/study/NCT07405359"
+  },
+  {
+   "nct": "NCT07580547",
+   "source": "ctgov",
+   "score": 60,
+   "tier": "WATCH",
+   "modality": "device",
+   "note": "",
+   "region_sites": [],
+   "sponsor": "Anat Milman",
+   "title": "Sex-Based Disparities in the Electrophysiological Substrate for Atrial Fibrillation and Its Impact on Clinical Outcomes",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "countries": [
+    "Israel"
+   ],
+   "conditions": [
+    "Atrial Fibrillation (AF)"
+   ],
+   "posted": "2026-05-12",
+   "summary": "",
+   "email": "anatmi@shamir.gov.il",
+   "phone": "+972-54-3166651",
+   "contact_name": "Anat Milman, MD",
+   "pi": "Anat Milman (Assaf-Harofeh Medical Center)",
+   "channel": "",
+   "who": "",
+   "angle": "",
+   "opener": "",
+   "url": "https://clinicaltrials.gov/study/NCT07580547"
   },
   {
    "nct": "NCT04088071",
@@ -9609,37 +9607,6 @@
    "angle": "",
    "opener": "",
    "url": "https://clinicaltrials.gov/study/NCT06315192"
-  },
-  {
-   "nct": "NCT04880265",
-   "source": "ctgov",
-   "score": 60,
-   "tier": "WATCH",
-   "modality": "device",
-   "note": "",
-   "region_sites": [],
-   "sponsor": "Brigham and Women's Hospital",
-   "title": "Assessing the Burden of Perioperative Atrial Fibrillation in Patients Undergoing Cardiac Surgery",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "countries": [
-    "United States"
-   ],
-   "conditions": [
-    "Atrial Fibrillation",
-    "Cardiac Surgery"
-   ],
-   "posted": "2021-05-10",
-   "summary": "",
-   "email": "jwollborn@bwh.harvard.edu",
-   "phone": "6175258156",
-   "contact_name": "Jakob Wollborn, MD MPH",
-   "pi": "Jakob Wollborn, MD (Brigham and Women's Hospital)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
-   "url": "https://clinicaltrials.gov/study/NCT04880265"
   },
   {
    "nct": "NCT06940752",
@@ -9947,6 +9914,37 @@
    "angle": "",
    "opener": "",
    "url": "https://clinicaltrials.gov/study/NCT07201506"
+  },
+  {
+   "nct": "NCT07361055",
+   "source": "ctgov",
+   "score": 60,
+   "tier": "WATCH",
+   "modality": "device",
+   "note": "",
+   "region_sites": [],
+   "sponsor": "National Taiwan University Hospital",
+   "title": "The Best Workflow for Paroxysmal Supraventricular Tachycardia Ablation With Zero-fluoroscopy",
+   "status": "ENROLLING_BY_INVITATION",
+   "phase": "NA",
+   "countries": [
+    "Taiwan"
+   ],
+   "conditions": [
+    "Cardio Vascular Disease",
+    "Cryoablation"
+   ],
+   "posted": "2026-01-22",
+   "summary": "",
+   "email": "",
+   "phone": "",
+   "contact_name": "",
+   "pi": "",
+   "channel": "",
+   "who": "",
+   "angle": "",
+   "opener": "",
+   "url": "https://clinicaltrials.gov/study/NCT07361055"
   },
   {
    "nct": "NCT07787936",
@@ -11262,47 +11260,6 @@
    "url": "https://euclinicaltrials.eu/ctis-public/view/2024-514434-20-00"
   },
   {
-   "nct": "2022-502858-14-00",
-   "source": "ctis",
-   "score": 50,
-   "tier": "IN REGION",
-   "modality": "drug",
-   "note": "Already running in Poland — sites likely taken. Shown for awareness, not outreach.",
-   "region_sites": [
-    "Poland"
-   ],
-   "sponsor": "Myokardia Inc.",
-   "title": "A Long-term Safety Extension Study of Mavacamten (MYK-461) in Adults with Hypertrophic Cardiomyopathy Who Have Completed the MAVERICKHCM (MYK-461-006) or EXPLORER-HCM (MYK-461-005) Trials (MAVA-LTE)",
-   "status": "CTIS status 8",
-   "phase": "PHASE3",
-   "countries": [
-    "Belgium",
-    "Czechia",
-    "Denmark",
-    "France",
-    "Germany",
-    "Italy",
-    "Netherlands",
-    "Poland",
-    "Portugal",
-    "Spain"
-   ],
-   "conditions": [
-    "Hypertrophic cardiomyopathy"
-   ],
-   "posted": "2023-10-04",
-   "summary": "",
-   "email": "",
-   "phone": "",
-   "contact_name": "",
-   "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
-   "url": "https://euclinicaltrials.eu/ctis-public/view/2022-502858-14-00"
-  },
-  {
    "nct": "2023-506352-24-00",
    "source": "ctis",
    "score": 50,
@@ -11345,6 +11302,47 @@
    "angle": "",
    "opener": "",
    "url": "https://euclinicaltrials.eu/ctis-public/view/2023-506352-24-00"
+  },
+  {
+   "nct": "2022-502858-14-00",
+   "source": "ctis",
+   "score": 50,
+   "tier": "IN REGION",
+   "modality": "drug",
+   "note": "Already running in Poland — sites likely taken. Shown for awareness, not outreach.",
+   "region_sites": [
+    "Poland"
+   ],
+   "sponsor": "Myokardia Inc.",
+   "title": "A Long-term Safety Extension Study of Mavacamten (MYK-461) in Adults with Hypertrophic Cardiomyopathy Who Have Completed the MAVERICKHCM (MYK-461-006) or EXPLORER-HCM (MYK-461-005) Trials (MAVA-LTE)",
+   "status": "CTIS status 8",
+   "phase": "PHASE3",
+   "countries": [
+    "Belgium",
+    "Czechia",
+    "Denmark",
+    "France",
+    "Germany",
+    "Italy",
+    "Netherlands",
+    "Poland",
+    "Portugal",
+    "Spain"
+   ],
+   "conditions": [
+    "Hypertrophic cardiomyopathy"
+   ],
+   "posted": "2023-10-04",
+   "summary": "",
+   "email": "",
+   "phone": "",
+   "contact_name": "",
+   "pi": "",
+   "channel": "",
+   "who": "",
+   "angle": "",
+   "opener": "",
+   "url": "https://euclinicaltrials.eu/ctis-public/view/2022-502858-14-00"
   },
   {
    "nct": "2023-507220-23-00",
@@ -12199,6 +12197,52 @@
    "url": "https://clinicaltrials.gov/study/NCT06424288"
   },
   {
+   "nct": "NCT07288398",
+   "source": "ctgov",
+   "score": 45,
+   "tier": "IN REGION",
+   "modality": "drug",
+   "note": "Already running in Poland — sites likely taken. Shown for awareness, not outreach.",
+   "region_sites": [
+    "Poland"
+   ],
+   "sponsor": "Tenax Therapeutics, Inc.",
+   "title": "LEVEL-2: LEVosimendan to Improve Exercise Limitation in Patients With PH-HFpEF-2",
+   "status": "RECRUITING",
+   "phase": "PHASE3",
+   "countries": [
+    "Argentina",
+    "Austria",
+    "Brazil",
+    "Bulgaria",
+    "Czechia",
+    "France",
+    "Germany",
+    "Hungary",
+    "Italy",
+    "Poland",
+    "South Korea",
+    "Spain",
+    "Taiwan",
+    "United Kingdom",
+    "United States"
+   ],
+   "conditions": [
+    "Pulmonary Hypertension Associated With HFpEF"
+   ],
+   "posted": "2025-12-17",
+   "summary": "",
+   "email": "a.ashokkumar@tenaxthera.com",
+   "phone": "(919) 855-2118",
+   "contact_name": "Akshata Ashokkumar",
+   "pi": "",
+   "channel": "",
+   "who": "",
+   "angle": "",
+   "opener": "",
+   "url": "https://clinicaltrials.gov/study/NCT07288398"
+  },
+  {
    "nct": "NCT07207811",
    "source": "ctgov",
    "score": 45,
@@ -12248,52 +12292,6 @@
    "angle": "",
    "opener": "",
    "url": "https://clinicaltrials.gov/study/NCT07207811"
-  },
-  {
-   "nct": "NCT07288398",
-   "source": "ctgov",
-   "score": 45,
-   "tier": "IN REGION",
-   "modality": "drug",
-   "note": "Already running in Poland — sites likely taken. Shown for awareness, not outreach.",
-   "region_sites": [
-    "Poland"
-   ],
-   "sponsor": "Tenax Therapeutics, Inc.",
-   "title": "LEVEL-2: LEVosimendan to Improve Exercise Limitation in Patients With PH-HFpEF-2",
-   "status": "RECRUITING",
-   "phase": "PHASE3",
-   "countries": [
-    "Argentina",
-    "Austria",
-    "Brazil",
-    "Bulgaria",
-    "Czechia",
-    "France",
-    "Germany",
-    "Hungary",
-    "Italy",
-    "Poland",
-    "South Korea",
-    "Spain",
-    "Taiwan",
-    "United Kingdom",
-    "United States"
-   ],
-   "conditions": [
-    "Pulmonary Hypertension Associated With HFpEF"
-   ],
-   "posted": "2025-12-17",
-   "summary": "",
-   "email": "a.ashokkumar@tenaxthera.com",
-   "phone": "(919) 855-2118",
-   "contact_name": "Akshata Ashokkumar",
-   "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
-   "url": "https://clinicaltrials.gov/study/NCT07288398"
   },
   {
    "nct": "NCT07567001",
@@ -12591,51 +12589,6 @@
    "url": "https://clinicaltrials.gov/study/NCT05114850"
   },
   {
-   "nct": "NCT07102628",
-   "source": "ctgov",
-   "score": 45,
-   "tier": "IN REGION",
-   "modality": "drug",
-   "note": "Already running in Poland — sites likely taken. Shown for awareness, not outreach.",
-   "region_sites": [
-    "Poland"
-   ],
-   "sponsor": "Novartis Pharmaceuticals",
-   "title": "Evaluation of Efficacy and Safety of Early in Hospital Initiation of Inclisiran Treatment in Patients With Acute Coronary Syndromes",
-   "status": "RECRUITING",
-   "phase": "PHASE3",
-   "countries": [
-    "Argentina",
-    "Australia",
-    "Canada",
-    "China",
-    "France",
-    "Germany",
-    "Hong Kong",
-    "Hungary",
-    "India",
-    "Japan",
-    "Poland",
-    "South Korea",
-    "Spain",
-    "Switzerland"
-   ],
-   "conditions": [
-    "Acute Coronary Syndrome"
-   ],
-   "posted": "2025-08-04",
-   "summary": "",
-   "email": "novartis.email@novartis.com",
-   "phone": "+41613241111",
-   "contact_name": "Novartis Pharmaceuticals",
-   "pi": "Novartis Pharmaceuticals (Novartis Pharmaceuticals)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
-   "url": "https://clinicaltrials.gov/study/NCT07102628"
-  },
-  {
    "nct": "NCT05682378",
    "source": "ctgov",
    "score": 45,
@@ -12692,6 +12645,51 @@
    "angle": "",
    "opener": "",
    "url": "https://clinicaltrials.gov/study/NCT05682378"
+  },
+  {
+   "nct": "NCT07102628",
+   "source": "ctgov",
+   "score": 45,
+   "tier": "IN REGION",
+   "modality": "drug",
+   "note": "Already running in Poland — sites likely taken. Shown for awareness, not outreach.",
+   "region_sites": [
+    "Poland"
+   ],
+   "sponsor": "Novartis Pharmaceuticals",
+   "title": "Evaluation of Efficacy and Safety of Early in Hospital Initiation of Inclisiran Treatment in Patients With Acute Coronary Syndromes",
+   "status": "RECRUITING",
+   "phase": "PHASE3",
+   "countries": [
+    "Argentina",
+    "Australia",
+    "Canada",
+    "China",
+    "France",
+    "Germany",
+    "Hong Kong",
+    "Hungary",
+    "India",
+    "Japan",
+    "Poland",
+    "South Korea",
+    "Spain",
+    "Switzerland"
+   ],
+   "conditions": [
+    "Acute Coronary Syndrome"
+   ],
+   "posted": "2025-08-04",
+   "summary": "",
+   "email": "novartis.email@novartis.com",
+   "phone": "+41613241111",
+   "contact_name": "Novartis Pharmaceuticals",
+   "pi": "Novartis Pharmaceuticals (Novartis Pharmaceuticals)",
+   "channel": "",
+   "who": "",
+   "angle": "",
+   "opener": "",
+   "url": "https://clinicaltrials.gov/study/NCT07102628"
   }
  ]
 }
