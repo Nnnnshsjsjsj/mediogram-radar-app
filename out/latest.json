@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-19T10:09:51Z",
- "day": "2026-09-19",
+ "updated": "2026-09-20T10:27:59Z",
+ "day": "2026-09-20",
  "tiers": [
   "HOT",
   "WARM",
@@ -23,7 +23,7 @@
   }
  },
  "counts": {
-  "new_leads": 4,
+  "new_leads": 0,
   "hot": 218,
   "warm": 320,
   "in_region": 61,
