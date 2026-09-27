@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-26T10:40:17Z",
- "day": "2026-09-26",
+ "updated": "2026-09-27T11:13:34Z",
+ "day": "2026-09-27",
  "tiers": [
   "HOT",
   "WARM",
@@ -23,7 +23,7 @@
   }
  },
  "counts": {
-  "new_leads": 3,
+  "new_leads": 0,
   "hot": 216,
   "warm": 325,
   "in_region": 60,
@@ -10400,48 +10400,6 @@
    "url": "https://euclinicaltrials.eu/ctis-public/view/2023-503224-66-00"
   },
   {
-   "nct": "2023-505797-15-00",
-   "source": "ctis",
-   "score": 50,
-   "tier": "IN REGION",
-   "modality": "drug",
-   "note": "Already running in Poland — sites likely taken. Shown for awareness, not outreach.",
-   "region_sites": [
-    "Poland"
-   ],
-   "sponsor": "Cytokinetics Inc.",
-   "title": "A Phase 3, Multi-Center, Randomized, Double-Blind Trial to Evaluate the Efficacy and Safety of Aficamten Compared to Placebo in Adults with Symptomatic Non-Obstructive Hypertrophic Cardiomyopathy",
-   "status": "CTIS status 8",
-   "phase": "PHASE3",
-   "countries": [
-    "Denmark",
-    "France",
-    "Germany",
-    "Greece",
-    "Hungary",
-    "Iceland",
-    "Italy",
-    "Netherlands",
-    "Poland",
-    "Portugal",
-    "Spain"
-   ],
-   "conditions": [
-    "SYMPTOMATIC NON-OBSTRUCTIVE HYPERTROPHIC CARDIOMYOPATHY"
-   ],
-   "posted": "2024-03-04",
-   "summary": "",
-   "email": "",
-   "phone": "",
-   "contact_name": "",
-   "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
-   "url": "https://euclinicaltrials.eu/ctis-public/view/2023-505797-15-00"
-  },
-  {
    "nct": "2022-501419-15-00",
    "source": "ctis",
    "score": 50,
@@ -10493,6 +10451,48 @@
    "angle": "",
    "opener": "",
    "url": "https://euclinicaltrials.eu/ctis-public/view/2022-501419-15-00"
+  },
+  {
+   "nct": "2023-505797-15-00",
+   "source": "ctis",
+   "score": 50,
+   "tier": "IN REGION",
+   "modality": "drug",
+   "note": "Already running in Poland — sites likely taken. Shown for awareness, not outreach.",
+   "region_sites": [
+    "Poland"
+   ],
+   "sponsor": "Cytokinetics Inc.",
+   "title": "A Phase 3, Multi-Center, Randomized, Double-Blind Trial to Evaluate the Efficacy and Safety of Aficamten Compared to Placebo in Adults with Symptomatic Non-Obstructive Hypertrophic Cardiomyopathy",
+   "status": "CTIS status 8",
+   "phase": "PHASE3",
+   "countries": [
+    "Denmark",
+    "France",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Iceland",
+    "Italy",
+    "Netherlands",
+    "Poland",
+    "Portugal",
+    "Spain"
+   ],
+   "conditions": [
+    "SYMPTOMATIC NON-OBSTRUCTIVE HYPERTROPHIC CARDIOMYOPATHY"
+   ],
+   "posted": "2024-03-04",
+   "summary": "",
+   "email": "",
+   "phone": "",
+   "contact_name": "",
+   "pi": "",
+   "channel": "",
+   "who": "",
+   "angle": "",
+   "opener": "",
+   "url": "https://euclinicaltrials.eu/ctis-public/view/2023-505797-15-00"
   },
   {
    "nct": "2025-521188-11-00",
