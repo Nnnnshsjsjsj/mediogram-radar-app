@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-27T11:13:34Z",
- "day": "2026-09-27",
+ "updated": "2026-09-28T12:40:01Z",
+ "day": "2026-09-28",
  "tiers": [
   "HOT",
   "WARM",
@@ -11095,48 +11095,6 @@
    "url": "https://euclinicaltrials.eu/ctis-public/view/2024-513869-39-00"
   },
   {
-   "nct": "2022-502316-36-00",
-   "source": "ctis",
-   "score": 50,
-   "tier": "IN REGION",
-   "modality": "drug",
-   "note": "Already running in Poland — sites likely taken. Shown for awareness, not outreach.",
-   "region_sites": [
-    "Poland"
-   ],
-   "sponsor": "Myokardia Inc.",
-   "title": "MEMENTO-A Phase 3b/4 Randomized, Double-blind, Placebo-controlled Clinical Study to Evaluate Mavacamten in Adults with Symptomatic Obstructive Hypertrophic Cardiomyopathy to assess the impact on Myocardial Structure with Cardiac Magnetic Resonance Imaging (CMR)",
-   "status": "CTIS status 8",
-   "phase": "PHASE3",
-   "countries": [
-    "Austria",
-    "Belgium",
-    "Czechia",
-    "Finland",
-    "France",
-    "Germany",
-    "Greece",
-    "Hungary",
-    "Italy",
-    "Poland",
-    "Spain"
-   ],
-   "conditions": [
-    "Symptomatic Obstructive Hypertrophic Cardiomyopathy"
-   ],
-   "posted": "2024-02-06",
-   "summary": "",
-   "email": "",
-   "phone": "",
-   "contact_name": "",
-   "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
-   "url": "https://euclinicaltrials.eu/ctis-public/view/2022-502316-36-00"
-  },
-  {
    "nct": "2022-503072-84-00",
    "source": "ctis",
    "score": 50,
@@ -11222,6 +11180,48 @@
    "angle": "",
    "opener": "",
    "url": "https://euclinicaltrials.eu/ctis-public/view/2024-518318-25-00"
+  },
+  {
+   "nct": "2022-502316-36-00",
+   "source": "ctis",
+   "score": 50,
+   "tier": "IN REGION",
+   "modality": "drug",
+   "note": "Already running in Poland — sites likely taken. Shown for awareness, not outreach.",
+   "region_sites": [
+    "Poland"
+   ],
+   "sponsor": "Myokardia Inc.",
+   "title": "MEMENTO-A Phase 3b/4 Randomized, Double-blind, Placebo-controlled Clinical Study to Evaluate Mavacamten in Adults with Symptomatic Obstructive Hypertrophic Cardiomyopathy to assess the impact on Myocardial Structure with Cardiac Magnetic Resonance Imaging (CMR)",
+   "status": "CTIS status 8",
+   "phase": "PHASE3",
+   "countries": [
+    "Austria",
+    "Belgium",
+    "Czechia",
+    "Finland",
+    "France",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Italy",
+    "Poland",
+    "Spain"
+   ],
+   "conditions": [
+    "Symptomatic Obstructive Hypertrophic Cardiomyopathy"
+   ],
+   "posted": "2024-02-06",
+   "summary": "",
+   "email": "",
+   "phone": "",
+   "contact_name": "",
+   "pi": "",
+   "channel": "",
+   "who": "",
+   "angle": "",
+   "opener": "",
+   "url": "https://euclinicaltrials.eu/ctis-public/view/2022-502316-36-00"
   },
   {
    "nct": "2024-514434-20-00",
