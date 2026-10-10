@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-09T12:27:39Z",
- "day": "2026-10-09",
+ "updated": "2026-10-10T11:46:44Z",
+ "day": "2026-10-10",
  "tiers": [
   "HOT",
   "WARM",
@@ -27,16 +27,16 @@
   }
  },
  "counts": {
-  "new_leads": 5,
+  "new_leads": 0,
   "hot": 268,
   "warm": 556,
   "in_region": 67,
   "device": 647,
-  "drug": 714,
+  "drug": 713,
   "ctgov": 1231,
-  "ctis": 299,
+  "ctis": 298,
   "fda": 2,
-  "cardiology": 939,
+  "cardiology": 938,
   "oncology": 593
  },
  "leads": [
@@ -15335,15 +15335,15 @@
     "Gastroesophageal Junction Adenocarcinoma"
    ],
    "posted": "2026-04-08",
-   "summary": "",
+   "summary": "The N.N. Alexandrov centre is a 40-investigator, GCP-certified oncology hub with proven Phase III execution capability and full on-site infrastructure (pharmacy, imaging, ICU, biobanking) that matches Baili's need for experienced sites in high-performing Eastern European markets.",
    "email": "xiaosa@baili-pharm.com",
    "phone": "15013238943",
    "contact_name": "Sa Xiao, PHD",
    "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "email + WhatsApp follow-up",
+   "who": "Clinical Operations Manager or Trial Director at Baili (escalate from Sa Xiao if needed)",
+   "angle": "BL-M05D1 gastric cancer trial currently recruiting only in China—Minsk centre offers EU-regulated, GCP-ready gastric/GEJ patient access with 10+ prior industry trials and investigator depth to accelerate enrolment.",
+   "opener": "We represent N.N. Alexandrov National Cancer Centre in Minsk—a 40-investigator, GCP-certified site with dedicated gastric/thoracic/GI oncology capacity and proven Phase III execution (10+ industry trials, on-site investigational pharmacy, imaging, ICU). We understand BL-M05D1 is currently recruiting in China; we'd welcome a conversation about expanding site footprint into Eastern Europe to diversify and accelerate enrolment. Would Sa Xiao or your Clinical Operations team be open to a 20-minute call next week? Best, Mediogram BD",
    "url": "https://clinicaltrials.gov/study/NCT07518147"
   },
   {
@@ -15366,15 +15366,15 @@
     "Gastric Adenocarcinoma"
    ],
    "posted": "2026-05-13",
-   "summary": "",
+   "summary": "NingBo Junyan Hongshi is a Chinese biotech advancing a Phase III gastric cancer immunotherapy combination and needs experienced EU-adjacent sites to support global expansion beyond their current China-only footprint.",
    "email": "bifeng_liu@junshipharma.com",
    "phone": "021-61058800",
    "contact_name": "Bifeng Liu",
    "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "email to study contact with LinkedIn research on sponsor's development strategy",
+   "who": "Bifeng Liu (Study Contact) and Clinical Operations lead at NingBo Junyan Hongshi",
+   "angle": "N.N. Alexandrov's 40 GCP-certified investigators and established solid-tumour oncology infrastructure (40+ annual gastric cases, -80°C storage, investigational pharmacy) can accelerate Phase III enrolment in an underserved market while meeting EU regulatory pathways via our Lithuanian entity.",
+   "opener": "Dear Bifeng, Mediogram partners with the N.N. Alexandrov National Cancer Centre in Minsk—a 40-investigator, GCP-certified site with dedicated gastric/GI oncology capacity and full Phase III infrastructure. We understand JS107 + Toripalimab is recruiting for CLDN18.2+ gastric adenocarcinoma; we'd like to explore whether Eastern Europe represents a strategic next geography for your trial. Would you be open to a brief call with our clinical ops and regulatory teams?",
    "url": "https://clinicaltrials.gov/study/NCT07584135"
   },
   {
@@ -15397,15 +15397,15 @@
     "Metastatic Pancreatic Adenocarcinoma"
    ],
    "posted": "2013-10-07",
-   "summary": "",
+   "summary": "Eleison Pharmaceuticals is a clinical-stage biotech running a Phase III pancreatic cancer trial currently limited to US sites, and the Alexandrov Centre's expertise in GI malignancies and metastatic disease makes it an ideal expansion location.",
    "email": "clinical@eleison-pharma.com",
    "phone": "215 554 3530",
    "contact_name": "Edwin Thomas",
    "pi": "Edwin Thomas (Eleison Pharmaceuticals)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "email",
+   "who": "Edwin Thomas, Clinical Operations contact",
+   "angle": "The trial is recruiting for a competitive second-line indication where Eastern European sites can accelerate enrollment given high pancreatic cancer incidence and your centre's established Phase III infrastructure.",
+   "opener": "Hi Edwin, Mediogram partners with the N.N. Alexandrov National Cancer Centre in Minsk—a 40-investigator GCP-certified oncology hub with active Phase III experience in GI malignancies and metastatic disease. We believe your glufosfamide program could benefit from Eastern European expansion, and we'd welcome a conversation about adding sites to your recruitment strategy. Best regards, Mediogram BD",
    "url": "https://clinicaltrials.gov/study/NCT01954992"
   },
   {
@@ -15428,15 +15428,15 @@
     "Pancreatic Cancer"
    ],
    "posted": "2025-07-15",
-   "summary": "",
+   "summary": "Innovent Biologics is a Chinese biotech conducting a Phase III pancreatic cancer trial (CLDN18.2-positive) currently recruiting in China, and would benefit from Eastern European sites to accelerate enrollment and diversify their geographic footprint.",
    "email": "penglei.zheng@innoventbio.com",
    "phone": "86-512-69566088",
    "contact_name": "Penglei Zheng",
    "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "Email to study contact + LinkedIn to business development",
+   "who": "Penglei Zheng (Study Contact) cc: Innovent BD/Clinical Operations",
+   "angle": "Alexandrov Centre offers 40 GCP-certified investigators, established pancreatic/GI oncology expertise, and rapid ethics/regulatory turnaround in a treatment-naïve Eastern European market to de-risk G-HOPE-002 enrollment timelines.",
+   "opener": "Hi Penglei, We're Mediogram, a clinical-execution partner in Eastern Europe with established operations at the N.N. Alexandrov National Cancer Centre in Minsk—Belarus' leading solid-tumor center with 40+ GCP investigators and 10+ active industry trials. We're interested in discussing G-HOPE-002 expansion into our region to support your enrollment. Would you be open to a brief call next week? Best, [Name], BD Lead, Mediogram",
    "url": "https://clinicaltrials.gov/study/NCT07066098"
   },
   {
@@ -15460,15 +15460,15 @@
     "Biliary Tract Cancer (BTC)"
    ],
    "posted": "2025-12-05",
-   "summary": "",
+   "summary": "N.N. Alexandrov is a GCP-certified, multi-disciplinary oncology centre with 40+ qualified investigators and proven Phase III trial execution capability across solid tumours including biliary tract cancers.",
    "email": "BeaconBTC@uniphar.us",
    "phone": "+81-3-6432-4270",
    "contact_name": "Masuhiro Yoshitake",
    "pi": "Eric K Rowinsky, MD (Uniphar Development, LLC)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "Email to study contact with LinkedIn outreach to Masuhiro Yoshitake",
+   "who": "Masuhiro Yoshitake (Study Contact, J-Pharma) + Eric K Rowinsky (PI, Uniphar Development)",
+   "angle": "Expand Nanvuranlat Phase III footprint into Eastern Europe with an established biliary/GI oncology centre offering faster enrollment and full investigational pharmacy/imaging on-site.",
+   "opener": "Dear Masuhiro, We represent Mediogram, a clinical-execution partner operating the N.N. Alexandrov National Cancer Centre in Minsk—a GCP-certified site with 40+ investigators actively enrolling Phase III oncology trials, including GI malignancies. Our centre has dedicated investigational pharmacy, -80°C biobank, and ICU support. We'd like to discuss expanding your Nanvuranlat BTC trial into Belarus. Can we schedule a brief call? Best regards, Mediogram BD",
    "url": "https://clinicaltrials.gov/study/NCT07265674"
   },
   {
@@ -15494,15 +15494,15 @@
     "PDAC"
    ],
    "posted": "2026-06-02",
-   "summary": "",
+   "summary": "N.N. Alexandrov is a GCP-certified, Phase III-capable oncology centre with established infrastructure and regulatory pathways in Belarus—ideal for Revolution's KRAS G12D pancreatic cancer trial, which currently has no Eastern European sites.",
    "email": "medinfo@revmed.com",
    "phone": "1-844-2-REVMED",
    "contact_name": "Revolution Medicines Study Director",
    "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "Email to Revolution Medicines Study Director + LinkedIn to Sponsor Medical/Clinical Operations lead",
+   "who": "Revolution Medicines, Inc. – Clinical Trial Operations / Medical Affairs lead (escalate via medinfo@revmed.com)",
+   "angle": "RASolute 305 is recruiting globally but lacks coverage in Eastern Europe; N.N. Alexandrov brings 40 GCP investigators, rapid ethics/regulatory turnaround via Mediogram, and high pancreatic cancer patient volume to accelerate enrolment.",
+   "opener": "Revolution Medicines is actively enrolling RASolute 305 across US/UK sites. We represent N.N. Alexandrov National Cancer Centre in Minsk—40 GCP-certified investigators, established metastatic solid tumour expertise, and direct regulatory/ethics access through our Lithuanian EU entity. We'd welcome a brief call to explore whether Eastern European patient recruitment aligns with your enrolment strategy. Best, Mediogram BD",
    "url": "https://clinicaltrials.gov/study/NCT07621718"
   },
   {
@@ -15525,15 +15525,15 @@
     "Advanced Hepatocellular Carcinoma"
    ],
    "posted": "2024-10-01",
-   "summary": "",
+   "summary": "The Alexandrov Centre is a GCP-certified, 40-investigator solid-tumour hub with Phase III trial experience and full oncology infrastructure that can rapidly activate for international hepatocellular carcinoma studies.",
    "email": "xin.shi.xs3@hengrui.com",
    "phone": "+86-0518-82342973",
    "contact_name": "Xin Shi",
    "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "email + LinkedIn research",
+   "who": "Xin Shi, Study Contact (primary); Suzhou Suncadia Medical Affairs or Oncology Development Lead (secondary)",
+   "angle": "KYLIN-02 is actively recruiting and currently limited to China—Eastern Europe represents untapped HCC patient populations with identical GCP standards and faster enrollment timelines.",
+   "opener": "Dear Xin, Mediogram partners with the N.N. Alexandrov National Cancer Centre in Minsk—a 40-investigator GCP-certified site with dedicated HCC/solid-tumour capacity and proven Phase III execution. We understand KYLIN-02 is recruiting and wanted to explore whether Central European enrollment could accelerate your timeline. Would you be open to a brief call this week? Best regards, [Name], Business Development, Mediogram",
    "url": "https://clinicaltrials.gov/study/NCT06618664"
   },
   {
@@ -15556,15 +15556,15 @@
     "Metastatic Pancreatic Cancer"
    ],
    "posted": "2024-04-12",
-   "summary": "",
+   "summary": "Hutchison Medivation (Hutchmed) is a Shanghai-based oncology biotech running a Phase II/III pancreatic cancer immunotherapy trial currently limited to China, and the Alexandrov Centre's GCP-certified investigators and metastatic disease expertise position it perfectly for European expansion.",
    "email": "panfengt@hutch-med.com",
    "phone": "+86 21 20671828",
    "contact_name": "Panfeng Tan",
    "pi": "Shukui Qin (Nanjing Tianyinshan Hospital)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "email + LinkedIn to study contact",
+   "who": "Panfeng Tan, Study Contact (panfengt@hutch-med.com)",
+   "angle": "Hutchmed's surufatinib/camrelizumab/chemotherapy combination is novel enough to face enrollment pressure outside China; the Alexandrov Centre brings EU regulatory compliance, 40 certified oncologists, and established pancreatic metastatic disease patient access.",
+   "opener": "Hi Panfeng, Mediogram works with top-tier oncology centres across Eastern Europe—including the N.N. Alexandrov National Cancer Centre in Minsk, which has deep expertise in metastatic pancreatic and GI cancers, 40+ GCP-certified investigators, and established industry trial infrastructure. We'd welcome a conversation about extending your Phase II/III pancreatic trial into Belarus as you build your European footprint. Best, [Your name], BD Lead, Mediogram",
    "url": "https://clinicaltrials.gov/study/NCT06361888"
   },
   {
@@ -17530,38 +17530,6 @@
    "url": "https://euclinicaltrials.eu/ctis-public/view/2024-516598-60-00"
   },
   {
-   "nct": "2023-505362-28-00",
-   "source": "ctis",
-   "field": "oncology",
-   "score": 80,
-   "tier": "WARM",
-   "modality": "drug",
-   "note": "",
-   "region_sites": [],
-   "sponsor": "Merck Sharp & Dohme LLC",
-   "title": "A Phase 3, Multicenter, Randomized, Double-Blind Study of MK-7684 with Pembrolizumab as a Coformulation (MK-7684A) Versus Pembrolizumab Monotherapy as First Line Treatment for Participants With PD-L1 Positive Metastatic Non-Small Cell Lung Cancer (KEYVIBE-003)",
-   "status": "CTIS status 8",
-   "phase": "PHASE3",
-   "countries": [
-    "Hungary",
-    "Romania"
-   ],
-   "conditions": [
-    "Stage IV non small-cell lung cancer"
-   ],
-   "posted": "2023-10-23",
-   "summary": "",
-   "email": "",
-   "phone": "",
-   "contact_name": "",
-   "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
-   "url": "https://euclinicaltrials.eu/ctis-public/view/2023-505362-28-00"
-  },
-  {
    "nct": "2024-514771-18-00",
    "source": "ctis",
    "field": "oncology",
@@ -17593,6 +17561,38 @@
    "angle": "",
    "opener": "",
    "url": "https://euclinicaltrials.eu/ctis-public/view/2024-514771-18-00"
+  },
+  {
+   "nct": "2023-505362-28-00",
+   "source": "ctis",
+   "field": "oncology",
+   "score": 80,
+   "tier": "WARM",
+   "modality": "drug",
+   "note": "",
+   "region_sites": [],
+   "sponsor": "Merck Sharp & Dohme LLC",
+   "title": "A Phase 3, Multicenter, Randomized, Double-Blind Study of MK-7684 with Pembrolizumab as a Coformulation (MK-7684A) Versus Pembrolizumab Monotherapy as First Line Treatment for Participants With PD-L1 Positive Metastatic Non-Small Cell Lung Cancer (KEYVIBE-003)",
+   "status": "CTIS status 8",
+   "phase": "PHASE3",
+   "countries": [
+    "Hungary",
+    "Romania"
+   ],
+   "conditions": [
+    "Stage IV non small-cell lung cancer"
+   ],
+   "posted": "2023-10-23",
+   "summary": "",
+   "email": "",
+   "phone": "",
+   "contact_name": "",
+   "pi": "",
+   "channel": "",
+   "who": "",
+   "angle": "",
+   "opener": "",
+   "url": "https://euclinicaltrials.eu/ctis-public/view/2023-505362-28-00"
   },
   {
    "nct": "2023-508952-21-00",
@@ -17998,7 +17998,7 @@
    ],
    "sponsor": "Urogen Pharma Ltd.",
    "title": "A Rollover Study to Follow the Long-term Durability of Response to UGN-103 in Participants From Study BL013",
-   "status": "CTIS status 2",
+   "status": "CTIS status 3",
    "phase": "PHASE4",
    "countries": [
     "Bulgaria",
