@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-10T11:46:44Z",
- "day": "2026-10-10",
+ "updated": "2026-10-11T11:59:40Z",
+ "day": "2026-10-11",
  "tiers": [
   "HOT",
   "WARM",
@@ -31,12 +31,12 @@
   "hot": 268,
   "warm": 556,
   "in_region": 67,
-  "device": 647,
+  "device": 646,
   "drug": 713,
   "ctgov": 1231,
   "ctis": 298,
-  "fda": 2,
-  "cardiology": 938,
+  "fda": 1,
+  "cardiology": 937,
   "oncology": 593
  },
  "leads": [
@@ -15587,15 +15587,15 @@
     "Pancreatic Cancer"
    ],
    "posted": "2026-09-16",
-   "summary": "",
+   "summary": "Evopoint Biosciences is a clinical-stage biotech running a Phase III pancreatic cancer trial in China, and the Alexandrov Centre's solid tumour expertise and GCP infrastructure make it an ideal site to expand their geographic footprint into Eastern Europe.",
    "email": "yingjie.zhao@evopointbio.com",
    "phone": "+86 15553136593",
    "contact_name": "Yingjie zhao",
    "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "email",
+   "who": "Yingjie Zhao, Study Contact",
+   "angle": "The trial is currently China-only; Mediogram can rapidly activate the Alexandrov Centre (40 GCP investigators, established oncology program, full clinical infrastructure) to accelerate enrollment in an underserved geographic region.",
+   "opener": "Dear Yingjie, We partner with the N.N. Alexandrov National Cancer Centre in Minsk—a 40-investigator, GCP-certified solid tumour centre with active industry trial experience—and we're interested in discussing site activation for XNW28012 in metastatic pancreatic cancer. The centre has immediate capacity and regulatory/ethics infrastructure in place. Would you be open to a brief conversation about geographic expansion opportunities for your Phase III programme? Best regards, [Name], BD Lead, Mediogram",
    "url": "https://clinicaltrials.gov/study/NCT07823049"
   },
   {
@@ -15620,15 +15620,15 @@
     "PDAC"
    ],
    "posted": "2026-09-08",
-   "summary": "",
+   "summary": "Revolution Medicines is a clinical-stage biotech developing KRAS-targeted oncology therapeutics and needs Phase III trial sites across multiple geographies to support their lead pancreatic cancer program.",
    "email": "medinfo@revmed.com",
    "phone": "1-844-2-REVMED",
    "contact_name": "Revolution Medicines Study Director",
    "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "Email to study contact + LinkedIn to Revolution Medicines BD/Clinical Operations leadership",
+   "who": "Revolution Medicines Clinical Operations Director or International Trial Coordinator (via medinfo@revmed.com, then escalate internally)",
+   "angle": "Alexandrov Centre's proven metastatic GI oncology expertise, GCP-certified investigator pool, and established inpatient/imaging/pharmacy infrastructure directly de-risk enrollment and protocol compliance for a demanding Phase III KRAS G12D trial.",
+   "opener": "We're Mediogram, a clinical-execution partner operating the N.N. Alexandrov National Cancer Centre in Minsk—40 GCP-certified investigators with active Phase III oncology portfolios and full on-site capability (pharmacy, -80°C storage, ICU, imaging). We've seen your RMC-9805/RMC-6236 PDAC study is actively recruiting and would like to explore whether Eastern European metastatic pancreatic adenocarcinoma patient populations and our regulatory/ethics infrastructure could support your enrollment strategy. Best contact to discuss: [Your name/title], Mediogram BD.",
    "url": "https://clinicaltrials.gov/study/NCT07805954"
   },
   {
@@ -15651,15 +15651,15 @@
     "Prostate Cancer"
    ],
    "posted": "2026-05-06",
-   "summary": "",
+   "summary": "Blue Earth Diagnostics (owned by Bracco) develops PET imaging agents for oncology; the Alexandrov Centre's strong nuclear medicine imaging infrastructure and high-volume prostate cancer patients make it suitable for this Phase IV diagnostic trial.",
    "email": "bed-flc-401_study@bracco.com",
    "phone": "+44 (0) 1865 507300",
    "contact_name": "BED-Flc-401 Study Team",
    "pi": "Nadine Mallak, MD (Oregon Health and Science University)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "email to study contact + LinkedIn to Clinical Operations lead",
+   "who": "BED-Flc-401 Study Team (bed-flc-401_study@bracco.com); escalate to Blue Earth Diagnostics Clinical Operations",
+   "angle": "Alexandrov Centre offers EU-adjacent access to underserved Eastern European prostate cancer population with existing PET/CT capability and 40 GCP-certified investigators already running oncology trials.",
+   "opener": "We partner with N.N. Alexandrov National Cancer Centre in Minsk—a 40-investigator, GCP-certified solid-tumour centre with dedicated PET/CT imaging, investigational pharmacy, and proven Phase III/IV trial delivery. We noticed BED-Flc-401 is currently US-only and would welcome a conversation about expanding your geographic footprint into Eastern Europe. Could we schedule 20 minutes with your trial operations team? — Mediogram BD",
    "url": "https://clinicaltrials.gov/study/NCT07569926"
   },
   {
@@ -15680,15 +15680,15 @@
     "Metastatic Hormone-Sensitive Prostate Cancer (mHSPC)"
    ],
    "posted": "2026-09-08",
-   "summary": "",
+   "summary": "Bayer is a global pharma company running a Phase III prostate cancer trial across emerging markets, and the Alexandrov Centre's 40 GCP-certified investigators and proven oncology infrastructure make it a natural fit for their expansion plans.",
    "email": "clinical-trials-contact@bayer.com",
    "phone": "4930300139003",
    "contact_name": "Bayer Clinical Trials Contact",
    "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "Email to Bayer Clinical Trials Contact + LinkedIn to regional Oncology Medical Director",
+   "who": "Bayer Regional Medical Lead or Clinical Operations Director (Eastern Europe/Emerging Markets)",
+   "angle": "Darolutamide mHSPC trial is launching in India with likely follow-on expansion; Alexandrov Centre offers EU-regulated investigational pharmacy, -80°C biobanking, and 10+ active industry trials—enabling rapid enrollment in an underserved region.",
+   "opener": "We partner with the N.N. Alexandrov National Cancer Centre in Minsk—a 40-investigator GCP-certified solid-tumour hub with on-site ICU, imaging, and regulated investigational pharmacy currently running 10+ industry trials. As Bayer expands the darolutamide mHSPC programme beyond India, we'd welcome a call to explore whether Eastern Europe represents an opportunity for your enrollment strategy. Best contact: [your name, title, direct line]",
    "url": "https://clinicaltrials.gov/study/NCT07806591"
   },
   {
@@ -15712,15 +15712,15 @@
     "Metastatic Castration Resistant Prostate Cancer"
    ],
    "posted": "2026-07-23",
-   "summary": "",
+   "summary": "N.N. Alexandrov is a GCP-certified, 40-investigator oncology centre with proven Phase III trial experience and all required infrastructure (pharmacy, imaging, ICU, -80°C storage) to execute mCRPC studies in a geographically underrepresented region for prostate cancer trials.",
    "email": "clinical@oricpharma.com",
    "phone": "",
    "contact_name": "ORIC Clinical Call Center",
    "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "Email to clinical@oricpharma.com with follow-up to trial operations/medical affairs",
+   "who": "ORIC Clinical Operations Lead or Regional Expansion Manager",
+   "angle": "Himalayas-1 is currently recruiting only in US/Puerto Rico; Belarus offers access to treatment-experienced mCRPC patients in an EU-adjacent, GCP-compliant site with 10+ active industry trials and no recruitment competition.",
+   "opener": "We represent N.N. Alexandrov National Cancer Centre in Minsk—a 40-investigator, GCP-certified solid tumour centre with dedicated investigational pharmacy, ICU, and imaging on-site. Given Himalayas-1's focus on post-abiraterone mCRPC patients, we'd like to explore adding a high-performing site in Eastern Europe to accelerate your recruitment timeline. Would you be open to a brief call to discuss feasibility?",
    "url": "https://clinicaltrials.gov/study/NCT07723248"
   },
   {
@@ -15744,15 +15744,15 @@
     "mCRPC"
    ],
    "posted": "2026-10-01",
-   "summary": "",
+   "summary": "FutureChem is developing a radiopharmaceutical for mCRPC and currently recruiting in South Korea; Alexandrov has 40 GCP-certified investigators, established oncology infrastructure, and regional access that could accelerate enrollment in their Phase 3.",
    "email": "chansoo.park@futurechem.co.kr",
    "phone": "+82 70 5066 2479",
    "contact_name": "Chan Soo Park",
    "pi": "Ji Youl Lee (Seoul St. Mary's Hospital)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "email",
+   "who": "Chan Soo Park, Study Contact",
+   "angle": "Alexandrov's prostate cancer patient population and GCP-certified team can support rapid enrollment for [177Lu]Ludotadipep in Eastern Europe, a region currently absent from your trial footprint.",
+   "opener": "Dear Chan Soo Park,\n\nMediaogram partners with the N.N. Alexandrov National Cancer Centre in Minsk—a 40-investigator, GCP-certified solid tumor centre with active mCRPC patient flow. We're writing to explore adding a site to your [177Lu]Ludotadipep Phase 3 in a region where you're not yet recruiting. Would a brief call to discuss feasibility make sense?\n\nBest regards,\nMediaogram BD",
    "url": "https://clinicaltrials.gov/study/NCT07853209"
   },
   {
@@ -15775,15 +15775,15 @@
     "Prostate Cancer"
    ],
    "posted": "2026-09-21",
-   "summary": "",
+   "summary": "Lantheus Medical Imaging is a publicly-traded radiopharmaceutical company developing diagnostic imaging agents for oncology, and the Alexandrov Centre is an ideal fit given its GCP-certified investigators, established oncology infrastructure, and track record with imaging-based trials.",
    "email": "clinicaltrials@lantheus.com",
    "phone": "978-671-8886",
    "contact_name": "Eryn Bagley",
    "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "email + phone",
+   "who": "Eryn Bagley, Study Contact (clinical trials lead)",
+   "angle": "SPARROW is currently US-only but Eastern European expansion would accelerate enrollment in a treatment-naïve prostate cancer population with strong diagnostic imaging capabilities.",
+   "opener": "Hello Eryn, Mediogram partners with the N.N. Alexandrov National Cancer Centre in Minsk—40 GCP-certified investigators with dedicated imaging infrastructure (PET/CT), investigational pharmacy, and active oncology trial portfolio. We're exploring whether SPARROW could benefit from Eastern European patient availability and imaging expertise. Would you have 15 minutes to discuss trial expansion opportunities? Best regards, Mediogram BD",
    "url": "https://clinicaltrials.gov/study/NCT07831824"
   },
   {
@@ -15809,15 +15809,15 @@
     "Metastatic Castration-resistant Prostate Cancer"
    ],
    "posted": "2026-01-26",
-   "summary": "",
+   "summary": "Alexandrov is a GCP-certified, Phase III-capable oncology centre with metastatic disease expertise and full infrastructure (pharmacy, imaging, ICU) that can execute BioNTech's prostate cancer trial across their established investigator network.",
    "email": "patients@biontech.de",
    "phone": "+49 6131 9084",
    "contact_name": "BioNTech clinical trials patient information",
    "pi": "BioNTech Responsible Person (BioNTech SE)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "email to BioNTech clinical operations with cc to patients@biontech.de",
+   "who": "BioNTech Clinical Trial Operations Manager or Regional Director, Eastern Europe",
+   "angle": "Alexandrov holds 40 GCP investigators and 10+ active industry trials; you are currently recruiting for BNT324 in MCRPC across 4 regions—Belarus offers rapid EU-adjacent site activation with established regulatory fast-track and inpatient capacity.",
+   "opener": "We represent N.N. Alexandrov National Cancer Centre (Minsk), Belarus—a 40-investigator, GCP-certified solid-tumour network with dedicated metastatic disease capability and 10+ active industry partnerships. We understand BNT324 is recruiting globally for mCRPC. We can activate 2–3 sites within 60 days via our Lithuanian EU entity, offering regulatory pre-clearance and full on-site trial infrastructure. Would your team welcome a brief conversation on Belarusian site potential? – Mediogram",
    "url": "https://clinicaltrials.gov/study/NCT07365995"
   },
   {
