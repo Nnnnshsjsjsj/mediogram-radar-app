@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-11T11:59:40Z",
- "day": "2026-10-11",
+ "updated": "2026-10-12T14:11:05Z",
+ "day": "2026-10-12",
  "tiers": [
   "HOT",
   "WARM",
@@ -32,11 +32,11 @@
   "warm": 556,
   "in_region": 67,
   "device": 646,
-  "drug": 713,
+  "drug": 714,
   "ctgov": 1231,
-  "ctis": 298,
+  "ctis": 299,
   "fda": 1,
-  "cardiology": 937,
+  "cardiology": 938,
   "oncology": 593
  },
  "leads": [
@@ -15843,15 +15843,15 @@
     "Prostatic Neoplasms"
    ],
    "posted": "2023-09-28",
-   "summary": "",
+   "summary": "Clarity Pharmaceuticals is an Australian biotech developing targeted radiopharmaceuticals for oncology; they're running a Phase III PET imaging trial in prostate cancer across three countries and need geographic expansion to meet enrollment.",
    "email": "clinicaltrials@claritypharmaceuticals.com",
    "phone": "+61 (0) 2 9209 4037",
    "contact_name": "Clarity Pharmaceuticals",
    "pi": "Clarity Pharmaceuticals (Clarity Pharmaceuticals Ltd)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "email + LinkedIn",
+   "who": "Clinical Operations Director or VP Clinical Affairs",
+   "angle": "64Cu-SAR-bisPSMA is a surgical-decision imaging agent—Belarus has 40 GCP-certified investigators, robust urology/oncology infrastructure, and zero competitive trial burden in radiopharmaceutical diagnostics.",
+   "opener": "We're Mediogram, a clinical-execution partner launching oncology sites across Eastern Europe. Your 64Cu-SAR-bisPSMA Phase III is running in three regions; we can activate a fourth immediately at the N.N. Alexandrov National Cancer Centre in Minsk—40 certified investigators, established inpatient imaging, -80°C storage, and regulatory/ethics pre-positioned. Could we explore whether Belarus fits your enrollment strategy? Best, Mediogram BD",
    "url": "https://clinicaltrials.gov/study/NCT06056830"
   },
   {
@@ -15876,15 +15876,15 @@
     "Pancreatic Neuroendocrine Tumors (pNET)"
    ],
    "posted": "2026-06-02",
-   "summary": "",
+   "summary": "Exelixis is a mid-cap oncology biotech running Phase III extension studies across multiple solid tumors (RCC, HCC, NET, thyroid, colorectal, prostate) where Alexandrov's depth in these indications and GCP infrastructure match their enrollment needs.",
    "email": "",
    "phone": "",
    "contact_name": "",
    "pi": "Medical Director (Exelixis)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "LinkedIn outreach to Exelixis Clinical Operations lead, followed by email to Medical Director contact on file",
+   "who": "Exelixis VP Clinical Operations or Regional Medical Director (oncology)",
+   "angle": "Alexandrov's 40 certified investigators and established solid tumor programs (especially RCC, HCC, NET, GI) can activate extension-study enrollment currently limited to US-only sites.",
+   "opener": "We partner with N.N. Alexandrov National Cancer Centre—40 GCP-certified oncologists in Minsk with active Phase III capacity across RCC, HCC, NET, colorectal, and prostate cancers. Your cabozantinib/atezolizumab extension study appears US-only on ClinicalTrials; we'd explore whether Eastern European extension-study sites could accelerate your enrollment timeline. Worth a 20-min call? — Mediogram",
    "url": "https://clinicaltrials.gov/study/NCT07620574"
   },
   {
@@ -15907,15 +15907,15 @@
     "Prostate Cancer (Diagnosis)"
    ],
    "posted": "2026-05-29",
-   "summary": "",
+   "summary": "Norroy Bioscience is developing a diagnostic PET imaging agent for prostate cancer staging and needs to expand Phase III sites beyond China into regulated markets with strong nuclear medicine and oncology infrastructure.",
    "email": "",
    "phone": "",
    "contact_name": "",
    "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "LinkedIn + direct email to clinical operations",
+   "who": "Clinical Development Manager or VP Clinical Operations",
+   "angle": "Norroy's single-country footprint creates regulatory and statistical risk; Belarus offers GCP-certified prostate/imaging capability, EU regulatory pathway via Lithuania, and faster enrollment than Western Europe.",
+   "opener": "We've identified your 68Ga-NYM032 prostate imaging trial currently recruiting in China. The Alexandrov Centre in Minsk offers Phase III diagnostic trial experience, 40 GCP investigators, PET/CT imaging on-site, and regulatory infrastructure via our EU entity—enabling you to de-risk geographic concentration and accelerate enrollment. Would you be open to a brief call on site qualification?",
    "url": "https://clinicaltrials.gov/study/NCT07615101"
   },
   {
@@ -15942,15 +15942,15 @@
     "Urinary Bladder Neoplasms"
    ],
    "posted": "2026-05-04",
-   "summary": "",
+   "summary": "Astellas is a global pharma company running a Phase III bladder cancer trial across North America and Asia, and the Alexandrov Centre's urology expertise and GCP-certified investigators make it a natural fit for trial expansion into Eastern Europe.",
    "email": "ClinicalTrials.gov_Inquiries@pfizer.com",
    "phone": "1-800-718-1021",
    "contact_name": "Pfizer CT.gov Call Center",
    "pi": "Zejing Wang, MD/PhD (Pfizer)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "email to Pfizer ClinicalTrials.gov_Inquiries@pfizer.com with copy to Zejing Wang (study contact + PI)",
+   "who": "Clinical Trial Operations Manager or Regional Expansion Lead at Astellas (escalate from Pfizer contact)",
+   "angle": "EV-309 is actively recruiting across four countries—adding a 40-investigator, GCP-certified Eastern European site with inpatient/ICU/imaging infrastructure would accelerate enrolment in an underserved geography.",
+   "opener": "We're writing to explore adding the N.N. Alexandrov National Cancer Centre in Minsk to the EV-309 trial network. The centre operates 40 GCP-certified investigators with active urology oncology capacity, established ethics/regulatory pathways, and on-site pharmacy and imaging—capabilities that directly support your Phase III bladder cancer study. Given recruitment momentum, we'd welcome a brief call to discuss site activation timelines. Best regards, [Your Name], Business Development, Mediogram.",
    "url": "https://clinicaltrials.gov/study/NCT07566156"
   },
   {
@@ -15974,15 +15974,15 @@
     "Non-muscle Invasive Bladder Cancer (NMIBC)"
    ],
    "posted": "2026-09-04",
-   "summary": "",
+   "summary": "Hamlet Pharma AB is a Swedish biotech developing novel bladder cancer therapeutics and is actively recruiting for a Phase III NMIBC trial where the Alexandrov Centre's urology expertise and GCP-certified investigators directly address their geographic and patient-population needs.",
    "email": "catharina.svanborg@med.lu.se",
    "phone": "+46709426549",
    "contact_name": "Catharina Svanborg, MD, PhD.",
    "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "email",
+   "who": "Catharina Svanborg, MD, PhD (Study Contact)",
+   "angle": "The Alexandrov Centre offers established urologic oncology capability with 40 GCP investigators and on-site TURBT infrastructure to accelerate Alpha1H enrollment in an underserved Eastern European geography where Hamlet currently has only Czech representation.",
+   "opener": "Dear Dr. Svanborg, Mediogram partners with the N.N. Alexandrov National Cancer Centre in Minsk—a 40-investigator GCP-certified urology oncology hub with active NMIBC patient volume and full on-site surgical and pharmacy support. We understand Hamlet is recruiting for the Alpha1H Phase III neoadjuvant trial and believe Belarus represents a strategic enrollment opportunity to complement your current Czech footprint. Would you be open to a brief call to explore site feasibility? Best regards, [Your name], Business Development, Mediogram",
    "url": "https://clinicaltrials.gov/study/NCT07804056"
   },
   {
@@ -16006,15 +16006,15 @@
     "Metastatic Urothelial Carcinoma (UC)"
    ],
    "posted": "2026-09-11",
-   "summary": "",
+   "summary": "N.N. Alexandrov is a GCP-certified, multi-disciplinary oncology centre with 40+ investigators and proven Phase III delivery capability, making it an ideal Eastern European expansion site for Summit's urothelial carcinoma programme.",
    "email": "medicalinformation@smmttx.com",
    "phone": "1-833-256-0522",
    "contact_name": "Summit Clinical Trial Information",
    "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "email to Summit Clinical Trial Information with follow-up call",
+   "who": "Summit Therapeutics Clinical Operations or Trial Development Lead",
+   "angle": "Offer rapid site activation in Belarus for the ivonescimab + EV Phase II/III trial, leveraging established urologic/metastatic disease expertise and regulatory pre-work through Mediogram's EU infrastructure.",
+   "opener": "Summit team – Mediogram partners with N.N. Alexandrov National Cancer Centre (Minsk) to bring Phase III oncology trials to Eastern Europe. Our site has 40 GCP-certified investigators, active urologic malignancy experience, and full on-site infrastructure (imaging, pharmacy, ICU). We're interested in discussing site activation for your ivonescimab + enfortumab vedotin urothelial carcinoma study. Shall we connect this week? — Mediogram BD",
    "url": "https://clinicaltrials.gov/study/NCT07815665"
   },
   {
@@ -16037,15 +16037,15 @@
     "Papillary-Only Non-muscle-invasive Bladder Cancer"
    ],
    "posted": "2026-07-27",
-   "summary": "",
+   "summary": "Suzhou Suncadia is a Chinese biopharma company running a Phase III bladder cancer trial currently limited to China, and the N.N. Alexandrov Centre is a GCP-certified, fully-equipped oncology powerhouse that could expand their enrollment across Eastern Europe.",
    "email": "wenliang.wang@hengrui.com",
    "phone": "0518-82342973",
    "contact_name": "Wenliang Wang",
    "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "Email to study contact, copied to Suncadia BD/Clinical Operations",
+   "who": "Wenliang Wang (Study Contact) + Suncadia Clinical Operations / International Expansion lead",
+   "angle": "Offer rapid site activation in Belarus with 40 certified urologic/oncology investigators and existing BCG-trial infrastructure to accelerate Phase III enrollment outside China.",
+   "opener": "Hi Wenliang — Mediogram partners with the N.N. Alexandrov National Cancer Centre in Minsk, a 40-investigator GCP-certified urology/oncology hub with active BCG trial experience and full inpatient/pharmacy/imaging capability. Given SHR-1501's current China-only footprint, we'd like to explore adding a high-performing Eastern European site to strengthen your Phase III recruitment timeline. Would you be open to a brief call with our clinical and regulatory teams? Best, Mediogram BD",
    "url": "https://clinicaltrials.gov/study/NCT07726992"
   },
   {
@@ -16068,15 +16068,15 @@
     "Metastatic Urothelial Carcinoma"
    ],
    "posted": "2025-03-06",
-   "summary": "",
+   "summary": "Astellas Pharma is a global pharma sponsor running Phase IV safety studies for approved oncology agents in underserved markets, and the Alexandrov Centre's certified urothelial cancer program directly matches their recruitment needs.",
    "email": "astellas.registration@astellas.com",
    "phone": "800-888-7704",
    "contact_name": "Astellas Pharma Global Development, Inc.",
    "pi": "Medical Monitor (Astellas Pharma Global Development, Inc.)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "Email to medical monitor + clinical operations lead",
+   "who": "Medical Monitor (Astellas Pharma Global Development, Inc.) + Regional Clinical Trial Manager",
+   "angle": "Expand your Indian urothelial cancer safety study into Belarus—Alexandrov Centre has 40 GCP-certified investigators, established metastatic disease cohorts, and EU-compliant infrastructure to accelerate Phase IV enrollment.",
+   "opener": "We are Mediogram, a clinical-execution partner expanding oncology capacity in Eastern Europe. We've just certified the N.N. Alexandrov National Cancer Centre (Minsk) as a Phase III/IV site with deep expertise in metastatic urothelial and solid tumour cancers. Given your ongoing enfortumab vedotin safety study in India, we'd like to discuss adding Belarusian sites to strengthen geographic diversity and patient access. Who leads your regional expansion strategy?",
    "url": "https://clinicaltrials.gov/study/NCT06862219"
   },
   {
