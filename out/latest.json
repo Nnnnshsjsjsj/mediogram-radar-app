@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-13T13:23:06Z",
- "day": "2026-10-13",
+ "updated": "2026-10-14T11:02:19Z",
+ "day": "2026-10-14",
  "tiers": [
   "HOT",
   "WARM",
@@ -27,9 +27,9 @@
   }
  },
  "counts": {
-  "new_leads": 14,
+  "new_leads": 0,
   "hot": 264,
-  "warm": 563,
+  "warm": 561,
   "in_region": 67,
   "device": 650,
   "drug": 714,
@@ -7555,7 +7555,7 @@
    ],
    "sponsor": "Ribocure Pharmaceuticals AB",
    "title": "A randomised active-controlled trial to assess the safety and pharmacodynamics of two blinded doses of vortosiran and open-label apixaban in patients with non-valvular atrial fibrillation",
-   "status": "CTIS status 2",
+   "status": "CTIS status 3",
    "phase": "PHASE2",
    "countries": [
     "Denmark",
@@ -9218,15 +9218,15 @@
     "Atrial Fibrillation"
    ],
    "posted": "2021-11-11",
-   "summary": "",
+   "summary": "University of Rochester is running a Phase NA persistent AF trial combining renal denervation with PVI ablation, seeking high-enrollment sites to accelerate recruitment.",
    "email": "jsteinberg@smgnj.com",
    "phone": "9734364155",
    "contact_name": "Jonathan Steinberg, MD",
    "pi": "Jonathan Steinberg (University of Rochester)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "email to study contact",
+   "who": "Jonathan Steinberg, MD (study contact + PI)",
+   "angle": "Mediogram operates a high-enrolling Eastern European cardiology center (RNPC Cardiology, Minsk) with established AF ablation infrastructure and regulatory pathways to rapidly activate sites for device trials.",
+   "opener": "Dr. Steinberg, we've noted your renal denervation + PVI trial (NCT identifier pending verification) is recruiting. Mediogram runs dedicated AF ablation capacity through RNPC Cardiology in Minsk with streamlined EU regulatory/ethics processes and a track record on device trials in this indication. Would a 15-min call to explore site activation make sense? Best, Mediogram BD",
    "url": "https://clinicaltrials.gov/study/NCT05116384"
   },
   {
@@ -11316,7 +11316,8 @@
     "Poland",
     "Portugal",
     "Romania",
-    "Slovakia"
+    "Slovakia",
+    "Slovenia"
    ],
    "conditions": [
     "Chronic Heart Failure"
@@ -11521,7 +11522,7 @@
    ],
    "sponsor": "Lexicon Pharmaceuticals Inc.",
    "title": "A Randomized, Double-blind, Placebo-controlled, Parallel-group, Multicenter Study to Evaluate the Efficacy and Safety of SOtaglifloziN in symptomATic obstructive And non-obstructive Hypertrophic CardioMyopathy (SONATA-HCM)",
-   "status": "CTIS status 4",
+   "status": "CTIS status 5",
    "phase": "PHASE3",
    "countries": [
     "Belgium",
@@ -11594,49 +11595,6 @@
    "angle": "",
    "opener": "",
    "url": "https://euclinicaltrials.eu/ctis-public/view/2022-503072-84-00"
-  },
-  {
-   "nct": "2022-502316-36-00",
-   "source": "ctis",
-   "field": "cardiology",
-   "score": 50,
-   "tier": "IN REGION",
-   "modality": "drug",
-   "note": "Already running in Poland — sites likely taken. Shown for awareness, not outreach.",
-   "region_sites": [
-    "Poland"
-   ],
-   "sponsor": "Myokardia Inc.",
-   "title": "MEMENTO-A Phase 3b/4 Randomized, Double-blind, Placebo-controlled Clinical Study to Evaluate Mavacamten in Adults with Symptomatic Obstructive Hypertrophic Cardiomyopathy to assess the impact on Myocardial Structure with Cardiac Magnetic Resonance Imaging (CMR)",
-   "status": "CTIS status 8",
-   "phase": "PHASE3",
-   "countries": [
-    "Austria",
-    "Belgium",
-    "Czechia",
-    "Finland",
-    "France",
-    "Germany",
-    "Greece",
-    "Hungary",
-    "Italy",
-    "Poland",
-    "Spain"
-   ],
-   "conditions": [
-    "Symptomatic Obstructive Hypertrophic Cardiomyopathy"
-   ],
-   "posted": "2024-02-06",
-   "summary": "",
-   "email": "",
-   "phone": "",
-   "contact_name": "",
-   "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
-   "url": "https://euclinicaltrials.eu/ctis-public/view/2022-502316-36-00"
   },
   {
    "nct": "2024-514434-20-00",
@@ -11768,6 +11726,49 @@
    "angle": "",
    "opener": "",
    "url": "https://euclinicaltrials.eu/ctis-public/view/2022-502858-14-00"
+  },
+  {
+   "nct": "2022-502316-36-00",
+   "source": "ctis",
+   "field": "cardiology",
+   "score": 50,
+   "tier": "IN REGION",
+   "modality": "drug",
+   "note": "Already running in Poland — sites likely taken. Shown for awareness, not outreach.",
+   "region_sites": [
+    "Poland"
+   ],
+   "sponsor": "Myokardia Inc.",
+   "title": "MEMENTO-A Phase 3b/4 Randomized, Double-blind, Placebo-controlled Clinical Study to Evaluate Mavacamten in Adults with Symptomatic Obstructive Hypertrophic Cardiomyopathy to assess the impact on Myocardial Structure with Cardiac Magnetic Resonance Imaging (CMR)",
+   "status": "CTIS status 8",
+   "phase": "PHASE3",
+   "countries": [
+    "Austria",
+    "Belgium",
+    "Czechia",
+    "Finland",
+    "France",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Italy",
+    "Poland",
+    "Spain"
+   ],
+   "conditions": [
+    "Symptomatic Obstructive Hypertrophic Cardiomyopathy"
+   ],
+   "posted": "2024-02-06",
+   "summary": "",
+   "email": "",
+   "phone": "",
+   "contact_name": "",
+   "pi": "",
+   "channel": "",
+   "who": "",
+   "angle": "",
+   "opener": "",
+   "url": "https://euclinicaltrials.eu/ctis-public/view/2022-502316-36-00"
   },
   {
    "nct": "2023-507220-23-00",
@@ -16217,15 +16218,15 @@
     "Ovarian Neoplasms"
    ],
    "posted": "2025-12-16",
-   "summary": "",
+   "summary": "N.N. Alexandrov is a GCP-certified, 40-investigator cancer centre with established Phase III trial infrastructure and on-site pharmacy/imaging that can rapidly activate for GSK's platinum-resistant ovarian cancer program.",
    "email": "GSKClinicalSupportHD@gsk.com",
    "phone": "877-379-3718",
    "contact_name": "US GSK Clinical Trials Call Center",
    "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "email",
+   "who": "GSK Clinical Operations/Oncology Therapeutic Area Lead (escalate from study contact)",
+   "angle": "BEHOLD-Ovarian01 is actively recruiting across 5 countries; Minsk offers EU-regulated site access, expedited ethics, and proven ovarian cancer patient population to accelerate enrollment.",
+   "opener": "We partner with N.N. Alexandrov National Cancer Centre—a 40-investigator GCP-certified site in Minsk with active ovarian oncology patient volume and full Phase III infrastructure (pharmacy, -80°C storage, ICU). Given BEHOLD-Ovarian01's recruiting status across limited geographies, we'd welcome a conversation about activating Belarus as a high-capacity site. Can we schedule a brief call with your Clinical Operations team? — Mediogram",
    "url": "https://clinicaltrials.gov/study/NCT07286266"
   },
   {
@@ -16251,15 +16252,15 @@
     "Ovarian Neoplasms"
    ],
    "posted": "2026-07-06",
-   "summary": "",
+   "summary": "N.N. Alexandrov is a GCP-certified, fully-equipped oncology centre with proven Phase III trial experience and 40 qualified investigators across the exact tumour types GSK needs for their ovarian cancer study.",
    "email": "GSKClinicalSupportHD@gsk.com",
    "phone": "877-379-3718",
    "contact_name": "US GSK Clinical Trials Call Center",
    "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "email to GSK Clinical Trials Call Center with cc to GSK Oncology Regional Medical Lead",
+   "who": "GSK Regional Medical Safety & Operations Lead (Oncology) or Clinical Trial Operations Manager for EMEA expansion",
+   "angle": "BEHOLD-Ovarian02 is actively recruiting across four geographies; Minsk adds Eastern European access to platinum-sensitive ovarian patients with no current GSK sites in the region, supported by inpatient ICU, -80°C biobanking, and Mediogram's EU regulatory infrastructure.",
+   "opener": "We are Mediogram, a clinical-execution partner partnering the N.N. Alexandrov National Cancer Centre in Minsk—a 40-investigator, GCP-certified oncology centre with inpatient ICU, advanced imaging, and -80°C storage. We note BEHOLD-Ovarian02 is recruiting and currently has no active sites in Eastern Europe; Alexandrov has enrolled 10+ industry trials in solid tumours including gynaecologic malignancies. We would welcome a brief call to discuss how Minsk could support your patient recruitment strategy for this Phase III programme. Best regards, Mediogram BD",
    "url": "https://clinicaltrials.gov/study/NCT07684612"
   },
   {
@@ -16284,15 +16285,15 @@
     "Platinum-resistant Fallopian Tube Cancer"
    ],
    "posted": "2026-07-16",
-   "summary": "",
+   "summary": "N.N. Alexandrov is a GCP-certified, 40-investigator oncology centre with proven Phase III trial experience and dedicated gynaecologic cancer capability—a natural fit for CSPC's platinum-resistant ovarian cancer programme expanding beyond China.",
    "email": "ctr-contact@cspc.cn",
    "phone": "031169085587",
    "contact_name": "Clinical Trials Information Group officer",
    "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "email to sponsor's clinical operations contact, copied to medical affairs",
+   "who": "CSPC Clinical Trial Operations Lead or Regional Expansion Manager",
+   "angle": "Aleksandrov brings immediate GCP readiness, gynaecologic oncology depth, and EU regulatory infrastructure to accelerate enrolment in a platinum-resistant ovarian indication where Eastern European centres remain underutilised.",
+   "opener": "We represent the N.N. Alexandrov National Cancer Centre in Minsk—a 40-investigator GCP-certified site with active Phase III oncology experience and a dedicated gynaecologic oncology cohort (breast, GI, urologic, and gynaecologic cancers including metastatic disease). We understand SYS6043 is recruiting in platinum-resistant ovarian, peritoneal, and fallopian tube cancers; Aleksandrov's inpatient, ICU, imaging, and -80°C biorepository infrastructure, combined with our EU regulatory and ethics pathway, positions us to accelerate your Eastern European enrolment. Would you be open to a brief conversation about trial fit? — Mediogram",
    "url": "https://clinicaltrials.gov/study/NCT07708753"
   },
   {
@@ -16315,15 +16316,15 @@
     "Persistent, Recurrent, or Metastatic Cervical Cancer"
    ],
    "posted": "2023-04-05",
-   "summary": "",
+   "summary": "Guangzhou Gloria Biosciences is a Chinese biotech advancing GLS-010 in gynecologic oncology and needs to expand their Phase III cervical cancer trial beyond China to meet enrollment timelines and regional regulatory requirements.",
    "email": "",
    "phone": "",
    "contact_name": "",
    "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "LinkedIn + direct email to Clinical Operations or Trial Director",
+   "who": "Clinical Trial Manager or Head of Clinical Operations",
+   "angle": "N.N. Alexandrov has 40 GCP-certified investigators with documented gynecologic cancer expertise and active industry trial track record—ideal for rapid Phase III enrollment in Eastern Europe.",
+   "opener": "We noticed GLS-010 is currently recruiting only in China for your cervical cancer Phase III. The N.N. Alexandrov National Cancer Centre in Minsk—our partner site—has 40 GCP-certified investigators, active gynecologic oncology programs, and established capacity for platinum-based combination trials. We'd welcome a brief call to explore how we can accelerate your enrollment timeline. Best regards, Mediogram BD",
    "url": "https://clinicaltrials.gov/study/NCT05798819"
   },
   {
@@ -16348,15 +16349,15 @@
     "Non-small Cell Lung Cancer (NSCLC)"
    ],
    "posted": "2026-05-04",
-   "summary": "",
+   "summary": "Astellas is a top-10 pharma company running a Phase III NSCLC trial with a novel KRAS G12D inhibitor that needs to expand geographically beyond current US/China/Japan footprint to meet enrollment timelines.",
    "email": "astellas.registration@astellas.com",
    "phone": "800-888-7704",
    "contact_name": "Astellas Pharma Global Development, Inc.",
    "pi": "Medical Director (Astellas Pharma Inc)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "Email to study operations contact + LinkedIn to Astellas Oncology VP, Regional Development",
+   "who": "Clinical Trial Operations Manager or Regional Study Manager (Oncology), Astellas Pharma Global Development",
+   "angle": "The N.N. Alexandrov centre has 40 GCP-certified investigators, active lung cancer population, and 10+ industry trial track record—ready to activate quickly for KRAS-mutant patient screening in an underrepresented region.",
+   "opener": "We're writing to introduce Mediogram as a clinical-execution partner in Eastern Europe. We've partnered with N.N. Alexandrov National Cancer Centre in Minsk—40 certified investigators with substantial NSCLC volume and proven industry-trial delivery. Given your current RECRUITING status on ASP3082, we'd welcome a brief call to explore whether Eastern European sites could accelerate your enrollment timeline. Best, Mediogram BD",
    "url": "https://clinicaltrials.gov/study/NCT07566052"
   },
   {
@@ -16384,15 +16385,15 @@
     "Stage 4 NSCLC"
    ],
    "posted": "2026-01-26",
-   "summary": "",
+   "summary": "Eikon Therapeutics is running a Phase 2/3 immuno-oncology trial in advanced lung cancer across five countries, and your Minsk center's 40 GCP-certified investigators, ICU capabilities, and track record with industry oncology trials make it an ideal fit for Eastern European patient recruitment and execution.",
    "email": "shiferrawe@eikontx.com",
    "phone": "314-209-3659",
    "contact_name": "Elelta Shiferraw",
    "pi": "Nishitha Reddy (Eikon Therapeutics)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "email",
+   "who": "Elelta Shiferraw, Study Contact",
+   "angle": "Eikon's trial is live and recruiting across four regions but absent from Eastern Europe—the N.N. Alexandrov Centre offers immediate access to treatment-naïve Stage 4 NSCLC patients, full infrastructure, and proven regulatory/ethics expertise in an underexploited geography.",
+   "opener": "Hi Elelta, We're Mediogram, a clinical-execution partner in Eastern Europe now opening oncology sites. We've partnered with the N.N. Alexandrov National Cancer Centre in Minsk—40 GCP-certified lung investigators, inpatient/ICU setup, and strong industry trial experience. We believe EIK1001 + Pembro/chemo has meaningful recruitment upside in Belarus. Would you be open to a brief call to explore site feasibility? Best, Mediogram BD",
    "url": "https://clinicaltrials.gov/study/NCT07365319"
   },
   {
@@ -16415,15 +16416,15 @@
     "Limited Stage Small Cell Lung Cancer"
    ],
    "posted": "2026-03-16",
-   "summary": "",
+   "summary": "Pharmacosmos A/S is a Danish pharma company running a Phase III SCLC trial currently limited to US sites, and the Alexandrov Centre's 40 GCP-certified investigators and lung cancer focus make it an ideal expansion location.",
    "email": "info@pharmacosmos.com",
    "phone": "+4559485959",
    "contact_name": "Pharmacosmos A/S Clinical and non-clinical research",
    "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "email",
+   "who": "Clinical Operations or Trial Expansion Lead at Pharmacosmos A/S",
+   "angle": "Their trilaciclib SCLC trial is recruiting but geographically constrained; Belarus offers rapid enrollment via a dedicated 40-investigator oncology centre with proven industry trial track record and zero regulatory/ethics friction through Mediogram's local infrastructure.",
+   "opener": "We partner with the N.N. Alexandrov National Cancer Centre in Minsk—40 GCP-certified investigators delivering Phase III oncology trials with sub-7-day ethics turnaround and on-site pharmacy/imaging. Your trilaciclib trial in limited-stage SCLC aligns with their lung cancer focus and current capacity. We'd welcome a brief call to explore site activation.\n\nMediaogram",
    "url": "https://clinicaltrials.gov/study/NCT07473128"
   },
   {
@@ -16446,15 +16447,15 @@
     "Non-Small Cell Lung Cancer"
    ],
    "posted": "2026-05-20",
-   "summary": "",
+   "summary": "Bristol-Myers Squibb is running a post-marketing surveillance study for Repotrectinib in ROS1/NTRK-positive solid tumors, currently limited to Korea, and the Alexandrov Centre's 40 GCP-certified investigators and solid tumor expertise make it an ideal expansion site.",
    "email": "Clinical.Trials@bms.com",
    "phone": "855-907-3286",
    "contact_name": "BMS Clinical Trials Contact Center www.BMSClinicalTrials.com",
    "pi": "Bristol-Myers Squibb (Bristol-Myers Squibb)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "email",
+   "who": "BMS Clinical Trials Contact Center (Clinical.Trials@bms.com) with cc to regional oncology medical affairs",
+   "angle": "Offer geographic expansion into Belarus and Eastern Europe to accelerate post-marketing enrollment beyond Korea while leveraging Alexandrov's established GCP infrastructure and 10+ trial experience.",
+   "opener": "We're Mediogram, a clinical-execution partner establishing oncology capacity across Eastern Europe. The N.N. Alexandrov National Cancer Centre in Minsk—a 40-investigator GCP-certified hub with solid tumor expertise and existing Phase III/IV trial infrastructure—could materially expand your Repotrectinib surveillance reach beyond Korea. Would you be open to discussing feasibility for site initiation in Belarus?",
    "url": "https://clinicaltrials.gov/study/NCT07599007"
   },
   {
@@ -17285,41 +17286,6 @@
    "url": "https://euclinicaltrials.eu/ctis-public/view/2024-512754-16-01"
   },
   {
-   "nct": "2023-504026-19-01",
-   "source": "ctis",
-   "field": "oncology",
-   "score": 80,
-   "tier": "WARM",
-   "modality": "drug",
-   "note": "",
-   "region_sites": [],
-   "sponsor": "Abx Advanced Biochemical Compounds - Biomedizinische Forschungsreagenzien GmbH",
-   "title": "Prospective, Multi-Center Study to Assess the Diagnostic Performance of [18F]PSMA-1007 PET/CT Imaging in Patients with Newly-Diagnosed High-Risk or Very-High-Risk Prostate Cancer",
-   "status": "CTIS status 3",
-   "phase": "PHASE3",
-   "countries": [
-    "France",
-    "Germany",
-    "Italy",
-    "Netherlands",
-    "Spain"
-   ],
-   "conditions": [
-    "Prostate Cancer"
-   ],
-   "posted": "2024-01-12",
-   "summary": "",
-   "email": "",
-   "phone": "",
-   "contact_name": "",
-   "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
-   "url": "https://euclinicaltrials.eu/ctis-public/view/2023-504026-19-01"
-  },
-  {
    "nct": "2024-511043-25-00",
    "source": "ctis",
    "field": "oncology",
@@ -17518,38 +17484,6 @@
    "angle": "",
    "opener": "",
    "url": "https://euclinicaltrials.eu/ctis-public/view/2024-514771-18-00"
-  },
-  {
-   "nct": "2023-508952-21-00",
-   "source": "ctis",
-   "field": "oncology",
-   "score": 80,
-   "tier": "WARM",
-   "modality": "drug",
-   "note": "",
-   "region_sites": [],
-   "sponsor": "Pfizer Inc.",
-   "title": "B7461039 LORLATINIB (PF-06463922) CONTINUATION PROTOCOL: AN OPEN-LABEL, SINGLE-ARM CONTINUATION STUDY FOR PARTICIPANTS WITH ALKPOSITIVE OR ROS1-POSITIVE NON-SMALL CELL LUNG CANCER (NSCLC) CONTINUING FROM PFIZER SPONSORED LORLATINIB CLINICAL STUDIES",
-   "status": "CTIS status 5",
-   "phase": "PHASE4",
-   "countries": [
-    "France",
-    "Spain"
-   ],
-   "conditions": [
-    "Lung cancer"
-   ],
-   "posted": "2024-01-17",
-   "summary": "",
-   "email": "",
-   "phone": "",
-   "contact_name": "",
-   "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
-   "url": "https://euclinicaltrials.eu/ctis-public/view/2023-508952-21-00"
   },
   {
    "nct": "2024-511648-16-00",
@@ -18267,6 +18201,72 @@
    "angle": "",
    "opener": "",
    "url": "https://clinicaltrials.gov/study/NCT05965999"
+  },
+  {
+   "nct": "NCT07505797",
+   "source": "ctgov",
+   "field": "oncology",
+   "score": 75,
+   "tier": "WARM",
+   "modality": "device",
+   "note": "",
+   "region_sites": [],
+   "sponsor": "iSono Health, Inc.",
+   "title": "ATUSA Ultrasound Diagnostic Imaging for Breast Lesions Evaluation (AUDIBLE) - iSono Health",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "countries": [
+    "United States"
+   ],
+   "conditions": [
+    "Breast Cancer",
+    "Benign Breast Condition",
+    "Breast Fibroadenoma"
+   ],
+   "posted": "2026-04-01",
+   "summary": "",
+   "email": "ATUSA@isonohealth.com",
+   "phone": "415-857-3073",
+   "contact_name": "Neda Razavi",
+   "pi": "",
+   "channel": "",
+   "who": "",
+   "angle": "",
+   "opener": "",
+   "url": "https://clinicaltrials.gov/study/NCT07505797"
+  },
+  {
+   "nct": "NCT07824583",
+   "source": "ctgov",
+   "field": "oncology",
+   "score": 75,
+   "tier": "WARM",
+   "modality": "device",
+   "note": "",
+   "region_sites": [],
+   "sponsor": "Varian, a Siemens Healthineers Company",
+   "title": "A Study Evaluating a New Radiation Treatment Workflow (NGDS)",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "countries": [
+    "United States"
+   ],
+   "conditions": [
+    "Lung Cancer (Diagnosis)",
+    "Liver Cancer, Adult",
+    "Pancreatic Cancer"
+   ],
+   "posted": "2026-09-17",
+   "summary": "",
+   "email": "jennifer.woo@siemens-healthineers.com",
+   "phone": "437-991-3496",
+   "contact_name": "Jennifer Woo",
+   "pi": "",
+   "channel": "",
+   "who": "",
+   "angle": "",
+   "opener": "",
+   "url": "https://clinicaltrials.gov/study/NCT07824583"
   },
   {
    "nct": "NCT06312176",
