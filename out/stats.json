@@ -1,12 +1,6 @@
 {
  "history": [
   {
-   "day": "2026-09-16",
-   "new_leads": 5,
-   "hot": 220,
-   "active": 936
-  },
-  {
    "day": "2026-09-17",
    "new_leads": 0,
    "hot": 219,
@@ -179,6 +173,12 @@
    "new_leads": 3,
    "hot": 264,
    "active": 1532
+  },
+  {
+   "day": "2026-10-16",
+   "new_leads": 10,
+   "hot": 266,
+   "active": 1530
   }
  ]
 }
