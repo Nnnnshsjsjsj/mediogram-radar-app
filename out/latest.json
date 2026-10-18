@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-17T10:02:25Z",
- "day": "2026-10-17",
+ "updated": "2026-10-18T10:15:36Z",
+ "day": "2026-10-18",
  "tiers": [
   "HOT",
   "WARM",
@@ -27,7 +27,7 @@
   }
  },
  "counts": {
-  "new_leads": 10,
+  "new_leads": 0,
   "hot": 261,
   "warm": 556,
   "in_region": 67,
@@ -17003,15 +17003,15 @@
     "Advanced Solid Tumors"
    ],
    "posted": "2025-03-21",
-   "summary": "",
+   "summary": "Shanghai Salvectors is a Chinese biotech developing first-in-human oncology immunotherapies and needs experienced, GCP-certified sites in regulated markets to launch YB1-X7 trials with robust infrastructure.",
    "email": "",
    "phone": "",
    "contact_name": "",
    "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "LinkedIn outreach to company leadership + formal letter to Clinical Development VP",
+   "who": "Chief Medical Officer or VP Clinical Development at Shanghai Salvectors",
+   "angle": "The Alexandrov Centre offers immediate Phase I/II readiness for FIH solid tumour work with inpatient ICU capacity, -80°C storage for biological samples, and established regulatory/ethics pathways via Mediogram's EU legal entity—eliminating 6+ months of site qualification.",
+   "opener": "Shanghai Salvectors is preparing YB1-X7 FIH trials in advanced solid tumours. The N.N. Alexandrov National Cancer Centre in Minsk is a 40-investigator, GCP-certified oncology centre with inpatient ICU, advanced imaging, investigational pharmacy, and full sample-management infrastructure—ready to activate immediately. Mediogram manages all local regulatory, ethics, and logistics through our EU entity. May we discuss site fit and feasibility for your Phase I cohorts?",
    "url": "https://clinicaltrials.gov/study/NCT06889675"
   },
   {
@@ -17035,15 +17035,15 @@
     "HR-positive HER-2- negative Breast Cancer"
    ],
    "posted": "2025-06-11",
-   "summary": "",
+   "summary": "Novartis Pharma is a global pharma leader running a Phase IIIb adjuvant breast cancer trial across Europe, and the N.N. Alexandrov Centre has the GCP-certified investigators, solid tumour expertise, and dedicated breast oncology population to accelerate enrollment in this close-to-practice study.",
    "email": "",
    "phone": "",
    "contact_name": "",
    "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "Email to Novartis Eastern Europe Regional Medical/Clinical Operations lead, copied to trial Sponsor Medical Monitor (obtainable via CTIS or Novartis site contact database)",
+   "who": "Regional Clinical Operations Manager or Adjuvant WIDER Trial Sponsor Medical Monitor",
+   "angle": "Mediogram operates the N.N. Alexandrov Centre—Belarus' leading oncology institute with 40 GCP-certified investigators and proven Phase III track record—positioned to open an underserved Eastern European site for Adjuvant WIDER, reducing geographic risk and accelerating enrolment.",
+   "opener": "We partner with N.N. Alexandrov National Cancer Centre of Belarus, a leading solid-tumour institute with 40 GCP-certified investigators and 10+ active industry trials. We see Adjuvant WIDER (ribociclib + ET, HR+/HER2− early breast cancer) as a strong fit for our site's breast oncology cohort and capacity. We'd welcome a call to discuss site activation in Minsk. — Mediogram BD",
    "url": "https://euclinicaltrials.eu/ctis-public/view/2022-503001-38-01"
   },
   {
@@ -17068,15 +17068,15 @@
     "Prevention of breast cancer in women with a BRCA1 germline mutation"
    ],
    "posted": "2024-08-14",
-   "summary": "",
+   "summary": "Alexandrov is a GCP-certified, trial-experienced oncology centre with breast cancer expertise and EU-adjacent regulatory standing that can accelerate BRCA-P enrolment across Eastern Europe.",
    "email": "",
    "phone": "",
    "contact_name": "",
    "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "email to medical director + trial coordinator; LinkedIn to principal investigator if identifiable",
+   "who": "Medical/Research Director overseeing breast oncology and Clinical Trial Coordinator",
+   "angle": "BRCA-P is actively recruiting across EU (Austria, Germany, Spain) and needs rapid, high-quality enrolment in underserved regions—Alexandrov's 40 GCP investigators and existing breast cancer population position it as a strategic expansion site.",
+   "opener": "We are Mediogram, a clinical-execution partner opening oncology capacity in Eastern Europe through certified sites like yours. BRCA-P (Verein Zur Praevention, CTIS status 5) is actively enrolling BRCA1-mutation carriers across the EU, and Alexandrov's breast cancer volume and GCP track record make it an ideal fit for acceleration. Would your team be open to a brief call to discuss site participation and timelines?",
    "url": "https://euclinicaltrials.eu/ctis-public/view/2024-513734-38-00"
   },
   {
@@ -17100,15 +17100,15 @@
     "Oncology - Ovarian cancer"
    ],
    "posted": "2024-11-05",
-   "summary": "",
+   "summary": "Champalimaud Clinical Centre is a leading Portuguese oncology research institution running a Phase IV precision-medicine trial in breast and ovarian cancer that perfectly matches the Alexandrov Centre's GCP expertise, investigator capacity, and focus on solid tumours.",
    "email": "",
    "phone": "",
    "contact_name": "",
    "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "LinkedIn outreach to Rita Fior + follow email to trial coordination",
+   "who": "Rita Fior (listed sponsor/contact) or trial's Clinical Operations Manager",
+   "angle": "The zAvatar test-guided trial requires robust multi-site execution across relapsed/metastatic cohorts—Alexandrov's 40 GCP-certified investigators and proven track record in Phase III/IV oncology make it an ideal Eastern European expansion site.",
+   "opener": "Dear Rita, We are Mediogram, a clinical-execution partner in Eastern Europe, and we've reviewed the zAvatar precision-medicine trial in breast and ovarian cancer on CTIS. The N.N. Alexandrov National Cancer Centre in Minsk—with 40 GCP-certified investigators, inpatient ICU, imaging, and active industry trial portfolio—appears well-positioned to accelerate your multi-centric enrolment. Would you be open to a brief conversation about site potential in Belarus? Best regards, Mediogram BD",
    "url": "https://euclinicaltrials.eu/ctis-public/view/2023-509598-22-01"
   },
   {
@@ -17133,15 +17133,15 @@
     "Metastatic castration-resistant prostate cancer (mCRPC)"
    ],
    "posted": "2024-11-26",
-   "summary": "",
+   "summary": "Point Biopharma is advancing a Phase III radiopharmaceutical therapy for metastatic castrate-resistant prostate cancer, and the Alexandrov Centre's specialized oncology infrastructure, GCP expertise, and established trial track record make it an ideal partner for Eastern European site expansion.",
    "email": "",
    "phone": "",
    "contact_name": "",
    "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "LinkedIn to Point Biopharma's Clinical Operations or Medical Affairs lead, followed by email intro",
+   "who": "Clinical Operations Manager or Regional Medical Affairs Director at Point Biopharma",
+   "angle": "SPLASH is currently recruiting in Western Europe (France, Netherlands, Sweden)—the Alexandrov Centre offers rapid patient access to a treatment-naive mCRPC population, regulatory streamlining via Mediogram's EU infrastructure, and proven radionuclide handling capability (-80°C storage, investigational pharmacy, ICU support).",
+   "opener": "Point Biopharma's SPLASH trial addresses a significant patient need in mCRPC, and we believe the N.N. Alexandrov National Cancer Centre in Minsk represents an untapped recruitment opportunity with 40+ GCP-certified investigators and existing infrastructure for radiopharmaceutical trials. Mediogram manages local regulatory, ethics, and logistics through our EU entity, enabling rapid activation. Would you be open to exploring site addition in Belarus?",
    "url": "https://euclinicaltrials.eu/ctis-public/view/2024-515604-39-00"
   },
   {
@@ -17166,15 +17166,15 @@
     "metastatic Castration-Resistant Prostate Cancer (mCRPC)"
    ],
    "posted": "2022-12-06",
-   "summary": "",
+   "summary": "Alexandrov is a GCP-certified, phase III–experienced oncology centre with 40 qualified investigators, on-site nuclear medicine imaging and -80°C storage—ideal for this Lu-177 PSMA trial requiring radiopharmaceutical handling and metastatic prostate cancer patient access.",
    "email": "",
    "phone": "",
    "contact_name": "",
    "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "Email introduction via Curium Pet France's clinical operations or trial manager, copied to Alexandrov's clinical research director",
+   "who": "Curium Pet France Clinical Operations Manager or Regional Trial Lead (EMEA)",
+   "angle": "Alexandrov brings rare Eastern European nuclear oncology capability, established GCP track record, and immediate patient population depth for mCRPC enrollment to accelerate a geographically sparse Phase 3 roster.",
+   "opener": "Curium team — we partner with N.N. Alexandrov National Cancer Centre in Minsk, a 40-investigator, GCP-certified solid tumour centre with active nuclear medicine and radiopharmaceutical infrastructure. Given your Lu-177 PSMA Phase 3 footprint across Western Europe, we'd like to discuss adding Alexandrov as an enrolled site to strengthen mCRPC patient access and trial velocity. Are you open to a brief call this week? — Mediogram BD",
    "url": "https://euclinicaltrials.eu/ctis-public/view/2022-501493-19-00"
   },
   {
@@ -17199,15 +17199,15 @@
     "Prostate cancer"
    ],
    "posted": "2025-01-15",
-   "summary": "",
+   "summary": "N.N. Alexandrov is a GCP-certified, well-equipped oncology centre with proven trial execution capability and regulatory infrastructure in-house, making them a natural fit for a Phase 3 diagnostic imaging study requiring rigorous patient management and data integrity.",
    "email": "",
    "phone": "",
    "contact_name": "",
    "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "Email introduction via LinkedIn-identified Medical Director + copied Clinical Operations Lead",
+   "who": "Medical Director (Oncology) or Clinical Trials Officer",
+   "angle": "Curium's 64Cu-PSMA Phase 3 is currently live in Western Europe (France, Italy, Spain) with no Eastern European footprint—Belarus offers rapid enrolment of untreated prostate cancer patients, proven imaging infrastructure (-80°C storage, PET/CT on-site), and regulatory pre-clearance through Mediogram's local ethics pathway.",
+   "opener": "Dear [Name], Mediogram partners with N.N. Alexandrov on Phase III oncology trials. We understand Curium US is enrolling their Cu-64 PSMA imaging study across Western Europe and likely facing competition for early-stage, high-risk prostate cancer patients. We can open a qualified site in Minsk within 60 days—40 GCP-certified investigators, dedicated PET/CT capacity, and inpatient infrastructure already licensed for nuclear medicine trials. Would a brief call this week make sense to explore fit? Best, [Your name], BD Lead, Mediogram",
    "url": "https://euclinicaltrials.eu/ctis-public/view/2024-512754-16-01"
   },
   {
@@ -17234,15 +17234,15 @@
     "Prostate Cancer"
    ],
    "posted": "2024-01-12",
-   "summary": "",
+   "summary": "ABX Advanced Biochemical Compounds is a German radiopharmaceutical manufacturer developing diagnostic PET imaging agents; they fit because Alexandrov has nuclear medicine imaging infrastructure, GCP-certified investigators, and Phase III trial experience in oncology.",
    "email": "",
    "phone": "",
    "contact_name": "",
    "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "LinkedIn + direct email to clinical operations/trial management",
+   "who": "Clinical Trial Manager or Head of Clinical Operations at ABX",
+   "angle": "Radelumin Phase III is currently in 5 Western European countries—Belarus offers rapid enrolment in high-risk prostate cancer, regulatory predictability via EU entity contracting, and on-site PET/CT + investigational pharmacy to support radiopharmaceutical logistics.",
+   "opener": "We're Mediogram, a clinical-execution partner adding oncology capacity across Eastern Europe. We've just partnered with N.N. Alexandrov National Cancer Centre in Minsk—40 GCP investigators, dedicated PET/CT imaging, and proven Phase III trial delivery. Your Radelumin study is actively recruiting in Western Europe; we can accelerate enrolment in a complementary Eastern European geography with the same regulatory rigor. Would you be open to a brief call to discuss site fit?",
    "url": "https://euclinicaltrials.eu/ctis-public/view/2023-504026-19-01"
   },
   {
