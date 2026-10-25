@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-24T10:08:59Z",
- "day": "2026-10-24",
+ "updated": "2026-10-25T10:34:28Z",
+ "day": "2026-10-25",
  "tiers": [
   "HOT",
   "WARM",
@@ -27,9 +27,9 @@
   }
  },
  "counts": {
-  "new_leads": 6,
+  "new_leads": 0,
   "hot": 260,
-  "warm": 544,
+  "warm": 543,
   "in_region": 67,
   "device": 649,
   "drug": 706,
@@ -11395,44 +11395,6 @@
    "url": "https://euclinicaltrials.eu/ctis-public/view/2024-519059-28-00"
   },
   {
-   "nct": "2024-519219-32-00",
-   "source": "ctis",
-   "field": "cardiology",
-   "score": 50,
-   "tier": "IN REGION",
-   "modality": "drug",
-   "note": "Already running in Poland — sites likely taken. Shown for awareness, not outreach.",
-   "region_sites": [
-    "Poland"
-   ],
-   "sponsor": "Cytokinetics Inc.",
-   "title": "A Multi-Center, Double-Blind, Randomized, Placebo-Controlled Trial to Assess Efficacy and Safety of Omecamtiv Mecarbil in Patients with Symptomatic Heart Failure with Severely Reduced Ejection Fraction",
-   "status": "CTIS status 4",
-   "phase": "PHASE3",
-   "countries": [
-    "France",
-    "Germany",
-    "Greece",
-    "Italy",
-    "Poland",
-    "Spain"
-   ],
-   "conditions": [
-    "Heart Failure With Reduced Ejection Fraction"
-   ],
-   "posted": "2025-06-03",
-   "summary": "",
-   "email": "",
-   "phone": "",
-   "contact_name": "",
-   "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
-   "url": "https://euclinicaltrials.eu/ctis-public/view/2024-519219-32-00"
-  },
-  {
    "nct": "2022-500881-80-00",
    "source": "ctis",
    "field": "cardiology",
@@ -11475,6 +11437,44 @@
    "angle": "",
    "opener": "",
    "url": "https://euclinicaltrials.eu/ctis-public/view/2022-500881-80-00"
+  },
+  {
+   "nct": "2024-519219-32-00",
+   "source": "ctis",
+   "field": "cardiology",
+   "score": 50,
+   "tier": "IN REGION",
+   "modality": "drug",
+   "note": "Already running in Poland — sites likely taken. Shown for awareness, not outreach.",
+   "region_sites": [
+    "Poland"
+   ],
+   "sponsor": "Cytokinetics Inc.",
+   "title": "A Multi-Center, Double-Blind, Randomized, Placebo-Controlled Trial to Assess Efficacy and Safety of Omecamtiv Mecarbil in Patients with Symptomatic Heart Failure with Severely Reduced Ejection Fraction",
+   "status": "CTIS status 4",
+   "phase": "PHASE3",
+   "countries": [
+    "France",
+    "Germany",
+    "Greece",
+    "Italy",
+    "Poland",
+    "Spain"
+   ],
+   "conditions": [
+    "Heart Failure With Reduced Ejection Fraction"
+   ],
+   "posted": "2025-06-03",
+   "summary": "",
+   "email": "",
+   "phone": "",
+   "contact_name": "",
+   "pi": "",
+   "channel": "",
+   "who": "",
+   "angle": "",
+   "opener": "",
+   "url": "https://euclinicaltrials.eu/ctis-public/view/2024-519219-32-00"
   },
   {
    "nct": "2024-518318-25-00",
