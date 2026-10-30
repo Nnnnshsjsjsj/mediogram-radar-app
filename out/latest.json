@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-29T12:09:21Z",
- "day": "2026-10-29",
+ "updated": "2026-10-30T12:00:54Z",
+ "day": "2026-10-30",
  "tiers": [
   "HOT",
   "WARM",
@@ -27,16 +27,16 @@
   }
  },
  "counts": {
-  "new_leads": 17,
-  "hot": 262,
+  "new_leads": 1,
+  "hot": 263,
   "warm": 539,
   "in_region": 67,
   "device": 644,
-  "drug": 717,
+  "drug": 718,
   "ctgov": 1227,
-  "ctis": 304,
+  "ctis": 305,
   "fda": 2,
-  "cardiology": 945,
+  "cardiology": 946,
   "oncology": 588
  },
  "leads": [
@@ -11393,44 +11393,6 @@
    "url": "https://euclinicaltrials.eu/ctis-public/view/2024-516654-22-00"
   },
   {
-   "nct": "2024-519219-32-00",
-   "source": "ctis",
-   "field": "cardiology",
-   "score": 50,
-   "tier": "IN REGION",
-   "modality": "drug",
-   "note": "Already running in Poland — sites likely taken. Shown for awareness, not outreach.",
-   "region_sites": [
-    "Poland"
-   ],
-   "sponsor": "Cytokinetics Inc.",
-   "title": "A Multi-Center, Double-Blind, Randomized, Placebo-Controlled Trial to Assess Efficacy and Safety of Omecamtiv Mecarbil in Patients with Symptomatic Heart Failure with Severely Reduced Ejection Fraction",
-   "status": "CTIS status 4",
-   "phase": "PHASE3",
-   "countries": [
-    "France",
-    "Germany",
-    "Greece",
-    "Italy",
-    "Poland",
-    "Spain"
-   ],
-   "conditions": [
-    "Heart Failure With Reduced Ejection Fraction"
-   ],
-   "posted": "2025-06-03",
-   "summary": "",
-   "email": "",
-   "phone": "",
-   "contact_name": "",
-   "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
-   "url": "https://euclinicaltrials.eu/ctis-public/view/2024-519219-32-00"
-  },
-  {
    "nct": "2022-500881-80-00",
    "source": "ctis",
    "field": "cardiology",
@@ -11473,6 +11435,44 @@
    "angle": "",
    "opener": "",
    "url": "https://euclinicaltrials.eu/ctis-public/view/2022-500881-80-00"
+  },
+  {
+   "nct": "2024-519219-32-00",
+   "source": "ctis",
+   "field": "cardiology",
+   "score": 50,
+   "tier": "IN REGION",
+   "modality": "drug",
+   "note": "Already running in Poland — sites likely taken. Shown for awareness, not outreach.",
+   "region_sites": [
+    "Poland"
+   ],
+   "sponsor": "Cytokinetics Inc.",
+   "title": "A Multi-Center, Double-Blind, Randomized, Placebo-Controlled Trial to Assess Efficacy and Safety of Omecamtiv Mecarbil in Patients with Symptomatic Heart Failure with Severely Reduced Ejection Fraction",
+   "status": "CTIS status 4",
+   "phase": "PHASE3",
+   "countries": [
+    "France",
+    "Germany",
+    "Greece",
+    "Italy",
+    "Poland",
+    "Spain"
+   ],
+   "conditions": [
+    "Heart Failure With Reduced Ejection Fraction"
+   ],
+   "posted": "2025-06-03",
+   "summary": "",
+   "email": "",
+   "phone": "",
+   "contact_name": "",
+   "pi": "",
+   "channel": "",
+   "who": "",
+   "angle": "",
+   "opener": "",
+   "url": "https://euclinicaltrials.eu/ctis-public/view/2024-519219-32-00"
   },
   {
    "nct": "2024-518318-25-00",
@@ -11665,46 +11665,6 @@
    "url": "https://euclinicaltrials.eu/ctis-public/view/2024-519917-72-00"
   },
   {
-   "nct": "2022-503072-84-00",
-   "source": "ctis",
-   "field": "cardiology",
-   "score": 50,
-   "tier": "IN REGION",
-   "modality": "drug",
-   "note": "Already running in Poland — sites likely taken. Shown for awareness, not outreach.",
-   "region_sites": [
-    "Poland"
-   ],
-   "sponsor": "Alexion Pharmaceuticals Inc.",
-   "title": "A Phase 3, Double-Blind, Multicenter Study to Evaluate the Efficacy and Safety of CAEL-101 and Plasma Cell Dyscrasia Treatment Versus Placebo and Plasma Cell Dyscrasia Treatment in Plasma Cell Dyscrasia Treatment-Naïve Patients with Mayo Stage IIIa AL Amyloidosis",
-   "status": "CTIS status 5",
-   "phase": "PHASE3",
-   "countries": [
-    "Austria",
-    "Czechia",
-    "France",
-    "Germany",
-    "Greece",
-    "Italy",
-    "Poland",
-    "Spain"
-   ],
-   "conditions": [
-    "stage IIIa cardiac AL amyloidosis"
-   ],
-   "posted": "2024-06-13",
-   "summary": "",
-   "email": "",
-   "phone": "",
-   "contact_name": "",
-   "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
-   "url": "https://euclinicaltrials.eu/ctis-public/view/2022-503072-84-00"
-  },
-  {
    "nct": "2024-514434-20-00",
    "source": "ctis",
    "field": "cardiology",
@@ -11747,6 +11707,46 @@
    "angle": "",
    "opener": "",
    "url": "https://euclinicaltrials.eu/ctis-public/view/2024-514434-20-00"
+  },
+  {
+   "nct": "2022-503072-84-00",
+   "source": "ctis",
+   "field": "cardiology",
+   "score": 50,
+   "tier": "IN REGION",
+   "modality": "drug",
+   "note": "Already running in Poland — sites likely taken. Shown for awareness, not outreach.",
+   "region_sites": [
+    "Poland"
+   ],
+   "sponsor": "Alexion Pharmaceuticals Inc.",
+   "title": "A Phase 3, Double-Blind, Multicenter Study to Evaluate the Efficacy and Safety of CAEL-101 and Plasma Cell Dyscrasia Treatment Versus Placebo and Plasma Cell Dyscrasia Treatment in Plasma Cell Dyscrasia Treatment-Naïve Patients with Mayo Stage IIIa AL Amyloidosis",
+   "status": "CTIS status 5",
+   "phase": "PHASE3",
+   "countries": [
+    "Austria",
+    "Czechia",
+    "France",
+    "Germany",
+    "Greece",
+    "Italy",
+    "Poland",
+    "Spain"
+   ],
+   "conditions": [
+    "stage IIIa cardiac AL amyloidosis"
+   ],
+   "posted": "2024-06-13",
+   "summary": "",
+   "email": "",
+   "phone": "",
+   "contact_name": "",
+   "pi": "",
+   "channel": "",
+   "who": "",
+   "angle": "",
+   "opener": "",
+   "url": "https://euclinicaltrials.eu/ctis-public/view/2022-503072-84-00"
   },
   {
    "nct": "2022-502316-36-00",
@@ -17669,42 +17669,6 @@
    "url": "https://euclinicaltrials.eu/ctis-public/view/2024-514706-31-01"
   },
   {
-   "nct": "2024-516066-11-00",
-   "source": "ctis",
-   "field": "oncology",
-   "score": 80,
-   "tier": "WARM",
-   "modality": "drug",
-   "note": "",
-   "region_sites": [],
-   "sponsor": "AGO Research GmbH",
-   "title": "Niraparib vs Niraparib in combination with Bevacizumab in patients with carboplatinum-taxane based chemotherapy in advanced ovarian cancer (A multicentre randomised phase III trial)",
-   "status": "CTIS status 3",
-   "phase": "PHASE3",
-   "countries": [
-    "Belgium",
-    "Czechia",
-    "Germany",
-    "Italy"
-   ],
-   "conditions": [
-    "Patients with newly diagnosed",
-    "histologically confirmed",
-    "primary advanced invasive high grade epithelial ovarian cancer"
-   ],
-   "posted": "2024-12-02",
-   "summary": "AGO Research GmbH is sponsoring a Phase III ovarian cancer trial across Central/Western Europe, and the Alexandrov Centre's 40 GCP-certified investigators with proven oncology trial experience and full infrastructure make it a natural fit for expansion into this indication.",
-   "email": "",
-   "phone": "",
-   "contact_name": "",
-   "pi": "",
-   "channel": "Email to AGO Research clinical operations + trial management",
-   "who": "Clinical Trial Manager or Regional Expansion Lead at AGO Research GmbH",
-   "angle": "The Alexandrov Centre offers immediate capacity for a mature Phase III program with established GCP compliance, ovarian cancer expertise, and Eastern European patient populations currently underrepresented in your CTIS footprint (Belgium, Czechia, Germany, Italy).",
-   "opener": "We represent the N.N. Alexandrov National Cancer Centre in Minsk, Belarus—a 40-investigator GCP-certified oncology site with 10+ industry trials in solid tumours, including gynaecologic cancers. We've identified your Phase III niraparib trial and believe our inpatient capacity, investigational pharmacy, and regulatory infrastructure through our EU entity could accelerate patient enrolment in an underserved geography. Would you welcome a brief discussion on site feasibility? — Mediogram",
-   "url": "https://euclinicaltrials.eu/ctis-public/view/2024-516066-11-00"
-  },
-  {
    "nct": "2025-520466-22-00",
    "source": "ctis",
    "field": "oncology",
@@ -17743,6 +17707,42 @@
    "angle": "TREVI-OC-01 is currently limited to Western/Southern EU—Alexandrov enables rapid enrolment in an underexploited market with EU regulatory standing via Mediogram's Lithuanian entity.",
    "opener": "We partner with the N.N. Alexandrov National Cancer Centre in Minsk—40 GCP-certified investigators with 10+ industry trials and full on-site infrastructure (investigational pharmacy, -80C storage, ICU, imaging). For TREVI-OC-01, they represent a high-capacity, compliant site to accelerate platinum-resistant ovarian cancer enrolment across Eastern Europe. We'd welcome a call to explore fit. Best regards, Mediogram Business Development.",
    "url": "https://euclinicaltrials.eu/ctis-public/view/2025-520466-22-00"
+  },
+  {
+   "nct": "2024-516066-11-00",
+   "source": "ctis",
+   "field": "oncology",
+   "score": 80,
+   "tier": "WARM",
+   "modality": "drug",
+   "note": "",
+   "region_sites": [],
+   "sponsor": "AGO Research GmbH",
+   "title": "Niraparib vs Niraparib in combination with Bevacizumab in patients with carboplatinum-taxane based chemotherapy in advanced ovarian cancer (A multicentre randomised phase III trial)",
+   "status": "CTIS status 3",
+   "phase": "PHASE3",
+   "countries": [
+    "Belgium",
+    "Czechia",
+    "Germany",
+    "Italy"
+   ],
+   "conditions": [
+    "Patients with newly diagnosed",
+    "histologically confirmed",
+    "primary advanced invasive high grade epithelial ovarian cancer"
+   ],
+   "posted": "2024-12-02",
+   "summary": "AGO Research GmbH is sponsoring a Phase III ovarian cancer trial across Central/Western Europe, and the Alexandrov Centre's 40 GCP-certified investigators with proven oncology trial experience and full infrastructure make it a natural fit for expansion into this indication.",
+   "email": "",
+   "phone": "",
+   "contact_name": "",
+   "pi": "",
+   "channel": "Email to AGO Research clinical operations + trial management",
+   "who": "Clinical Trial Manager or Regional Expansion Lead at AGO Research GmbH",
+   "angle": "The Alexandrov Centre offers immediate capacity for a mature Phase III program with established GCP compliance, ovarian cancer expertise, and Eastern European patient populations currently underrepresented in your CTIS footprint (Belgium, Czechia, Germany, Italy).",
+   "opener": "We represent the N.N. Alexandrov National Cancer Centre in Minsk, Belarus—a 40-investigator GCP-certified oncology site with 10+ industry trials in solid tumours, including gynaecologic cancers. We've identified your Phase III niraparib trial and believe our inpatient capacity, investigational pharmacy, and regulatory infrastructure through our EU entity could accelerate patient enrolment in an underserved geography. Would you welcome a brief discussion on site feasibility? — Mediogram",
+   "url": "https://euclinicaltrials.eu/ctis-public/view/2024-516066-11-00"
   },
   {
    "nct": "2023-503718-66-00",
