@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-31T11:35:08Z",
- "day": "2026-10-31",
+ "updated": "2026-11-01T12:32:36Z",
+ "day": "2026-11-01",
  "tiers": [
   "HOT",
   "WARM",
@@ -27,7 +27,7 @@
   }
  },
  "counts": {
-  "new_leads": 6,
+  "new_leads": 0,
   "hot": 258,
   "warm": 535,
   "in_region": 67,
@@ -11290,53 +11290,6 @@
    "url": "https://euclinicaltrials.eu/ctis-public/view/2023-509706-30-00"
   },
   {
-   "nct": "2023-508162-15-00",
-   "source": "ctis",
-   "field": "cardiology",
-   "score": 50,
-   "tier": "IN REGION",
-   "modality": "drug",
-   "note": "Already running in Poland — sites likely taken. Shown for awareness, not outreach.",
-   "region_sites": [
-    "Poland"
-   ],
-   "sponsor": "AstraZeneca AB",
-   "title": "A Phase III, Randomised, Double-blind Study to Evaluate the Effect of Balcinrenone/Dapagliflozin, Compared with Dapagliflozin, on the Risk of Heart Failure Events and Cardiovascular Death in Patients with Heart Failure and Impaired Kidney Function",
-   "status": "CTIS status 5",
-   "phase": "PHASE3",
-   "countries": [
-    "Austria",
-    "Bulgaria",
-    "Czechia",
-    "Finland",
-    "France",
-    "Germany",
-    "Greece",
-    "Hungary",
-    "Italy",
-    "Netherlands",
-    "Poland",
-    "Romania",
-    "Slovakia",
-    "Spain",
-    "Sweden"
-   ],
-   "conditions": [
-    "Chronic HF and comorbid impairment of kidney function who had a recent HF event to evaluate\nthe effect of balcinrenone/dapagliflozin versus dapagliflozin alone on HF events and cardiovascular (CV) death"
-   ],
-   "posted": "2024-06-18",
-   "summary": "",
-   "email": "",
-   "phone": "",
-   "contact_name": "",
-   "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
-   "url": "https://euclinicaltrials.eu/ctis-public/view/2023-508162-15-00"
-  },
-  {
    "nct": "2024-519059-28-00",
    "source": "ctis",
    "field": "cardiology",
@@ -11382,6 +11335,53 @@
    "angle": "",
    "opener": "",
    "url": "https://euclinicaltrials.eu/ctis-public/view/2024-519059-28-00"
+  },
+  {
+   "nct": "2023-508162-15-00",
+   "source": "ctis",
+   "field": "cardiology",
+   "score": 50,
+   "tier": "IN REGION",
+   "modality": "drug",
+   "note": "Already running in Poland — sites likely taken. Shown for awareness, not outreach.",
+   "region_sites": [
+    "Poland"
+   ],
+   "sponsor": "AstraZeneca AB",
+   "title": "A Phase III, Randomised, Double-blind Study to Evaluate the Effect of Balcinrenone/Dapagliflozin, Compared with Dapagliflozin, on the Risk of Heart Failure Events and Cardiovascular Death in Patients with Heart Failure and Impaired Kidney Function",
+   "status": "CTIS status 5",
+   "phase": "PHASE3",
+   "countries": [
+    "Austria",
+    "Bulgaria",
+    "Czechia",
+    "Finland",
+    "France",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Italy",
+    "Netherlands",
+    "Poland",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden"
+   ],
+   "conditions": [
+    "Chronic HF and comorbid impairment of kidney function who had a recent HF event to evaluate\nthe effect of balcinrenone/dapagliflozin versus dapagliflozin alone on HF events and cardiovascular (CV) death"
+   ],
+   "posted": "2024-06-18",
+   "summary": "",
+   "email": "",
+   "phone": "",
+   "contact_name": "",
+   "pi": "",
+   "channel": "",
+   "who": "",
+   "angle": "",
+   "opener": "",
+   "url": "https://euclinicaltrials.eu/ctis-public/view/2023-508162-15-00"
   },
   {
    "nct": "2024-516654-22-00",
