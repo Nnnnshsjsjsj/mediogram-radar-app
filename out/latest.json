@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-01T12:32:36Z",
- "day": "2026-11-01",
+ "updated": "2026-11-02T14:32:39Z",
+ "day": "2026-11-02",
  "tiers": [
   "HOT",
   "WARM",
@@ -27,17 +27,17 @@
   }
  },
  "counts": {
-  "new_leads": 0,
-  "hot": 258,
-  "warm": 535,
+  "new_leads": 9,
+  "hot": 257,
+  "warm": 537,
   "in_region": 67,
-  "device": 640,
-  "drug": 714,
-  "ctgov": 1224,
+  "device": 636,
+  "drug": 715,
+  "ctgov": 1221,
   "ctis": 302,
   "fda": 2,
-  "cardiology": 944,
-  "oncology": 584
+  "cardiology": 939,
+  "oncology": 586
  },
  "leads": [
   {
@@ -257,7 +257,7 @@
    "url": "https://clinicaltrials.gov/study/NCT07686328"
   },
   {
-   "nct": "NCT06895187",
+   "nct": "NCT07820631",
    "source": "ctgov",
    "field": "cardiology",
    "score": 100,
@@ -265,25 +265,28 @@
    "modality": "device",
    "note": "",
    "region_sites": [],
-   "sponsor": "LUMA Vision Ltd.",
-   "title": "Catheter Ablation Using a Novel Navigation and Imaging System",
+   "sponsor": "Circle Safe, Inc.",
+   "title": "First-in-Human Study of the Circle Safe System for Diaphragm Response Monitoring During Pulmonary Vein Ablation",
    "status": "NOT_YET_RECRUITING",
    "phase": "NA",
-   "countries": [],
-   "conditions": [
-    "Paroxysmal Atrial Fibrillation"
+   "countries": [
+    "France",
+    "New Zealand"
    ],
-   "posted": "2025-03-26",
-   "summary": "LUMA Vision is a Dublin/Munich-based medtech startup that recently secured €22M in Series A funding to commercialize VERAFEYE, a 4D cardiac imaging and navigation platform designed specifically for catheter ablation—exactly aligned with paroxysmal AFib trials.",
-   "email": "elke.sommerijns@lumavision.com",
-   "phone": "+32479767156",
-   "contact_name": "Elke Sommerijns",
-   "pi": "",
-   "channel": "Direct email to Elke Sommerijns (study contact already on file) or LinkedIn outreach to CEO Fionn Lahart for clinical operations partnership discussion",
-   "who": "Elke Sommerijns (Study Contact, Clinical Operations lead) or Fionn Lahart (Co-Founder & CEO)",
-   "angle": "Your ENVIsIoN-P003 trial is positioned pre-recruitment in Eastern Europe (high-enrolling regulatory landscape with proven VERAFEYE data from Prague/Split sites)—Mediogram can accelerate patient recruitment and provide imaging QC/logistics infrastructure for this novel navigation system.",
-   "opener": "Hi Elke / Fionn – We've been tracking LUMA Vision's VERAFEYE expansion into paroxysmal AFib ablation (ENVIsIoN-P003, expected Oct 2026). Mediogram runs high-enrolling cardiology trials in Eastern Europe (Minsk, Prague-adjacent sites) with dedicated imaging QC and regulatory/ethics expertise. We'd like to discuss how we could support trial readiness and patient recruitment in your target geographies. Best, [Your Name], BD Lead, Mediogram",
-   "url": "https://clinicaltrials.gov/study/NCT06895187"
+   "conditions": [
+    "Atrial Fibrillation"
+   ],
+   "posted": "2026-09-15",
+   "summary": "Circle Safe is developing a novel monitoring system for pulmonary vein ablation procedures and is launching their first-in-human study, making them an ideal partner for Mediogram's established arrhythmology expertise and Eastern European trial infrastructure.",
+   "email": "jm.dussartre@nxtcardio.com",
+   "phone": "+33672926156",
+   "contact_name": "Jean-Maurice DUSSARTRE, MD",
+   "pi": "Stéphane COMBES, MD (Clinique Pasteur - Toulouse - FRANCE)",
+   "channel": "direct email + phone",
+   "who": "Jean-Maurice DUSSARTRE, MD (study contact) with follow-up to Stéphane COMBES, MD (PI)",
+   "angle": "Mediogram operates the leading high-enrolling cardiology/arrhythmology FIH center in Eastern Europe with proven regulatory/ethics/imaging-QC capabilities and can rapidly activate diaphragm-safety monitoring sites to de-risk Circle Safe's first-in-human enrollment.",
+   "opener": "Dr. Dussartre, we noted Circle Safe's FIH study for diaphragm-response monitoring in PV ablation is opening in France and New Zealand. Mediogram (RNPC Cardiology, Minsk + EU contracting) runs high-enrolling arrhythmology and early-feasibility trials across Eastern Europe with local regulatory pre-approval and imaging QC—we can add sites to strengthen enrollment velocity and geographic diversification for your safety database. Would a brief call to discuss fit be helpful? —Mediogram BD",
+   "url": "https://clinicaltrials.gov/study/NCT07820631"
   },
   {
    "nct": "NCT06293430",
@@ -317,7 +320,7 @@
    "url": "https://clinicaltrials.gov/study/NCT06293430"
   },
   {
-   "nct": "NCT07820631",
+   "nct": "NCT06895187",
    "source": "ctgov",
    "field": "cardiology",
    "score": 100,
@@ -325,28 +328,25 @@
    "modality": "device",
    "note": "",
    "region_sites": [],
-   "sponsor": "Circle Safe, Inc.",
-   "title": "First-in-Human Study of the Circle Safe System for Diaphragm Response Monitoring During Pulmonary Vein Ablation",
+   "sponsor": "LUMA Vision Ltd.",
+   "title": "Catheter Ablation Using a Novel Navigation and Imaging System",
    "status": "NOT_YET_RECRUITING",
    "phase": "NA",
-   "countries": [
-    "France",
-    "New Zealand"
-   ],
+   "countries": [],
    "conditions": [
-    "Atrial Fibrillation"
+    "Paroxysmal Atrial Fibrillation"
    ],
-   "posted": "2026-09-15",
-   "summary": "Circle Safe is developing a novel monitoring system for pulmonary vein ablation procedures and is launching their first-in-human study, making them an ideal partner for Mediogram's established arrhythmology expertise and Eastern European trial infrastructure.",
-   "email": "jm.dussartre@nxtcardio.com",
-   "phone": "+33672926156",
-   "contact_name": "Jean-Maurice DUSSARTRE, MD",
-   "pi": "Stéphane COMBES, MD (Clinique Pasteur - Toulouse - FRANCE)",
-   "channel": "direct email + phone",
-   "who": "Jean-Maurice DUSSARTRE, MD (study contact) with follow-up to Stéphane COMBES, MD (PI)",
-   "angle": "Mediogram operates the leading high-enrolling cardiology/arrhythmology FIH center in Eastern Europe with proven regulatory/ethics/imaging-QC capabilities and can rapidly activate diaphragm-safety monitoring sites to de-risk Circle Safe's first-in-human enrollment.",
-   "opener": "Dr. Dussartre, we noted Circle Safe's FIH study for diaphragm-response monitoring in PV ablation is opening in France and New Zealand. Mediogram (RNPC Cardiology, Minsk + EU contracting) runs high-enrolling arrhythmology and early-feasibility trials across Eastern Europe with local regulatory pre-approval and imaging QC—we can add sites to strengthen enrollment velocity and geographic diversification for your safety database. Would a brief call to discuss fit be helpful? —Mediogram BD",
-   "url": "https://clinicaltrials.gov/study/NCT07820631"
+   "posted": "2025-03-26",
+   "summary": "LUMA Vision is a Dublin/Munich-based medtech startup that recently secured €22M in Series A funding to commercialize VERAFEYE, a 4D cardiac imaging and navigation platform designed specifically for catheter ablation—exactly aligned with paroxysmal AFib trials.",
+   "email": "elke.sommerijns@lumavision.com",
+   "phone": "+32479767156",
+   "contact_name": "Elke Sommerijns",
+   "pi": "",
+   "channel": "Direct email to Elke Sommerijns (study contact already on file) or LinkedIn outreach to CEO Fionn Lahart for clinical operations partnership discussion",
+   "who": "Elke Sommerijns (Study Contact, Clinical Operations lead) or Fionn Lahart (Co-Founder & CEO)",
+   "angle": "Your ENVIsIoN-P003 trial is positioned pre-recruitment in Eastern Europe (high-enrolling regulatory landscape with proven VERAFEYE data from Prague/Split sites)—Mediogram can accelerate patient recruitment and provide imaging QC/logistics infrastructure for this novel navigation system.",
+   "opener": "Hi Elke / Fionn – We've been tracking LUMA Vision's VERAFEYE expansion into paroxysmal AFib ablation (ENVIsIoN-P003, expected Oct 2026). Mediogram runs high-enrolling cardiology trials in Eastern Europe (Minsk, Prague-adjacent sites) with dedicated imaging QC and regulatory/ethics expertise. We'd like to discuss how we could support trial readiness and patient recruitment in your target geographies. Best, [Your Name], BD Lead, Mediogram",
+   "url": "https://clinicaltrials.gov/study/NCT06895187"
   },
   {
    "nct": "NCT07811934",
@@ -1075,37 +1075,6 @@
    "url": "https://clinicaltrials.gov/study/NCT07857343"
   },
   {
-   "nct": "NCT07687485",
-   "source": "ctgov",
-   "field": "cardiology",
-   "score": 100,
-   "tier": "HOT",
-   "modality": "device",
-   "note": "",
-   "region_sites": [],
-   "sponsor": "Laplace Interventional, Inc",
-   "title": "Tricuspid Regurgitation Treatment With LAPLACE Transcatheter Tricuspid Valve Replacement System",
-   "status": "NOT_YET_RECRUITING",
-   "phase": "NA",
-   "countries": [],
-   "conditions": [
-    "Severe Tricuspid Valve Regurgitation",
-    "Tricuspid Valve Regurgitation",
-    "Tricuspid Valve Disease"
-   ],
-   "posted": "2026-07-07",
-   "summary": "Laplace Interventional is a well-funded (Series C $22M, March 2025) early-stage TTVR device company moving from EFS into pivotal trial execution and seeking high-enrolling, geographically diverse sites with strong regulatory/ethics expertise.",
-   "email": "clinical@laplaceint.com",
-   "phone": "763-710-3539",
-   "contact_name": "Ryan Gladney",
-   "pi": "Kashish Goel, MD (Vanderbilt University Medical Center)",
-   "channel": "Direct email to Ryan Gladney (clinical@laplaceint.com) or call 763-710-3539, copying Sr. Director of Clinical Affairs",
-   "who": "Sr. Director of Clinical Affairs (name TBD) or Ryan Gladney, Clinical Trial Contact",
-   "angle": "Mediogram's Eastern Europe cardiovascular infrastructure, FIH/EFS experience, and proven site-activation model can accelerate TTVR enrollment outside US amid competitive landscape (Edwards EVOQUE) and pivotal-phase timeline pressure.",
-   "opener": "Hi Ryan—we've followed Laplace's strong progress through Series C and the EFS milestones. Mediogram runs high-enrolling CV sites across Eastern Europe with established regulatory/ethics pathways and imaging QC in place. As you scale to pivotal, we'd welcome a conversation about how we can support patient enrollment and accelerate your OUS footprint. Best, [Name], BD, Mediogram",
-   "url": "https://clinicaltrials.gov/study/NCT07687485"
-  },
-  {
    "nct": "NCT07705425",
    "source": "ctgov",
    "field": "cardiology",
@@ -1724,6 +1693,39 @@
    "angle": "Mediogram can accelerate FGF-1 Phase 2 enrollment with proven Eastern European cardiovascular sites, regulatory navigation, and imaging QC—filling geographic/operational gaps before expansion.",
    "opener": "Dear Dr. Meyerson and Dr. Perin, Mediogram (RNPC Cardiology, Minsk + high-enrolling cardiovascular sites across Eastern Europe) can add meaningful capacity to Venturis's FGF-1 Phase 2 CHD trial. We specialize in advanced-therapy cardiovascular trials with local regulatory/ethics oversight and imaging QC—exactly the infrastructure early-stage sponsors need. Would a brief conversation help you assess Eastern European enrollment? Best, [Your Name], BD Lead, Mediogram",
    "url": "https://clinicaltrials.gov/study/NCT00117936"
+  },
+  {
+   "nct": "NCT06360380",
+   "source": "ctgov",
+   "field": "cardiology",
+   "score": 90,
+   "tier": "HOT",
+   "modality": "device",
+   "note": "",
+   "region_sites": [],
+   "sponsor": "AquaPass Medical Ltd.",
+   "title": "Reducing Fluid Overload in Heart Failure Patients Using a Non-invasive, Renal Independent System",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "countries": [
+    "Israel",
+    "United States"
+   ],
+   "conditions": [
+    "Chronic Heart Failure",
+    "CKD Stage 3"
+   ],
+   "posted": "2024-04-11",
+   "summary": "AquaPass Medical is an Israeli medtech startup funded by BRM Group and Arbelon Holdings, with just-received Israeli regulatory approval (Dec 2025) and an ongoing FDA pivotal trial now recruiting in the US and Israel.",
+   "email": "scott.feitell@rochesterregional.org",
+   "phone": "(585) 442 5320",
+   "contact_name": "Scott C Feitell, DO",
+   "pi": "Scott C Feitell, DO (Rochester Regional Health)",
+   "channel": "Direct email to Ohad Toledano, VP Clinical Affairs (o***@aquapass-medical.com) or LinkedIn outreach to Noam Josephy, CEO",
+   "who": "Ohad Toledano, Vice President, Clinical Affairs (owns clinical strategy & operations)",
+   "angle": "Mediogram can accelerate REFORM-HF enrollment at high-enrolling Eastern European sites while they scale from Israeli approval into global markets, with proven FIH/early-feasibility expertise in cardiology device trials.",
+   "opener": "Hi Ohad, Mediogram (RNPC Cardiology, Minsk) runs high-enrolling cardiovascular device trials across Eastern Europe with regulatory/ethics/QC in-house. Your REFORM-HF trial is in enrollment phase—we've scaled similar decompensated-HF sites in our region and can accelerate patient access while you build real-world evidence post-Israel approval. Worth a brief call? Mediogram",
+   "url": "https://clinicaltrials.gov/study/NCT06360380"
   },
   {
    "nct": "NCT05610787",
@@ -4418,6 +4420,38 @@
    "url": "https://clinicaltrials.gov/study/NCT06552637"
   },
   {
+   "nct": "NCT07830758",
+   "source": "ctgov",
+   "field": "cardiology",
+   "score": 80,
+   "tier": "WARM",
+   "modality": "drug",
+   "note": "",
+   "region_sites": [],
+   "sponsor": "Madrigal Pharmaceuticals, Inc.",
+   "title": "Resmetirom in Patients With MASH and HFpEF",
+   "status": "RECRUITING",
+   "phase": "PHASE1",
+   "countries": [
+    "United States"
+   ],
+   "conditions": [
+    "MASH - Metabolic Dysfunction-Associated Steatohepatitis",
+    "Heart Failure With Preserved Ejection Fraction (HFPEF)"
+   ],
+   "posted": "2026-09-21",
+   "summary": "Madrigal is advancing a metabolic-disease drug (resmetirom) into a Phase 1 study combining MASH and HFpEF patients, a comorbid population where Eastern European sites can rapidly enroll complex cardio-metabolic phenotypes.",
+   "email": "amagnavita@madrigalpharma.com",
+   "phone": "+1 267-806-1293",
+   "contact_name": "Ashley Magnavita",
+   "pi": "Uli Frevert, MD (Madrigal Pharmaceuticals, Inc.)",
+   "channel": "Email to Ashley Magnavita (study contact) with cc to regulatory ops",
+   "who": "Ashley Magnavita, Study Contact (amagnavita@madrigalpharma.com)",
+   "angle": "Offer high-enrolling Eastern European cardiology + hepatology-capable sites with integrated cardiac imaging QC for this rare MASH+HFpEF intersection population.",
+   "opener": "Hi Ashley, We're tracking Madrigal's resmetirom Phase 1 in MASH+HFpEF and believe our network—anchored by RNPC Cardiology in Minsk with local hepatology partnerships and real-time echo/CMR QC—can accelerate enrollment of this comorbid phenotype across Eastern Europe. Would a brief call to explore site options make sense as you finalize your investigator roster? Best, [Your name], BD, Mediogram",
+   "url": "https://clinicaltrials.gov/study/NCT07830758"
+  },
+  {
    "nct": "NCT04141605",
    "source": "ctgov",
    "field": "cardiology",
@@ -4452,38 +4486,6 @@
    "angle": "GUARD registry is currently limited to 4 countries; Eastern Europe (particularly Poland, Czech Republic, Ukraine transplant hubs) offers untapped enrollment to strengthen global dataset.",
    "opener": "We noticed SherpaPak is enrolling in Austria and the UK—both have strong transplant programs, but Eastern Europe's transplant volume and Mediogram's embedded presence at high-volume centers (RNPC Cardiology, Minsk partnership + regional network) could meaningfully accelerate your GUARD registry. We've run early-feasibility device trials in this region with EU regulatory infrastructure already in place. Worth a brief call to explore fit? —Mediogram BD",
    "url": "https://clinicaltrials.gov/study/NCT04141605"
-  },
-  {
-   "nct": "NCT07830758",
-   "source": "ctgov",
-   "field": "cardiology",
-   "score": 80,
-   "tier": "WARM",
-   "modality": "drug",
-   "note": "",
-   "region_sites": [],
-   "sponsor": "Madrigal Pharmaceuticals, Inc.",
-   "title": "Resmetirom in Patients With MASH and HFpEF",
-   "status": "RECRUITING",
-   "phase": "PHASE1",
-   "countries": [
-    "United States"
-   ],
-   "conditions": [
-    "MASH - Metabolic Dysfunction-Associated Steatohepatitis",
-    "Heart Failure With Preserved Ejection Fraction (HFPEF)"
-   ],
-   "posted": "2026-09-21",
-   "summary": "Madrigal is advancing a metabolic-disease drug (resmetirom) into a Phase 1 study combining MASH and HFpEF patients, a comorbid population where Eastern European sites can rapidly enroll complex cardio-metabolic phenotypes.",
-   "email": "amagnavita@madrigalpharma.com",
-   "phone": "+1 267-806-1293",
-   "contact_name": "Ashley Magnavita",
-   "pi": "Uli Frevert, MD (Madrigal Pharmaceuticals, Inc.)",
-   "channel": "Email to Ashley Magnavita (study contact) with cc to regulatory ops",
-   "who": "Ashley Magnavita, Study Contact (amagnavita@madrigalpharma.com)",
-   "angle": "Offer high-enrolling Eastern European cardiology + hepatology-capable sites with integrated cardiac imaging QC for this rare MASH+HFpEF intersection population.",
-   "opener": "Hi Ashley, We're tracking Madrigal's resmetirom Phase 1 in MASH+HFpEF and believe our network—anchored by RNPC Cardiology in Minsk with local hepatology partnerships and real-time echo/CMR QC—can accelerate enrollment of this comorbid phenotype across Eastern Europe. Would a brief call to explore site options make sense as you finalize your investigator roster? Best, [Your name], BD, Mediogram",
-   "url": "https://clinicaltrials.gov/study/NCT07830758"
   },
   {
    "nct": "NCT07795814",
@@ -4588,6 +4590,37 @@
    "angle": "Mediogram can accelerate HJB647's Phase 1 enrollment in Eastern Europe through high-capacity cardiology sites with imaging QC and regulatory pre-positioning in cardiovascular arrhythmology.",
    "opener": "John—Mediogram operates high-enrolling cardiovascular sites across Eastern Europe (Minsk cardiology center, FIH/early-feasibility infrastructure) with integrated regulatory, ethics, and imaging QC. We've noticed HJB647 is recruiting for HFrEF. We'd welcome a brief conversation about accelerating patient access to your trial. Best, Mediogram BD",
    "url": "https://clinicaltrials.gov/study/NCT07465653"
+  },
+  {
+   "nct": "NCT07361289",
+   "source": "ctgov",
+   "field": "cardiology",
+   "score": 80,
+   "tier": "WARM",
+   "modality": "drug",
+   "note": "",
+   "region_sites": [],
+   "sponsor": "Bristol-Myers Squibb",
+   "title": "A Study to Assess the Real-World Effectiveness of Mavacamten in Adult Patients With Obstructive Hypertrophic Cardiomyopathy in China",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "countries": [
+    "China"
+   ],
+   "conditions": [
+    "Hypertrophic Cardiomyopathy"
+   ],
+   "posted": "2026-01-23",
+   "summary": "Bristol-Myers Squibb (BMS) is a $48.3B biopharmaceutical company with deep cardiovascular expertise and the proprietary mavacamten franchise—your trial's exact therapeutic area.",
+   "email": "Clinical.Trials@bms.com",
+   "phone": "855-907-3286",
+   "contact_name": "BMS Clinical Trials Contact Center www.BMSClinicalTrials.com",
+   "pi": "Bristol Myers Squibb (Bristol-Myers Squibb)",
+   "channel": "Clinical.Trials@bms.com or direct outreach to BMS Clinical Trials Contact Center (855-907-3286); escalate to Elizabeth Mily (EVP, Strategy & Business Development) or Amy Sehnert, MD (VP, Head of Cardiomyopathy and Heart Failure Clinical Development).",
+   "who": "Elizabeth Mily, Executive Vice President, Strategy & Business Development; or Amy Sehnert, MD, VP Head of Cardiomyopathy and Heart Failure Clinical Development",
+   "angle": "Mediogram can accelerate real-world effectiveness data capture for CAMZYOS in China by adding high-enrolling Eastern European cardiology sites with proven HCM cohorts and regional regulatory/imaging QC expertise—assets the EXPLORER-CN/post-approval Phase IV program needs.",
+   "opener": "Dear BMS Clinical Development Team: Mediogram is a clinical-execution partner with FIH/early-feasibility experience and owned sites (RNPC Cardiology, Minsk) specializing in cardiovascular device, advanced-therapy, and antiarrhythmic trials in Eastern Europe. We can augment your real-world mavacamten registry with high-enrolling regional sites, local regulatory/ethics navigation, and imaging QC—accelerating real-world evidence. Let's discuss partnership. Best, Mediogram",
+   "url": "https://clinicaltrials.gov/study/NCT07361289"
   },
   {
    "nct": "NCT07867288",
@@ -4778,37 +4811,6 @@
    "angle": "Mediogram's FIH/early-feasibility expertise and high-enrolling Eastern Europe cardiovascular infrastructure can de-risk MANAGE-HCM execution in Japan by providing proven site activation, imaging QC, and regulatory navigation—differentiating BMS's competitive position in the HCM market.",
    "opener": "We've been monitoring MANAGE-HCM's Japan recruitment closely. Mediogram specializes in exactly your challenge: activating high-enrolling sites, managing QC/logistics, and navigating local regulatory requirements for cardiovascular trials in complex markets. Our Eastern Europe cardiology network and imaging expertise have accelerated enrollment in prior HCM/arrhythmia studies. Can we explore how we might support your Japan trial execution?",
    "url": "https://clinicaltrials.gov/study/NCT07541833"
-  },
-  {
-   "nct": "NCT07361289",
-   "source": "ctgov",
-   "field": "cardiology",
-   "score": 80,
-   "tier": "WARM",
-   "modality": "drug",
-   "note": "",
-   "region_sites": [],
-   "sponsor": "Bristol-Myers Squibb",
-   "title": "A Study to Assess the Real-World Effectiveness of Mavacamten in Adult Patients With Obstructive Hypertrophic Cardiomyopathy in China",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "countries": [
-    "China"
-   ],
-   "conditions": [
-    "Hypertrophic Cardiomyopathy"
-   ],
-   "posted": "2026-01-23",
-   "summary": "Bristol-Myers Squibb (BMS) is a $48.3B biopharmaceutical company with deep cardiovascular expertise and the proprietary mavacamten franchise—your trial's exact therapeutic area.",
-   "email": "Clinical.Trials@bms.com",
-   "phone": "855-907-3286",
-   "contact_name": "BMS Clinical Trials Contact Center www.BMSClinicalTrials.com",
-   "pi": "Bristol Myers Squibb (Bristol-Myers Squibb)",
-   "channel": "Clinical.Trials@bms.com or direct outreach to BMS Clinical Trials Contact Center (855-907-3286); escalate to Elizabeth Mily (EVP, Strategy & Business Development) or Amy Sehnert, MD (VP, Head of Cardiomyopathy and Heart Failure Clinical Development).",
-   "who": "Elizabeth Mily, Executive Vice President, Strategy & Business Development; or Amy Sehnert, MD, VP Head of Cardiomyopathy and Heart Failure Clinical Development",
-   "angle": "Mediogram can accelerate real-world effectiveness data capture for CAMZYOS in China by adding high-enrolling Eastern European cardiology sites with proven HCM cohorts and regional regulatory/imaging QC expertise—assets the EXPLORER-CN/post-approval Phase IV program needs.",
-   "opener": "Dear BMS Clinical Development Team: Mediogram is a clinical-execution partner with FIH/early-feasibility experience and owned sites (RNPC Cardiology, Minsk) specializing in cardiovascular device, advanced-therapy, and antiarrhythmic trials in Eastern Europe. We can augment your real-world mavacamten registry with high-enrolling regional sites, local regulatory/ethics navigation, and imaging QC—accelerating real-world evidence. Let's discuss partnership. Best, Mediogram",
-   "url": "https://clinicaltrials.gov/study/NCT07361289"
   },
   {
    "nct": "NCT04592445",
@@ -5285,45 +5287,6 @@
    "angle": "Your Eastern European footprint (Minsk cardiology center, regulatory/ethics/imaging QC/logistics) unlocks rapid enrollment in underrepresented geographies for their Phase NA CRT mapping trial, complementing their current WNL sites.",
    "opener": "Hi Matthias, We've been following EP Solutions' non-invasive CRT mapping study and see a strong fit: Mediogram operates high-enrolling cardiovascular device trial sites in Eastern Europe with embedded regulatory, ethics, imaging QC, and logistics—capabilities that could accelerate your recruitment beyond your current Netherlands, Portugal, Sweden, UK footprint. Would you be open to a 20-min call to explore partnership? Best, [Your Name], Business Development, Mediogram",
    "url": "https://clinicaltrials.gov/study/NCT05564793"
-  },
-  {
-   "nct": "NCT05327062",
-   "source": "ctgov",
-   "field": "cardiology",
-   "score": 80,
-   "tier": "WARM",
-   "modality": "device",
-   "note": "",
-   "region_sites": [],
-   "sponsor": "XSpline S.p.A.",
-   "title": "Cardiac Resynchronization Therapy Delivery Guided Non-Invasive Electrical and Venous Anatomy Assessment",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "countries": [
-    "Austria",
-    "Hungary",
-    "Italy",
-    "Netherlands",
-    "Spain",
-    "Switzerland",
-    "United States"
-   ],
-   "conditions": [
-    "Cardiac Resynchronization Therapy",
-    "Chronic Heart Failure",
-    "Left Bundle-Branch Block"
-   ],
-   "posted": "2022-04-14",
-   "summary": "XSpline is a 2021-founded Italian medtech startup offering AI-powered CRT planning software that has attracted UniCredit Start Lab backing; they're actively enrolling in a multi-country clinical trial led by a prominent arrhythmologist.",
-   "email": "amatruda@xspline.com",
-   "phone": "+390471200372",
-   "contact_name": "Claudia M Amatruda, PhD",
-   "pi": "Angelo Auricchio, MD PhD FESC (Istituto Cardiocentro Ticino)",
-   "channel": "direct email to study contact (Claudia Amatruda, amatruda@xspline.com) + LinkedIn to Werner Rainer (CEO)",
-   "who": "Werner Rainer (CEO) or study contact Claudia M Amatruda, PhD (appears to handle clinical/regulatory)",
-   "angle": "Mediogram's Eastern European footprint and high-enrolling cardiology sites can accelerate recruitment in underrepresented geographies for CRT-DRIVE, particularly in your Hungary/Austria/Switzerland regions.",
-   "opener": "Hi Claudia and Werner—we've been tracking CRT-DRIVE with interest and notice you're recruiting across Western Europe. Mediogram runs high-enrolling CV device trials in Eastern Europe (RNPC Cardiology in Minsk plus partner sites), with established regulatory and imaging QC—exactly where early-phase enrollment typically lags. Would value a brief call to explore whether accelerating recruitment in this region fits your timeline. Best, [Name], BD, Mediogram",
-   "url": "https://clinicaltrials.gov/study/NCT05327062"
   },
   {
    "nct": "NCT06535659",
@@ -6066,37 +6029,6 @@
    "url": "https://clinicaltrials.gov/study/NCT07526896"
   },
   {
-   "nct": "NCT07826078",
-   "source": "ctgov",
-   "field": "cardiology",
-   "score": 75,
-   "tier": "WARM",
-   "modality": "other",
-   "note": "",
-   "region_sites": [],
-   "sponsor": "CardioVision International Tech, S.A.S. de C.V.",
-   "title": "TORCH-LATAM-004: Regional Advanced-Therapy Pathways for Adults With Acquired or Structural Heart Disease",
-   "status": "NOT_YET_RECRUITING",
-   "phase": "NA",
-   "countries": [],
-   "conditions": [
-    "Advanced Heart Failure",
-    "Acquired Heart Disease",
-    "Structural Heart Disease"
-   ],
-   "posted": "2026-09-17",
-   "summary": "CardioVision is launching a Latin American advanced-therapy pathway trial for heart failure and structural disease that needs experienced CRO infrastructure, and Eastern Europe offers lower-cost, high-quality execution with strong regulatory pathways.",
-   "email": "info@torch-latam.org",
-   "phone": "+50370878226",
-   "contact_name": "Eliecer Villamizar De La Hoz, MD",
-   "pi": "Eliecer Villamizar De La Hoz, MD (CardioVision International Tech S.A. de C.V.)",
-   "channel": "Direct email to study contact",
-   "who": "Eliecer Villamizar De La Hoz, MD (Study Contact/PI)",
-   "angle": "Mediogram operates FIH/early-feasibility advanced-therapy sites with EU regulatory infrastructure and can rapidly activate sites in Eastern Europe where similar patient populations exist at lower operational cost.",
-   "opener": "Dr. Villamizar, we noticed TORCH-LATAM-004 is launching without assigned sites and targets advanced therapies—exactly our focus at Mediogram. We run cardiovascular and advanced-therapy trials across Eastern Europe with established regulatory relationships, imaging QC, and high-enrolling centers that could accelerate your LATAM strategy. Would you be open to a brief call to discuss how we might support site activation? Best, [Your Name], BD, Mediogram",
-   "url": "https://clinicaltrials.gov/study/NCT07826078"
-  },
-  {
    "nct": "NCT07836803",
    "source": "ctgov",
    "field": "cardiology",
@@ -6190,6 +6122,37 @@
    "angle": "Mediogram operates the only dedicated cardiovascular advanced-therapy trial network in Eastern Europe with proven congenital/structural expertise and can replicate that model across LATAM sites.",
    "opener": "Dr. Villamizar—We noticed TORCH-LATAM-003 is pre-launch with no sites yet identified. Mediogram specializes in exactly this: building high-enrolling advanced-therapy networks in emerging markets (our Minsk cardiology center runs congenital cases, early-feasibility work, and regulatory/QC locally). We'd like to discuss how our EU contracting entity and site-development model could accelerate your LATAM pathway. Would you have 20 minutes this week? —Mediogram BD",
    "url": "https://clinicaltrials.gov/study/NCT07837024"
+  },
+  {
+   "nct": "NCT07826078",
+   "source": "ctgov",
+   "field": "cardiology",
+   "score": 75,
+   "tier": "WARM",
+   "modality": "other",
+   "note": "",
+   "region_sites": [],
+   "sponsor": "CardioVision International Tech, S.A.S. de C.V.",
+   "title": "TORCH-LATAM-004: Regional Advanced-Therapy Pathways for Adults With Acquired or Structural Heart Disease",
+   "status": "NOT_YET_RECRUITING",
+   "phase": "NA",
+   "countries": [],
+   "conditions": [
+    "Advanced Heart Failure",
+    "Acquired Heart Disease",
+    "Structural Heart Disease"
+   ],
+   "posted": "2026-09-17",
+   "summary": "CardioVision is launching a Latin American advanced-therapy pathway trial for heart failure and structural disease that needs experienced CRO infrastructure, and Eastern Europe offers lower-cost, high-quality execution with strong regulatory pathways.",
+   "email": "info@torch-latam.org",
+   "phone": "+50370878226",
+   "contact_name": "Eliecer Villamizar De La Hoz, MD",
+   "pi": "Eliecer Villamizar De La Hoz, MD (CardioVision International Tech S.A. de C.V.)",
+   "channel": "Direct email to study contact",
+   "who": "Eliecer Villamizar De La Hoz, MD (Study Contact/PI)",
+   "angle": "Mediogram operates FIH/early-feasibility advanced-therapy sites with EU regulatory infrastructure and can rapidly activate sites in Eastern Europe where similar patient populations exist at lower operational cost.",
+   "opener": "Dr. Villamizar, we noticed TORCH-LATAM-004 is launching without assigned sites and targets advanced therapies—exactly our focus at Mediogram. We run cardiovascular and advanced-therapy trials across Eastern Europe with established regulatory relationships, imaging QC, and high-enrolling centers that could accelerate your LATAM strategy. Would you be open to a brief call to discuss how we might support site activation? Best, [Your Name], BD, Mediogram",
+   "url": "https://clinicaltrials.gov/study/NCT07826078"
   },
   {
    "nct": "NCT07858799",
@@ -6632,37 +6595,6 @@
    "url": "https://clinicaltrials.gov/study/NCT07527299"
   },
   {
-   "nct": "NCT05115214",
-   "source": "ctgov",
-   "field": "cardiology",
-   "score": 75,
-   "tier": "WARM",
-   "modality": "device",
-   "note": "",
-   "region_sites": [],
-   "sponsor": "Medtronic Cardiac Ablation Solutions",
-   "title": "Safety and Performance of the Affera SpherePVI™ Multi-Ablation System to Treat Paroxysmal Atrial Fibrillation",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "countries": [
-    "Czechia"
-   ],
-   "conditions": [
-    "Atrial Fibrillation"
-   ],
-   "posted": "2021-11-10",
-   "summary": "Medtronic is a global medical device giant running early-stage trials for their next-generation pulmonary vein isolation ablation catheter, and they're currently only in Czechia in Central/Eastern Europe.",
-   "email": "sandra.jacobs@medtronic.com",
-   "phone": "x",
-   "contact_name": "Sandra Jacobs",
-   "pi": "",
-   "channel": "email to study contact",
-   "who": "Sandra Jacobs (Clinical Trial Manager) + escalation path to Medtronic's Central/Eastern Europe clinical operations lead",
-   "angle": "Mediogram operates the highest-enrolling cardiology CRO in Eastern Europe (RNPC in Belarus) with proven ablation expertise and can rapidly activate additional PVI trial sites across the region to accelerate recruitment beyond their current Czechia footprint.",
-   "opener": "Hi Sandra, we've been following the SpherePVI™ trial launch and noticed strong clinical fit with our network—RNPC Cardiology in Minsk is one of CEE's highest-volume ablation centers with existing FIH/early-feasibility infrastructure. We regularly support device sponsors expanding trials from single-country to multi-country enrollment in this region. Would you have 20 min for a quick call to explore whether additional sites could support your recruitment timeline? Best, [Your name] | BD, Mediogram",
-   "url": "https://clinicaltrials.gov/study/NCT05115214"
-  },
-  {
    "nct": "NCT07523750",
    "source": "ctgov",
    "field": "cardiology",
@@ -6692,6 +6624,37 @@
    "angle": "VARIPULSE/FARAWAVE studies recruiting in US only—Mediogram's Eastern Europe early-feasibility network + regulatory/imaging QC can rapidly expand enrollment in untapped markets with proven AFib patient populations.",
    "opener": "Jasmina, Brenda—we're impressed by VARIPULSE's momentum in inspIRE/ADMIRE. Mediogram runs high-enrolling cardiology sites across Eastern Europe (Minsk RNPC Cardiology, FIH specialists) with established AFib populations and integrated regulatory/ethics infrastructure. We'd like to explore how our network could accelerate persistent AFib enrollment for your pivotal trials. Best time for a brief call this week?",
    "url": "https://clinicaltrials.gov/study/NCT07523750"
+  },
+  {
+   "nct": "NCT05115214",
+   "source": "ctgov",
+   "field": "cardiology",
+   "score": 75,
+   "tier": "WARM",
+   "modality": "device",
+   "note": "",
+   "region_sites": [],
+   "sponsor": "Medtronic Cardiac Ablation Solutions",
+   "title": "Safety and Performance of the Affera SpherePVI™ Multi-Ablation System to Treat Paroxysmal Atrial Fibrillation",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "countries": [
+    "Czechia"
+   ],
+   "conditions": [
+    "Atrial Fibrillation"
+   ],
+   "posted": "2021-11-10",
+   "summary": "Medtronic is a global medical device giant running early-stage trials for their next-generation pulmonary vein isolation ablation catheter, and they're currently only in Czechia in Central/Eastern Europe.",
+   "email": "sandra.jacobs@medtronic.com",
+   "phone": "x",
+   "contact_name": "Sandra Jacobs",
+   "pi": "",
+   "channel": "email to study contact",
+   "who": "Sandra Jacobs (Clinical Trial Manager) + escalation path to Medtronic's Central/Eastern Europe clinical operations lead",
+   "angle": "Mediogram operates the highest-enrolling cardiology CRO in Eastern Europe (RNPC in Belarus) with proven ablation expertise and can rapidly activate additional PVI trial sites across the region to accelerate recruitment beyond their current Czechia footprint.",
+   "opener": "Hi Sandra, we've been following the SpherePVI™ trial launch and noticed strong clinical fit with our network—RNPC Cardiology in Minsk is one of CEE's highest-volume ablation centers with existing FIH/early-feasibility infrastructure. We regularly support device sponsors expanding trials from single-country to multi-country enrollment in this region. Would you have 20 min for a quick call to explore whether additional sites could support your recruitment timeline? Best, [Your name] | BD, Mediogram",
+   "url": "https://clinicaltrials.gov/study/NCT05115214"
   },
   {
    "nct": "NCT06100770",
@@ -7701,6 +7664,50 @@
    "url": "https://euclinicaltrials.eu/ctis-public/view/2023-504678-39-00"
   },
   {
+   "nct": "2025-525033-31-00",
+   "source": "ctis",
+   "field": "cardiology",
+   "score": 75,
+   "tier": "WARM",
+   "modality": "drug",
+   "note": "",
+   "region_sites": [
+    "Latvia",
+    "Lithuania",
+    "Poland"
+   ],
+   "sponsor": "Cardurion Pharmaceuticals Inc.",
+   "title": "A Phase 2, randomized, double-blind, placebo-controlled trial to evaluate the efficacy, safety, and tolerability of CRD-4730 in patients with heart failure with reduced ejection fraction (HFREF)\n(CALIBRATE-HF)",
+   "status": "CTIS status 2",
+   "phase": "PHASE2",
+   "countries": [
+    "Bulgaria",
+    "Czechia",
+    "Hungary",
+    "Italy",
+    "Latvia",
+    "Lithuania",
+    "Netherlands",
+    "Poland",
+    "Slovakia",
+    "Spain"
+   ],
+   "conditions": [
+    "heart failure"
+   ],
+   "posted": "2026-08-14",
+   "summary": "Cardurion is a clinical-stage biotech developing novel heart-failure therapeutics, and CALIBRATE-HF is a Phase 2 study actively building its EU site network across multiple countries where Mediogram operates.",
+   "email": "",
+   "phone": "",
+   "contact_name": "",
+   "pi": "",
+   "channel": "LinkedIn outreach to VP Clinical Operations or VP Clinical Affairs, followed by email to clinical-operations@cardurion.com",
+   "who": "VP Clinical Operations or Clinical Trial Manager (CALIBRATE-HF)",
+   "angle": "Mediogram operates high-enrolling cardiology sites in the CALIBRATE-HF footprint (Bulgaria, Latvia, Lithuania, Poland, Slovakia) with established regulatory/ethics infrastructure and can accelerate Eastern European enrollment.",
+   "opener": "We've noted CALIBRATE-HF is building sites across Central and Eastern Europe. Mediogram runs cardiovascular Phase 2 programs through our RNPC cardiology sites in Minsk and satellite locations in Bulgaria, Latvia, Lithuania, and Poland—with local regulatory, ethics, imaging QC, and logistics in place. Would you have time for a brief call to discuss how we might support enrollment in your region? Best, Mediogram BD",
+   "url": "https://euclinicaltrials.eu/ctis-public/view/2025-525033-31-00"
+  },
+  {
    "nct": "NCT07883317",
    "source": "ctgov",
    "field": "cardiology",
@@ -7793,6 +7800,38 @@
    "url": "https://clinicaltrials.gov/study/NCT05043181"
   },
   {
+   "nct": "NCT07758023",
+   "source": "ctgov",
+   "field": "cardiology",
+   "score": 60,
+   "tier": "WATCH",
+   "modality": "device",
+   "note": "",
+   "region_sites": [],
+   "sponsor": "University Medical Center Mainz",
+   "title": "Achieving Optimal Medical Therapy Through Percutaneous Treatment of Secondary Mitral Regurgitation to Improve Outcome in Patients With HFrEF",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "countries": [
+    "Germany"
+   ],
+   "conditions": [
+    "Mitral Regurgitation Functional",
+    "Heart Failure With Reduced Ejection Fraction (HFrEF)"
+   ],
+   "posted": "2026-08-11",
+   "summary": "University Medical Center Mainz is a top-tier German academic medical center with proven M-TEER expertise and ongoing cardiovascular innovation (led by Prof. Lurz), requiring a clinical-execution partner to enable Eastern European enrollment and regulatory navigation for their HFrEF-FMR trial.",
+   "email": "Achilles-HF@unimedizin-mainz.de",
+   "phone": "+49 6131 178163",
+   "contact_name": "Karl-Patrik Kresoja, MD",
+   "pi": "Philipp Lurz, Prof (Department of Cardiology, University Medical Center of the Johannes Gutenberg-University Mainz)",
+   "channel": "Email to Karl-Patrik Kresoja (Achilles-HF@unimedizin-mainz.de) CC'd to Prof. Lurz, with a follow-up call via +49 6131 178163 within 48 hours.",
+   "who": "Karl-Patrik Kresoja, MD (Study Contact, Achilles-HF Trial) and Prof. Philipp Lurz (Principal Investigator & Department of Cardiology lead)",
+   "angle": "Mediogram can accelerate enrollment and de-risk regulatory pathway in high-volume Eastern European cardiology centers while they maintain scientific leadership and publication rights.",
+   "opener": "Dear Dr. Kresoja and Prof. Lurz, We noted your Achilles-HF trial (secondary MR/HFrEF with M-TEER) is preparing to open sites. Mediogram runs Phase I-III device and advanced-therapy trials across Eastern Europe (our RNPC site in Minsk specializes in interventional cardiology, FIH studies, and imaging QC). We'd welcome a brief call to explore whether adding 2–3 high-enrolling sites in our network could accelerate your timeline. Best regards, Mediogram BD.",
+   "url": "https://clinicaltrials.gov/study/NCT07758023"
+  },
+  {
    "nct": "NCT05714085",
    "source": "ctgov",
    "field": "cardiology",
@@ -7856,38 +7895,6 @@
    "url": "https://clinicaltrials.gov/study/NCT05714085"
   },
   {
-   "nct": "NCT07907640",
-   "source": "ctgov",
-   "field": "cardiology",
-   "score": 60,
-   "tier": "WATCH",
-   "modality": "drug",
-   "note": "",
-   "region_sites": [],
-   "sponsor": "Sunway University",
-   "title": "Real-world Effectiveness and Safety of Savagen (Sacubitril/Valsartan) in Malaysian HFrEF Patients",
-   "status": "NOT_YET_RECRUITING",
-   "phase": "NA",
-   "countries": [
-    "Malaysia"
-   ],
-   "conditions": [
-    "Heart Failure With Reduced Ejection Fraction (HFrEF)",
-    "Heart Failure"
-   ],
-   "posted": "2026-10-30",
-   "summary": "Sunway University is running a real-world HFrEF effectiveness study on sacubitril/valsartan in Malaysia and needs experienced clinical trial infrastructure to strengthen enrollment and data quality.",
-   "email": "chiaumingl@sunway.edu.my",
-   "phone": "+60374918622",
-   "contact_name": "Long Chiau Ming, PhD",
-   "pi": "Long Chiau Ming (Sunway University)",
-   "channel": "email",
-   "who": "Long Chiau Ming, PhD (Study Contact/PI)",
-   "angle": "Offer Eastern European sites with high HF enrollment capacity and proven cardiovascular drug-trial execution to expand geographic reach and accelerate real-world evidence generation.",
-   "opener": "Dear Dr. Long, We noted your real-world HFrEF study with Savagen on ClinicalTrials.gov. Mediogram runs high-enrolling cardiovascular drug trials across Eastern Europe (Belarus, Lithuania base) with dedicated HF expertise and regulatory infrastructure—we'd welcome a conversation about whether Eastern European patient populations could strengthen your effectiveness dataset and timeline. Best, Mediogram BD",
-   "url": "https://clinicaltrials.gov/study/NCT07907640"
-  },
-  {
    "nct": "NCT07844434",
    "source": "ctgov",
    "field": "cardiology",
@@ -7921,35 +7928,36 @@
    "url": "https://clinicaltrials.gov/study/NCT07844434"
   },
   {
-   "nct": "NCT07468344",
+   "nct": "NCT07907640",
    "source": "ctgov",
    "field": "cardiology",
    "score": 60,
    "tier": "WATCH",
-   "modality": "device",
+   "modality": "drug",
    "note": "",
    "region_sites": [],
-   "sponsor": "Central Hospital, Nancy, France",
-   "title": "Evaluation of the Effects of Sauna Therapy on Congestion and Loop Diuretic Use in Patients With Heart Failure With Reduced or Moderately Reduced Ejection Fraction",
-   "status": "RECRUITING",
+   "sponsor": "Sunway University",
+   "title": "Real-world Effectiveness and Safety of Savagen (Sacubitril/Valsartan) in Malaysian HFrEF Patients",
+   "status": "NOT_YET_RECRUITING",
    "phase": "NA",
    "countries": [
-    "France"
+    "Malaysia"
    ],
    "conditions": [
+    "Heart Failure With Reduced Ejection Fraction (HFrEF)",
     "Heart Failure"
    ],
-   "posted": "2026-03-12",
-   "summary": "Central Hospital Nancy is a French academic medical center running a heart-failure device trial that would benefit from Mediogram's established Eastern European enrollment capabilities and cardiovascular expertise to accelerate recruitment beyond their current single-country footprint.",
-   "email": "n.girerd@chru-nancy.fr",
-   "phone": "+33 03 83 15 74 96",
-   "contact_name": "Nicolas Girerd",
-   "pi": "BAUDRY Guillaume (Central Hospital, Nancy, France)",
+   "posted": "2026-10-30",
+   "summary": "Sunway University is running a real-world HFrEF effectiveness study on sacubitril/valsartan in Malaysia and needs experienced clinical trial infrastructure to strengthen enrollment and data quality.",
+   "email": "chiaumingl@sunway.edu.my",
+   "phone": "+60374918622",
+   "contact_name": "Long Chiau Ming, PhD",
+   "pi": "Long Chiau Ming (Sunway University)",
    "channel": "email",
-   "who": "Guillaume Baudry, Study Contact / Principal Investigator",
-   "angle": "Their sauna-therapy HF trial is recruiting in France only; Eastern European sites (especially Belarus and Lithuania) have high HF prevalence, lower trial saturation, and strong regulatory pathways that could materially shorten enrollment timelines.",
-   "opener": "Dear Guillaume,\n\nMediaogram runs cardiovascular device and drug trials across Eastern Europe (Minsk cardiology center, EU regulatory entity in Lithuania) with demonstrated high-enrollment performance in heart-failure populations. We noticed your sauna-therapy study is currently France-only; we'd like to explore whether expanding to our network could accelerate your recruitment timeline.\n\nBest regards,\nMediaogram BD",
-   "url": "https://clinicaltrials.gov/study/NCT07468344"
+   "who": "Long Chiau Ming, PhD (Study Contact/PI)",
+   "angle": "Offer Eastern European sites with high HF enrollment capacity and proven cardiovascular drug-trial execution to expand geographic reach and accelerate real-world evidence generation.",
+   "opener": "Dear Dr. Long, We noted your real-world HFrEF study with Savagen on ClinicalTrials.gov. Mediogram runs high-enrolling cardiovascular drug trials across Eastern Europe (Belarus, Lithuania base) with dedicated HF expertise and regulatory infrastructure—we'd welcome a conversation about whether Eastern European patient populations could strengthen your effectiveness dataset and timeline. Best, Mediogram BD",
+   "url": "https://clinicaltrials.gov/study/NCT07907640"
   },
   {
    "nct": "NCT07901270",
@@ -8016,6 +8024,37 @@
    "angle": "PEP-HFpEF is currently US-only but HFpEF prevalence in Eastern Europe offers untapped enrollment potential for this device-programming study.",
    "opener": "Hi Courtney, We noticed PEP-HFpEF is launching and understand the enrollment landscape for precision pacing in HFpEF remains nascent. Mediogram runs device trials across Eastern Europe (including high-volume cardiology sites in Belarus and the EU corridor) with integrated regulatory, imaging QC, and logistics—we'd welcome a brief call to explore whether international sites could accelerate your enrollment timeline. Best, Mediogram BD",
    "url": "https://clinicaltrials.gov/study/NCT07864558"
+  },
+  {
+   "nct": "NCT07468344",
+   "source": "ctgov",
+   "field": "cardiology",
+   "score": 60,
+   "tier": "WATCH",
+   "modality": "device",
+   "note": "",
+   "region_sites": [],
+   "sponsor": "Central Hospital, Nancy, France",
+   "title": "Evaluation of the Effects of Sauna Therapy on Congestion and Loop Diuretic Use in Patients With Heart Failure With Reduced or Moderately Reduced Ejection Fraction",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "countries": [
+    "France"
+   ],
+   "conditions": [
+    "Heart Failure"
+   ],
+   "posted": "2026-03-12",
+   "summary": "Central Hospital Nancy is a French academic medical center running a heart-failure device trial that would benefit from Mediogram's established Eastern European enrollment capabilities and cardiovascular expertise to accelerate recruitment beyond their current single-country footprint.",
+   "email": "n.girerd@chru-nancy.fr",
+   "phone": "+33 03 83 15 74 96",
+   "contact_name": "Nicolas Girerd",
+   "pi": "BAUDRY Guillaume (Central Hospital, Nancy, France)",
+   "channel": "email",
+   "who": "Guillaume Baudry, Study Contact / Principal Investigator",
+   "angle": "Their sauna-therapy HF trial is recruiting in France only; Eastern European sites (especially Belarus and Lithuania) have high HF prevalence, lower trial saturation, and strong regulatory pathways that could materially shorten enrollment timelines.",
+   "opener": "Dear Guillaume,\n\nMediaogram runs cardiovascular device and drug trials across Eastern Europe (Minsk cardiology center, EU regulatory entity in Lithuania) with demonstrated high-enrollment performance in heart-failure populations. We noticed your sauna-therapy study is currently France-only; we'd like to explore whether expanding to our network could accelerate your recruitment timeline.\n\nBest regards,\nMediaogram BD",
+   "url": "https://clinicaltrials.gov/study/NCT07468344"
   },
   {
    "nct": "NCT06388226",
@@ -8316,39 +8355,6 @@
    "url": "https://clinicaltrials.gov/study/NCT02898181"
   },
   {
-   "nct": "NCT07157696",
-   "source": "ctgov",
-   "field": "cardiology",
-   "score": 60,
-   "tier": "WATCH",
-   "modality": "device",
-   "note": "",
-   "region_sites": [],
-   "sponsor": "Università degli Studi di Ferrara",
-   "title": "Advanced Respiratory Monitoring and Oxygen Therapy in Chronically Ill Patients With Acute Respiratory Failure",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "countries": [
-    "Italy"
-   ],
-   "conditions": [
-    "Chronic Respiratory Failure",
-    "Cardiac Disease, Pulmonary Disease",
-    "Acute Respiratory Failure (ARF)"
-   ],
-   "posted": "2025-09-05",
-   "summary": "Academic medical center in Italy running an early-stage respiratory device trial in chronically ill patients—a population and indication where Eastern European sites typically outperform Western Europe on enrollment and retention.",
-   "email": "spdsvn@unife.it",
-   "phone": "+393894841243",
-   "contact_name": "Savino Spadaro, Associate professor",
-   "pi": "Savino Spadaro (Università degli Studi di Ferrara)",
-   "channel": "email",
-   "who": "Savino Spadaro, Associate Professor / Principal Investigator",
-   "angle": "Offer high-enrolling Eastern European sites (RNPC Cardiology, Minsk + network) to accelerate recruitment beyond Italy's current single-site footprint.",
-   "opener": "Dear Prof. Spadaro,\n\nMediaogram runs cardiovascular and advanced-therapy device trials across Eastern Europe with exceptional enrollment velocity in chronic respiratory and cardiac comorbidity populations. We'd like to explore whether adding sites in Belarus/region could strengthen your HFNC trial's recruitment timeline.\n\nBest,\nMediaogram BD",
-   "url": "https://clinicaltrials.gov/study/NCT07157696"
-  },
-  {
    "nct": "NCT07235462",
    "source": "ctgov",
    "field": "cardiology",
@@ -8429,6 +8435,39 @@
    "angle": "We can accelerate their HFpEF/AF trial enrollment and strengthen regulatory/imaging QC across Eastern European sites where we operate dedicated cardiology infrastructure.",
    "opener": "Dear Dr. Abolela, Mediogram specializes in running cardiovascular drug and device trials across Eastern Europe with established arrhythmiology expertise and regulatory infrastructure in Minsk and partner sites. Your finerenone HFpEF trial addresses a critical need in AF management—we'd like to explore how our site network and operational model could support faster, compliant enrollment. Would you be open to a brief call to discuss your trial strategy?",
    "url": "https://clinicaltrials.gov/study/NCT07866287"
+  },
+  {
+   "nct": "NCT07157696",
+   "source": "ctgov",
+   "field": "cardiology",
+   "score": 60,
+   "tier": "WATCH",
+   "modality": "device",
+   "note": "",
+   "region_sites": [],
+   "sponsor": "Università degli Studi di Ferrara",
+   "title": "Advanced Respiratory Monitoring and Oxygen Therapy in Chronically Ill Patients With Acute Respiratory Failure",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "countries": [
+    "Italy"
+   ],
+   "conditions": [
+    "Chronic Respiratory Failure",
+    "Cardiac Disease, Pulmonary Disease",
+    "Acute Respiratory Failure (ARF)"
+   ],
+   "posted": "2025-09-05",
+   "summary": "Academic medical center in Italy running an early-stage respiratory device trial in chronically ill patients—a population and indication where Eastern European sites typically outperform Western Europe on enrollment and retention.",
+   "email": "spdsvn@unife.it",
+   "phone": "+393894841243",
+   "contact_name": "Savino Spadaro, Associate professor",
+   "pi": "Savino Spadaro (Università degli Studi di Ferrara)",
+   "channel": "email",
+   "who": "Savino Spadaro, Associate Professor / Principal Investigator",
+   "angle": "Offer high-enrolling Eastern European sites (RNPC Cardiology, Minsk + network) to accelerate recruitment beyond Italy's current single-site footprint.",
+   "opener": "Dear Prof. Spadaro,\n\nMediaogram runs cardiovascular and advanced-therapy device trials across Eastern Europe with exceptional enrollment velocity in chronic respiratory and cardiac comorbidity populations. We'd like to explore whether adding sites in Belarus/region could strengthen your HFNC trial's recruitment timeline.\n\nBest,\nMediaogram BD",
+   "url": "https://clinicaltrials.gov/study/NCT07157696"
   },
   {
    "nct": "NCT07857772",
@@ -9726,37 +9765,6 @@
    "url": "https://clinicaltrials.gov/study/NCT07877519"
   },
   {
-   "nct": "NCT07580547",
-   "source": "ctgov",
-   "field": "cardiology",
-   "score": 60,
-   "tier": "WATCH",
-   "modality": "device",
-   "note": "",
-   "region_sites": [],
-   "sponsor": "Anat Milman",
-   "title": "Sex-Based Disparities in the Electrophysiological Substrate for Atrial Fibrillation and Its Impact on Clinical Outcomes",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "countries": [
-    "Israel"
-   ],
-   "conditions": [
-    "Atrial Fibrillation (AF)"
-   ],
-   "posted": "2026-05-12",
-   "summary": "Anat Milman is an academic electrophysiologist at a major Israeli medical center running a device-based AF mechanistic study focused on sex differences in substrate mapping—exactly aligned with our core arrhythmology and device-trial expertise.",
-   "email": "anatmi@shamir.gov.il",
-   "phone": "+972-54-3166651",
-   "contact_name": "Anat Milman, MD",
-   "pi": "Anat Milman (Assaf-Harofeh Medical Center)",
-   "channel": "email",
-   "who": "Anat Milman, MD (study contact + PI)",
-   "angle": "Your sex-based AF substrate study needs high-enrolling sites with advanced EP imaging QC and regulatory agility; Eastern European populations offer distinct epidemiologic value and our RNPC Cardiology center has FIH-grade EP infrastructure.",
-   "opener": "Dr. Milman, we noticed your RECRUITING trial on sex-based AF electrophysiologic disparities. Mediogram runs device and advanced-therapy AF trials across Eastern Europe with dedicated EP imaging oversight and regulatory/ethics coordination through our EU entity. We'd welcome a brief call to explore whether our high-enrolling Minsk center or regional network could accelerate your substrate-mapping objectives. Best, Mediogram BD",
-   "url": "https://clinicaltrials.gov/study/NCT07580547"
-  },
-  {
    "nct": "NCT04703166",
    "source": "ctgov",
    "field": "cardiology",
@@ -9786,6 +9794,37 @@
    "angle": "Offer Eastern European enrollment to accelerate patient recruitment for their wearable-based AF myopathy monitoring trial, leveraging your established cardiology network and regulatory infrastructure.",
    "opener": "Dear Dr. Marrouche and Quintrele, Mediogram runs high-enrolling CV trials across Eastern Europe with dedicated arrhythmology expertise and regulatory/ethics capability in-region. We've noted your iPredict study is currently US-based—we'd welcome a brief call to explore how our RNPC Cardiology site network and wearable-device trial experience could help you accelerate AF patient recruitment internationally. Best, [Your Name], BD Lead, Mediogram",
    "url": "https://clinicaltrials.gov/study/NCT04703166"
+  },
+  {
+   "nct": "NCT07580547",
+   "source": "ctgov",
+   "field": "cardiology",
+   "score": 60,
+   "tier": "WATCH",
+   "modality": "device",
+   "note": "",
+   "region_sites": [],
+   "sponsor": "Anat Milman",
+   "title": "Sex-Based Disparities in the Electrophysiological Substrate for Atrial Fibrillation and Its Impact on Clinical Outcomes",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "countries": [
+    "Israel"
+   ],
+   "conditions": [
+    "Atrial Fibrillation (AF)"
+   ],
+   "posted": "2026-05-12",
+   "summary": "Anat Milman is an academic electrophysiologist at a major Israeli medical center running a device-based AF mechanistic study focused on sex differences in substrate mapping—exactly aligned with our core arrhythmology and device-trial expertise.",
+   "email": "anatmi@shamir.gov.il",
+   "phone": "+972-54-3166651",
+   "contact_name": "Anat Milman, MD",
+   "pi": "Anat Milman (Assaf-Harofeh Medical Center)",
+   "channel": "email",
+   "who": "Anat Milman, MD (study contact + PI)",
+   "angle": "Your sex-based AF substrate study needs high-enrolling sites with advanced EP imaging QC and regulatory agility; Eastern European populations offer distinct epidemiologic value and our RNPC Cardiology center has FIH-grade EP infrastructure.",
+   "opener": "Dr. Milman, we noticed your RECRUITING trial on sex-based AF electrophysiologic disparities. Mediogram runs device and advanced-therapy AF trials across Eastern Europe with dedicated EP imaging oversight and regulatory/ethics coordination through our EU entity. We'd welcome a brief call to explore whether our high-enrolling Minsk center or regional network could accelerate your substrate-mapping objectives. Best, Mediogram BD",
+   "url": "https://clinicaltrials.gov/study/NCT07580547"
   },
   {
    "nct": "NCT07625215",
@@ -10346,37 +10385,6 @@
    "angle": "Eastern European AF patient population with strong imaging capabilities and proven FIRM ablation experience could accelerate enrollment in this imaging-guided intervention trial.",
    "opener": "Hi Adrianne, we've seen your FIRM-MRI trial is actively recruiting and understand imaging quality and site execution are critical to success. Mediogram runs high-enrolling AF ablation programs across Eastern Europe with dedicated imaging QC and regulatory infrastructure—we'd welcome a brief call to explore whether adding regional sites could support your enrollment timeline. Best, [Your name], BD, Mediogram",
    "url": "https://clinicaltrials.gov/study/NCT03444337"
-  },
-  {
-   "nct": "NCT07122947",
-   "source": "ctgov",
-   "field": "cardiology",
-   "score": 60,
-   "tier": "WATCH",
-   "modality": "device",
-   "note": "",
-   "region_sites": [],
-   "sponsor": "The Cleveland Clinic",
-   "title": "Surveillance Trial of the Apple Watch in Reliable Burden Assessment in Unseen Recurrence of Surgically Treated AF",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "countries": [
-    "United States"
-   ],
-   "conditions": [
-    "Atrial Fibrillation"
-   ],
-   "posted": "2025-08-14",
-   "summary": "Cleveland Clinic is running a US-based post-surgical AF monitoring trial comparing Apple Watch to Zio Patch, and needs reliable, high-volume patient enrollment in a geographically diverse population.",
-   "email": "bakirn@ccf.org",
-   "phone": "216-312-4443",
-   "contact_name": "Nadia Bakir, MD",
-   "pi": "Marc Gillinov, MD (The Cleveland Clinic)",
-   "channel": "email",
-   "who": "Nadia Bakir, MD (Study Contact)",
-   "angle": "Mediogram can accelerate enrollment velocity and provide validated cardiac imaging QC for AF recurrence adjudication in Eastern European sites with strong post-surgical AF populations.",
-   "opener": "Dear Dr. Bakir, Mediogram specializes in high-enrolling cardiovascular device and arrhythmology trials across Eastern Europe, with established AF surgical populations and local regulatory/ethics infrastructure. We noticed your STARBURSE trial is recruiting and would welcome a brief conversation about how our RNPC Cardiology network in Minsk and expanding Eastern European sites could support enrollment acceleration and data quality. Best regards, [Name], BD, Mediogram",
-   "url": "https://clinicaltrials.gov/study/NCT07122947"
   },
   {
    "nct": "NCT07787936",
@@ -13357,6 +13365,35 @@
    "url": "https://clinicaltrials.gov/study/NCT07860450"
   },
   {
+   "nct": "NCT07908537",
+   "source": "ctgov",
+   "field": "oncology",
+   "score": 93,
+   "tier": "HOT",
+   "modality": "advanced therapy",
+   "note": "",
+   "region_sites": [],
+   "sponsor": "Merck Sharp & Dohme LLC",
+   "title": "A Clinical Trial of Gocatamig (MK-6070) With Durvalumab in Participants With Small Cell Lung Cancer (MK-6070-004)",
+   "status": "NOT_YET_RECRUITING",
+   "phase": "PHASE3",
+   "countries": [],
+   "conditions": [
+    "Small Cell Lung Cancer"
+   ],
+   "posted": "2026-11-02",
+   "summary": "Alexandrov is a GCP-certified, multi-disciplinary oncology centre with lung cancer expertise, 40 qualified investigators, and established trial infrastructure—a natural fit for Merck's Phase III small cell lung cancer programme.",
+   "email": "",
+   "phone": "",
+   "contact_name": "",
+   "pi": "Medical Director (Merck Sharp & Dohme LLC)",
+   "channel": "LinkedIn + direct email to Merck Oncology Clinical Operations (copied to Medical Director contact on record)",
+   "who": "Oncology Clinical Operations Manager or Regional Trial Lead (EMEA/Eastern Europe desk)",
+   "angle": "Alexandrov has active lung cancer patient volume, dual-agent immunotherapy trial readiness (durvalumab + checkpoint inhibitor experience), and EU regulatory clearance through Mediogram's Lithuanian entity—enabling fast site activation.",
+   "opener": "We've partnered with N.N. Alexandrov National Cancer Centre in Minsk—40 GCP-certified investigators with strong lung cancer throughput and inpatient ICU capacity. They're actively enrolling advanced solid tumours and have the investigational pharmacy and -80°C storage MK-6070-004 requires. We'd welcome a pre-recruitment discussion to explore fit for your SCLC programme. Best regards, Mediogram BD",
+   "url": "https://clinicaltrials.gov/study/NCT07908537"
+  },
+  {
    "nct": "NCT07894328",
    "source": "ctgov",
    "field": "oncology",
@@ -13665,37 +13702,6 @@
    "url": "https://clinicaltrials.gov/study/NCT07836530"
   },
   {
-   "nct": "NCT07813572",
-   "source": "ctgov",
-   "field": "oncology",
-   "score": 90,
-   "tier": "HOT",
-   "modality": "drug",
-   "note": "",
-   "region_sites": [],
-   "sponsor": "Suzhou Zelgen Biopharmaceuticals Co.,Ltd",
-   "title": "ZG005 Plus Bevacizumab vs Sintilimab Plus Bevacizumab as First-Line Therapy for Advanced Hepatocellular",
-   "status": "NOT_YET_RECRUITING",
-   "phase": "PHASE3",
-   "countries": [
-    "China"
-   ],
-   "conditions": [
-    "Hepatocellular Carcinoma"
-   ],
-   "posted": "2026-09-10",
-   "summary": "Suzhou Zelgen is a Chinese biotech running a Phase III hepatocellular carcinoma immunotherapy trial currently limited to China, and they need to expand into Eastern Europe to meet enrollment timelines and diversify their safety database.",
-   "email": "weic@zelgen.com",
-   "phone": "+86-0512-57309965",
-   "contact_name": "Wei Chen",
-   "pi": "Jason Wu (Suzhou Zelgen Biopharmaceuticals Co.,Ltd)",
-   "channel": "email",
-   "who": "Wei Chen, Study Contact (weic@zelgen.com)",
-   "angle": "Alexandrov Centre has 40 GCP-certified investigators with active HCC/GI cancer populations and proven Phase III execution, positioned to accelerate your ZG005 + bevacizumab enrollment across Eastern Europe.",
-   "opener": "Wei, Mediogram has partnered with N.N. Alexandrov National Cancer Centre in Minsk—a 40-investigator, GCP-certified solid tumour centre with established Phase III oncology infrastructure and active HCC patient populations. We understand ZG005 is currently China-only and wanted to explore whether Eastern Europe expansion aligns with your enrollment strategy. Would you be open to a brief call to discuss site fit?",
-   "url": "https://clinicaltrials.gov/study/NCT07813572"
-  },
-  {
    "nct": "NCT07906717",
    "source": "ctgov",
    "field": "oncology",
@@ -13847,38 +13853,6 @@
    "angle": "The selpercatinib Phase IV is currently India-only; Belarus offers EU-regulated, GCP-certified thyroid/lung cancer capacity to de-risk enrollment and strengthen the RET-altered population evidence base.",
    "opener": "We partner with N.N. Alexandrov National Cancer Centre in Minsk—a 40-investigator, GCP-certified oncology hub with active Phase III/IV trial experience in solid tumours including thyroid and lung cancers. Given the enrollment landscape for your selpercatinib Phase IV study, we'd welcome a brief conversation about expanding site footprint beyond India to strengthen patient access and trial velocity. Would your team have 20 minutes this month to explore fit?",
    "url": "https://clinicaltrials.gov/study/NCT07822880"
-  },
-  {
-   "nct": "NCT07694427",
-   "source": "ctgov",
-   "field": "oncology",
-   "score": 90,
-   "tier": "HOT",
-   "modality": "drug",
-   "note": "",
-   "region_sites": [],
-   "sponsor": "GlaxoSmithKline",
-   "title": "Mo-Rez in First- Line (1L) Maintenance Treatment of Non-Homologous Recombination Deficient Ovarian Cancer (Non-HRd OC) [BEHOLD-Ovarian03]",
-   "status": "NOT_YET_RECRUITING",
-   "phase": "PHASE3",
-   "countries": [
-    "Argentina",
-    "Japan"
-   ],
-   "conditions": [
-    "Ovarian Neoplasms"
-   ],
-   "posted": "2026-07-10",
-   "summary": "N.N. Alexandrov is a GCP-certified, multi-disciplinary oncology centre with 40+ investigators and proven Phase III trial experience, making it ideal for GSK's first-line maintenance ovarian cancer study.",
-   "email": "GSKClinicalSupportHD@gsk.com",
-   "phone": "877-379-3718",
-   "contact_name": "US GSK Clinical Trials Call Center",
-   "pi": "",
-   "channel": "Email to GSK Clinical Trials Call Center with CC to GSK Oncology Regional Medical Lead (identify via LinkedIn)",
-   "who": "GSK Clinical Trial Operations Lead or Oncology Therapeutic Area Head for Eastern Europe/CIS",
-   "angle": "BEHOLD-Ovarian03 is currently open only in Argentina and Japan—Belarusian site could accelerate enrolment in an underserved geography with established gynaecologic cancer capacity.",
-   "opener": "Dear GSK Oncology Team,\n\nMediaogram is partnering with N.N. Alexandrov National Cancer Centre (Minsk) to expand Phase III oncology capacity in Eastern Europe. With 40 GCP-certified investigators, dedicated gynaecologic oncology programme, and successful track record in industry-sponsored trials, we believe Alexandrov could strengthen enrolment for BEHOLD-Ovarian03. Would you be open to a brief discussion on site feasibility and sponsor requirements?\n\nBest regards, [Your name], BD Lead, Mediogram",
-   "url": "https://clinicaltrials.gov/study/NCT07694427"
   },
   {
    "nct": "NCT07739186",
@@ -14097,6 +14071,35 @@
    "url": "https://clinicaltrials.gov/study/NCT07833202"
   },
   {
+   "nct": "NCT07816380",
+   "source": "ctgov",
+   "field": "oncology",
+   "score": 90,
+   "tier": "HOT",
+   "modality": "drug",
+   "note": "",
+   "region_sites": [],
+   "sponsor": "Guangzhou JOYO Pharma Co., Ltd",
+   "title": "A Phase III Study to Evaluate the Efficacy and Safety of JYP0322 in Previously Untreated ROS1-Positive Locally Advanced or Metastatic Non-Small Cell Lung Cancer",
+   "status": "NOT_YET_RECRUITING",
+   "phase": "PHASE3",
+   "countries": [],
+   "conditions": [
+    "NSCLC (Advanced Non-small Cell Lung Cancer)"
+   ],
+   "posted": "2026-09-11",
+   "summary": "The Alexandrov National Cancer Centre is a GCP-certified, fully-equipped oncology hub with 40+ trained investigators and a proven track record in industry trials, making them an ideal partner for early-phase enrollment in lung cancer studies.",
+   "email": "",
+   "phone": "",
+   "contact_name": "",
+   "pi": "",
+   "channel": "LinkedIn + direct email to trial operations contact",
+   "who": "Clinical Operations Manager or Trial Portfolio Lead at Guangzhou JOYO Pharma",
+   "angle": "Belarus offers rapid patient screening for ROS1+ NSCLC with high treatment-naive enrollment potential and EU-compliant regulatory infrastructure via Mediogram's Lithuanian entity.",
+   "opener": "We're Mediogram, a clinical-execution partner expanding oncology capacity in Eastern Europe. The Alexandrov Centre in Minsk has 40 GCP-certified investigators, dedicated lung cancer expertise, and rapid-access patient populations—ideal for your JYP0322 Phase III ROS1+ NSCLC trial. We handle regulatory, ethics, and logistics locally; we'd like to discuss adding them to your site portfolio. Are you open to a brief call?",
+   "url": "https://clinicaltrials.gov/study/NCT07816380"
+  },
+  {
    "nct": "NCT07829549",
    "source": "ctgov",
    "field": "oncology",
@@ -14126,35 +14129,6 @@
    "angle": "Alexandrov Centre offers 40 GCP-certified investigators, established lung cancer patient access, and EU regulatory pathway via Lithuania—reducing China-only enrollment risk and accelerating non-squamous NSCLC recruitment.",
    "opener": "Dear Yongfeng, We're Mediogram, a clinical-execution partner scaling oncology sites across Eastern Europe. The N.N. Alexandrov National Cancer Centre in Minsk brings exceptional lung cancer volume, 10+ active industry trials, and GCP-certified investigators—ideally positioned to support RC148 Phase III enrollment outside China. Would you be open to a brief call to discuss site activation? Best regards, [Name], BD Lead, Mediogram",
    "url": "https://clinicaltrials.gov/study/NCT07829549"
-  },
-  {
-   "nct": "NCT07816380",
-   "source": "ctgov",
-   "field": "oncology",
-   "score": 90,
-   "tier": "HOT",
-   "modality": "drug",
-   "note": "",
-   "region_sites": [],
-   "sponsor": "Guangzhou JOYO Pharma Co., Ltd",
-   "title": "A Phase III Study to Evaluate the Efficacy and Safety of JYP0322 in Previously Untreated ROS1-Positive Locally Advanced or Metastatic Non-Small Cell Lung Cancer",
-   "status": "NOT_YET_RECRUITING",
-   "phase": "PHASE3",
-   "countries": [],
-   "conditions": [
-    "NSCLC (Advanced Non-small Cell Lung Cancer)"
-   ],
-   "posted": "2026-09-11",
-   "summary": "The Alexandrov National Cancer Centre is a GCP-certified, fully-equipped oncology hub with 40+ trained investigators and a proven track record in industry trials, making them an ideal partner for early-phase enrollment in lung cancer studies.",
-   "email": "",
-   "phone": "",
-   "contact_name": "",
-   "pi": "",
-   "channel": "LinkedIn + direct email to trial operations contact",
-   "who": "Clinical Operations Manager or Trial Portfolio Lead at Guangzhou JOYO Pharma",
-   "angle": "Belarus offers rapid patient screening for ROS1+ NSCLC with high treatment-naive enrollment potential and EU-compliant regulatory infrastructure via Mediogram's Lithuanian entity.",
-   "opener": "We're Mediogram, a clinical-execution partner expanding oncology capacity in Eastern Europe. The Alexandrov Centre in Minsk has 40 GCP-certified investigators, dedicated lung cancer expertise, and rapid-access patient populations—ideal for your JYP0322 Phase III ROS1+ NSCLC trial. We handle regulatory, ethics, and logistics locally; we'd like to discuss adding them to your site portfolio. Are you open to a brief call?",
-   "url": "https://clinicaltrials.gov/study/NCT07816380"
   },
   {
    "nct": "NCT07831863",
@@ -14476,6 +14450,38 @@
    "url": "https://clinicaltrials.gov/study/NCT07669727"
   },
   {
+   "nct": "NCT07650448",
+   "source": "ctgov",
+   "field": "oncology",
+   "score": 85,
+   "tier": "HOT",
+   "modality": "device",
+   "note": "",
+   "region_sites": [],
+   "sponsor": "PROCEPT BioRobotics",
+   "title": "WATER IV PCa (AS Sub-study)",
+   "status": "NOT_YET_RECRUITING",
+   "phase": "NA",
+   "countries": [
+    "Hong Kong",
+    "United States"
+   ],
+   "conditions": [
+    "Localized Prostate Cancer"
+   ],
+   "posted": "2026-06-16",
+   "summary": "PROCEPT BioRobotics is a urology device company running an early-stage proactive surveillance trial for localized prostate cancer, and the Alexandrov Centre's urology expertise, GCP infrastructure, and device-trial track record make it a natural fit for their upcoming EU expansion.",
+   "email": "a.lee@procept-biorobotics.com",
+   "phone": "650-232-7215",
+   "contact_name": "Angela Lee",
+   "pi": "",
+   "channel": "email",
+   "who": "Angela Lee, Study Contact",
+   "angle": "Alexandrov Centre has established urology oncology capacity and device-trial experience; Belarus/Lithuania regulatory pathway offers efficient EU entry for their active surveillance sub-study.",
+   "opener": "Hi Angela, Mediogram is a clinical-execution partner with deep roots in Eastern Europe—we've just brought the Alexandrov National Cancer Centre in Minsk online for oncology device and registry studies. Their urology team runs solid-tumour trials and has 40 GCP-certified investigators. As WATER IV ramps up internationally, we'd like to explore whether Belarus could be a strategic site for your AS sub-study cohort. Happy to set up a call with our site lead and medical team. Best, [Name], BD, Mediogram",
+   "url": "https://clinicaltrials.gov/study/NCT07650448"
+  },
+  {
    "nct": "NCT07758881",
    "source": "ctgov",
    "field": "oncology",
@@ -14637,6 +14643,41 @@
    "url": "https://clinicaltrials.gov/study/NCT07802704"
   },
   {
+   "nct": "NCT07743164",
+   "source": "ctgov",
+   "field": "oncology",
+   "score": 83,
+   "tier": "WARM",
+   "modality": "advanced therapy",
+   "note": "",
+   "region_sites": [],
+   "sponsor": "Merck Sharp & Dohme LLC",
+   "title": "A Clinical Trial of Raludotatug Deruxtecan (R-DXd) With or Without Bevacizumab in Participants With Ovarian Cancer Who Have Progressed During Treatment With PARP-inhibitors Treatment on First Line Maintenance (MK-5909-008/ENGOT-ov107/GOG-3142 / REJOICE-Ovarian05)",
+   "status": "RECRUITING",
+   "phase": "PHASE3",
+   "countries": [
+    "Israel",
+    "Taiwan",
+    "United States"
+   ],
+   "conditions": [
+    "Ovarian Cancer",
+    "Peritoneal Cancer",
+    "Fallopian Tube Cancer"
+   ],
+   "posted": "2026-08-03",
+   "summary": "N.N. Alexandrov is a GCP-certified, fully-equipped oncology centre with 40+ qualified investigators and proven Phase III trial experience, making it ideal for MSD's advanced ovarian cancer programme requiring robust patient populations and regulatory infrastructure.",
+   "email": "Trialsites@msd.com",
+   "phone": "1-888-577-8839",
+   "contact_name": "Toll Free Number",
+   "pi": "Medical Director (Merck Sharp & Dohme LLC)",
+   "channel": "Email to Trialsites@msd.com with cc to MSD Regional Medical Affairs (Eastern Europe/CIS)",
+   "who": "Study Contact/Trials Operations Lead at MSD, copied to Regional Medical Director",
+   "angle": "Alexandrov Centre can activate this PARP-resistant ovarian cohort rapidly in Belarus—a treatment-naive market with high eligible patient density and established MSD relationship history.",
+   "opener": "We represent the N.N. Alexandrov National Cancer Centre in Minsk—a 40-investigator, GCP-certified site with active Phase III oncology portfolio and full investigational pharmacy/imaging/biobanking infrastructure. We understand MSD is initiating REJOICE-Ovarian05 (raludotatug deruxtecan ± bevacizumab) for PARP-progressed ovarian cancer and wanted to explore whether Belarus represents a strategic expansion market for patient enrollment. Would the appropriate contact be available for a brief site capability overview?",
+   "url": "https://clinicaltrials.gov/study/NCT07743164"
+  },
+  {
    "nct": "NCT07578649",
    "source": "ctgov",
    "field": "oncology",
@@ -14671,41 +14712,6 @@
    "angle": "Symbiotic-GYN-18 is actively recruiting in US/Japan; Mediogram can activate a fully-equipped, GCP-certified endometrial cancer centre in Minsk with 40 investigators and on-site pharmacy, imaging, and ICU within Q1 2024 to accelerate enrolment in an underserved geography.",
    "opener": "We are Mediogram, a clinical-execution partner expanding oncology capacity in Eastern Europe. The N.N. Alexandrov National Cancer Centre in Minsk—40 GCP-certified investigators, active in Phase III trials, with inpatient, imaging, and -80°C storage infrastructure—is positioned to support Symbiotic-GYN-18 recruitment. We own regulatory, ethics, and logistics in-country and contract through our EU entity. Would you be open to a brief conversation on site activation? Best regards, Mediogram BD.",
    "url": "https://clinicaltrials.gov/study/NCT07578649"
-  },
-  {
-   "nct": "NCT07743164",
-   "source": "ctgov",
-   "field": "oncology",
-   "score": 83,
-   "tier": "WARM",
-   "modality": "advanced therapy",
-   "note": "",
-   "region_sites": [],
-   "sponsor": "Merck Sharp & Dohme LLC",
-   "title": "A Clinical Trial of Raludotatug Deruxtecan (R-DXd) With or Without Bevacizumab in Participants With Ovarian Cancer Who Have Progressed During Treatment With PARP-inhibitors Treatment on First Line Maintenance (MK-5909-008/ENGOT-ov107/GOG-3142 / REJOICE-Ovarian05)",
-   "status": "RECRUITING",
-   "phase": "PHASE3",
-   "countries": [
-    "Israel",
-    "Taiwan",
-    "United States"
-   ],
-   "conditions": [
-    "Ovarian Cancer",
-    "Peritoneal Cancer",
-    "Fallopian Tube Cancer"
-   ],
-   "posted": "2026-08-03",
-   "summary": "N.N. Alexandrov is a GCP-certified, fully-equipped oncology centre with 40+ qualified investigators and proven Phase III trial experience, making it ideal for MSD's advanced ovarian cancer programme requiring robust patient populations and regulatory infrastructure.",
-   "email": "Trialsites@msd.com",
-   "phone": "1-888-577-8839",
-   "contact_name": "Toll Free Number",
-   "pi": "Medical Director (Merck Sharp & Dohme LLC)",
-   "channel": "Email to Trialsites@msd.com with cc to MSD Regional Medical Affairs (Eastern Europe/CIS)",
-   "who": "Study Contact/Trials Operations Lead at MSD, copied to Regional Medical Director",
-   "angle": "Alexandrov Centre can activate this PARP-resistant ovarian cohort rapidly in Belarus—a treatment-naive market with high eligible patient density and established MSD relationship history.",
-   "opener": "We represent the N.N. Alexandrov National Cancer Centre in Minsk—a 40-investigator, GCP-certified site with active Phase III oncology portfolio and full investigational pharmacy/imaging/biobanking infrastructure. We understand MSD is initiating REJOICE-Ovarian05 (raludotatug deruxtecan ± bevacizumab) for PARP-progressed ovarian cancer and wanted to explore whether Belarus represents a strategic expansion market for patient enrollment. Would the appropriate contact be available for a brief site capability overview?",
-   "url": "https://clinicaltrials.gov/study/NCT07743164"
   },
   {
    "nct": "NCT07776691",
@@ -14806,6 +14812,37 @@
    "angle": "Alexandrov Centre's 40 GCP-certified investigators and established Phase III oncology infrastructure can accelerate PRL3-Zumab enrollment in underserved Eastern European populations with complementary solid tumor expertise.",
    "opener": "Dear Ms Jamaluddin, Mediogram partners with the N.N. Alexandrov National Cancer Centre in Minsk—40 GCP-certified investigators active in Phase III solid tumor trials with full on-site regulatory, ethics, and advanced-therapy capabilities. We believe Belarus represents a strategic expansion site for PRL3-Zumab given your current Malaysia footprint and the Centre's experience in immunotherapy and metastatic disease. Would you have 15 minutes this week to discuss site activation? Best regards, [Your name], BD Lead, Mediogram",
    "url": "https://clinicaltrials.gov/study/NCT07290088"
+  },
+  {
+   "nct": "NCT07043725",
+   "source": "ctgov",
+   "field": "oncology",
+   "score": 80,
+   "tier": "WARM",
+   "modality": "drug",
+   "note": "",
+   "region_sites": [],
+   "sponsor": "Chia Tai Tianqing Pharmaceutical Group Nanjing Shunxin Pharmaceutical Co., Ltd.",
+   "title": "A Clinical Study of Neoadjuvant Treatment With TQB2102 for Injection for Human Epidermal Growth Factor Receptor 2 (HER2) Positive Breast Cancer",
+   "status": "RECRUITING",
+   "phase": "PHASE3",
+   "countries": [
+    "China"
+   ],
+   "conditions": [
+    "HER2-positive Breast Cancer"
+   ],
+   "posted": "2025-06-29",
+   "summary": "Chia Tai Tianqing is a mid-tier Chinese oncology pharma expanding HER2+ breast cancer trials globally; the Alexandrov Centre's 40 GCP investigators and breast cancer expertise make it a logical fit for their Phase III neoadjuvant program.",
+   "email": "szm@163.com",
+   "phone": "13524514617",
+   "contact_name": "Zhimin Shao, Doctor",
+   "pi": "",
+   "channel": "email to study contact with LinkedIn profile research on sponsor's clinical ops lead",
+   "who": "Zhimin Shao (Study Contact) + Clinical Operations/International Expansion lead at Chia Tai Tianqing (identify via LinkedIn)",
+   "angle": "Alexandrov Centre is actively enrolling HER2+ breast cancer patients in neoadjuvant settings with 40 certified investigators and proven Phase III experience—offering EU-regulated trial execution through Mediogram's Lithuanian entity without geographic overlap.",
+   "opener": "Dear Dr. Shao, We partner with the N.N. Alexandrov National Cancer Centre in Minsk—a 40-investigator, GCP-certified centre with deep expertise in HER2+ breast cancer and active neoadjuvant trial capacity. As Chia Tai Tianqing expands the TQB2102 study beyond China, Belarus offers both patient access and full regulatory/ethics support through our EU-anchored model. Would a brief call to discuss site feasibility make sense? Best regards, [Name], BD Lead, Mediogram",
+   "url": "https://clinicaltrials.gov/study/NCT07043725"
   },
   {
    "nct": "NCT07357597",
@@ -14964,6 +15001,35 @@
    "url": "https://clinicaltrials.gov/study/NCT07867470"
   },
   {
+   "nct": "NCT07909122",
+   "source": "ctgov",
+   "field": "oncology",
+   "score": 80,
+   "tier": "WARM",
+   "modality": "drug",
+   "note": "",
+   "region_sites": [],
+   "sponsor": "Pfizer",
+   "title": "Real-World Treatment Patterns and Effectiveness of Anti-EGFR- and Anti-VEGF-based Therapies in Left-sided RAS Wild-Type Metastatic Colorectal Cancer",
+   "status": "NOT_YET_RECRUITING",
+   "phase": "NA",
+   "countries": [],
+   "conditions": [
+    "Metastatic Colorectal Cancer"
+   ],
+   "posted": "2026-11-02",
+   "summary": "Pfizer is conducting a real-world effectiveness study on colorectal cancer therapies where Alexandrov's 40 GCP-certified investigators and robust GI oncology program make it an ideal Eastern European site for recruitment and data capture.",
+   "email": "ClinicalTrials.gov_Inquiries@pfizer.com",
+   "phone": "1-800-718-1021",
+   "contact_name": "Pfizer CT.gov Call Center",
+   "pi": "Pfizer CT.gov Call Center (Pfizer)",
+   "channel": "Pfizer Oncology Clinical Operations (via ClinicalTrials.gov_Inquiries@pfizer.com with CC to regional Pfizer Oncology lead for CEE)",
+   "who": "Pfizer Clinical Operations/Oncology Therapy Area Lead",
+   "angle": "Alexandrov has established RAS wild-type mCRC patient volume, GCP expertise, and compliant infrastructure to efficiently enroll and retain metastatic colorectal cancer patients in this real-world evidence study across left-sided disease.",
+   "opener": "Mediogram partners with N.N. Alexandrov National Cancer Centre in Minsk—a GCP-certified, 40-investigator oncology hub with dedicated GI, metastatic disease expertise, and proven trial execution. We're exploring fit for Pfizer's real-world RAS wild-type mCRC study and would welcome a brief call to discuss site activation timelines and patient population alignment. Best reach: [your contact] at Mediogram.",
+   "url": "https://clinicaltrials.gov/study/NCT07909122"
+  },
+  {
    "nct": "NCT07620574",
    "source": "ctgov",
    "field": "oncology",
@@ -15090,6 +15156,38 @@
    "angle": "Their trial is currently China-only with no external sites listed; Mediogram can rapidly activate a certified, equipped Eastern European site with established pharma relationships and regulatory pre-clearance to accelerate global enrollment.",
    "opener": "We partner with the N.N. Alexandrov National Cancer Centre in Minsk—40 GCP-certified investigators, established industry trial experience, and dedicated inpatient/ICU infrastructure ideally suited for palliative colorectal cancer studies. We noticed your Zhen-Qi-Jie-Du trial is currently recruiting in China; we'd welcome a conversation about expanding to Eastern Europe through a compliant EU contracting structure. Please let us know the best time to connect on trial design and site fit.",
    "url": "https://clinicaltrials.gov/study/NCT07854405"
+  },
+  {
+   "nct": "NCT07518147",
+   "source": "ctgov",
+   "field": "oncology",
+   "score": 80,
+   "tier": "WARM",
+   "modality": "drug",
+   "note": "",
+   "region_sites": [],
+   "sponsor": "Biokin (Shanghai) Biopharmaceutical Co., Ltd.",
+   "title": "A Study Comparing BL-M05D1 With the Investigator's Choice of Treatment Regimen in Patients With Claudin (CLDN)18.2-Positive Advanced Gastric Cancer or Gastroesophageal Junction Adenocarcinoma (GC/GEJC) Who Have Received Prior First-Line Treatment",
+   "status": "RECRUITING",
+   "phase": "PHASE3",
+   "countries": [
+    "China"
+   ],
+   "conditions": [
+    "Gastric Cancer",
+    "Gastroesophageal Junction Adenocarcinoma"
+   ],
+   "posted": "2026-04-08",
+   "summary": "The N.N. Alexandrov centre is a 40-investigator, GCP-certified oncology hub with proven Phase III execution capability and full on-site infrastructure (pharmacy, imaging, ICU, biobanking) that matches Baili's need for experienced sites in high-performing Eastern European markets.",
+   "email": "xiaosa@baili-pharm.com",
+   "phone": "15013238943",
+   "contact_name": "Sa Xiao, PHD",
+   "pi": "",
+   "channel": "email + WhatsApp follow-up",
+   "who": "Clinical Operations Manager or Trial Director at Baili (escalate from Sa Xiao if needed)",
+   "angle": "BL-M05D1 gastric cancer trial currently recruiting only in China—Minsk centre offers EU-regulated, GCP-ready gastric/GEJ patient access with 10+ prior industry trials and investigator depth to accelerate enrolment.",
+   "opener": "We represent N.N. Alexandrov National Cancer Centre in Minsk—a 40-investigator, GCP-certified site with dedicated gastric/thoracic/GI oncology capacity and proven Phase III execution (10+ industry trials, on-site investigational pharmacy, imaging, ICU). We understand BL-M05D1 is currently recruiting in China; we'd welcome a conversation about expanding site footprint into Eastern Europe to diversify and accelerate enrolment. Would Sa Xiao or your Clinical Operations team be open to a 20-minute call next week? Best, Mediogram BD",
+   "url": "https://clinicaltrials.gov/study/NCT07518147"
   },
   {
    "nct": "NCT07795346",
@@ -15224,37 +15322,6 @@
    "url": "https://clinicaltrials.gov/study/NCT07673887"
   },
   {
-   "nct": "NCT07716449",
-   "source": "ctgov",
-   "field": "oncology",
-   "score": 80,
-   "tier": "WARM",
-   "modality": "drug",
-   "note": "",
-   "region_sites": [],
-   "sponsor": "Qilu Pharmaceutical Co., Ltd.",
-   "title": "QLS31905 in Combination With CAPOX Versus Sintilimab in Combination With CAPOX as First-line Treatment in Patients With GC/GEJ",
-   "status": "RECRUITING",
-   "phase": "PHASE3",
-   "countries": [
-    "China"
-   ],
-   "conditions": [
-    "Gastric or Gastroesophageal Junction Adenocarcinoma"
-   ],
-   "posted": "2026-07-21",
-   "summary": "Qilu Pharmaceutical is a Chinese oncology company launching a Phase III gastric cancer trial combining their novel QLS31905 with standard chemotherapy, and the Alexandrov Centre's GI cancer expertise and GCP infrastructure make it an ideal first European site.",
-   "email": "doctorshenlin@sina.cn",
-   "phone": "010-88196358",
-   "contact_name": "Lin Shen, PhD",
-   "pi": "",
-   "channel": "email",
-   "who": "Lin Shen, PhD (Study Contact)",
-   "angle": "Offer Qilu rapid, compliant site activation in Eastern Europe to accelerate their Phase III gastric/GEJ enrollment while establishing a beachhead in the EU regulatory environment.",
-   "opener": "Dr. Shen, Mediogram partners with the N.N. Alexandrov National Cancer Centre in Minsk—a 40-investigator, GCP-certified solid-tumour hub with active GI oncology programs and proven Phase III capacity. We understand QLS31905 + CAPOX is entering site selection; we can fast-track Alexandrov's activation and open the Eastern European corridor for Qilu. Would a brief call to explore fit make sense?",
-   "url": "https://clinicaltrials.gov/study/NCT07716449"
-  },
-  {
    "nct": "NCT07217704",
    "source": "ctgov",
    "field": "oncology",
@@ -15286,6 +15353,37 @@
    "angle": "Your 18F-FAPI gastric/esophageal Phase III is US-only; Belarus's largest NCI has 40 certified investigators, on-site PET/CT, -80°C radiopharmaceutical storage, and high gastric cancer prevalence—we can activate in Q2 2024.",
    "opener": "Alex, Mediogram operates the Alexandrov National Cancer Centre in Minsk—40 GCP-certified investigators with dedicated PET/CT imaging and investigational pharmacy. We've reviewed your SOFIE 18F-FAPI gastric/esophageal trial and believe Belarus is an underexplored market for this indication. Could we arrange 20 minutes to discuss site activation and regulatory pathways? — Mediogram BD",
    "url": "https://clinicaltrials.gov/study/NCT07217704"
+  },
+  {
+   "nct": "NCT07716449",
+   "source": "ctgov",
+   "field": "oncology",
+   "score": 80,
+   "tier": "WARM",
+   "modality": "drug",
+   "note": "",
+   "region_sites": [],
+   "sponsor": "Qilu Pharmaceutical Co., Ltd.",
+   "title": "QLS31905 in Combination With CAPOX Versus Sintilimab in Combination With CAPOX as First-line Treatment in Patients With GC/GEJ",
+   "status": "RECRUITING",
+   "phase": "PHASE3",
+   "countries": [
+    "China"
+   ],
+   "conditions": [
+    "Gastric or Gastroesophageal Junction Adenocarcinoma"
+   ],
+   "posted": "2026-07-21",
+   "summary": "Qilu Pharmaceutical is a Chinese oncology company launching a Phase III gastric cancer trial combining their novel QLS31905 with standard chemotherapy, and the Alexandrov Centre's GI cancer expertise and GCP infrastructure make it an ideal first European site.",
+   "email": "doctorshenlin@sina.cn",
+   "phone": "010-88196358",
+   "contact_name": "Lin Shen, PhD",
+   "pi": "",
+   "channel": "email",
+   "who": "Lin Shen, PhD (Study Contact)",
+   "angle": "Offer Qilu rapid, compliant site activation in Eastern Europe to accelerate their Phase III gastric/GEJ enrollment while establishing a beachhead in the EU regulatory environment.",
+   "opener": "Dr. Shen, Mediogram partners with the N.N. Alexandrov National Cancer Centre in Minsk—a 40-investigator, GCP-certified solid-tumour hub with active GI oncology programs and proven Phase III capacity. We understand QLS31905 + CAPOX is entering site selection; we can fast-track Alexandrov's activation and open the Eastern European corridor for Qilu. Would a brief call to explore fit make sense?",
+   "url": "https://clinicaltrials.gov/study/NCT07716449"
   },
   {
    "nct": "NCT04415853",
@@ -16274,37 +16372,6 @@
    "url": "https://clinicaltrials.gov/study/NCT07672236"
   },
   {
-   "nct": "NCT07684599",
-   "source": "ctgov",
-   "field": "oncology",
-   "score": 80,
-   "tier": "WARM",
-   "modality": "drug",
-   "note": "",
-   "region_sites": [],
-   "sponsor": "GlaxoSmithKline",
-   "title": "A Study to Investigate Mocertatug Rezetecan as Maintenance Treatment for Participants With MMRp Endometrial Cancer (BEHOLD-Endometrial02)",
-   "status": "RECRUITING",
-   "phase": "PHASE3",
-   "countries": [
-    "Japan"
-   ],
-   "conditions": [
-    "Neoplasms, Endometrial"
-   ],
-   "posted": "2026-07-06",
-   "summary": "The Alexandrov Centre is a GCP-certified, Phase III-capable oncology hub with gynecologic cancer expertise, inpatient infrastructure, and established trial operations—a natural fit for GSK's endometrial cancer maintenance study.",
-   "email": "GSKClinicalSupportHD@gsk.com",
-   "phone": "877-379-3718",
-   "contact_name": "US GSK Clinical Trials Call Center",
-   "pi": "",
-   "channel": "email to GSK Clinical Trials Call Center",
-   "who": "Study Operations or Regional Recruitment Lead",
-   "angle": "BEHOLD-Endometrial02 is currently recruiting only in Japan; Mediogram can activate a qualified Eastern European site with 40 GCP investigators and existing gynecologic oncology capacity within 6–8 weeks.",
-   "opener": "We represent the N.N. Alexandrov National Cancer Centre in Minsk—a 40-investigator, GCP-certified oncology centre specializing in gynecologic and solid tumours with active industry trial experience. We understand BEHOLD-Endometrial02 is actively recruiting and wanted to explore whether adding a qualified Eastern European site aligns with your enrollment strategy. Please let us know the right contact to discuss trial fit and regional recruitment potential. — Mediogram",
-   "url": "https://clinicaltrials.gov/study/NCT07684599"
-  },
-  {
    "nct": "NCT07286266",
    "source": "ctgov",
    "field": "oncology",
@@ -16338,6 +16405,37 @@
    "angle": "BEHOLD-Ovarian01 is actively recruiting across 5 countries; Minsk offers EU-regulated site access, expedited ethics, and proven ovarian cancer patient population to accelerate enrollment.",
    "opener": "We partner with N.N. Alexandrov National Cancer Centre—a 40-investigator GCP-certified site in Minsk with active ovarian oncology patient volume and full Phase III infrastructure (pharmacy, -80°C storage, ICU). Given BEHOLD-Ovarian01's recruiting status across limited geographies, we'd welcome a conversation about activating Belarus as a high-capacity site. Can we schedule a brief call with your Clinical Operations team? — Mediogram",
    "url": "https://clinicaltrials.gov/study/NCT07286266"
+  },
+  {
+   "nct": "NCT07684599",
+   "source": "ctgov",
+   "field": "oncology",
+   "score": 80,
+   "tier": "WARM",
+   "modality": "drug",
+   "note": "",
+   "region_sites": [],
+   "sponsor": "GlaxoSmithKline",
+   "title": "A Study to Investigate Mocertatug Rezetecan as Maintenance Treatment for Participants With MMRp Endometrial Cancer (BEHOLD-Endometrial02)",
+   "status": "RECRUITING",
+   "phase": "PHASE3",
+   "countries": [
+    "Japan"
+   ],
+   "conditions": [
+    "Neoplasms, Endometrial"
+   ],
+   "posted": "2026-07-06",
+   "summary": "The Alexandrov Centre is a GCP-certified, Phase III-capable oncology hub with gynecologic cancer expertise, inpatient infrastructure, and established trial operations—a natural fit for GSK's endometrial cancer maintenance study.",
+   "email": "GSKClinicalSupportHD@gsk.com",
+   "phone": "877-379-3718",
+   "contact_name": "US GSK Clinical Trials Call Center",
+   "pi": "",
+   "channel": "email to GSK Clinical Trials Call Center",
+   "who": "Study Operations or Regional Recruitment Lead",
+   "angle": "BEHOLD-Endometrial02 is currently recruiting only in Japan; Mediogram can activate a qualified Eastern European site with 40 GCP investigators and existing gynecologic oncology capacity within 6–8 weeks.",
+   "opener": "We represent the N.N. Alexandrov National Cancer Centre in Minsk—a 40-investigator, GCP-certified oncology centre specializing in gynecologic and solid tumours with active industry trial experience. We understand BEHOLD-Endometrial02 is actively recruiting and wanted to explore whether adding a qualified Eastern European site aligns with your enrollment strategy. Please let us know the right contact to discuss trial fit and regional recruitment potential. — Mediogram",
+   "url": "https://clinicaltrials.gov/study/NCT07684599"
   },
   {
    "nct": "NCT06952660",
@@ -16403,7 +16501,7 @@
    "url": "https://clinicaltrials.gov/study/NCT07604766"
   },
   {
-   "nct": "NCT07791745",
+   "nct": "NCT07217301",
    "source": "ctgov",
    "field": "oncology",
    "score": 80,
@@ -16411,27 +16509,93 @@
    "modality": "drug",
    "note": "",
    "region_sites": [],
-   "sponsor": "Taizhou Mabtech Pharmaceutical Co.,Ltd",
-   "title": "A Clinical Trial Comparing the Efficacy and Safety of Anyouping® and Platinum-based Chemotherapy With or Without Enlituo® in Advanced Recurrent/Metastatic Head and Neck Squamous Cell Carcinoma.",
+   "sponsor": "Takeda",
+   "title": "A Study Comparing TAK-928 With Docetaxel in Adults With Non-Small Cell Lung Cancer",
    "status": "RECRUITING",
-   "phase": "PHASE2/PHASE3",
+   "phase": "PHASE3",
+   "countries": [
+    "China",
+    "Japan",
+    "United States"
+   ],
+   "conditions": [
+    "IO Resistant Squamous and Nonsquamous NSCLC"
+   ],
+   "posted": "2025-10-15",
+   "summary": "N.N. Alexandrov is a GCP-certified, multi-disciplinary oncology centre with established Phase III trial capacity and robust infrastructure (ICU, imaging, investigational pharmacy, ethics approval in-house) that can rapidly activate solid tumour studies across the therapeutic spectrum.",
+   "email": "medinfoUS@takeda.com",
+   "phone": "877-825-3327",
+   "contact_name": "Takeda Contact",
+   "pi": "Study Director (Takeda)",
+   "channel": "email to medinfoUS@takeda.com + LinkedIn to Takeda Oncology Regional Head (Asia-Pacific/EMEA expansion)",
+   "who": "Takeda Global Clinical Operations or Regional Therapeutic Area Lead (Oncology)",
+   "angle": "TAK-928 NSCLC trial is currently recruiting in China, Japan, and US—Belarus offers EU regulatory pathway, untapped patient population with high lung cancer burden, and zero trial competition in this indication locally.",
+   "opener": "Takeda team,\n\nMediagram partners with N.N. Alexandrov National Cancer Centre (Minsk)—a 40-investigator, GCP-certified solid tumour centre with active Phase III oncology portfolio. Given TAK-928's recruitment profile across geographies, we can offer rapid EU-adjacent site activation for IO-resistant NSCLC, with in-house ethics, pharmacy, and imaging. Are you exploring Eastern European expansion for this programme?\n\nBest,\nMediagram BD",
+   "url": "https://clinicaltrials.gov/study/NCT07217301"
+  },
+  {
+   "nct": "NCT06745908",
+   "source": "ctgov",
+   "field": "oncology",
+   "score": 80,
+   "tier": "WARM",
+   "modality": "drug",
+   "note": "",
+   "region_sites": [],
+   "sponsor": "ImmunityBio, Inc.",
+   "title": "Clinical Trial of N-803 Plus Tislelizumab or Prior Failed Immune Checkpoint Inhibitor and Docetaxel Versus Docetaxel Monotherapy in Participants With Advanced or Metastatic Non-Small Cell Lung Cancer Who Have Acquired Resistance to Immune Checkpoint Inhibitor Therapy",
+   "status": "RECRUITING",
+   "phase": "PHASE3",
+   "countries": [
+    "Canada",
+    "United Kingdom",
+    "United States"
+   ],
+   "conditions": [
+    "NSCLC Stage IV"
+   ],
+   "posted": "2024-12-20",
+   "summary": "ImmunityBio is a clinical-stage biotech running a Phase III NSCLC immunotherapy trial across North America, and the Alexandrov Centre's 40 GCP-certified oncologists with proven Phase III experience and strong pulmonary oncology population make it an ideal site to expand their geographic footprint.",
+   "email": "Phillip.Trieu@immunitybio.com",
+   "phone": "856-739-5609",
+   "contact_name": "Phillip Trieu",
+   "pi": "",
+   "channel": "email",
+   "who": "Phillip Trieu, Study Contact",
+   "angle": "The Alexandrov Centre operates one of Eastern Europe's largest solid-tumour programs with extensive checkpoint-inhibitor trial experience, positioning it to accelerate NSCLC patient enrollment for this resistance-focused indication.",
+   "opener": "Hi Phillip, Mediogram has just partnered with the N.N. Alexandrov National Cancer Centre in Minsk—a 40-investigator GCP-certified centre with 10+ industry trials and particular strength in advanced lung oncology. We believe your N-803 + tislelizumab NSCLC Phase III trial could benefit from expanding into this mature, underutilized market. Would you be open to a brief call to explore site activation?",
+   "url": "https://clinicaltrials.gov/study/NCT06745908"
+  },
+  {
+   "nct": "NCT07754123",
+   "source": "ctgov",
+   "field": "oncology",
+   "score": 80,
+   "tier": "WARM",
+   "modality": "drug",
+   "note": "",
+   "region_sites": [],
+   "sponsor": "Jiangsu Hansoh Pharmaceutical Co., Ltd.",
+   "title": "Phase III Study of HS-10504 Versus Platinum-Based Doublet Chemotherapy in Patients With C797S+ NSCLC",
+   "status": "RECRUITING",
+   "phase": "PHASE3",
    "countries": [
     "China"
    ],
    "conditions": [
-    "Head and Neck Squamous Cell Carcinoma (HNSCC) - Recurrent/Metastatic (R/M)"
+    "Advanced or Metastatic NSCLC"
    ],
-   "posted": "2026-08-28",
-   "summary": "Taizhou Mabtech is a Chinese pharma company running a Phase 2/3 HNSCC trial currently limited to China, and they need to expand enrollment geographically to meet recruitment targets.",
-   "email": "zhangzheng1@zaiming.com",
-   "phone": "+86 25-85566666",
-   "contact_name": "Zheng Zhang",
+   "posted": "2026-08-10",
+   "summary": "Jiangsu Hansoh is a mid-tier Chinese pharma company launching a Phase III targeted NSCLC trial (C797S+ mutation) that needs GCP-certified solid-tumour sites with rapid enrollment capability in underserved geographies.",
+   "email": "",
+   "phone": "",
+   "contact_name": "",
    "pi": "",
-   "channel": "email to study contact with LinkedIn verification",
-   "who": "Zheng Zhang, Study Contact / Clinical Operations lead",
-   "angle": "Alexandrov Centre brings 40 GCP-certified investigators and established oncology infrastructure to accelerate R/M HNSCC enrollment beyond China's patient pool.",
-   "opener": "Hi Zheng, Mediogram partners with the N.N. Alexandrov National Cancer Centre in Minsk—40 GCP-certified investigators with deep HNSCC and metastatic solid tumour experience. We're writing because your Anyouping/Enlituo Phase 2/3 trial is currently China-only, and Belarus represents an under-tapped geography for R/M HNSCC recruitment. Would you be open to a brief call to discuss site activation? Best, Mediogram BD",
-   "url": "https://clinicaltrials.gov/study/NCT07791745"
+   "channel": "LinkedIn → email to clinical ops/trial management",
+   "who": "Clinical Trial Manager or Head of Clinical Operations",
+   "angle": "Hansoh's C797S NSCLC asset is pre-launch; Belarus offers 40 certified investigators, proven NSCLC volume, and EU regulatory bridge via Lithuania—ideal for competitive enrolment outside saturated Western markets.",
+   "opener": "We're Mediogram, a clinical-execution partner embedded in Eastern Europe's leading oncology centres. The N.N. Alexandrov Centre in Minsk has enrolled 10+ industry NSCLC trials and can activate 15–20 C797S+ patients rapidly. We manage regulatory, ethics, and site logistics end-to-end through our EU entity. Should we explore fit for HS-10504?",
+   "url": "https://clinicaltrials.gov/study/NCT07754123"
   },
   {
    "nct": "NCT07802821",
@@ -16528,38 +16692,6 @@
    "url": "https://clinicaltrials.gov/study/NCT07718737"
   },
   {
-   "nct": "NCT07756645",
-   "source": "ctgov",
-   "field": "oncology",
-   "score": 80,
-   "tier": "WARM",
-   "modality": "drug",
-   "note": "",
-   "region_sites": [],
-   "sponsor": "AbbVie",
-   "title": "A Study to Assess Intravenous ABBV-1480 Combined With Chemotherapy Versus Pembrolizumab Combined With Chemotherapy for the First Line Treatment of Locally Advanced/Metastatic Non-Small Cell Lung Cancer in Adult Participants",
-   "status": "RECRUITING",
-   "phase": "PHASE3",
-   "countries": [
-    "Puerto Rico",
-    "United States"
-   ],
-   "conditions": [
-    "Non-Small Cell Lung Cancer"
-   ],
-   "posted": "2026-08-10",
-   "summary": "Alexandrov is a 40-investigator, GCP-certified oncology centre in Minsk with active Phase III experience, inpatient infrastructure, and regulatory/ethics established—ideal for AbbVie's lung cancer immunotherapy trial requiring robust patient populations and trial-ready logistics.",
-   "email": "abbvieclinicaltrials@abbvie.com",
-   "phone": "844-663-3742",
-   "contact_name": "ABBVIE CALL CENTER",
-   "pi": "ABBVIE INC. (AbbVie)",
-   "channel": "Email to abbvieclinicaltrials@abbvie.com with CC to AbbVie's Clinical Operations or Oncology Development team (escalate via LinkedIn if no response in 5 days).",
-   "who": "Study Contact / Clinical Operations Manager, AbbVie Oncology",
-   "angle": "Alexandrov has enrolled 10+ industry trials with strong lung cancer patient flow and on-site ICU/imaging—critical for a Phase III chemo-immunotherapy study requiring intensive monitoring.",
-   "opener": "We are Mediogram, a clinical-execution partner now expanding oncology capacity across Eastern Europe through the N.N. Alexandrov National Cancer Centre in Minsk. With 40 GCP-certified investigators, established inpatient/ICU facilities, and regulatory/ethics infrastructure already in place, Alexandrov is well-positioned to enrol your ABBV-1480 + chemotherapy study in treatment-naïve locally advanced/metastatic NSCLC. We would welcome a call to discuss patient demographics, trial readiness, and contract terms. Best regards, Mediogram BD.",
-   "url": "https://clinicaltrials.gov/study/NCT07756645"
-  },
-  {
    "nct": "NCT07566052",
    "source": "ctgov",
    "field": "oncology",
@@ -16591,6 +16723,38 @@
    "angle": "The N.N. Alexandrov centre has 40 GCP-certified investigators, active lung cancer population, and 10+ industry trial track record—ready to activate quickly for KRAS-mutant patient screening in an underrepresented region.",
    "opener": "We're writing to introduce Mediogram as a clinical-execution partner in Eastern Europe. We've partnered with N.N. Alexandrov National Cancer Centre in Minsk—40 certified investigators with substantial NSCLC volume and proven industry-trial delivery. Given your current RECRUITING status on ASP3082, we'd welcome a brief call to explore whether Eastern European sites could accelerate your enrollment timeline. Best, Mediogram BD",
    "url": "https://clinicaltrials.gov/study/NCT07566052"
+  },
+  {
+   "nct": "NCT07756645",
+   "source": "ctgov",
+   "field": "oncology",
+   "score": 80,
+   "tier": "WARM",
+   "modality": "drug",
+   "note": "",
+   "region_sites": [],
+   "sponsor": "AbbVie",
+   "title": "A Study to Assess Intravenous ABBV-1480 Combined With Chemotherapy Versus Pembrolizumab Combined With Chemotherapy for the First Line Treatment of Locally Advanced/Metastatic Non-Small Cell Lung Cancer in Adult Participants",
+   "status": "RECRUITING",
+   "phase": "PHASE3",
+   "countries": [
+    "Puerto Rico",
+    "United States"
+   ],
+   "conditions": [
+    "Non-Small Cell Lung Cancer"
+   ],
+   "posted": "2026-08-10",
+   "summary": "Alexandrov is a 40-investigator, GCP-certified oncology centre in Minsk with active Phase III experience, inpatient infrastructure, and regulatory/ethics established—ideal for AbbVie's lung cancer immunotherapy trial requiring robust patient populations and trial-ready logistics.",
+   "email": "abbvieclinicaltrials@abbvie.com",
+   "phone": "844-663-3742",
+   "contact_name": "ABBVIE CALL CENTER",
+   "pi": "ABBVIE INC. (AbbVie)",
+   "channel": "Email to abbvieclinicaltrials@abbvie.com with CC to AbbVie's Clinical Operations or Oncology Development team (escalate via LinkedIn if no response in 5 days).",
+   "who": "Study Contact / Clinical Operations Manager, AbbVie Oncology",
+   "angle": "Alexandrov has enrolled 10+ industry trials with strong lung cancer patient flow and on-site ICU/imaging—critical for a Phase III chemo-immunotherapy study requiring intensive monitoring.",
+   "opener": "We are Mediogram, a clinical-execution partner now expanding oncology capacity across Eastern Europe through the N.N. Alexandrov National Cancer Centre in Minsk. With 40 GCP-certified investigators, established inpatient/ICU facilities, and regulatory/ethics infrastructure already in place, Alexandrov is well-positioned to enrol your ABBV-1480 + chemotherapy study in treatment-naïve locally advanced/metastatic NSCLC. We would welcome a call to discuss patient demographics, trial readiness, and contract terms. Best regards, Mediogram BD.",
+   "url": "https://clinicaltrials.gov/study/NCT07756645"
   },
   {
    "nct": "NCT07279935",
@@ -18049,39 +18213,6 @@
    "url": "https://clinicaltrials.gov/study/NCT05965999"
   },
   {
-   "nct": "NCT07505797",
-   "source": "ctgov",
-   "field": "oncology",
-   "score": 75,
-   "tier": "WARM",
-   "modality": "device",
-   "note": "",
-   "region_sites": [],
-   "sponsor": "iSono Health, Inc.",
-   "title": "ATUSA Ultrasound Diagnostic Imaging for Breast Lesions Evaluation (AUDIBLE) - iSono Health",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "countries": [
-    "United States"
-   ],
-   "conditions": [
-    "Breast Cancer",
-    "Benign Breast Condition",
-    "Breast Fibroadenoma"
-   ],
-   "posted": "2026-04-01",
-   "summary": "iSono Health is developing an automated 3D breast ultrasound device for cancer detection and is actively recruiting sites across the US for their AUDIBLE trial.",
-   "email": "ATUSA@isonohealth.com",
-   "phone": "415-857-3073",
-   "contact_name": "Neda Razavi",
-   "pi": "",
-   "channel": "Email to study contact + LinkedIn to iSono clinical/regulatory leadership",
-   "who": "Neda Razavi (Study Contact) + VP Clinical Operations or Head of Clinical Affairs",
-   "angle": "Alexandrov Centre's 40 GCP-certified investigators and established breast oncology programme can accelerate AUDIBLE's international expansion while iSono scales site diversity beyond US.",
-   "opener": "Hi Neda — Mediogram partners with leading cancer centres across Eastern Europe to expand device and Phase III/IV trials into underserved geographies. The N.N. Alexandrov National Cancer Centre (Minsk) has 40+ GCP-certified investigators, active breast oncology cohorts, and full regulatory/ethics infrastructure. We'd welcome a conversation about whether international sites could support AUDIBLE's recruitment timeline. Best — Mediogram BD",
-   "url": "https://clinicaltrials.gov/study/NCT07505797"
-  },
-  {
    "nct": "NCT07824583",
    "source": "ctgov",
    "field": "oncology",
@@ -18113,6 +18244,39 @@
    "angle": "Offer to bring the NGDS trial to a fully equipped, GCP-certified oncology centre in a high-need region currently underrepresented in Varian's trial footprint.",
    "opener": "Hi Jennifer, Mediogram partners with the N.N. Alexandrov National Cancer Centre in Minsk—a 40-investigator, GCP-certified solid tumour centre with active radiation oncology, inpatient/ICU, imaging, and full on-site pharmacy infrastructure. We understand Varian's NGDS trial is recruiting across thoracic and abdominal cancers. We'd like to explore bringing this device study to Belarus, where there's both clinical need and regulatory readiness. Could we schedule a brief call to discuss site suitability? Best, [Your name], BD, Mediogram",
    "url": "https://clinicaltrials.gov/study/NCT07824583"
+  },
+  {
+   "nct": "NCT07505797",
+   "source": "ctgov",
+   "field": "oncology",
+   "score": 75,
+   "tier": "WARM",
+   "modality": "device",
+   "note": "",
+   "region_sites": [],
+   "sponsor": "iSono Health, Inc.",
+   "title": "ATUSA Ultrasound Diagnostic Imaging for Breast Lesions Evaluation (AUDIBLE) - iSono Health",
+   "status": "RECRUITING",
+   "phase": "NA",
+   "countries": [
+    "United States"
+   ],
+   "conditions": [
+    "Breast Cancer",
+    "Benign Breast Condition",
+    "Breast Fibroadenoma"
+   ],
+   "posted": "2026-04-01",
+   "summary": "iSono Health is developing an automated 3D breast ultrasound device for cancer detection and is actively recruiting sites across the US for their AUDIBLE trial.",
+   "email": "ATUSA@isonohealth.com",
+   "phone": "415-857-3073",
+   "contact_name": "Neda Razavi",
+   "pi": "",
+   "channel": "Email to study contact + LinkedIn to iSono clinical/regulatory leadership",
+   "who": "Neda Razavi (Study Contact) + VP Clinical Operations or Head of Clinical Affairs",
+   "angle": "Alexandrov Centre's 40 GCP-certified investigators and established breast oncology programme can accelerate AUDIBLE's international expansion while iSono scales site diversity beyond US.",
+   "opener": "Hi Neda — Mediogram partners with leading cancer centres across Eastern Europe to expand device and Phase III/IV trials into underserved geographies. The N.N. Alexandrov National Cancer Centre (Minsk) has 40+ GCP-certified investigators, active breast oncology cohorts, and full regulatory/ethics infrastructure. We'd welcome a conversation about whether international sites could support AUDIBLE's recruitment timeline. Best — Mediogram BD",
+   "url": "https://clinicaltrials.gov/study/NCT07505797"
   },
   {
    "nct": "NCT06486454",
@@ -18214,37 +18378,6 @@
    "url": "https://clinicaltrials.gov/study/NCT05804318"
   },
   {
-   "nct": "NCT06830265",
-   "source": "ctgov",
-   "field": "oncology",
-   "score": 75,
-   "tier": "WARM",
-   "modality": "device",
-   "note": "",
-   "region_sites": [],
-   "sponsor": "Uro-1 Medical",
-   "title": "Comparing Standard of Care Biopsy System to a Novel Biopsy Needle System by Computational Pathologic Analysis",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "countries": [
-    "United States"
-   ],
-   "conditions": [
-    "Prostate Cancer Screening"
-   ],
-   "posted": "2025-02-17",
-   "summary": "Uro-1 Medical is a device company running a prostate biopsy innovation trial currently limited to US sites, and the Alexandrov Centre's 40 GCP-certified investigators and dedicated urologic oncology program make it an ideal geography to expand their multinational evidence base.",
-   "email": "tlawson@uro1medical.com",
-   "phone": "510-206-1794",
-   "contact_name": "Thomas Lawson, PhD",
-   "pi": "Thomas Lawson (Uro-1 Medical)",
-   "channel": "email",
-   "who": "Thomas Lawson, PhD (Study Contact)",
-   "angle": "Offer Eastern European enrollment to accelerate recruitment and strengthen computational pathology validation across diverse populations beyond current US-only footprint.",
-   "opener": "Hi Thomas — We've noticed your prostate biopsy needle trial is currently US-based and recruiting. The N.N. Alexandrov National Cancer Centre in Minsk operates 40 GCP-certified investigators with established urologic oncology infrastructure and ethics approval pathways; we'd like to explore adding 1–2 sites to diversify your study population and accelerate enrollment. Would a brief call make sense this week? Best, Mediogram BD",
-   "url": "https://clinicaltrials.gov/study/NCT06830265"
-  },
-  {
    "nct": "NCT07860398",
    "source": "ctgov",
    "field": "oncology",
@@ -18274,37 +18407,6 @@
    "angle": "Offer to bring their ATLAS bladder cancer device trial to a high-volume Eastern European centre with established urologic surgery expertise and proven device-trial track record.",
    "opener": "We partner with the N.N. Alexandrov National Cancer Centre in Minsk—a leading solid-tumour centre with 40 GCP-certified investigators and a dedicated urologic oncology programme performing 10+ industry trials annually. We noticed your ATLAS feasibility study is currently recruiting in Denmark; we'd welcome a conversation about expanding recruitment into Belarus with our established regulatory, ethics, and surgical infrastructure already in place. Best regards, [Your Name], Business Development, Mediogram",
    "url": "https://clinicaltrials.gov/study/NCT07860398"
-  },
-  {
-   "nct": "NCT07624318",
-   "source": "ctgov",
-   "field": "oncology",
-   "score": 75,
-   "tier": "WARM",
-   "modality": "device",
-   "note": "",
-   "region_sites": [],
-   "sponsor": "AstraZeneca",
-   "title": "TROP2 NMR Concordance Study",
-   "status": "RECRUITING",
-   "phase": "NA",
-   "countries": [
-    "China"
-   ],
-   "conditions": [
-    "Lung Cancer"
-   ],
-   "posted": "2026-06-03",
-   "summary": "Alexandrov is a GCP-certified, multi-disciplinary solid-tumour centre with established oncology trial infrastructure and regulatory relationships that matches AstraZeneca's need for rigorous Phase III/IV execution in Eastern Europe.",
-   "email": "information.center@astrazeneca.com",
-   "phone": "1-877-240-9479",
-   "contact_name": "AstraZeneca Clinical Study Information Center",
-   "pi": "zhiyong Liang (Peking Union Medical College Hospital)",
-   "channel": "email to study contact with CC to regional oncology operations",
-   "who": "AstraZeneca Clinical Study Information Center + Regional Oncology Operations Lead",
-   "angle": "TROP2 NMR device concordance in lung cancer requires experienced, GCP-accredited sites with imaging and investigational-pharmacy infrastructure—Alexandrov operates all three in a regulated EU-adjacent jurisdiction.",
-   "opener": "We are Mediogram, a clinical-execution partner expanding oncology capacity in Eastern Europe through the Alexandrov National Cancer Centre in Minsk—40 GCP-certified investigators, on-site imaging, ICU, and investigational pharmacy with 10+ active industry trials. We noticed your TROP2 NMR Concordance Study is currently recruiting in China and would welcome a conversation about extending enrolment into Belarus under EU-standard regulatory and ethics oversight. Please let us know if additional site capacity in solid tumours would be of interest.\n\nBest regards,\nMediogram BD",
-   "url": "https://clinicaltrials.gov/study/NCT07624318"
   },
   {
    "nct": "NCT07224464",
@@ -18337,135 +18439,6 @@
    "angle": "Currently recruiting across US only—Eastern European site with 40 certified investigators and 10+ active industry trials can accelerate patient enrollment for metastatic solid tumors while meeting device trial regulatory requirements.",
    "opener": "Hi New Phase Clinical Team, we represent Mediogram, a clinical-execution partner operating the N.N. Alexandrov National Cancer Centre in Minsk—a GCP-certified, 40-investigator oncology center actively enrolling metastatic solid tumor patients across breast, lung, GI, urologic, and gynecologic cancers. Given your Sarah Nanotechnology trial is currently US-only and recruiting, we'd like to explore whether geographic expansion into Eastern Europe could accelerate your enrollment timeline. Would a brief call with our site leadership be useful? Best, Mediogram BD",
    "url": "https://clinicaltrials.gov/study/NCT07224464"
-  },
-  {
-   "nct": "NCT07392892",
-   "source": "ctgov",
-   "field": "oncology",
-   "score": 73,
-   "tier": "WARM",
-   "modality": "advanced therapy",
-   "note": "",
-   "region_sites": [],
-   "sponsor": "Pfizer",
-   "title": "Symbiotic-GI-16: A Study to Learn About the Study Medicine Called PF-08634404 in Combination With Chemotherapy in Gastroesophageal Cancer",
-   "status": "RECRUITING",
-   "phase": "PHASE2/PHASE3",
-   "countries": [
-    "Canada",
-    "China",
-    "France",
-    "Israel",
-    "Italy",
-    "Japan",
-    "Puerto Rico",
-    "Spain",
-    "Taiwan",
-    "United States"
-   ],
-   "conditions": [
-    "Untreated Advanced or Metastatic Gastric, Gastroesophageal Junction , or Esophageal Adenocarcinoma",
-    "Metastatic Gastric Cancer",
-    "Gastroesophageal Junction Cancer"
-   ],
-   "posted": "2026-02-06",
-   "summary": "Alexandrov is a GCP-certified, Phase III-capable oncology centre with 40+ investigators and established trial infrastructure, making it an ideal fit for Pfizer's multi-arm gastric cancer study across solid tumour expertise.",
-   "email": "ClinicalTrials.gov_Inquiries@pfizer.com",
-   "phone": "1-800-718-1021",
-   "contact_name": "Pfizer CT.gov Call Center",
-   "pi": "Pfizer CT.gov Call Center (Pfizer)",
-   "channel": "Email to Pfizer's CRO/Regional Medical Affairs + clinical ops",
-   "who": "Pfizer Oncology Regional Director (Eastern Europe) or Symbiotic-GI-16 CRO Trial Manager",
-   "angle": "Alexandrov has active GI oncology programmes and unmet gastric/GEJ trial capacity in an underrepresented Eastern European region where Pfizer has limited current Symbiotic-GI-16 footprint.",
-   "opener": "We represent N.N. Alexandrov National Cancer Centre in Minsk—a 40-investigator, GCP-certified solid-tumour centre with dedicated gastroenterologic and medical oncology units currently treating advanced gastric and GEJ cancers. We're exploring site activation for Symbiotic-GI-16 and can provide regulatory, ethics, and study logistics support through our established EU-entity infrastructure. Would you welcome a brief qualification discussion?",
-   "url": "https://clinicaltrials.gov/study/NCT07392892"
-  },
-  {
-   "nct": "NCT07419295",
-   "source": "ctgov",
-   "field": "oncology",
-   "score": 73,
-   "tier": "WARM",
-   "modality": "advanced therapy",
-   "note": "",
-   "region_sites": [],
-   "sponsor": "Merck Sharp & Dohme LLC",
-   "title": "A Clinical Trial of Sacituzumab Tirumotecan (Sac-TMT, MK-2870) to Treat Urothelial Cancer (MK-2870-031)",
-   "status": "RECRUITING",
-   "phase": "PHASE3",
-   "countries": [
-    "Argentina",
-    "Australia",
-    "Belgium",
-    "Brazil",
-    "Canada",
-    "China",
-    "France",
-    "Germany",
-    "Greece",
-    "Israel",
-    "Italy",
-    "Japan",
-    "Netherlands",
-    "Spain",
-    "Sweden",
-    "United Kingdom",
-    "United States"
-   ],
-   "conditions": [
-    "Bladder Cancer"
-   ],
-   "posted": "2026-02-19",
-   "summary": "Merck is running a Phase III urothelial cancer trial (Sac-TMT) across 17 countries and needs to expand recruitment capacity in underserved Eastern European markets where Mediogram operates.",
-   "email": "Trialsites@msd.com",
-   "phone": "1-888-577-8839",
-   "contact_name": "Toll Free Number",
-   "pi": "Medical Director (Merck Sharp & Dohme LLC)",
-   "channel": "Email to Trialsites@msd.com with Merck Oncology site development team CC'd",
-   "who": "Clinical Trial Site Manager / Oncology Regional Lead (Merck) — escalate through trial contact, then seek site development",
-   "angle": "N.N. Alexandrov has 40 GCP-certified investigators, urologic cancer expertise, and active phase III track record; Belarus is a geographically and ethnically distinct recruitment pool underrepresented in MK-2870-031's current 17-country footprint.",
-   "opener": "We partner with N.N. Alexandrov National Cancer Centre (Minsk) — a 40-investigator, GCP-certified oncology centre with established phase III capability and significant urothelial cancer patient volume. Given MK-2870-031's active recruiting status, we'd welcome a conversation about expanding your Eastern European recruitment network through a qualified, compliant partner. Please let us know the best contact for your site development team.",
-   "url": "https://clinicaltrials.gov/study/NCT07419295"
-  },
-  {
-   "nct": "NCT07226999",
-   "source": "ctgov",
-   "field": "oncology",
-   "score": 73,
-   "tier": "WARM",
-   "modality": "advanced therapy",
-   "note": "",
-   "region_sites": [],
-   "sponsor": "Pfizer",
-   "title": "Symbiotic-Lung-04: A Study to Learn About the Study Medicine Called PF-08634404 in Combination With Chemotherapy in Adult Participants With Extensive-Stage Small Cell Lung Cancer",
-   "status": "RECRUITING",
-   "phase": "PHASE2/PHASE3",
-   "countries": [
-    "Australia",
-    "China",
-    "France",
-    "Germany",
-    "Italy",
-    "Japan",
-    "Puerto Rico",
-    "Spain",
-    "Taiwan",
-    "United States"
-   ],
-   "conditions": [
-    "Small Cell Lung Cancer (SCLC)"
-   ],
-   "posted": "2025-11-12",
-   "summary": "Pfizer is actively recruiting for a Phase 2/3 advanced therapy trial in extensive-stage SCLC combining immunotherapy with chemotherapy, and the Alexandrov Centre's lung cancer expertise, GCP-certified investigators, and established trial infrastructure make it an ideal Eastern European site to expand their geographic footprint.",
-   "email": "ClinicalTrials.gov_Inquiries@pfizer.com",
-   "phone": "1-800-718-1021",
-   "contact_name": "Pfizer CT.gov Call Center",
-   "pi": "Pfizer CT.gov Call Center (Pfizer)",
-   "channel": "Email to Pfizer's clinical operations/site development team (via ClinicalTrials.gov contact, then route internally)",
-   "who": "Pfizer Clinical Operations Director or Regional Site Development Manager (Eastern Europe/CIS)",
-   "angle": "Offer immediate site activation in Belarus with 40 GCP-certified oncologists, proven lung cancer patient volume, full Phase 3 infrastructure (ICU, imaging, investigational pharmacy, -80°C storage), and regulatory/ethics pathway already established through Mediogram's EU entity—closing a recruitment gap in an underserved region.",
-   "opener": "Pfizer's Symbiotic-Lung-04 is currently recruiting across 10 countries, but Eastern Europe remains a white space. The N.N. Alexandrov National Cancer Centre in Minsk brings 40 GCP-certified investigators with demonstrated SCLC patient access, on-site ICU and advanced imaging, and Mediogram's established regulatory and ethics pathway to accelerate enrollment. We're ready to activate within 60 days. May we schedule a brief call to discuss site requirements and our operational capabilities?",
-   "url": "https://clinicaltrials.gov/study/NCT07226999"
   },
   {
    "nct": "NCT07060807",
@@ -18524,6 +18497,78 @@
    "angle": "",
    "opener": "",
    "url": "https://clinicaltrials.gov/study/NCT07060807"
+  },
+  {
+   "nct": "NCT06312176",
+   "source": "ctgov",
+   "field": "oncology",
+   "score": 63,
+   "tier": "WATCH",
+   "modality": "advanced therapy",
+   "note": "",
+   "region_sites": [
+    "Poland"
+   ],
+   "sponsor": "Merck Sharp & Dohme LLC",
+   "title": "A Study of Sacituzumab Tirumotecan (MK-2870) as a Single Agent and in Combination With Pembrolizumab (MK-3475) Versus Treatment of Physician's Choice in Participants With HR+/HER2- Unresectable Locally Advanced or Metastatic Breast Cancer (MK-2870-010)",
+   "status": "RECRUITING",
+   "phase": "PHASE3",
+   "countries": [
+    "Argentina",
+    "Australia",
+    "Belgium",
+    "Brazil",
+    "Canada",
+    "Chile",
+    "Colombia",
+    "Costa Rica",
+    "Czechia",
+    "Denmark",
+    "France",
+    "Germany",
+    "Greece",
+    "Hong Kong",
+    "Hungary",
+    "India",
+    "Ireland",
+    "Israel",
+    "Italy",
+    "Japan",
+    "Malaysia",
+    "Mexico",
+    "Netherlands",
+    "New Zealand",
+    "Peru",
+    "Philippines",
+    "Poland",
+    "Portugal",
+    "Puerto Rico",
+    "Romania",
+    "Singapore",
+    "South Africa",
+    "South Korea",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "Taiwan",
+    "Turkey (Türkiye)",
+    "United Kingdom",
+    "United States"
+   ],
+   "conditions": [
+    "Breast Neoplasms"
+   ],
+   "posted": "2024-03-15",
+   "summary": "",
+   "email": "Trialsites@msd.com",
+   "phone": "1-888-577-8839",
+   "contact_name": "Toll Free Number",
+   "pi": "Medical Director (Merck Sharp & Dohme LLC)",
+   "channel": "",
+   "who": "",
+   "angle": "",
+   "opener": "",
+   "url": "https://clinicaltrials.gov/study/NCT06312176"
   },
   {
    "nct": "NCT06841354",
@@ -18731,78 +18776,6 @@
    "angle": "",
    "opener": "",
    "url": "https://clinicaltrials.gov/study/NCT06966700"
-  },
-  {
-   "nct": "NCT06312176",
-   "source": "ctgov",
-   "field": "oncology",
-   "score": 63,
-   "tier": "WATCH",
-   "modality": "advanced therapy",
-   "note": "",
-   "region_sites": [
-    "Poland"
-   ],
-   "sponsor": "Merck Sharp & Dohme LLC",
-   "title": "A Study of Sacituzumab Tirumotecan (MK-2870) as a Single Agent and in Combination With Pembrolizumab (MK-3475) Versus Treatment of Physician's Choice in Participants With HR+/HER2- Unresectable Locally Advanced or Metastatic Breast Cancer (MK-2870-010)",
-   "status": "RECRUITING",
-   "phase": "PHASE3",
-   "countries": [
-    "Argentina",
-    "Australia",
-    "Belgium",
-    "Brazil",
-    "Canada",
-    "Chile",
-    "Colombia",
-    "Costa Rica",
-    "Czechia",
-    "Denmark",
-    "France",
-    "Germany",
-    "Greece",
-    "Hong Kong",
-    "Hungary",
-    "India",
-    "Ireland",
-    "Israel",
-    "Italy",
-    "Japan",
-    "Malaysia",
-    "Mexico",
-    "Netherlands",
-    "New Zealand",
-    "Peru",
-    "Philippines",
-    "Poland",
-    "Portugal",
-    "Puerto Rico",
-    "Romania",
-    "Singapore",
-    "South Africa",
-    "South Korea",
-    "Spain",
-    "Sweden",
-    "Switzerland",
-    "Taiwan",
-    "Turkey (Türkiye)",
-    "United Kingdom",
-    "United States"
-   ],
-   "conditions": [
-    "Breast Neoplasms"
-   ],
-   "posted": "2024-03-15",
-   "summary": "",
-   "email": "Trialsites@msd.com",
-   "phone": "1-888-577-8839",
-   "contact_name": "Toll Free Number",
-   "pi": "Medical Director (Merck Sharp & Dohme LLC)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
-   "url": "https://clinicaltrials.gov/study/NCT06312176"
   },
   {
    "nct": "NCT07222800",
@@ -19353,7 +19326,7 @@
    "url": "https://clinicaltrials.gov/study/NCT06824467"
   },
   {
-   "nct": "NCT07513376",
+   "nct": "NCT07431827",
    "source": "ctgov",
    "field": "oncology",
    "score": 63,
@@ -19361,38 +19334,38 @@
    "modality": "advanced therapy",
    "note": "",
    "region_sites": [
-    "Poland"
+    "Poland",
+    "Ukraine"
    ],
    "sponsor": "Merck Sharp & Dohme LLC",
-   "title": "A Clinical Trial of Adjuvant Intismeran (V940) With or Without Pembrolizumab Coformulated With Berahyaluronidase Alfa (MK-3475A) in High-Risk Stage I Non-Small Cell Lung Cancer (V940-014)",
+   "title": "MK-3475A±Calderasib (MK-1084) in Completely Resected Stage IIA-IIIB (N2) KRAS G12Cm NSCLC (MK-1084-013)",
    "status": "RECRUITING",
    "phase": "PHASE3",
    "countries": [
+    "Argentina",
     "Australia",
     "Brazil",
     "Canada",
     "Chile",
+    "China",
     "Colombia",
     "France",
-    "Germany",
     "Greece",
-    "Hungary",
-    "Israel",
+    "Hong Kong",
     "Italy",
     "Japan",
-    "Netherlands",
     "Poland",
     "South Korea",
     "Spain",
     "Taiwan",
     "Turkey (Türkiye)",
-    "United Kingdom",
-    "United States"
+    "Ukraine",
+    "United Kingdom"
    ],
    "conditions": [
     "Non-small Cell Lung Cancer"
    ],
-   "posted": "2026-04-07",
+   "posted": "2026-02-25",
    "summary": "",
    "email": "Trialsites@msd.com",
    "phone": "1-888-577-8839",
@@ -19402,7 +19375,58 @@
    "who": "",
    "angle": "",
    "opener": "",
-   "url": "https://clinicaltrials.gov/study/NCT07513376"
+   "url": "https://clinicaltrials.gov/study/NCT07431827"
+  },
+  {
+   "nct": "NCT07554339",
+   "source": "ctgov",
+   "field": "oncology",
+   "score": 63,
+   "tier": "WATCH",
+   "modality": "advanced therapy",
+   "note": "",
+   "region_sites": [
+    "Poland",
+    "Ukraine"
+   ],
+   "sponsor": "Merck Sharp & Dohme LLC",
+   "title": "A Clinical Trial of Calderasib (MK-1084) and Durvalumab in People With Non-Small Cell Lung Cancer (MK-1084-015/KANDLELIT-015)",
+   "status": "RECRUITING",
+   "phase": "PHASE3",
+   "countries": [
+    "Argentina",
+    "Australia",
+    "Brazil",
+    "China",
+    "France",
+    "Germany",
+    "Greece",
+    "Italy",
+    "Japan",
+    "Netherlands",
+    "Poland",
+    "South Korea",
+    "Spain",
+    "Taiwan",
+    "Turkey (Türkiye)",
+    "Ukraine",
+    "United Kingdom",
+    "United States"
+   ],
+   "conditions": [
+    "Non-small Cell Lung Cancer"
+   ],
+   "posted": "2026-04-28",
+   "summary": "",
+   "email": "Trialsites@msd.com",
+   "phone": "1-888-577-8839",
+   "contact_name": "Toll Free Number",
+   "pi": "Medical Director (Merck Sharp & Dohme LLC)",
+   "channel": "",
+   "who": "",
+   "angle": "",
+   "opener": "",
+   "url": "https://clinicaltrials.gov/study/NCT07554339"
   },
   {
    "nct": "NCT06623422",
@@ -19466,6 +19490,58 @@
    "angle": "",
    "opener": "",
    "url": "https://clinicaltrials.gov/study/NCT06623422"
+  },
+  {
+   "nct": "NCT07513376",
+   "source": "ctgov",
+   "field": "oncology",
+   "score": 63,
+   "tier": "WATCH",
+   "modality": "advanced therapy",
+   "note": "",
+   "region_sites": [
+    "Poland"
+   ],
+   "sponsor": "Merck Sharp & Dohme LLC",
+   "title": "A Clinical Trial of Adjuvant Intismeran (V940) With or Without Pembrolizumab Coformulated With Berahyaluronidase Alfa (MK-3475A) in High-Risk Stage I Non-Small Cell Lung Cancer (V940-014)",
+   "status": "RECRUITING",
+   "phase": "PHASE3",
+   "countries": [
+    "Australia",
+    "Brazil",
+    "Canada",
+    "Chile",
+    "Colombia",
+    "France",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Israel",
+    "Italy",
+    "Japan",
+    "Netherlands",
+    "Poland",
+    "South Korea",
+    "Spain",
+    "Taiwan",
+    "Turkey (Türkiye)",
+    "United Kingdom",
+    "United States"
+   ],
+   "conditions": [
+    "Non-small Cell Lung Cancer"
+   ],
+   "posted": "2026-04-07",
+   "summary": "",
+   "email": "Trialsites@msd.com",
+   "phone": "1-888-577-8839",
+   "contact_name": "Toll Free Number",
+   "pi": "Medical Director (Merck Sharp & Dohme LLC)",
+   "channel": "",
+   "who": "",
+   "angle": "",
+   "opener": "",
+   "url": "https://clinicaltrials.gov/study/NCT07513376"
   },
   {
    "nct": "NCT06422143",
@@ -19650,57 +19726,6 @@
    "url": "https://clinicaltrials.gov/study/NCT06170788"
   },
   {
-   "nct": "NCT07554339",
-   "source": "ctgov",
-   "field": "oncology",
-   "score": 63,
-   "tier": "WATCH",
-   "modality": "advanced therapy",
-   "note": "",
-   "region_sites": [
-    "Poland",
-    "Ukraine"
-   ],
-   "sponsor": "Merck Sharp & Dohme LLC",
-   "title": "A Clinical Trial of Calderasib (MK-1084) and Durvalumab in People With Non-Small Cell Lung Cancer (MK-1084-015/KANDLELIT-015)",
-   "status": "RECRUITING",
-   "phase": "PHASE3",
-   "countries": [
-    "Argentina",
-    "Australia",
-    "Brazil",
-    "China",
-    "France",
-    "Germany",
-    "Greece",
-    "Italy",
-    "Japan",
-    "Netherlands",
-    "Poland",
-    "South Korea",
-    "Spain",
-    "Taiwan",
-    "Turkey (Türkiye)",
-    "Ukraine",
-    "United Kingdom",
-    "United States"
-   ],
-   "conditions": [
-    "Non-small Cell Lung Cancer"
-   ],
-   "posted": "2026-04-28",
-   "summary": "",
-   "email": "Trialsites@msd.com",
-   "phone": "1-888-577-8839",
-   "contact_name": "Toll Free Number",
-   "pi": "Medical Director (Merck Sharp & Dohme LLC)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
-   "url": "https://clinicaltrials.gov/study/NCT07554339"
-  },
-  {
    "nct": "NCT07190248",
    "source": "ctgov",
    "field": "oncology",
@@ -19762,58 +19787,6 @@
    "angle": "",
    "opener": "",
    "url": "https://clinicaltrials.gov/study/NCT07190248"
-  },
-  {
-   "nct": "NCT07431827",
-   "source": "ctgov",
-   "field": "oncology",
-   "score": 63,
-   "tier": "WATCH",
-   "modality": "advanced therapy",
-   "note": "",
-   "region_sites": [
-    "Poland",
-    "Ukraine"
-   ],
-   "sponsor": "Merck Sharp & Dohme LLC",
-   "title": "MK-3475A±Calderasib (MK-1084) in Completely Resected Stage IIA-IIIB (N2) KRAS G12Cm NSCLC (MK-1084-013)",
-   "status": "RECRUITING",
-   "phase": "PHASE3",
-   "countries": [
-    "Argentina",
-    "Australia",
-    "Brazil",
-    "Canada",
-    "Chile",
-    "China",
-    "Colombia",
-    "France",
-    "Greece",
-    "Hong Kong",
-    "Italy",
-    "Japan",
-    "Poland",
-    "South Korea",
-    "Spain",
-    "Taiwan",
-    "Turkey (Türkiye)",
-    "Ukraine",
-    "United Kingdom"
-   ],
-   "conditions": [
-    "Non-small Cell Lung Cancer"
-   ],
-   "posted": "2026-02-25",
-   "summary": "",
-   "email": "Trialsites@msd.com",
-   "phone": "1-888-577-8839",
-   "contact_name": "Toll Free Number",
-   "pi": "Medical Director (Merck Sharp & Dohme LLC)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
-   "url": "https://clinicaltrials.gov/study/NCT07431827"
   },
   {
    "nct": "NCT06345729",
@@ -20250,58 +20223,6 @@
    "url": "https://clinicaltrials.gov/study/NCT07633613"
   },
   {
-   "nct": "NCT07173751",
-   "source": "ctgov",
-   "field": "oncology",
-   "score": 60,
-   "tier": "WATCH",
-   "modality": "drug",
-   "note": "",
-   "region_sites": [
-    "Georgia",
-    "Poland"
-   ],
-   "sponsor": "BioNTech SE",
-   "title": "ROSETTA Breast-01: The Effects and Safety of Pumitamig in Patients With Triple-Negative Breast Cancer",
-   "status": "RECRUITING",
-   "phase": "PHASE3",
-   "countries": [
-    "Argentina",
-    "Australia",
-    "Belgium",
-    "Brazil",
-    "Canada",
-    "China",
-    "Czechia",
-    "Georgia",
-    "Germany",
-    "Italy",
-    "Japan",
-    "Mexico",
-    "Netherlands",
-    "Poland",
-    "Singapore",
-    "South Korea",
-    "Spain",
-    "United Kingdom",
-    "United States"
-   ],
-   "conditions": [
-    "Breast Neoplasms"
-   ],
-   "posted": "2025-09-15",
-   "summary": "",
-   "email": "patients@biontech.de",
-   "phone": "+49 6131 9084",
-   "contact_name": "BioNTech clinical trials patient information",
-   "pi": "BioNTech Responsible Person (BioNTech SE)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
-   "url": "https://clinicaltrials.gov/study/NCT07173751"
-  },
-  {
    "nct": "NCT06380751",
    "source": "ctgov",
    "field": "oncology",
@@ -20361,6 +20282,58 @@
    "angle": "",
    "opener": "",
    "url": "https://clinicaltrials.gov/study/NCT06380751"
+  },
+  {
+   "nct": "NCT07173751",
+   "source": "ctgov",
+   "field": "oncology",
+   "score": 60,
+   "tier": "WATCH",
+   "modality": "drug",
+   "note": "",
+   "region_sites": [
+    "Georgia",
+    "Poland"
+   ],
+   "sponsor": "BioNTech SE",
+   "title": "ROSETTA Breast-01: The Effects and Safety of Pumitamig in Patients With Triple-Negative Breast Cancer",
+   "status": "RECRUITING",
+   "phase": "PHASE3",
+   "countries": [
+    "Argentina",
+    "Australia",
+    "Belgium",
+    "Brazil",
+    "Canada",
+    "China",
+    "Czechia",
+    "Georgia",
+    "Germany",
+    "Italy",
+    "Japan",
+    "Mexico",
+    "Netherlands",
+    "Poland",
+    "Singapore",
+    "South Korea",
+    "Spain",
+    "United Kingdom",
+    "United States"
+   ],
+   "conditions": [
+    "Breast Neoplasms"
+   ],
+   "posted": "2025-09-15",
+   "summary": "",
+   "email": "patients@biontech.de",
+   "phone": "+49 6131 9084",
+   "contact_name": "BioNTech clinical trials patient information",
+   "pi": "BioNTech Responsible Person (BioNTech SE)",
+   "channel": "",
+   "who": "",
+   "angle": "",
+   "opener": "",
+   "url": "https://clinicaltrials.gov/study/NCT07173751"
   },
   {
    "nct": "NCT05696626",
@@ -20578,6 +20551,36 @@
    "url": "https://clinicaltrials.gov/study/NCT07892274"
   },
   {
+   "nct": "NCT07828054",
+   "source": "ctgov",
+   "field": "oncology",
+   "score": 60,
+   "tier": "WATCH",
+   "modality": "drug",
+   "note": "",
+   "region_sites": [],
+   "sponsor": "Mario Negri Institute for Pharmacological Research",
+   "title": "Premedication With Dexamethasone for Preventing Interstitial Lung Disease in Patients With Breast Cancer Treated With Trastuzumab Deruxtecan",
+   "status": "NOT_YET_RECRUITING",
+   "phase": "PHASE3",
+   "countries": [],
+   "conditions": [
+    "Breast Cancer",
+    "Interstitial Lung Disease (ILD)"
+   ],
+   "posted": "2026-09-18",
+   "summary": "",
+   "email": "irene.desimone@marionegri.it",
+   "phone": "+39",
+   "contact_name": "Irene De Simone, MSc",
+   "pi": "",
+   "channel": "",
+   "who": "",
+   "angle": "",
+   "opener": "",
+   "url": "https://clinicaltrials.gov/study/NCT07828054"
+  },
+  {
    "nct": "NCT07062965",
    "source": "ctgov",
    "field": "oncology",
@@ -20680,36 +20683,6 @@
    "angle": "",
    "opener": "",
    "url": "https://clinicaltrials.gov/study/NCT07647328"
-  },
-  {
-   "nct": "NCT07828054",
-   "source": "ctgov",
-   "field": "oncology",
-   "score": 60,
-   "tier": "WATCH",
-   "modality": "drug",
-   "note": "",
-   "region_sites": [],
-   "sponsor": "Mario Negri Institute for Pharmacological Research",
-   "title": "Premedication With Dexamethasone for Preventing Interstitial Lung Disease in Patients With Breast Cancer Treated With Trastuzumab Deruxtecan",
-   "status": "NOT_YET_RECRUITING",
-   "phase": "PHASE3",
-   "countries": [],
-   "conditions": [
-    "Breast Cancer",
-    "Interstitial Lung Disease (ILD)"
-   ],
-   "posted": "2026-09-18",
-   "summary": "",
-   "email": "irene.desimone@marionegri.it",
-   "phone": "+39",
-   "contact_name": "Irene De Simone, MSc",
-   "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
-   "url": "https://clinicaltrials.gov/study/NCT07828054"
   },
   {
    "nct": "NCT05894239",
@@ -20905,6 +20878,35 @@
    "url": "https://clinicaltrials.gov/study/NCT05774951"
   },
   {
+   "nct": "NCT07869628",
+   "source": "ctgov",
+   "field": "oncology",
+   "score": 60,
+   "tier": "WATCH",
+   "modality": "drug",
+   "note": "",
+   "region_sites": [],
+   "sponsor": "Shandong Cancer Hospital and Institute",
+   "title": "A Multicenter, Randomized, Controlled Phase III Clinical Trial on Adjuvant Intensified Therapy for Patients With Residual Disease After Neoadjuvant Treatment for Triple-negative Breast Cancer",
+   "status": "NOT_YET_RECRUITING",
+   "phase": "PHASE3",
+   "countries": [],
+   "conditions": [
+    "Newly Diagnosed Triple-negative Breast Cancer"
+   ],
+   "posted": "2026-10-09",
+   "summary": "",
+   "email": "qiupengfei2002@126.com",
+   "phone": "18615205204",
+   "contact_name": "Pengfei Qiu",
+   "pi": "Pengfei Qiu (Shandong Cancer Hospital and Institute)",
+   "channel": "",
+   "who": "",
+   "angle": "",
+   "opener": "",
+   "url": "https://clinicaltrials.gov/study/NCT07869628"
+  },
+  {
    "nct": "NCT06757634",
    "source": "ctgov",
    "field": "oncology",
@@ -20960,35 +20962,6 @@
    "angle": "",
    "opener": "",
    "url": "https://clinicaltrials.gov/study/NCT06757634"
-  },
-  {
-   "nct": "NCT07869628",
-   "source": "ctgov",
-   "field": "oncology",
-   "score": 60,
-   "tier": "WATCH",
-   "modality": "drug",
-   "note": "",
-   "region_sites": [],
-   "sponsor": "Shandong Cancer Hospital and Institute",
-   "title": "A Multicenter, Randomized, Controlled Phase III Clinical Trial on Adjuvant Intensified Therapy for Patients With Residual Disease After Neoadjuvant Treatment for Triple-negative Breast Cancer",
-   "status": "NOT_YET_RECRUITING",
-   "phase": "PHASE3",
-   "countries": [],
-   "conditions": [
-    "Newly Diagnosed Triple-negative Breast Cancer"
-   ],
-   "posted": "2026-10-09",
-   "summary": "",
-   "email": "qiupengfei2002@126.com",
-   "phone": "18615205204",
-   "contact_name": "Pengfei Qiu",
-   "pi": "Pengfei Qiu (Shandong Cancer Hospital and Institute)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
-   "url": "https://clinicaltrials.gov/study/NCT07869628"
   },
   {
    "nct": "NCT07284849",
@@ -21317,6 +21290,35 @@
    "angle": "",
    "opener": "",
    "url": "https://clinicaltrials.gov/study/NCT07228832"
+  },
+  {
+   "nct": "NCT07910760",
+   "source": "ctgov",
+   "field": "oncology",
+   "score": 60,
+   "tier": "WATCH",
+   "modality": "drug",
+   "note": "",
+   "region_sites": [],
+   "sponsor": "Tata Memorial Hospital",
+   "title": "TRINITY TRIAL; Trial Of PRRT Plus CAPTEM Vs CAPTEM Alone In Well Differentiated GEP NETS",
+   "status": "NOT_YET_RECRUITING",
+   "phase": "PHASE3",
+   "countries": [],
+   "conditions": [
+    "Gastroenteropancreatic Neuroendocrine Tumors"
+   ],
+   "posted": "2026-11-02",
+   "summary": "",
+   "email": "",
+   "phone": "",
+   "contact_name": "",
+   "pi": "Indraja Dev (Tata Memorial Centre)",
+   "channel": "",
+   "who": "",
+   "angle": "",
+   "opener": "",
+   "url": "https://clinicaltrials.gov/study/NCT07910760"
   },
   {
    "nct": "NCT06914011",
@@ -21790,6 +21792,50 @@
    "url": "https://clinicaltrials.gov/study/NCT06731478"
   },
   {
+   "nct": "NCT07562152",
+   "source": "ctgov",
+   "field": "oncology",
+   "score": 60,
+   "tier": "WATCH",
+   "modality": "drug",
+   "note": "",
+   "region_sites": [
+    "Georgia",
+    "Poland"
+   ],
+   "sponsor": "Immuneering Corporation",
+   "title": "Atebimetinib + GnP as a First Line Treatment in Patients With Metastatic Pancreatic Adenocarcinoma",
+   "status": "RECRUITING",
+   "phase": "PHASE3",
+   "countries": [
+    "Australia",
+    "Georgia",
+    "Germany",
+    "Hungary",
+    "Poland",
+    "Romania",
+    "Spain",
+    "United Kingdom",
+    "United States"
+   ],
+   "conditions": [
+    "Pancreatic Cancer",
+    "Pancreatic Cancer Metastatic",
+    "PDAC"
+   ],
+   "posted": "2026-05-01",
+   "summary": "",
+   "email": "clinicaltrials@immuneering.com",
+   "phone": "860-321-1302",
+   "contact_name": "Immuneering Study Team",
+   "pi": "",
+   "channel": "",
+   "who": "",
+   "angle": "",
+   "opener": "",
+   "url": "https://clinicaltrials.gov/study/NCT07562152"
+  },
+  {
    "nct": "NCT06943755",
    "source": "ctgov",
    "field": "oncology",
@@ -21894,50 +21940,6 @@
    "angle": "",
    "opener": "",
    "url": "https://clinicaltrials.gov/study/NCT07522073"
-  },
-  {
-   "nct": "NCT07562152",
-   "source": "ctgov",
-   "field": "oncology",
-   "score": 60,
-   "tier": "WATCH",
-   "modality": "drug",
-   "note": "",
-   "region_sites": [
-    "Georgia",
-    "Poland"
-   ],
-   "sponsor": "Immuneering Corporation",
-   "title": "Atebimetinib + GnP as a First Line Treatment in Patients With Metastatic Pancreatic Adenocarcinoma",
-   "status": "RECRUITING",
-   "phase": "PHASE3",
-   "countries": [
-    "Australia",
-    "Georgia",
-    "Germany",
-    "Hungary",
-    "Poland",
-    "Romania",
-    "Spain",
-    "United Kingdom",
-    "United States"
-   ],
-   "conditions": [
-    "Pancreatic Cancer",
-    "Pancreatic Cancer Metastatic",
-    "PDAC"
-   ],
-   "posted": "2026-05-01",
-   "summary": "",
-   "email": "clinicaltrials@immuneering.com",
-   "phone": "860-321-1302",
-   "contact_name": "Immuneering Study Team",
-   "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
-   "url": "https://clinicaltrials.gov/study/NCT07562152"
   },
   {
    "nct": "NCT07691515",
@@ -22255,65 +22257,6 @@
    "url": "https://clinicaltrials.gov/study/NCT07823348"
   },
   {
-   "nct": "NCT06629779",
-   "source": "ctgov",
-   "field": "oncology",
-   "score": 60,
-   "tier": "WATCH",
-   "modality": "drug",
-   "note": "",
-   "region_sites": [
-    "Poland"
-   ],
-   "sponsor": "Pfizer",
-   "title": "A Study to Learn How PF-06821497 (Mevrometostat) Works in Men With Metastatic Castration-resistant Prostate Cancer.",
-   "status": "RECRUITING",
-   "phase": "PHASE3",
-   "countries": [
-    "Argentina",
-    "Brazil",
-    "Bulgaria",
-    "Canada",
-    "Chile",
-    "China",
-    "Czechia",
-    "Denmark",
-    "Finland",
-    "France",
-    "Germany",
-    "Greece",
-    "Hungary",
-    "Italy",
-    "Japan",
-    "Netherlands",
-    "New Zealand",
-    "Poland",
-    "Slovakia",
-    "South Africa",
-    "South Korea",
-    "Spain",
-    "Sweden",
-    "Taiwan",
-    "Turkey (Türkiye)",
-    "United Kingdom",
-    "United States"
-   ],
-   "conditions": [
-    "Metastatic Castration-Resistant Prostate Cancer"
-   ],
-   "posted": "2024-10-08",
-   "summary": "",
-   "email": "ClinicalTrials.gov_Inquiries@pfizer.com",
-   "phone": "1-800-718-1021",
-   "contact_name": "Pfizer CT.gov Call Center",
-   "pi": "Pfizer CT.gov Call Center (Pfizer)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
-   "url": "https://clinicaltrials.gov/study/NCT06629779"
-  },
-  {
    "nct": "NCT06925737",
    "source": "ctgov",
    "field": "oncology",
@@ -22380,6 +22323,65 @@
    "angle": "",
    "opener": "",
    "url": "https://clinicaltrials.gov/study/NCT06925737"
+  },
+  {
+   "nct": "NCT06629779",
+   "source": "ctgov",
+   "field": "oncology",
+   "score": 60,
+   "tier": "WATCH",
+   "modality": "drug",
+   "note": "",
+   "region_sites": [
+    "Poland"
+   ],
+   "sponsor": "Pfizer",
+   "title": "A Study to Learn How PF-06821497 (Mevrometostat) Works in Men With Metastatic Castration-resistant Prostate Cancer.",
+   "status": "RECRUITING",
+   "phase": "PHASE3",
+   "countries": [
+    "Argentina",
+    "Brazil",
+    "Bulgaria",
+    "Canada",
+    "Chile",
+    "China",
+    "Czechia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Italy",
+    "Japan",
+    "Netherlands",
+    "New Zealand",
+    "Poland",
+    "Slovakia",
+    "South Africa",
+    "South Korea",
+    "Spain",
+    "Sweden",
+    "Taiwan",
+    "Turkey (Türkiye)",
+    "United Kingdom",
+    "United States"
+   ],
+   "conditions": [
+    "Metastatic Castration-Resistant Prostate Cancer"
+   ],
+   "posted": "2024-10-08",
+   "summary": "",
+   "email": "ClinicalTrials.gov_Inquiries@pfizer.com",
+   "phone": "1-800-718-1021",
+   "contact_name": "Pfizer CT.gov Call Center",
+   "pi": "Pfizer CT.gov Call Center (Pfizer)",
+   "channel": "",
+   "who": "",
+   "angle": "",
+   "opener": "",
+   "url": "https://clinicaltrials.gov/study/NCT06629779"
   },
   {
    "nct": "NCT06136650",
@@ -22549,59 +22551,6 @@
    "angle": "Alexandrov holds 40 GCP investigators and 10+ active industry trials; you are currently recruiting for BNT324 in MCRPC across 4 regions—Belarus offers rapid EU-adjacent site activation with established regulatory fast-track and inpatient capacity.",
    "opener": "We represent N.N. Alexandrov National Cancer Centre (Minsk), Belarus—a 40-investigator, GCP-certified solid-tumour network with dedicated metastatic disease capability and 10+ active industry partnerships. We understand BNT324 is recruiting globally for mCRPC. We can activate 2–3 sites within 60 days via our Lithuanian EU entity, offering regulatory pre-clearance and full on-site trial infrastructure. Would your team welcome a brief conversation on Belarusian site potential? – Mediogram",
    "url": "https://clinicaltrials.gov/study/NCT07365995"
-  },
-  {
-   "nct": "NCT07711002",
-   "source": "ctgov",
-   "field": "oncology",
-   "score": 60,
-   "tier": "WATCH",
-   "modality": "drug",
-   "note": "",
-   "region_sites": [
-    "Poland"
-   ],
-   "sponsor": "AstraZeneca",
-   "title": "Saruparib in Combination With Physician's Choice of ARPI in Patients With mHSPC Previously Treated With Docetaxel or 177Lu-PSMA Therapy Without Disease Progression and PSA ≥ 0.2 ng/mL (EvoPAR-PR05)",
-   "status": "RECRUITING",
-   "phase": "PHASE3",
-   "countries": [
-    "Austria",
-    "Brazil",
-    "Canada",
-    "China",
-    "France",
-    "Germany",
-    "Hong Kong",
-    "Hungary",
-    "India",
-    "Italy",
-    "Japan",
-    "Poland",
-    "Puerto Rico",
-    "South Korea",
-    "Spain",
-    "Switzerland",
-    "Taiwan",
-    "Thailand",
-    "Turkey (Türkiye)",
-    "United Kingdom",
-    "United States"
-   ],
-   "conditions": [
-    "Metastatic Hormone-Sensitive Prostate Cancer (mHSPC)"
-   ],
-   "posted": "2026-07-17",
-   "summary": "",
-   "email": "information.center@astrazeneca.com",
-   "phone": "1-877-240-9479",
-   "contact_name": "AstraZeneca Clinical Study Information Center",
-   "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
-   "url": "https://clinicaltrials.gov/study/NCT07711002"
   },
   {
    "nct": "NCT06434077",
