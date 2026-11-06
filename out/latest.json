@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-05T13:53:27Z",
- "day": "2026-11-05",
+ "updated": "2026-11-06T13:38:04Z",
+ "day": "2026-11-06",
  "tiers": [
   "HOT",
   "WARM",
@@ -27,17 +27,17 @@
   }
  },
  "counts": {
-  "new_leads": 5,
+  "new_leads": 1,
   "hot": 258,
-  "warm": 537,
+  "warm": 538,
   "in_region": 66,
   "device": 635,
   "drug": 719,
   "ctgov": 1216,
   "ctis": 302,
   "fda": 3,
-  "cardiology": 936,
-  "oncology": 585
+  "cardiology": 937,
+  "oncology": 584
  },
  "leads": [
   {
@@ -5746,6 +5746,37 @@
    "url": "https://euclinicaltrials.eu/ctis-public/view/2024-516251-40-01"
   },
   {
+   "nct": "2025-523981-26-03",
+   "source": "ctis",
+   "field": "cardiology",
+   "score": 80,
+   "tier": "WARM",
+   "modality": "drug",
+   "note": "",
+   "region_sites": [],
+   "sponsor": "Nutricion Medica S.L.",
+   "title": "UNLOAD-CHF Urea for Normalizing hyponatremia and reducing voLume Overload in Acute and Chronic Heart Failure",
+   "status": "CTIS status 2",
+   "phase": "PHASE3",
+   "countries": [
+    "Spain"
+   ],
+   "conditions": [
+    "Chronic heart failure and Hyponatremia"
+   ],
+   "posted": "2026-11-05",
+   "summary": "Nutricion Medica is a Spanish pharmaceutical company running a Phase 3 trial for urea therapy in heart failure with hyponatremia, currently recruiting only in Spain but likely seeking to expand sites.",
+   "email": "",
+   "phone": "",
+   "contact_name": "",
+   "pi": "",
+   "channel": "LinkedIn outreach to their R&D/Clinical Operations lead, followed by email to trial operations contact",
+   "who": "Clinical Trial Manager or Head of Clinical Operations at Nutricion Medica",
+   "angle": "UNLOAD-CHF is positioned in Spain-only sites at CTIS status 2; Eastern European expansion (Belarus, Lithuania) would accelerate enrollment in a high-prevalence, under-served population.",
+   "opener": "We've flagged your UNLOAD-CHF trial (CTIS status 2) and noticed current recruitment is limited to Spain. Mediogram operates a dedicated cardiology CRO across Eastern Europe—including our own RNPC in Minsk—with proven enrollment velocity in CHF and hyponatremia populations. We'd welcome a brief call to explore whether adding 1-2 high-enrolling Eastern European sites aligns with your timeline. Best, Mediogram BD",
+   "url": "https://euclinicaltrials.eu/ctis-public/view/2025-523981-26-03"
+  },
+  {
    "nct": "2026-526068-19-00",
    "source": "ctis",
    "field": "cardiology",
@@ -7671,43 +7702,6 @@
    "angle": "Mediogram operates the highest-enrolling cardiovascular center in Eastern Europe (RNPC Cardiology, Minsk) with proven HFpEF patient access and can rapidly activate a Polish or Lithuania-based site to complement your current Italy/Spain footprint.",
    "opener": "We noticed BMS-986435/MYK-224 (HFpEF Phase 2A) is enrolling across Italy, Poland, and Spain. Mediogram runs RNPC Cardiology (Minsk)—Eastern Europe's leading cardiovascular CRO—and can activate high-volume HFpEF capacity in Poland or the Baltics within 4–6 weeks. If enrollment pacing is a priority, we'd welcome a brief call. Best, [Your name], Business Development, Mediogram",
    "url": "https://euclinicaltrials.eu/ctis-public/view/2023-505919-21-00"
-  },
-  {
-   "nct": "2023-506824-96-00",
-   "source": "ctis",
-   "field": "cardiology",
-   "score": 75,
-   "tier": "WARM",
-   "modality": "drug",
-   "note": "",
-   "region_sites": [],
-   "sponsor": "Novo Nordisk A/S",
-   "title": "Efficacy and safety of NNC6019-0001 at two dose levels in participants with transthyretin amyloid cardiomyopathy (ATTR CM).",
-   "status": "CTIS status 8",
-   "phase": "PHASE2",
-   "countries": [
-    "Czechia",
-    "France",
-    "Germany",
-    "Italy",
-    "Netherlands",
-    "Portugal",
-    "Spain"
-   ],
-   "conditions": [
-    "The present study will include a population of patients with established ATTR CM."
-   ],
-   "posted": "2023-10-13",
-   "summary": "Novo Nordisk is a global pharma leader running a Phase 2 cardiac amyloidosis trial across Western Europe, and they need high-enrollment Eastern European sites with proven cardiovascular expertise and regulatory efficiency.",
-   "email": "",
-   "phone": "",
-   "contact_name": "",
-   "pi": "",
-   "channel": "LinkedIn outreach to trial operations lead, followed by email to Novo Nordisk's CRO partner of record",
-   "who": "Clinical Operations Manager or Trials Director at Novo Nordisk, or equivalent at their contracted CRO",
-   "angle": "Mediogram operates the only dedicated cardiology FIH/early-feasibility network in Eastern Europe with local regulatory and imaging QC—ideal for ATTR CM recruitment given the specialized phenotyping required.",
-   "opener": "We've noted your Phase 2 coramitug ATTR CM trial is active across seven EU countries and understand enrollment velocity is critical in rare cardiac disease. Mediogram (RNPC Cardiology, Minsk + EU contracting) brings FIH-grade patient identification, local regulatory pre-work, and imaging QC specifically for advanced-therapy cardiology—capabilities that typically unlock 2–3 additional high-quality sites in underserved Eastern Europe. Would a brief call on feasibility in Czech Republic or Poland be useful? — Mediogram BD",
-   "url": "https://euclinicaltrials.eu/ctis-public/view/2023-506824-96-00"
   },
   {
    "nct": "NCT07883317",
@@ -11300,53 +11294,6 @@
    "url": "https://euclinicaltrials.eu/ctis-public/view/2023-509706-30-00"
   },
   {
-   "nct": "2023-508162-15-00",
-   "source": "ctis",
-   "field": "cardiology",
-   "score": 50,
-   "tier": "IN REGION",
-   "modality": "drug",
-   "note": "Already running in Poland — sites likely taken. Shown for awareness, not outreach.",
-   "region_sites": [
-    "Poland"
-   ],
-   "sponsor": "AstraZeneca AB",
-   "title": "A Phase III, Randomised, Double-blind Study to Evaluate the Effect of Balcinrenone/Dapagliflozin, Compared with Dapagliflozin, on the Risk of Heart Failure Events and Cardiovascular Death in Patients with Heart Failure and Impaired Kidney Function",
-   "status": "CTIS status 5",
-   "phase": "PHASE3",
-   "countries": [
-    "Austria",
-    "Bulgaria",
-    "Czechia",
-    "Finland",
-    "France",
-    "Germany",
-    "Greece",
-    "Hungary",
-    "Italy",
-    "Netherlands",
-    "Poland",
-    "Romania",
-    "Slovakia",
-    "Spain",
-    "Sweden"
-   ],
-   "conditions": [
-    "Chronic HF and comorbid impairment of kidney function who had a recent HF event to evaluate\nthe effect of balcinrenone/dapagliflozin versus dapagliflozin alone on HF events and cardiovascular (CV) death"
-   ],
-   "posted": "2024-06-18",
-   "summary": "",
-   "email": "",
-   "phone": "",
-   "contact_name": "",
-   "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
-   "url": "https://euclinicaltrials.eu/ctis-public/view/2023-508162-15-00"
-  },
-  {
    "nct": "2024-519059-28-00",
    "source": "ctis",
    "field": "cardiology",
@@ -11392,6 +11339,53 @@
    "angle": "",
    "opener": "",
    "url": "https://euclinicaltrials.eu/ctis-public/view/2024-519059-28-00"
+  },
+  {
+   "nct": "2023-508162-15-00",
+   "source": "ctis",
+   "field": "cardiology",
+   "score": 50,
+   "tier": "IN REGION",
+   "modality": "drug",
+   "note": "Already running in Poland — sites likely taken. Shown for awareness, not outreach.",
+   "region_sites": [
+    "Poland"
+   ],
+   "sponsor": "AstraZeneca AB",
+   "title": "A Phase III, Randomised, Double-blind Study to Evaluate the Effect of Balcinrenone/Dapagliflozin, Compared with Dapagliflozin, on the Risk of Heart Failure Events and Cardiovascular Death in Patients with Heart Failure and Impaired Kidney Function",
+   "status": "CTIS status 5",
+   "phase": "PHASE3",
+   "countries": [
+    "Austria",
+    "Bulgaria",
+    "Czechia",
+    "Finland",
+    "France",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Italy",
+    "Netherlands",
+    "Poland",
+    "Romania",
+    "Slovakia",
+    "Spain",
+    "Sweden"
+   ],
+   "conditions": [
+    "Chronic HF and comorbid impairment of kidney function who had a recent HF event to evaluate\nthe effect of balcinrenone/dapagliflozin versus dapagliflozin alone on HF events and cardiovascular (CV) death"
+   ],
+   "posted": "2024-06-18",
+   "summary": "",
+   "email": "",
+   "phone": "",
+   "contact_name": "",
+   "pi": "",
+   "channel": "",
+   "who": "",
+   "angle": "",
+   "opener": "",
+   "url": "https://euclinicaltrials.eu/ctis-public/view/2023-508162-15-00"
   },
   {
    "nct": "2024-516654-22-00",
@@ -17372,38 +17366,6 @@
    "url": "https://euclinicaltrials.eu/ctis-public/view/2022-503001-38-01"
   },
   {
-   "nct": "2023-509598-22-01",
-   "source": "ctis",
-   "field": "oncology",
-   "score": 80,
-   "tier": "WARM",
-   "modality": "drug",
-   "note": "",
-   "region_sites": [],
-   "sponsor": "Rita Fior, Champalimaud Clinical Centre, Rita Fior",
-   "title": "zAvatar test-guided therapeutic decision vs standard of care, in relapsed ovarian cancer and in metastatic breast cancer - A multicentric randomized clinical study with intervention",
-   "status": "CTIS status 4",
-   "phase": "PHASE4",
-   "countries": [
-    "Portugal"
-   ],
-   "conditions": [
-    "Oncology - Breast cancer",
-    "Oncology - Ovarian cancer"
-   ],
-   "posted": "2024-11-05",
-   "summary": "Champalimaud Clinical Centre is a leading Portuguese oncology research institution running a Phase IV precision-medicine trial in breast and ovarian cancer that perfectly matches the Alexandrov Centre's GCP expertise, investigator capacity, and focus on solid tumours.",
-   "email": "",
-   "phone": "",
-   "contact_name": "",
-   "pi": "",
-   "channel": "LinkedIn outreach to Rita Fior + follow email to trial coordination",
-   "who": "Rita Fior (listed sponsor/contact) or trial's Clinical Operations Manager",
-   "angle": "The zAvatar test-guided trial requires robust multi-site execution across relapsed/metastatic cohorts—Alexandrov's 40 GCP-certified investigators and proven track record in Phase III/IV oncology make it an ideal Eastern European expansion site.",
-   "opener": "Dear Rita, We are Mediogram, a clinical-execution partner in Eastern Europe, and we've reviewed the zAvatar precision-medicine trial in breast and ovarian cancer on CTIS. The N.N. Alexandrov National Cancer Centre in Minsk—with 40 GCP-certified investigators, inpatient ICU, imaging, and active industry trial portfolio—appears well-positioned to accelerate your multi-centric enrolment. Would you be open to a brief conversation about site potential in Belarus? Best regards, Mediogram BD",
-   "url": "https://euclinicaltrials.eu/ctis-public/view/2023-509598-22-01"
-  },
-  {
    "nct": "2024-513734-38-00",
    "source": "ctis",
    "field": "oncology",
@@ -17435,6 +17397,38 @@
    "angle": "BRCA-P is actively recruiting across EU (Austria, Germany, Spain) and needs rapid, high-quality enrolment in underserved regions—Alexandrov's 40 GCP investigators and existing breast cancer population position it as a strategic expansion site.",
    "opener": "We are Mediogram, a clinical-execution partner opening oncology capacity in Eastern Europe through certified sites like yours. BRCA-P (Verein Zur Praevention, CTIS status 5) is actively enrolling BRCA1-mutation carriers across the EU, and Alexandrov's breast cancer volume and GCP track record make it an ideal fit for acceleration. Would your team be open to a brief call to discuss site participation and timelines?",
    "url": "https://euclinicaltrials.eu/ctis-public/view/2024-513734-38-00"
+  },
+  {
+   "nct": "2023-509598-22-01",
+   "source": "ctis",
+   "field": "oncology",
+   "score": 80,
+   "tier": "WARM",
+   "modality": "drug",
+   "note": "",
+   "region_sites": [],
+   "sponsor": "Rita Fior, Champalimaud Clinical Centre, Rita Fior",
+   "title": "zAvatar test-guided therapeutic decision vs standard of care, in relapsed ovarian cancer and in metastatic breast cancer - A multicentric randomized clinical study with intervention",
+   "status": "CTIS status 4",
+   "phase": "PHASE4",
+   "countries": [
+    "Portugal"
+   ],
+   "conditions": [
+    "Oncology - Breast cancer",
+    "Oncology - Ovarian cancer"
+   ],
+   "posted": "2024-11-05",
+   "summary": "Champalimaud Clinical Centre is a leading Portuguese oncology research institution running a Phase IV precision-medicine trial in breast and ovarian cancer that perfectly matches the Alexandrov Centre's GCP expertise, investigator capacity, and focus on solid tumours.",
+   "email": "",
+   "phone": "",
+   "contact_name": "",
+   "pi": "",
+   "channel": "LinkedIn outreach to Rita Fior + follow email to trial coordination",
+   "who": "Rita Fior (listed sponsor/contact) or trial's Clinical Operations Manager",
+   "angle": "The zAvatar test-guided trial requires robust multi-site execution across relapsed/metastatic cohorts—Alexandrov's 40 GCP-certified investigators and proven track record in Phase III/IV oncology make it an ideal Eastern European expansion site.",
+   "opener": "Dear Rita, We are Mediogram, a clinical-execution partner in Eastern Europe, and we've reviewed the zAvatar precision-medicine trial in breast and ovarian cancer on CTIS. The N.N. Alexandrov National Cancer Centre in Minsk—with 40 GCP-certified investigators, inpatient ICU, imaging, and active industry trial portfolio—appears well-positioned to accelerate your multi-centric enrolment. Would you be open to a brief conversation about site potential in Belarus? Best regards, Mediogram BD",
+   "url": "https://euclinicaltrials.eu/ctis-public/view/2023-509598-22-01"
   },
   {
    "nct": "2024-515604-39-00",
@@ -18155,6 +18149,37 @@
    "url": "https://euclinicaltrials.eu/ctis-public/view/2024-520014-22-00"
   },
   {
+   "nct": "2024-520006-19-00",
+   "source": "ctis",
+   "field": "oncology",
+   "score": 80,
+   "tier": "WARM",
+   "modality": "drug",
+   "note": "",
+   "region_sites": [],
+   "sponsor": "Presurgy S.L.",
+   "title": "Multicenter clinical trial with medical device associated with a drug in an authorised therapeutic use for the treatment of CVNMI evaluating the efficacy and tolerability of the adyuvant treatment with EMDA-MMC versus standard BCG in patients with high grade CVNMI",
+   "status": "CTIS status 3",
+   "phase": "PHASE4",
+   "countries": [
+    "Spain"
+   ],
+   "conditions": [
+    "Non-muscle invasive bladder cancer"
+   ],
+   "posted": "2025-01-09",
+   "summary": "They're a leading Eastern European oncology center with 40 GCP investigators and established Phase III/IV trial infrastructure, making them ideal for expanding Presurgy's bladder cancer device-drug study beyond Spain.",
+   "email": "",
+   "phone": "",
+   "contact_name": "",
+   "pi": "",
+   "channel": "LinkedIn outreach to site PI + email to medical director",
+   "who": "Urology department head or lead investigator in urologic cancers",
+   "angle": "Presurgy's EMDA-MMC bladder cancer trial is Phase IV with an unmet need for rapid patient enrollment across geographies—Alexandrov's dedicated urology cohort and high-grade CVNMI patient volume can accelerate their European footprint.",
+   "opener": "We're opening Mediogram's oncology network in Belarus and see Alexandrov as a natural fit for Presurgy's Phase IV bladder cancer study (EMDA-MMC vs BCG). Your center's urology throughput and GCP track record align with their expansion goals. Are you open to a brief conversation about site feasibility? Best, Mediogram BD",
+   "url": "https://euclinicaltrials.eu/ctis-public/view/2024-520006-19-00"
+  },
+  {
    "nct": "2026-526359-75-00",
    "source": "ctis",
    "field": "oncology",
@@ -18191,37 +18216,6 @@
    "angle": "Alexandrov has active urology-oncology infrastructure (10+ industry trials, ICU, investigational pharmacy, -80°C biobanking) and sits in an underrepresented geography (Belarus) adjacent to your current Eastern European footprint—ideal for patient retention in a durability rollover.",
    "opener": "We partner with the N.N. Alexandrov National Cancer Centre in Minsk—40 GCP-certified investigators with deep urology-oncology experience and proven Phase III/IV trial delivery. For UGN-103 BL013 rollover enrollment, we can activate qualified NMIBC patients and ensure robust long-term follow-up through our embedded regulatory and pharmacy infrastructure. Would you have 15 minutes to explore site fit?",
    "url": "https://euclinicaltrials.eu/ctis-public/view/2026-526359-75-00"
-  },
-  {
-   "nct": "2024-520006-19-00",
-   "source": "ctis",
-   "field": "oncology",
-   "score": 80,
-   "tier": "WARM",
-   "modality": "drug",
-   "note": "",
-   "region_sites": [],
-   "sponsor": "Presurgy S.L.",
-   "title": "Multicenter clinical trial with medical device associated with a drug in an authorised therapeutic use for the treatment of CVNMI evaluating the efficacy and tolerability of the adyuvant treatment with EMDA-MMC versus standard BCG in patients with high grade CVNMI",
-   "status": "CTIS status 3",
-   "phase": "PHASE4",
-   "countries": [
-    "Spain"
-   ],
-   "conditions": [
-    "Non-muscle invasive bladder cancer"
-   ],
-   "posted": "2025-01-09",
-   "summary": "They're a leading Eastern European oncology center with 40 GCP investigators and established Phase III/IV trial infrastructure, making them ideal for expanding Presurgy's bladder cancer device-drug study beyond Spain.",
-   "email": "",
-   "phone": "",
-   "contact_name": "",
-   "pi": "",
-   "channel": "LinkedIn outreach to site PI + email to medical director",
-   "who": "Urology department head or lead investigator in urologic cancers",
-   "angle": "Presurgy's EMDA-MMC bladder cancer trial is Phase IV with an unmet need for rapid patient enrollment across geographies—Alexandrov's dedicated urology cohort and high-grade CVNMI patient volume can accelerate their European footprint.",
-   "opener": "We're opening Mediogram's oncology network in Belarus and see Alexandrov as a natural fit for Presurgy's Phase IV bladder cancer study (EMDA-MMC vs BCG). Your center's urology throughput and GCP track record align with their expansion goals. Are you open to a brief conversation about site feasibility? Best, Mediogram BD",
-   "url": "https://euclinicaltrials.eu/ctis-public/view/2024-520006-19-00"
   },
   {
    "nct": "NCT07214532",
