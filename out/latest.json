@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-14T12:52:40Z",
- "day": "2026-11-14",
+ "updated": "2026-11-15T13:19:38Z",
+ "day": "2026-11-15",
  "tiers": [
   "HOT",
   "WARM",
@@ -27,7 +27,7 @@
   }
  },
  "counts": {
-  "new_leads": 8,
+  "new_leads": 0,
   "hot": 251,
   "warm": 553,
   "in_region": 64,
@@ -20247,15 +20247,15 @@
     "Breast Cancer"
    ],
    "posted": "2025-01-24",
-   "summary": "",
+   "summary": "Hoffmann-La Roche is running a Phase III breast cancer trial (PIK3CA-mutated, HR+/HER2−) across 20 countries that needs additional solid-tumour oncology sites with GCP capability and inpatient infrastructure.",
    "email": "global-roche-genentech-trials@gene.com",
    "phone": "888-662-6728 (U.S. Only)",
    "contact_name": "Reference Study ID Number: WO45654 https://forpatients.roche.com/ No attachments to email below.",
    "pi": "Clinical Trials (Hoffmann-La Roche)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "email to global-roche-genentech-trials@gene.com with cc to Roche country head (Belarus/Eastern Europe regional lead if identifiable via LinkedIn)",
+   "who": "Clinical Operations Manager or Regional Site Development Lead, Oncology Therapeutic Area",
+   "angle": "Alexandrov Centre's 40 GCP investigators, Phase III/IV track record, and inpatient + imaging + pharmacy infrastructure close a geographic gap (Eastern Europe underrepresented in country list) and de-risk recruitment in an underserved market.",
+   "opener": "We are Mediogram, a clinical-execution CRO in Eastern Europe partnering with N.N. Alexandrov National Cancer Centre in Minsk—a 40-investigator GCP-certified solid-tumour centre with active Phase III experience and full inpatient/pharmacy/imaging capabilities. We noticed WO45654 (Inavolisib + CDK4/6i/Letrozole) is live across 20 regions but has no sites in Belarus or the broader EE market; we believe Alexandrov could support recruitment velocity and protocol compliance. Would you welcome a brief call to explore fit? — Mediogram",
    "url": "https://clinicaltrials.gov/study/NCT06790693"
   },
   {
@@ -20299,15 +20299,15 @@
     "Breast Neoplasms"
    ],
    "posted": "2025-09-15",
-   "summary": "",
+   "summary": "N.N. Alexandrov is a GCP-certified, fully-equipped oncology centre with breast cancer expertise and a track record in industry trials, making it a viable site for BioNTech's triple-negative breast cancer study.",
    "email": "patients@biontech.de",
    "phone": "+49 6131 9084",
    "contact_name": "BioNTech clinical trials patient information",
    "pi": "BioNTech Responsible Person (BioNTech SE)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "Email to BioNTech clinical trials contact",
+   "who": "BioNTech Clinical Operations or Regional Study Manager (via patients@biontech.de, escalating to trial operations)",
+   "angle": "ROSETTA Breast-01 is actively recruiting in neighbouring Poland and Germany; Belarus offers GCP-certified investigators, inpatient capacity, and on-site pharmacy/imaging to accelerate enrolment in an underserved geography.",
+   "opener": "We manage clinical-trial execution at N.N. Alexandrov National Cancer Centre (Minsk), a 40-investigator GCP-certified site with dedicated breast oncology capacity and full inpatient/pharmacy/imaging infrastructure. We noticed ROSETTA Breast-01 is recruiting across Europe and would like to explore whether Belarus represents a viable addition to your site network for this trial. Who should we connect with on your clinical operations team?",
    "url": "https://clinicaltrials.gov/study/NCT07173751"
   },
   {
@@ -20360,15 +20360,15 @@
     "Advanced Breast Cancer"
    ],
    "posted": "2024-04-24",
-   "summary": "",
+   "summary": "Alexandrov is a large, GCP-certified oncology centre with breast cancer expertise and proven trial execution capability, positioned to rapidly activate in a Phase III asset addressing an unmet need in HR+/HER2− advanced breast cancer.",
    "email": "information.center@astrazeneca.com",
    "phone": "1-877-240-9479",
    "contact_name": "AstraZeneca Clinical Study Information Center",
    "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "email to study contact with follow-up to AstraZeneca Regional Medical Lead (Eastern Europe/CIS)",
+   "who": "AstraZeneca Clinical Study Information Center, cc: Regional Oncology Medical Advisor",
+   "angle": "Alexandrov has 40 qualified breast oncology investigators, active CDK4/6 and PARP inhibitor experience, and can enrol BRCA-mutant patients at scale—offering AZ a rapid-deployment site in underutilised Eastern Europe geography.",
+   "opener": "We are Mediogram, a clinical-execution partner operating the N.N. Alexandrov National Cancer Centre in Minsk, one of Eastern Europe's largest solid-tumour platforms. Alexandrov holds robust capacity for your AZD5305 + camizestrant trial (40 GCP-certified investigators, established breast oncology cohorts, genetic testing infrastructure, and ICU support). We would welcome a conversation about site activation and patient pipeline for this Phase III programme. Best contact: [your name], BD Lead, Mediogram.",
    "url": "https://clinicaltrials.gov/study/NCT06380751"
   },
   {
@@ -20393,15 +20393,15 @@
     "Surgical Site Infection (SSI)"
    ],
    "posted": "2026-10-27",
-   "summary": "",
+   "summary": "University Hospital Clermont-Ferrand is launching a Phase III breast cancer surgical prophylaxis trial and needs international sites to meet enrollment; the Alexandrov Centre's 40 GCP investigators and high breast cancer volume make it an ideal partner.",
    "email": "promo_interne_drci@chu-clermontferrand.fr",
    "phone": "+33 (0)4.73.75.49.63",
    "contact_name": "Lise Laclautre",
    "pi": "Marc Garnier, MD, PhD (University Hospital, Clermont-Ferrand)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "email",
+   "who": "Lise Laclautre, Study Coordinator (promo_interne_drci@chu-clermontferrand.fr)",
+   "angle": "Offer rapid site activation in Belarus to accelerate a noninferiority study that requires multi-country recruitment and robust surgical patient populations.",
+   "opener": "Dear Lise, Mediogram partners with leading oncology centres across Eastern Europe to expand Phase III trial reach. The N.N. Alexandrov Centre in Minsk—with 40 GCP-certified investigators and high breast cancer surgical volume—is well-positioned to enroll your lumpectomy prophylaxis noninferiority study efficiently. We manage full regulatory, ethics, and logistics support through an EU entity. Would a brief call this week make sense to discuss site readiness?",
    "url": "https://clinicaltrials.gov/study/NCT07898943"
   },
   {
@@ -20441,15 +20441,15 @@
     "HR+/HER2- Breast Cancer"
    ],
    "posted": "2026-03-25",
-   "summary": "",
+   "summary": "BeOne Medicines is running a Phase III breast cancer trial comparing their novel BGB-43395 to standard CDK4/6 inhibitors, and the Alexandrov Centre's 40 GCP-certified investigators and track record in solid tumours make it an ideal Eastern European hub to accelerate recruitment.",
    "email": "clinicaltrials@beonemed.com",
    "phone": "877-828-5568",
    "contact_name": "Study Director",
    "pi": "Study Director (BeOne Medicines)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "email to clinical trials contact with phone follow-up",
+   "who": "Study Director at clinicaltrials@beonemed.com, then escalate to regional/EMEA operations lead",
+   "angle": "The Alexandrov Centre offers immediate investigator capacity, established ethics/regulatory infrastructure, and access to an under-penetrated patient population in a region where BeOne currently has limited site density (only Poland represented).",
+   "opener": "We're Mediogram, a clinical-execution partner scaling oncology capacity in Eastern Europe through the Alexandrov National Cancer Centre in Minsk—40 GCP-certified investigators actively enrolling Phase III trials. We noticed your BGB-43395 breast cancer study is recruiting across Europe and Asia, but we don't see Belarus represented yet. We'd like to explore adding 2–3 qualified sites here to support your enrollment timeline. Are you open to a brief call this week to discuss feasibility?",
    "url": "https://clinicaltrials.gov/study/NCT07492641"
   },
   {
@@ -20493,15 +20493,15 @@
     "Breast Cancer"
    ],
    "posted": "2022-12-12",
-   "summary": "",
+   "summary": "Alexandrov is a GCP-certified, multi-oncology center with 40+ qualified investigators and proven Phase III trial experience, making them ideal for Roche's advanced breast cancer study in an underserved Eastern European market.",
    "email": "global-roche-genentech-trials@gene.com",
    "phone": "888-662-6728 (U.S. and Canada)",
    "contact_name": "Reference Study ID Number: WO43919 https://forpatients.roche.com/ No attachments to email below",
    "pi": "Clinical Trials (Hoffmann-La Roche)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "Email to Roche's CRO/trial operations contact + cc study team",
+   "who": "Clinical Trial Operations Manager or Regional Study Coordinator at Hoffmann-La Roche (route via global-roche-genentech-trials@gene.com)",
+   "angle": "Alexandrov has FDA/EMA-grade infrastructure and breast oncology depth to enroll PIK3CA-mutated HR+/HER2− patients; Mediogram handles all regulatory/ethics logistics in Belarus, reducing Roche's operational burden.",
+   "opener": "Dear Roche Clinical Trials Team, Mediogram is partnering with N.N. Alexandrov National Cancer Centre (Minsk) to expand Phase III capacity in Eastern Europe. Alexandrov holds 40 GCP-certified investigators with active breast cancer expertise and -80°C/investigational pharmacy on-site—ideal for WO43919. We manage all local regulatory, ethics, and logistics through our EU entity. We'd welcome a call to discuss site feasibility and enrollment potential. Best regards, Mediogram BD",
    "url": "https://clinicaltrials.gov/study/NCT05646862"
   },
   {
@@ -20526,15 +20526,15 @@
     "Hormone Receptor-Positive Breast Cancer"
    ],
    "posted": "2026-10-23",
-   "summary": "",
+   "summary": "Sun Yat-Sen Memorial Hospital is a leading Chinese oncology institution launching a Phase III breast cancer trial combining novel HER2-directed and endocrine therapies, and needs geographically diverse sites to meet enrollment targets.",
    "email": "wangy556@mail.sysu.edu.cn",
    "phone": "86-20-34070870",
    "contact_name": "Ying Wang",
    "pi": "Ying Wang (Sun Yat-Sen Memorial Hospital of Sun Yat-Sen University)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "email to study contact",
+   "who": "Ying Wang, Study Contact (wangy556@mail.sysu.edu.cn)",
+   "angle": "Alexandrov Centre brings 40 GCP-certified breast oncology investigators and established Phase III infrastructure in an underserved region to accelerate enrollment of HR+/HER2+ MBC patients.",
+   "opener": "Dear Ying Wang, We represent Mediogram, a clinical-execution partner operating the N.N. Alexandrov National Cancer Centre in Minsk—a 40-investigator, GCP-certified solid tumour hub with dedicated breast oncology capacity and 10+ industry trials underway. We're interested in discussing site participation in your trastuzumab rezetecan/pyrotinib/fulvestrant/dalpiciclib Phase III trial to expand your Eastern European patient access. Would you be open to a brief conversation about feasibility? Best regards, Mediogram BD Team",
    "url": "https://clinicaltrials.gov/study/NCT07892274"
   },
   {
@@ -20557,15 +20557,15 @@
     "Early Low Rectal Cancer"
    ],
    "posted": "2026-11-12",
-   "summary": "",
+   "summary": "Fudan University is running a Phase III rectal cancer trial combining radiotherapy, chemotherapy, and immunotherapy across China, and the Alexandrov Centre's GCP-certified oncology team with inpatient/imaging infrastructure directly matches their enrollment needs.",
    "email": "zhen_zhang@fudan.edu.cn",
    "phone": "18801735029",
    "contact_name": "Zhen Zhang, M.D, PH.D",
    "pi": "Zhen Zhang (Fudan University)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "email",
+   "who": "Zhen Zhang, M.D, Ph.D (Study Contact/PI)",
+   "angle": "TORCH-E3 is actively launching in China—Alexandrov has 40 certified investigators, established regulatory pathways, and on-site ICU/imaging for managing early rectal cancer cohorts that could accelerate European/CIS enrollment.",
+   "opener": "Dear Dr. Zhang, Mediogram partners with the N.N. Alexandrov National Cancer Centre in Minsk to extend Phase III enrollment into Eastern Europe. Given TORCH-E3's focus on early low-lying rectal cancer with multimodal therapy, we believe Alexandrov's 40 GCP-certified investigators, inpatient capabilities, and regulatory infrastructure could materially support your recruitment timeline. Would you be open to a brief discussion on site feasibility? Best, Mediogram BD",
    "url": "https://clinicaltrials.gov/study/NCT07933679"
   },
   {
