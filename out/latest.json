@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T13:34:53Z",
+ "updated": "2026-11-21T14:02:32Z",
  "day": "2026-11-21",
  "tiers": [
   "HOT",
@@ -28,7 +28,7 @@
   }
  },
  "counts": {
-  "new_leads": 315,
+  "new_leads": 0,
   "hot": 305,
   "warm": 692,
   "in_region": 63,
