@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T14:02:32Z",
- "day": "2026-11-21",
+ "updated": "2026-11-22T13:56:21Z",
+ "day": "2026-11-22",
  "tiers": [
   "HOT",
   "WARM",
@@ -30,7 +30,7 @@
  "counts": {
   "new_leads": 0,
   "hot": 305,
-  "warm": 692,
+  "warm": 691,
   "in_region": 63,
   "device": 750,
   "drug": 874,
@@ -29392,6 +29392,48 @@
    "url": "https://euclinicaltrials.eu/ctis-public/view/2024-512945-18-00"
   },
   {
+   "nct": "2025-521349-25-00",
+   "source": "ctis",
+   "field": "ophthalmology",
+   "score": 60,
+   "tier": "WATCH",
+   "modality": "drug",
+   "note": "",
+   "region_sites": [
+    "Latvia",
+    "Lithuania"
+   ],
+   "sponsor": "4d Molecular Therapeutics Inc.",
+   "title": "A Phase 3, Randomized, Double-Masked, Active-Controlled Trial of a Single Intravitreal Injection of 4D-150 in Adults with Macular Neovascularization Secondary to Age-Related Macular Degeneration (4FRONT-2)",
+   "status": "CTIS status 5",
+   "phase": "PHASE3",
+   "countries": [
+    "Bulgaria",
+    "France",
+    "Germany",
+    "Hungary",
+    "Italy",
+    "Latvia",
+    "Lithuania",
+    "Portugal",
+    "Spain"
+   ],
+   "conditions": [
+    "Macular neovascularization secondary to age-related macular degeneration (nAMD)"
+   ],
+   "posted": "2025-11-21",
+   "summary": "",
+   "email": "",
+   "phone": "",
+   "contact_name": "",
+   "pi": "",
+   "channel": "",
+   "who": "",
+   "angle": "",
+   "opener": "",
+   "url": "https://euclinicaltrials.eu/ctis-public/view/2025-521349-25-00"
+  },
+  {
    "nct": "2024-515022-88-00",
    "source": "ctis",
    "field": "ophthalmology",
@@ -30607,39 +30649,6 @@
    "angle": "",
    "opener": "",
    "url": "https://clinicaltrials.gov/study/NCT05801471"
-  },
-  {
-   "nct": "NCT07228221",
-   "source": "ctgov",
-   "field": "ophthalmology",
-   "score": 55,
-   "tier": "WATCH",
-   "modality": "device",
-   "note": "",
-   "region_sites": [],
-   "sponsor": "Jonathon Myers",
-   "title": "Standalone iStent Infinite and iDose TR for Management of Moderate to Severe Open Angle Glaucoma",
-   "status": "RECRUITING",
-   "phase": "PHASE4",
-   "countries": [
-    "United States"
-   ],
-   "conditions": [
-    "Open Angle Glaucoma",
-    "Pigmentary Glaucoma",
-    "Pseudoexfoliation Glaucoma"
-   ],
-   "posted": "2025-11-14",
-   "summary": "",
-   "email": "mdivers@willseye.org",
-   "phone": "215-825-4712",
-   "contact_name": "Meskerem Divers",
-   "pi": "Dilru Amarasekera, MD (Wills Eye Hospital Glaucoma Research)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
-   "url": "https://clinicaltrials.gov/study/NCT07228221"
   },
   {
    "nct": "NCT07228793",
