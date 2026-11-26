@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T16:42:04Z",
- "day": "2026-11-25",
+ "updated": "2026-11-26T16:14:46Z",
+ "day": "2026-11-26",
  "tiers": [
   "HOT",
   "WARM",
@@ -28,18 +28,18 @@
   }
  },
  "counts": {
-  "new_leads": 16,
-  "hot": 306,
-  "warm": 688,
+  "new_leads": 4,
+  "hot": 308,
+  "warm": 686,
   "in_region": 64,
   "device": 751,
-  "drug": 874,
+  "drug": 875,
   "ctgov": 1467,
-  "ctis": 356,
+  "ctis": 357,
   "fda": 2,
   "cardiology": 939,
-  "oncology": 568,
-  "ophthalmology": 318
+  "oncology": 567,
+  "ophthalmology": 320
  },
  "leads": [
   {
@@ -10870,60 +10870,6 @@
    "url": "https://euclinicaltrials.eu/ctis-public/view/2023-503224-66-00"
   },
   {
-   "nct": "2022-501419-15-00",
-   "source": "ctis",
-   "field": "cardiology",
-   "score": 50,
-   "tier": "IN REGION",
-   "modality": "drug",
-   "note": "Already running in Estonia, Latvia, Lithuania, Poland — sites likely taken. Shown for awareness, not outreach.",
-   "region_sites": [
-    "Estonia",
-    "Latvia",
-    "Lithuania",
-    "Poland"
-   ],
-   "sponsor": "Janssen - Cilag International",
-   "title": "A Phase 3, Randomized, Double-Blind, Double-Dummy, Parallel Group, Active-Controlled Study to Evaluate the Efficacy and Safety of Milvexian, an Oral Factor XIa Inhibitor, Versus Apixaban in Participants with Atrial Fibrillation",
-   "status": "CTIS status 5",
-   "phase": "PHASE3",
-   "countries": [
-    "Belgium",
-    "Bulgaria",
-    "Croatia",
-    "Czechia",
-    "Denmark",
-    "Estonia",
-    "France",
-    "Germany",
-    "Greece",
-    "Hungary",
-    "Italy",
-    "Latvia",
-    "Lithuania",
-    "Netherlands",
-    "Poland",
-    "Portugal",
-    "Romania",
-    "Slovakia",
-    "Spain"
-   ],
-   "conditions": [
-    "Atrial Fibrillation"
-   ],
-   "posted": "2023-08-07",
-   "summary": "",
-   "email": "",
-   "phone": "",
-   "contact_name": "",
-   "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
-   "url": "https://euclinicaltrials.eu/ctis-public/view/2022-501419-15-00"
-  },
-  {
    "nct": "2023-505797-15-00",
    "source": "ctis",
    "field": "cardiology",
@@ -11024,6 +10970,60 @@
    "angle": "",
    "opener": "",
    "url": "https://euclinicaltrials.eu/ctis-public/view/2025-521188-11-00"
+  },
+  {
+   "nct": "2022-501419-15-00",
+   "source": "ctis",
+   "field": "cardiology",
+   "score": 50,
+   "tier": "IN REGION",
+   "modality": "drug",
+   "note": "Already running in Estonia, Latvia, Lithuania, Poland — sites likely taken. Shown for awareness, not outreach.",
+   "region_sites": [
+    "Estonia",
+    "Latvia",
+    "Lithuania",
+    "Poland"
+   ],
+   "sponsor": "Janssen - Cilag International",
+   "title": "A Phase 3, Randomized, Double-Blind, Double-Dummy, Parallel Group, Active-Controlled Study to Evaluate the Efficacy and Safety of Milvexian, an Oral Factor XIa Inhibitor, Versus Apixaban in Participants with Atrial Fibrillation",
+   "status": "CTIS status 5",
+   "phase": "PHASE3",
+   "countries": [
+    "Belgium",
+    "Bulgaria",
+    "Croatia",
+    "Czechia",
+    "Denmark",
+    "Estonia",
+    "France",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Italy",
+    "Latvia",
+    "Lithuania",
+    "Netherlands",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Spain"
+   ],
+   "conditions": [
+    "Atrial Fibrillation"
+   ],
+   "posted": "2023-08-07",
+   "summary": "",
+   "email": "",
+   "phone": "",
+   "contact_name": "",
+   "pi": "",
+   "channel": "",
+   "who": "",
+   "angle": "",
+   "opener": "",
+   "url": "https://euclinicaltrials.eu/ctis-public/view/2022-501419-15-00"
   },
   {
    "nct": "2023-503794-38-00",
@@ -11271,53 +11271,6 @@
    "url": "https://euclinicaltrials.eu/ctis-public/view/2024-514506-32-00"
   },
   {
-   "nct": "2024-519059-28-00",
-   "source": "ctis",
-   "field": "cardiology",
-   "score": 50,
-   "tier": "IN REGION",
-   "modality": "drug",
-   "note": "Already running in Latvia, Lithuania, Poland — sites likely taken. Shown for awareness, not outreach.",
-   "region_sites": [
-    "Latvia",
-    "Lithuania",
-    "Poland"
-   ],
-   "sponsor": "Pharmacosmos A/S",
-   "title": "A phase III, randomized, open-label, blinded endpoint, comparative trial of ferric derisomaltose versus no intravenous iron in iron-deficient subjects with symptomatic chronic heart failure",
-   "status": "CTIS status 4",
-   "phase": "PHASE3",
-   "countries": [
-    "Bulgaria",
-    "Croatia",
-    "Czechia",
-    "Denmark",
-    "Hungary",
-    "Latvia",
-    "Lithuania",
-    "Norway",
-    "Poland",
-    "Portugal",
-    "Romania",
-    "Slovakia",
-    "Slovenia"
-   ],
-   "conditions": [
-    "Chronic Heart Failure"
-   ],
-   "posted": "2025-06-19",
-   "summary": "",
-   "email": "",
-   "phone": "",
-   "contact_name": "",
-   "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
-   "url": "https://euclinicaltrials.eu/ctis-public/view/2024-519059-28-00"
-  },
-  {
    "nct": "2023-508162-15-00",
    "source": "ctis",
    "field": "cardiology",
@@ -11363,6 +11316,53 @@
    "angle": "",
    "opener": "",
    "url": "https://euclinicaltrials.eu/ctis-public/view/2023-508162-15-00"
+  },
+  {
+   "nct": "2024-519059-28-00",
+   "source": "ctis",
+   "field": "cardiology",
+   "score": 50,
+   "tier": "IN REGION",
+   "modality": "drug",
+   "note": "Already running in Latvia, Lithuania, Poland — sites likely taken. Shown for awareness, not outreach.",
+   "region_sites": [
+    "Latvia",
+    "Lithuania",
+    "Poland"
+   ],
+   "sponsor": "Pharmacosmos A/S",
+   "title": "A phase III, randomized, open-label, blinded endpoint, comparative trial of ferric derisomaltose versus no intravenous iron in iron-deficient subjects with symptomatic chronic heart failure",
+   "status": "CTIS status 4",
+   "phase": "PHASE3",
+   "countries": [
+    "Bulgaria",
+    "Croatia",
+    "Czechia",
+    "Denmark",
+    "Hungary",
+    "Latvia",
+    "Lithuania",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Slovakia",
+    "Slovenia"
+   ],
+   "conditions": [
+    "Chronic Heart Failure"
+   ],
+   "posted": "2025-06-19",
+   "summary": "",
+   "email": "",
+   "phone": "",
+   "contact_name": "",
+   "pi": "",
+   "channel": "",
+   "who": "",
+   "angle": "",
+   "opener": "",
+   "url": "https://euclinicaltrials.eu/ctis-public/view/2024-519059-28-00"
   },
   {
    "nct": "2024-516654-22-00",
@@ -11730,46 +11730,6 @@
    "url": "https://euclinicaltrials.eu/ctis-public/view/2024-519917-72-00"
   },
   {
-   "nct": "2022-503072-84-00",
-   "source": "ctis",
-   "field": "cardiology",
-   "score": 50,
-   "tier": "IN REGION",
-   "modality": "drug",
-   "note": "Already running in Poland — sites likely taken. Shown for awareness, not outreach.",
-   "region_sites": [
-    "Poland"
-   ],
-   "sponsor": "Alexion Pharmaceuticals Inc.",
-   "title": "A Phase 3, Double-Blind, Multicenter Study to Evaluate the Efficacy and Safety of CAEL-101 and Plasma Cell Dyscrasia Treatment Versus Placebo and Plasma Cell Dyscrasia Treatment in Plasma Cell Dyscrasia Treatment-Naïve Patients with Mayo Stage IIIa AL Amyloidosis",
-   "status": "CTIS status 5",
-   "phase": "PHASE3",
-   "countries": [
-    "Austria",
-    "Czechia",
-    "France",
-    "Germany",
-    "Greece",
-    "Italy",
-    "Poland",
-    "Spain"
-   ],
-   "conditions": [
-    "stage IIIa cardiac AL amyloidosis"
-   ],
-   "posted": "2024-06-13",
-   "summary": "",
-   "email": "",
-   "phone": "",
-   "contact_name": "",
-   "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
-   "url": "https://euclinicaltrials.eu/ctis-public/view/2022-503072-84-00"
-  },
-  {
    "nct": "2024-514434-20-00",
    "source": "ctis",
    "field": "cardiology",
@@ -11812,6 +11772,46 @@
    "angle": "",
    "opener": "",
    "url": "https://euclinicaltrials.eu/ctis-public/view/2024-514434-20-00"
+  },
+  {
+   "nct": "2022-503072-84-00",
+   "source": "ctis",
+   "field": "cardiology",
+   "score": 50,
+   "tier": "IN REGION",
+   "modality": "drug",
+   "note": "Already running in Poland — sites likely taken. Shown for awareness, not outreach.",
+   "region_sites": [
+    "Poland"
+   ],
+   "sponsor": "Alexion Pharmaceuticals Inc.",
+   "title": "A Phase 3, Double-Blind, Multicenter Study to Evaluate the Efficacy and Safety of CAEL-101 and Plasma Cell Dyscrasia Treatment Versus Placebo and Plasma Cell Dyscrasia Treatment in Plasma Cell Dyscrasia Treatment-Naïve Patients with Mayo Stage IIIa AL Amyloidosis",
+   "status": "CTIS status 5",
+   "phase": "PHASE3",
+   "countries": [
+    "Austria",
+    "Czechia",
+    "France",
+    "Germany",
+    "Greece",
+    "Italy",
+    "Poland",
+    "Spain"
+   ],
+   "conditions": [
+    "stage IIIa cardiac AL amyloidosis"
+   ],
+   "posted": "2024-06-13",
+   "summary": "",
+   "email": "",
+   "phone": "",
+   "contact_name": "",
+   "pi": "",
+   "channel": "",
+   "who": "",
+   "angle": "",
+   "opener": "",
+   "url": "https://euclinicaltrials.eu/ctis-public/view/2022-503072-84-00"
   },
   {
    "nct": "2022-502316-36-00",
@@ -14264,6 +14264,40 @@
    "angle": "Alexandrov Centre has 40 GCP-certified investigators and active lung cancer expertise—ideal for rapid SCLC patient recruitment in an underserved region.",
    "opener": "We noticed your BL-M14D1/atezolizumab SCLC trial (CTIS 11) is currently running in Greece. Alexandrov Centre in Minsk is recruiting extensively-staged lung cancer patients and has 40 certified investigators with existing industry trial infrastructure. We'd welcome a brief call to explore whether Belarus could accelerate your enrollment timeline. Best, Mediogram BD",
    "url": "https://euclinicaltrials.eu/ctis-public/view/2026-526781-24-00"
+  },
+  {
+   "nct": "2025-525130-59-00",
+   "source": "ctis",
+   "field": "oncology",
+   "score": 90,
+   "tier": "HOT",
+   "modality": "drug",
+   "note": "",
+   "region_sites": [],
+   "sponsor": "Merck Sharp & Dohme LLC",
+   "title": "A Phase 3, Open-Label, Multicenter, Randomized Study of Raludotatug Deruxtecan (MK-5909, R-DXd) With or Without Bevacizumab Versus Standard-of-Care Platinum-Based Doublet Chemotherapy With or Without Bevacizumab in Participants With Advanced Platinum-Sensitive High-Grade Serous or High-Grade Endometrioid Epithelial Ovarian, Primary Peritoneal, or Fallopian Tube Cancer who Have Progressed During First-Line PARPi Maintenance (ENGOT-ov107 / GOG-3142 / REJOICE-Ovarian05)",
+   "status": "CTIS status 2",
+   "phase": "PHASE3",
+   "countries": [
+    "Finland",
+    "Sweden"
+   ],
+   "conditions": [
+    "Ovarian",
+    "Primary Peritoneal",
+    "or Fallopian Tube Cancer"
+   ],
+   "posted": "2026-11-25",
+   "summary": "Alexandrov Centre is a GCP-certified, investigator-rich oncology hub with gynaecologic cancer expertise, inpatient infrastructure, and proven industry trial track record—ideal for a Phase III gynae-oncology study requiring robust patient populations and rigorous execution.",
+   "email": "",
+   "phone": "",
+   "contact_name": "",
+   "pi": "",
+   "channel": "LinkedIn + direct email to Medical Director",
+   "who": "Chief Investigator or Medical/Clinical Director (gynecologic oncology focus)",
+   "angle": "REJOICE-Ovarian05 is actively enrolling across Nordic sites; Belarus offers untapped patient density in platinum-sensitive recurrent ovarian cancer with proven PARPi exposure, complementing your European footprint.",
+   "opener": "We partner with Alexandrov Centre—40 GCP investigators, embedded ethics, and dedicated gynae-oncology volumes in a region underserved by industry trials. We're exploring ENGOT-ov107 / REJOICE-Ovarian05 feasibility and believe your platinum-sensitive recurrent ovarian population and existing trial infrastructure position you as a valuable contributor to Merck's enrollment strategy. Would you have 20 minutes to discuss patient screening criteria and timelines? — Mediogram BD",
+   "url": "https://euclinicaltrials.eu/ctis-public/view/2025-525130-59-00"
   },
   {
    "nct": "2026-525531-16-00",
@@ -17273,6 +17307,39 @@
    "url": "https://euclinicaltrials.eu/ctis-public/view/2022-501493-19-00"
   },
   {
+   "nct": "2024-512754-16-01",
+   "source": "ctis",
+   "field": "oncology",
+   "score": 80,
+   "tier": "WARM",
+   "modality": "drug",
+   "note": "",
+   "region_sites": [],
+   "sponsor": "Curium US LLC",
+   "title": "A Phase 3, Multicenter, Open-label Study to Test the Diagnostic Performance of Copper Cu 64 PSMA I&T PET/CT in Staging of Men with Newly Diagnosed Unfavorable Intermediate-risk, High-risk or Very High-risk Prostate Cancer Electing to Undergo Radical Prostatectomy with Pelvic Lymph Node Dissection",
+   "status": "CTIS status 8",
+   "phase": "PHASE3",
+   "countries": [
+    "France",
+    "Italy",
+    "Spain"
+   ],
+   "conditions": [
+    "Prostate cancer"
+   ],
+   "posted": "2025-01-15",
+   "summary": "N.N. Alexandrov is a GCP-certified, well-equipped oncology centre with proven trial execution capability and regulatory infrastructure in-house, making them a natural fit for a Phase 3 diagnostic imaging study requiring rigorous patient management and data integrity.",
+   "email": "",
+   "phone": "",
+   "contact_name": "",
+   "pi": "",
+   "channel": "Email introduction via LinkedIn-identified Medical Director + copied Clinical Operations Lead",
+   "who": "Medical Director (Oncology) or Clinical Trials Officer",
+   "angle": "Curium's 64Cu-PSMA Phase 3 is currently live in Western Europe (France, Italy, Spain) with no Eastern European footprint—Belarus offers rapid enrolment of untreated prostate cancer patients, proven imaging infrastructure (-80°C storage, PET/CT on-site), and regulatory pre-clearance through Mediogram's local ethics pathway.",
+   "opener": "Dear [Name], Mediogram partners with N.N. Alexandrov on Phase III oncology trials. We understand Curium US is enrolling their Cu-64 PSMA imaging study across Western Europe and likely facing competition for early-stage, high-risk prostate cancer patients. We can open a qualified site in Minsk within 60 days—40 GCP-certified investigators, dedicated PET/CT capacity, and inpatient infrastructure already licensed for nuclear medicine trials. Would a brief call this week make sense to explore fit? Best, [Your name], BD Lead, Mediogram",
+   "url": "https://euclinicaltrials.eu/ctis-public/view/2024-512754-16-01"
+  },
+  {
    "nct": "2023-504026-19-01",
    "source": "ctis",
    "field": "oncology",
@@ -17306,39 +17373,6 @@
    "angle": "Radelumin Phase III is currently in 5 Western European countries—Belarus offers rapid enrolment in high-risk prostate cancer, regulatory predictability via EU entity contracting, and on-site PET/CT + investigational pharmacy to support radiopharmaceutical logistics.",
    "opener": "We're Mediogram, a clinical-execution partner adding oncology capacity across Eastern Europe. We've just partnered with N.N. Alexandrov National Cancer Centre in Minsk—40 GCP investigators, dedicated PET/CT imaging, and proven Phase III trial delivery. Your Radelumin study is actively recruiting in Western Europe; we can accelerate enrolment in a complementary Eastern European geography with the same regulatory rigor. Would you be open to a brief call to discuss site fit?",
    "url": "https://euclinicaltrials.eu/ctis-public/view/2023-504026-19-01"
-  },
-  {
-   "nct": "2024-512754-16-01",
-   "source": "ctis",
-   "field": "oncology",
-   "score": 80,
-   "tier": "WARM",
-   "modality": "drug",
-   "note": "",
-   "region_sites": [],
-   "sponsor": "Curium US LLC",
-   "title": "A Phase 3, Multicenter, Open-label Study to Test the Diagnostic Performance of Copper Cu 64 PSMA I&T PET/CT in Staging of Men with Newly Diagnosed Unfavorable Intermediate-risk, High-risk or Very High-risk Prostate Cancer Electing to Undergo Radical Prostatectomy with Pelvic Lymph Node Dissection",
-   "status": "CTIS status 8",
-   "phase": "PHASE3",
-   "countries": [
-    "France",
-    "Italy",
-    "Spain"
-   ],
-   "conditions": [
-    "Prostate cancer"
-   ],
-   "posted": "2025-01-15",
-   "summary": "N.N. Alexandrov is a GCP-certified, well-equipped oncology centre with proven trial execution capability and regulatory infrastructure in-house, making them a natural fit for a Phase 3 diagnostic imaging study requiring rigorous patient management and data integrity.",
-   "email": "",
-   "phone": "",
-   "contact_name": "",
-   "pi": "",
-   "channel": "Email introduction via LinkedIn-identified Medical Director + copied Clinical Operations Lead",
-   "who": "Medical Director (Oncology) or Clinical Trials Officer",
-   "angle": "Curium's 64Cu-PSMA Phase 3 is currently live in Western Europe (France, Italy, Spain) with no Eastern European footprint—Belarus offers rapid enrolment of untreated prostate cancer patients, proven imaging infrastructure (-80°C storage, PET/CT on-site), and regulatory pre-clearance through Mediogram's local ethics pathway.",
-   "opener": "Dear [Name], Mediogram partners with N.N. Alexandrov on Phase III oncology trials. We understand Curium US is enrolling their Cu-64 PSMA imaging study across Western Europe and likely facing competition for early-stage, high-risk prostate cancer patients. We can open a qualified site in Minsk within 60 days—40 GCP-certified investigators, dedicated PET/CT capacity, and inpatient infrastructure already licensed for nuclear medicine trials. Would a brief call this week make sense to explore fit? Best, [Your name], BD Lead, Mediogram",
-   "url": "https://euclinicaltrials.eu/ctis-public/view/2024-512754-16-01"
   },
   {
    "nct": "2024-511043-25-00",
@@ -18239,15 +18273,15 @@
     "Locally Advanced Pancreatic Cancer"
    ],
    "posted": "2025-01-01",
-   "summary": "",
+   "summary": "Alpha Tau Medical is an Israeli medical device company developing innovative alpha-radiation therapy for solid tumors, and the Alexandrov Centre's GCP-certified oncology team with inpatient infrastructure and device-trial experience is well-positioned to expand their pancreatic cancer program beyond their current France site.",
    "email": "LironD@alphatau.com",
    "phone": "972-54-2688602",
    "contact_name": "Liron Dimnik",
    "pi": "Liron Dimnik (Alpha Tau Medical)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "email",
+   "who": "Liron Dimnik, Study Contact/Principal Investigator",
+   "angle": "Alexandrov Centre offers immediate access to a large treatment-naïve locally advanced pancreatic cancer population with established GCP protocols, on-site imaging/pharmacy, and proven device-trial execution—addressing common Eastern European expansion needs for device sponsors.",
+   "opener": "Hi Liron, Mediogram operates the N.N. Alexandrov National Cancer Centre in Minsk, a 40-investigator GCP-certified oncology hub with dedicated infrastructure (inpatient, ICU, imaging, -80°C storage, investigational pharmacy) and a track record in device and registry studies. We understand Alpha Tau is recruiting for the DaRT pancreatic trial and believe Belarus offers a strong patient population and operational foundation to accelerate enrollment. Would you be open to a brief call to discuss site activation?",
    "url": "https://clinicaltrials.gov/study/NCT06755359"
   },
   {
@@ -20074,15 +20108,15 @@
     "HER2-low Breast Cancer"
    ],
    "posted": "2026-11-20",
-   "summary": "",
+   "summary": "Sun Yat-Sen Memorial Hospital is a leading Chinese academic medical center running a Phase III breast cancer trial comparing HER2-targeted ADCs with hormone therapy in HER2-low metastatic disease—a population and indication well-suited to your Minsk site's solid-tumor expertise and GCP infrastructure.",
    "email": "wangy556@mail.sysu.edu.cn",
    "phone": "+86 13925038181",
    "contact_name": "Ying Wang",
    "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "Email to study contact with CC to hospital international relations/clinical trials office",
+   "who": "Ying Wang (Study Contact) + Sun Yat-Sen Memorial Hospital Clinical Trials/International Affairs leadership",
+   "angle": "Minsk site offers rapid enrollment in underserved Eastern European population for HER2-low HR+ metastatic breast cancer, with established GCP-certified breast oncology team and EU regulatory pathway via Lithuania entity.",
+   "opener": "Dear Ying Wang and Sun Yat-Sen Memorial Hospital Team,\n\nWe are Mediogram, a clinical-execution partner expanding oncology capacity in Eastern Europe. The N.N. Alexandrov National Cancer Centre in Minsk operates 40 GCP-certified investigators with deep expertise in metastatic breast cancer and completed 10+ industry trials. We believe our site could meaningfully accelerate enrollment for your Phase III HER2-targeted ADC study in the HR+/HER2-low population.\n\nWe would welcome a brief conversation about site fit and feasibility.\n\nBest regards,\nMediogram BD",
    "url": "https://clinicaltrials.gov/study/NCT07951034"
   },
   {
@@ -22856,15 +22890,15 @@
     "Neovascular Age-Related Macular Degeneration (nAMD)"
    ],
    "posted": "2026-03-24",
-   "summary": "",
+   "summary": "10th City Clinical Hospital is a republican eye centre in Minsk with established capacity in anti-VEGF injections and nAMD-relevant vitreoretinal procedures, ~50 eligible patients/month, and full GCP infrastructure—a strong fit for Phase III nAMD trials in an underserved Eastern European region.",
    "email": "wangwang.zhi@qilu-pharma.com",
    "phone": "+86-17761717313",
    "contact_name": "Wangwang Zhi, Master",
    "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "email",
+   "who": "Wangwang Zhi, Study Contact",
+   "angle": "QL1207H Phase III nAMD trial needs sites with proven anti-VEGF injection expertise and consistent patient flow; Minsk centre offers both plus EU regulatory pathway through our Lithuanian entity.",
+   "opener": "Dear Wangwang, Mediogram is developing ophthalmology trial capacity across Eastern Europe and has just activated 10th City Clinical Hospital in Minsk—a republican eye centre performing 50+ nAMD-eligible procedures monthly with 5 GCP-certified investigators and on-site intravitreal injection capability. We believe this site could meaningfully support QL1207H Phase III enrollment. Would you have 15 minutes to discuss fit and next steps?",
    "url": "https://clinicaltrials.gov/study/NCT07489586"
   },
   {
@@ -22887,15 +22921,15 @@
     "Neovascular Age-related Macular Degeneration (nAMD)"
    ],
    "posted": "2024-06-24",
-   "summary": "",
+   "summary": "Rophibio is developing RBS-001, a next-generation anti-VEGF for nAMD, and needs experienced ophthalmology sites with high patient volumes and robust surgical infrastructure to run a Phase III head-to-head against Eylea.",
    "email": "matthewg@amarexcro.com",
    "phone": "240-454-6833",
    "contact_name": "Matthew Gaver, BS",
    "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "email to study contact + LinkedIn to Amarex CRO medical monitor",
+   "who": "Matthew Gaver (Study Contact, Amarex CRO) + Regional CRO operations lead",
+   "angle": "10th City's republican eye centre status, 50+ eligible nAMD/intravitreal patients monthly, and GCP-certified team with on-site imaging and -80°C pharmacy can accelerate enrollment in a geographically underserved region.",
+   "opener": "Hi Matthew, Mediogram is establishing Phase III ophthalmology capacity in Eastern Europe and have partnered with 10th City Clinical Hospital in Minsk—Belarus's leading eye centre with ~50 intravitreal injection candidates monthly and 5 GCP-certified investigators. We noticed RBS-001 vs. Eylea is opening sites and wanted to explore whether nAMD recruitment in this region fits your geographic strategy. Happy to arrange a site walkthrough or discuss feasibility. Best, [Name], BD, Mediogram",
    "url": "https://clinicaltrials.gov/study/NCT06470373"
   },
   {
@@ -22916,15 +22950,15 @@
     "Diabetic Macular Edema (DME)"
    ],
    "posted": "2026-09-25",
-   "summary": "",
+   "summary": "Ollin Biosciences is developing OLN324 for diabetic macular edema and needs Phase III sites across geographies to compete with established anti-VEGF agents like aflibercept.",
    "email": "ollinclinops@ollin.bio",
    "phone": "737-330-1517",
    "contact_name": "Varun Malhotra, MD",
    "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "email",
+   "who": "Varun Malhotra, MD – Clinical Operations lead",
+   "angle": "10th City's DME patient volume (50+/month), intravitreal injection infrastructure, and GCP-certified team position Minsk as a rapid-enrollment site for OLN324-CP-03 in an underserved Eastern European market.",
+   "opener": "Dr. Malhotra – We operate 10th City Clinical Hospital in Minsk, the republic's leading eye centre with ~50 DME-eligible patients monthly and established intravitreal injection capacity. Our team (5 GCP investigators, local ethics, pharmacy, -80°C storage) is built for Phase III ophthalmology trials. We'd welcome a brief call to explore OLN324-CP-03 site feasibility. Best, [Your Name], BD Lead, Mediogram",
    "url": "https://clinicaltrials.gov/study/NCT07842016"
   },
   {
@@ -22947,15 +22981,15 @@
     "Axial Spondylarthritis (axSpA)"
    ],
    "posted": "2025-06-12",
-   "summary": "",
+   "summary": "Care Arthritis is launching a Phase IV trial of Rinvoq for uveitis in axial spondyloarthritis patients, and 10th City Clinical Hospital's established expertise in anti-inflammatory eye procedures and investigator base makes it a natural fit for this ophthalmology-rheumatology intersection.",
    "email": "jessica.restall-pinder@carearthritis.com",
    "phone": "5874009524",
    "contact_name": "Jessica Restall-Pinder",
    "pi": "Walter Maksymowych, Dr. (CARE ARTHRITIS LTD.)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "email + LinkedIn research",
+   "who": "Jessica Restall-Pinder (Study Contact) with CC to Walter Maksymowych (PI)",
+   "angle": "10th City's republican-centre status and high-volume intravitreal injection capability positions Minsk as a strategic recruitment hub for a rare-indication ophthalmology trial across Eastern Europe.",
+   "opener": "Hi Jessica and Walter — We're Mediogram, a clinical-execution CRO with dedicated ophthalmology infrastructure in Eastern Europe. We've recently partnered with 10th City Clinical Hospital in Minsk (Belarus's leading eye centre: 50+ eligible ophthalmology patients/month, 5 GCP-certified investigators, on-site pharmacy and ethics). We believe your uveitis trial would benefit from our regional footprint and their investigator depth. Would you be open to a brief call to explore site feasibility? Best, [Name], BD Lead, Mediogram",
    "url": "https://clinicaltrials.gov/study/NCT07018206"
   },
   {
@@ -22976,15 +23010,15 @@
     "Dry Eye Disease"
    ],
    "posted": "2025-04-24",
-   "summary": "",
+   "summary": "10th City Clinical Hospital is a republican eye centre in Minsk with ~50 eligible dry eye patients monthly, GCP-certified investigators, and full infrastructure (pharmacy, imaging, ethics approval) to execute Phase III ophthalmology trials efficiently in Eastern Europe.",
    "email": "",
    "phone": "",
    "contact_name": "",
    "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
+   "channel": "LinkedIn + direct email to Zhaoke clinical operations",
+   "who": "Clinical Operations Manager or Regional Clinical Development Lead at Zhaoke Guangzhou",
+   "angle": "Zhaoke's CsA-PG gel Phase III is not yet recruiting and lacks sites; 10th City brings immediate patient access, regulatory pre-approval, and experienced ophthalmology team in an underexplored CIS market.",
+   "opener": "We're Mediogram, a clinical-execution partner launching ophthalmology capabilities in Eastern Europe. 10th City Clinical Hospital in Minsk—a republican eye centre—has 50+ eligible dry eye patients/month, 5 GCP-certified investigators, and full on-site infrastructure (pharmacy, -80°C storage, ethics committee). We'd like to discuss how we can accelerate CsA-PG Ophthalmic Gel recruitment for your Phase III. — Mediogram BD",
    "url": "https://clinicaltrials.gov/study/NCT06942793"
   },
   {
@@ -23139,6 +23173,37 @@
    "angle": "",
    "opener": "",
    "url": "https://euclinicaltrials.eu/ctis-public/view/2025-523227-22-00"
+  },
+  {
+   "nct": "2026-526688-39-00",
+   "source": "ctis",
+   "field": "ophthalmology",
+   "score": 90,
+   "tier": "HOT",
+   "modality": "drug",
+   "note": "",
+   "region_sites": [],
+   "sponsor": "Minghui Pharmaceutical (Hangzhou) Ltd.",
+   "title": "A Phase III, Randomized, Double-Masked, Placebo-Controlled Study to Evaluate the Efficacy of MHB018A Injection Treatment in Subjects with Active Moderate-to-Severe Thyroid Eye Disease",
+   "status": "CTIS status 2",
+   "phase": "PHASE3",
+   "countries": [
+    "Germany"
+   ],
+   "conditions": [
+    "Active moderate-to-severe thyroid eye disease"
+   ],
+   "posted": "2026-11-25",
+   "summary": "",
+   "email": "",
+   "phone": "",
+   "contact_name": "",
+   "pi": "",
+   "channel": "",
+   "who": "",
+   "angle": "",
+   "opener": "",
+   "url": "https://euclinicaltrials.eu/ctis-public/view/2026-526688-39-00"
   },
   {
    "nct": "NCT07915076",
@@ -29321,6 +29386,37 @@
    "url": "https://clinicaltrials.gov/study/NCT07082855"
   },
   {
+   "nct": "2026-526901-13-00",
+   "source": "ctis",
+   "field": "ophthalmology",
+   "score": 60,
+   "tier": "WATCH",
+   "modality": "drug",
+   "note": "",
+   "region_sites": [],
+   "sponsor": "Oslo Universitetssykehus HF",
+   "title": "Comparison of Faricimab 6.0 mg and Aflibercept 8.0 mg in Neovascular Age-Related Macular Degeneration: A Randomised Equivalence Trial",
+   "status": "CTIS status 2",
+   "phase": "PHASE4",
+   "countries": [
+    "Norway"
+   ],
+   "conditions": [
+    "Neovascular Age-Related Macular Degeneration"
+   ],
+   "posted": "2026-11-25",
+   "summary": "",
+   "email": "",
+   "phone": "",
+   "contact_name": "",
+   "pi": "",
+   "channel": "",
+   "who": "",
+   "angle": "",
+   "opener": "",
+   "url": "https://euclinicaltrials.eu/ctis-public/view/2026-526901-13-00"
+  },
+  {
    "nct": "2024-512879-13-00",
    "source": "ctis",
    "field": "ophthalmology",
@@ -29475,6 +29571,47 @@
    "url": "https://euclinicaltrials.eu/ctis-public/view/2024-512945-18-00"
   },
   {
+   "nct": "2024-515022-88-00",
+   "source": "ctis",
+   "field": "ophthalmology",
+   "score": 60,
+   "tier": "WATCH",
+   "modality": "drug",
+   "note": "",
+   "region_sites": [
+    "Poland"
+   ],
+   "sponsor": "Annexon Inc.",
+   "title": "A Phase 3, Multicenter, Randomized, Parallel-Group, Double-Masked, 2-Arm, Sham Controlled Study of the Efficacy, Safety, and Tolerability of ANX007 Administered by Intravitreal Injection in Participants with  Dry Age-Related Macular Degeneration with Geographic Atrophy",
+   "status": "CTIS status 5",
+   "phase": "PHASE3",
+   "countries": [
+    "Austria",
+    "Czechia",
+    "France",
+    "Germany",
+    "Hungary",
+    "Italy",
+    "Netherlands",
+    "Poland",
+    "Spain"
+   ],
+   "conditions": [
+    "Dry Age-Related Macular Degeneration (AMD) with geographic atrophy (GA)"
+   ],
+   "posted": "2025-02-10",
+   "summary": "",
+   "email": "",
+   "phone": "",
+   "contact_name": "",
+   "pi": "",
+   "channel": "",
+   "who": "",
+   "angle": "",
+   "opener": "",
+   "url": "https://euclinicaltrials.eu/ctis-public/view/2024-515022-88-00"
+  },
+  {
    "nct": "2025-521349-25-00",
    "source": "ctis",
    "field": "ophthalmology",
@@ -29515,47 +29652,6 @@
    "angle": "",
    "opener": "",
    "url": "https://euclinicaltrials.eu/ctis-public/view/2025-521349-25-00"
-  },
-  {
-   "nct": "2024-515022-88-00",
-   "source": "ctis",
-   "field": "ophthalmology",
-   "score": 60,
-   "tier": "WATCH",
-   "modality": "drug",
-   "note": "",
-   "region_sites": [
-    "Poland"
-   ],
-   "sponsor": "Annexon Inc.",
-   "title": "A Phase 3, Multicenter, Randomized, Parallel-Group, Double-Masked, 2-Arm, Sham Controlled Study of the Efficacy, Safety, and Tolerability of ANX007 Administered by Intravitreal Injection in Participants with  Dry Age-Related Macular Degeneration with Geographic Atrophy",
-   "status": "CTIS status 5",
-   "phase": "PHASE3",
-   "countries": [
-    "Austria",
-    "Czechia",
-    "France",
-    "Germany",
-    "Hungary",
-    "Italy",
-    "Netherlands",
-    "Poland",
-    "Spain"
-   ],
-   "conditions": [
-    "Dry Age-Related Macular Degeneration (AMD) with geographic atrophy (GA)"
-   ],
-   "posted": "2025-02-10",
-   "summary": "",
-   "email": "",
-   "phone": "",
-   "contact_name": "",
-   "pi": "",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
-   "url": "https://euclinicaltrials.eu/ctis-public/view/2024-515022-88-00"
   },
   {
    "nct": "2023-509547-27-00",
@@ -30669,38 +30765,6 @@
    "angle": "",
    "opener": "",
    "url": "https://clinicaltrials.gov/study/NCT03011541"
-  },
-  {
-   "nct": "NCT07589270",
-   "source": "ctgov",
-   "field": "ophthalmology",
-   "score": 55,
-   "tier": "WATCH",
-   "modality": "device",
-   "note": "",
-   "region_sites": [],
-   "sponsor": "The New York Eye Surgery Center",
-   "title": "Direct Selective Laser Trabeculoplasty (DSLT) for Patients With Glaucoma or Ocular Hypertension Previously Treated With SLT",
-   "status": "NOT_YET_RECRUITING",
-   "phase": "NA",
-   "countries": [
-    "United States"
-   ],
-   "conditions": [
-    "Ocular Hypertension Glaucoma",
-    "POAG"
-   ],
-   "posted": "2026-05-15",
-   "summary": "",
-   "email": "krystinafeliciano23@gmail.com",
-   "phone": "718-519-1000",
-   "contact_name": "Krystina Tavarez Feliciano, B.A",
-   "pi": "Nathan Radcliffe, M.D. (New York Eye Surgery Center)",
-   "channel": "",
-   "who": "",
-   "angle": "",
-   "opener": "",
-   "url": "https://clinicaltrials.gov/study/NCT07589270"
   },
   {
    "nct": "NCT07228793",
